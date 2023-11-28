@@ -1,0 +1,953 @@
+id,value,date,club,age
+320897,50 tys. EUR,16 sty 2018,Wisla Krakow,18
+320897,50 tys. EUR,3 lip 2018,Wisla Krakow,19
+320897,50 tys. EUR,25 sty 2019,Wisla Krakow,19
+320897,50 tys. EUR,28 lut 2020,Zaglebie Sosnowiec,20
+320897,75 tys. EUR,27 sie 2020,Zaglebie Sosnowiec,21
+320897,75 tys. EUR,14 maj 2021,Omonia Nikozja,22
+320897,75 tys. EUR,11 sty 2022,Omonia Nikozja,22
+320897,75 tys. EUR,20 cze 2022,Omonia Nikozja,23
+320897,-,4 paz 2022,Ermis Aradippou,23
+340871,50 tys. EUR,24 mar 2015,Nieznany,17
+340871,50 tys. EUR,30 cze 2015,Nieznany,17
+340871,-,17 sty 2016,Nieznany,18
+453143,50 tys. EUR,3 lip 2018,Wisla Krakow,19
+453143,50 tys. EUR,25 sty 2019,Wisla Krakow,19
+453143,-,11 wrz 2021,Bez klubu,22
+495419,50 tys. EUR,3 lip 2018,Nieznany,17
+495419,-,11 wrz 2021,Wieczysta Krakow,20
+384838,50 tys. EUR,21 sty 2017,Wisla Krakow U19,18
+384838,-,25 sty 2018,Wisla Krakow II,19
+495237,300 tys. EUR,29 cze 2017,Nieznany,17
+495237,50 tys. EUR,3 lip 2018,Wisla Krakow,18
+495237,100 tys. EUR,25 sty 2019,Wisla Krakow,19
+495237,100 tys. EUR,18 sie 2020,Wisla Krakow,20
+495237,400 tys. EUR,15 sty 2021,Wisla Krakow,21
+495237,"1,00 mln EUR",21 maj 2021,Wisla Krakow,21
+495237,700 tys. EUR,15 paz 2021,Wisla Krakow,21
+495237,700 tys. EUR,31 gru 2021,Wisla Krakow,21
+495237,500 tys. EUR,7 kwi 2022,Wisla Krakow,22
+495237,300 tys. EUR,14 cze 2022,Wisla Krakow,22
+495237,200 tys. EUR,18 lis 2022,Wisla Krakow,22
+495237,100 tys. EUR,5 kwi 2023,Wisla Krakow,23
+495237,50 tys. EUR,16 cze 2023,Wisla Krakow,23
+384837,50 tys. EUR,21 sty 2017,Nieznany,18
+384837,-,10 wrz 2021,Orzel Ryczow,23
+427824,50 tys. EUR,5 lip 2017,Wisla Krakow,17
+427824,50 tys. EUR,16 sty 2018,Wisla Krakow,18
+427824,50 tys. EUR,3 lip 2018,Wisla Krakow,18
+427824,50 tys. EUR,25 sty 2019,Wisla Krakow,19
+427824,50 tys. EUR,21 lut 2019,GKS Tychy,19
+427824,50 tys. EUR,18 lip 2019,GKS Tychy,19
+427824,-,7 wrz 2021,Garbarnia Krakow,21
+495243,50 tys. EUR,16 sty 2018,Wisla Krakow,17
+495243,50 tys. EUR,3 lip 2018,Miedz Legnica,18
+495243,-,16 wrz 2021,Luban Maniowy,21
+297226,50 tys. EUR,21 sty 2017,Wisla Krakow,18
+297226,-,7 wrz 2021,Garbarnia Krakow,23
+453141,50 tys. EUR,18 sie 2020,Jagiellonia Bialystok,20
+453141,100 tys. EUR,19 sty 2021,Jagiellonia Bialystok,21
+453141,100 tys. EUR,24 lut 2021,Puszcza Niepolomice,21
+453141,125 tys. EUR,30 cze 2021,Jagiellonia Bialystok,21
+453141,100 tys. EUR,31 gru 2021,Stal Mielec,21
+453141,50 tys. EUR,14 cze 2022,Hutnik Krakow,22
+453141,25 tys. EUR,18 lis 2022,Motor Lublin,22
+453141,-,7 mar 2023,Wisla Sandomierz,23
+452671,50 tys. EUR,21 sty 2017,Wisla Krakow,18
+452671,250 tys. EUR,29 cze 2017,Wisla Krakow,18
+452671,50 tys. EUR,5 lip 2017,Wisla Krakow,18
+452671,50 tys. EUR,25 sty 2018,GKS Katowice,19
+452671,50 tys. EUR,3 lip 2018,GKS Katowice,19
+452671,50 tys. EUR,25 sty 2019,Wisla Krakow,20
+452671,125 tys. EUR,28 lut 2020,Zaglebie Sosnowiec,21
+452671,150 tys. EUR,27 sie 2020,Zaglebie Sosnowiec,21
+452671,100 tys. EUR,24 lut 2021,Zaglebie Sosnowiec,22
+452671,75 tys. EUR,30 cze 2021,Zaglebie Sosnowiec,22
+452671,-,7 wrz 2021,Garbarnia Krakow,22
+459367,50 tys. EUR,3 lip 2018,Wisla Krakow,19
+459367,-,11 wrz 2021,Dalin Myslenice,22
+id,value,date,club,age
+320897,50 tys. EUR,16 sty 2018,Wisla Krakow,18
+320897,50 tys. EUR,3 lip 2018,Wisla Krakow,19
+320897,50 tys. EUR,25 sty 2019,Wisla Krakow,19
+320897,50 tys. EUR,28 lut 2020,Zaglebie Sosnowiec,20
+320897,75 tys. EUR,27 sie 2020,Zaglebie Sosnowiec,21
+320897,75 tys. EUR,14 maj 2021,Omonia Nikozja,22
+320897,75 tys. EUR,11 sty 2022,Omonia Nikozja,22
+320897,75 tys. EUR,20 cze 2022,Omonia Nikozja,23
+320897,-,4 paz 2022,Ermis Aradippou,23
+340871,50 tys. EUR,24 mar 2015,Nieznany,17
+340871,50 tys. EUR,30 cze 2015,Nieznany,17
+340871,-,17 sty 2016,Nieznany,18
+453143,50 tys. EUR,3 lip 2018,Wisla Krakow,19
+453143,50 tys. EUR,25 sty 2019,Wisla Krakow,19
+453143,-,11 wrz 2021,Bez klubu,22
+495419,50 tys. EUR,3 lip 2018,Nieznany,17
+495419,-,11 wrz 2021,Wieczysta Krakow,20
+384838,50 tys. EUR,21 sty 2017,Wisla Krakow U19,18
+384838,-,25 sty 2018,Wisla Krakow II,19
+495237,300 tys. EUR,29 cze 2017,Nieznany,17
+495237,50 tys. EUR,3 lip 2018,Wisla Krakow,18
+495237,100 tys. EUR,25 sty 2019,Wisla Krakow,19
+495237,100 tys. EUR,18 sie 2020,Wisla Krakow,20
+495237,400 tys. EUR,15 sty 2021,Wisla Krakow,21
+495237,"1,00 mln EUR",21 maj 2021,Wisla Krakow,21
+495237,700 tys. EUR,15 paz 2021,Wisla Krakow,21
+495237,700 tys. EUR,31 gru 2021,Wisla Krakow,21
+495237,500 tys. EUR,7 kwi 2022,Wisla Krakow,22
+495237,300 tys. EUR,14 cze 2022,Wisla Krakow,22
+495237,200 tys. EUR,18 lis 2022,Wisla Krakow,22
+495237,100 tys. EUR,5 kwi 2023,Wisla Krakow,23
+495237,50 tys. EUR,16 cze 2023,Wisla Krakow,23
+384837,50 tys. EUR,21 sty 2017,Nieznany,18
+384837,-,10 wrz 2021,Orzel Ryczow,23
+427824,50 tys. EUR,5 lip 2017,Wisla Krakow,17
+427824,50 tys. EUR,16 sty 2018,Wisla Krakow,18
+427824,50 tys. EUR,3 lip 2018,Wisla Krakow,18
+427824,50 tys. EUR,25 sty 2019,Wisla Krakow,19
+427824,50 tys. EUR,21 lut 2019,GKS Tychy,19
+427824,50 tys. EUR,18 lip 2019,GKS Tychy,19
+427824,-,7 wrz 2021,Garbarnia Krakow,21
+495243,50 tys. EUR,16 sty 2018,Wisla Krakow,17
+495243,50 tys. EUR,3 lip 2018,Miedz Legnica,18
+495243,-,16 wrz 2021,Luban Maniowy,21
+297226,50 tys. EUR,21 sty 2017,Wisla Krakow,18
+297226,-,7 wrz 2021,Garbarnia Krakow,23
+453141,50 tys. EUR,18 sie 2020,Jagiellonia Bialystok,20
+453141,100 tys. EUR,19 sty 2021,Jagiellonia Bialystok,21
+453141,100 tys. EUR,24 lut 2021,Puszcza Niepolomice,21
+453141,125 tys. EUR,30 cze 2021,Jagiellonia Bialystok,21
+453141,100 tys. EUR,31 gru 2021,Stal Mielec,21
+453141,50 tys. EUR,14 cze 2022,Hutnik Krakow,22
+453141,25 tys. EUR,18 lis 2022,Motor Lublin,22
+453141,-,7 mar 2023,Wisla Sandomierz,23
+452671,50 tys. EUR,21 sty 2017,Wisla Krakow,18
+452671,250 tys. EUR,29 cze 2017,Wisla Krakow,18
+452671,50 tys. EUR,5 lip 2017,Wisla Krakow,18
+452671,50 tys. EUR,25 sty 2018,GKS Katowice,19
+452671,50 tys. EUR,3 lip 2018,GKS Katowice,19
+452671,50 tys. EUR,25 sty 2019,Wisla Krakow,20
+452671,125 tys. EUR,28 lut 2020,Zaglebie Sosnowiec,21
+452671,150 tys. EUR,27 sie 2020,Zaglebie Sosnowiec,21
+452671,100 tys. EUR,24 lut 2021,Zaglebie Sosnowiec,22
+452671,75 tys. EUR,30 cze 2021,Zaglebie Sosnowiec,22
+452671,-,7 wrz 2021,Garbarnia Krakow,22
+459367,50 tys. EUR,3 lip 2018,Wisla Krakow,19
+459367,-,11 wrz 2021,Dalin Myslenice,22
+id,value,date,club,age
+id,value,date,club,age
+320897,50 tys. EUR,16 sty 2018,Wisla Krakow,18
+320897,50 tys. EUR,3 lip 2018,Wisla Krakow,19
+320897,50 tys. EUR,25 sty 2019,Wisla Krakow,19
+320897,50 tys. EUR,28 lut 2020,Zaglebie Sosnowiec,20
+320897,75 tys. EUR,27 sie 2020,Zaglebie Sosnowiec,21
+320897,75 tys. EUR,14 maj 2021,Omonia Nikozja,22
+320897,75 tys. EUR,11 sty 2022,Omonia Nikozja,22
+320897,75 tys. EUR,20 cze 2022,Omonia Nikozja,23
+320897,-,4 paz 2022,Ermis Aradippou,23
+340871,50 tys. EUR,24 mar 2015,Nieznany,17
+340871,50 tys. EUR,30 cze 2015,Nieznany,17
+340871,-,17 sty 2016,Nieznany,18
+453143,50 tys. EUR,3 lip 2018,Wisla Krakow,19
+453143,50 tys. EUR,25 sty 2019,Wisla Krakow,19
+453143,-,11 wrz 2021,Bez klubu,22
+495419,50 tys. EUR,3 lip 2018,Nieznany,17
+495419,-,11 wrz 2021,Wieczysta Krakow,20
+384838,50 tys. EUR,21 sty 2017,Wisla Krakow U19,18
+384838,-,25 sty 2018,Wisla Krakow II,19
+495237,300 tys. EUR,29 cze 2017,Nieznany,17
+495237,50 tys. EUR,3 lip 2018,Wisla Krakow,18
+495237,100 tys. EUR,25 sty 2019,Wisla Krakow,19
+495237,100 tys. EUR,18 sie 2020,Wisla Krakow,20
+495237,400 tys. EUR,15 sty 2021,Wisla Krakow,21
+495237,"1,00 mln EUR",21 maj 2021,Wisla Krakow,21
+495237,700 tys. EUR,15 paz 2021,Wisla Krakow,21
+495237,700 tys. EUR,31 gru 2021,Wisla Krakow,21
+495237,500 tys. EUR,7 kwi 2022,Wisla Krakow,22
+495237,300 tys. EUR,14 cze 2022,Wisla Krakow,22
+495237,200 tys. EUR,18 lis 2022,Wisla Krakow,22
+495237,100 tys. EUR,5 kwi 2023,Wisla Krakow,23
+495237,50 tys. EUR,16 cze 2023,Wisla Krakow,23
+384837,50 tys. EUR,21 sty 2017,Nieznany,18
+384837,-,10 wrz 2021,Orzel Ryczow,23
+427824,50 tys. EUR,5 lip 2017,Wisla Krakow,17
+427824,50 tys. EUR,16 sty 2018,Wisla Krakow,18
+427824,50 tys. EUR,3 lip 2018,Wisla Krakow,18
+427824,50 tys. EUR,25 sty 2019,Wisla Krakow,19
+427824,50 tys. EUR,21 lut 2019,GKS Tychy,19
+427824,50 tys. EUR,18 lip 2019,GKS Tychy,19
+427824,-,7 wrz 2021,Garbarnia Krakow,21
+495243,50 tys. EUR,16 sty 2018,Wisla Krakow,17
+495243,50 tys. EUR,3 lip 2018,Miedz Legnica,18
+495243,-,16 wrz 2021,Luban Maniowy,21
+297226,50 tys. EUR,21 sty 2017,Wisla Krakow,18
+297226,-,7 wrz 2021,Garbarnia Krakow,23
+453141,50 tys. EUR,18 sie 2020,Jagiellonia Bialystok,20
+453141,100 tys. EUR,19 sty 2021,Jagiellonia Bialystok,21
+453141,100 tys. EUR,24 lut 2021,Puszcza Niepolomice,21
+453141,125 tys. EUR,30 cze 2021,Jagiellonia Bialystok,21
+453141,100 tys. EUR,31 gru 2021,Stal Mielec,21
+453141,50 tys. EUR,14 cze 2022,Hutnik Krakow,22
+453141,25 tys. EUR,18 lis 2022,Motor Lublin,22
+453141,-,7 mar 2023,Wisla Sandomierz,23
+452671,50 tys. EUR,21 sty 2017,Wisla Krakow,18
+452671,250 tys. EUR,29 cze 2017,Wisla Krakow,18
+452671,50 tys. EUR,5 lip 2017,Wisla Krakow,18
+452671,50 tys. EUR,25 sty 2018,GKS Katowice,19
+452671,50 tys. EUR,3 lip 2018,GKS Katowice,19
+452671,50 tys. EUR,25 sty 2019,Wisla Krakow,20
+452671,125 tys. EUR,28 lut 2020,Zaglebie Sosnowiec,21
+452671,150 tys. EUR,27 sie 2020,Zaglebie Sosnowiec,21
+452671,100 tys. EUR,24 lut 2021,Zaglebie Sosnowiec,22
+452671,75 tys. EUR,30 cze 2021,Zaglebie Sosnowiec,22
+452671,-,7 wrz 2021,Garbarnia Krakow,22
+459367,50 tys. EUR,3 lip 2018,Wisla Krakow,19
+459367,-,11 wrz 2021,Dalin Myslenice,22
+345452,50 tys. EUR,24 lip 2016,Lech Poznan,16
+345452,50 tys. EUR,21 sty 2017,Lech Poznan,16
+345452,50 tys. EUR,5 lip 2017,Lech Poznan,17
+345452,50 tys. EUR,16 sty 2018,Lech Poznan,17
+345452,50 tys. EUR,3 lip 2018,Lech Poznan,18
+345452,-,1 sty 2019,Elana Torun,18
+345452,100 tys. EUR,30 cze 2021,Lech Poznan,21
+345452,100 tys. EUR,31 gru 2021,Lech Poznan,21
+345452,100 tys. EUR,14 cze 2022,Stal Mielec,22
+345452,300 tys. EUR,29 wrz 2022,Stal Mielec,22
+345452,600 tys. EUR,16 lis 2022,Stal Mielec,22
+345452,900 tys. EUR,9 cze 2023,Stal Mielec,23
+366212,25 tys. EUR,18 sty 2021,Hibernian FC,22
+366212,25 tys. EUR,28 cze 2021,Hibernian FC,23
+366212,50 tys. EUR,31 gru 2021,Hibernian FC,23
+366212,150 tys. EUR,27 cze 2022,Hibernian FC,24
+366212,150 tys. EUR,13 gru 2022,Hibernian FC,24
+366212,150 tys. EUR,26 cze 2023,Hibernian FC,25
+463117,50 tys. EUR,3 lip 2018,Lech Poznan,18
+463117,50 tys. EUR,25 sty 2019,Lech Poznan,18
+463117,25 tys. EUR,21 lut 2019,Puszcza Niepolomice,19
+463117,100 tys. EUR,29 cze 2019,Puszcza Niepolomice,19
+463117,50 tys. EUR,24 lut 2021,Arka Gdynia,21
+463117,50 tys. EUR,30 cze 2021,Olimpia Elblag,21
+463117,-,11 wrz 2021,Bez klubu,21
+407101,25 tys. EUR,28 lut 2020,Wigry Suwalki,19
+407101,50 tys. EUR,27 sie 2020,Getafe CF B,19
+407101,50 tys. EUR,8 paz 2020,Getafe CF B,19
+407101,50 tys. EUR,8 sty 2021,Getafe CF B,19
+407101,-,7 wrz 2021,Chojniczanka Chojnice,20
+289208,75 tys. EUR,6 lip 2022,Ruch Chorzow,24
+289208,150 tys. EUR,18 lis 2022,Ruch Chorzow,24
+289208,100 tys. EUR,16 cze 2023,Ruch Chorzow,25
+289208,-,13 lip 2023,Skra Czestochowa,25
+345454,50 tys. EUR,29 cze 2019,Lech Poznan,18
+345454,200 tys. EUR,15 sty 2020,Lech Poznan,19
+345454,200 tys. EUR,24 lut 2021,Stomil Olsztyn,20
+345454,200 tys. EUR,30 cze 2021,Lech Poznan,20
+345454,100 tys. EUR,31 gru 2021,Lech Poznan,21
+345454,300 tys. EUR,29 wrz 2022,Jagiellonia Bialystok,22
+345454,200 tys. EUR,16 lis 2022,Jagiellonia Bialystok,22
+345454,450 tys. EUR,30 mar 2023,Jagiellonia Bialystok,22
+345454,450 tys. EUR,9 cze 2023,Jagiellonia Bialystok,22
+384524,50 tys. EUR,16 sty 2018,Zaglebie Lubin,18
+384524,100 tys. EUR,3 lip 2018,Odra Opole,19
+384524,100 tys. EUR,21 lut 2019,Odra Opole,19
+384524,500 tys. EUR,29 cze 2019,Odra Opole,20
+384524,200 tys. EUR,15 sty 2020,Wisla Krakow,20
+384524,300 tys. EUR,15 sty 2021,Wisla Krakow,21
+384524,300 tys. EUR,21 maj 2021,Wisla Krakow,22
+384524,400 tys. EUR,15 paz 2021,Wisla Krakow,22
+384524,400 tys. EUR,31 gru 2021,Wisla Krakow,22
+384524,300 tys. EUR,7 kwi 2022,Wisla Krakow,23
+384524,200 tys. EUR,14 cze 2022,Wisla Krakow,23
+384524,250 tys. EUR,29 wrz 2022,Widzew Lodz,23
+384524,400 tys. EUR,16 lis 2022,Widzew Lodz,23
+384524,650 tys. EUR,30 mar 2023,Widzew Lodz,24
+384524,550 tys. EUR,9 cze 2023,Widzew Lodz,24
+407089,50 tys. EUR,25 sty 2019,Lech Poznan,17
+407089,200 tys. EUR,29 cze 2019,Lech Poznan,18
+407089,150 tys. EUR,26 cze 2020,Roma M19,19
+407089,150 tys. EUR,24 lut 2021,Miedz Legnica,19
+407089,150 tys. EUR,30 cze 2021,Miedz Legnica,20
+407089,100 tys. EUR,31 gru 2021,Warta Poznan,20
+407089,100 tys. EUR,14 cze 2022,Warta Poznan,21
+407089,100 tys. EUR,16 lis 2022,Warta Poznan,21
+407089,150 tys. EUR,9 cze 2023,Warta Poznan,22
+407089,400 tys. EUR,6 paz 2023,Warta Poznan,22
+407096,50 tys. EUR,30 cze 2021,Miedz Legnica,20
+407096,-,7 wrz 2021,Miedz Legnica,20
+345451,300 tys. EUR,29 cze 2017,Lech Poznan II,17
+345451,50 tys. EUR,25 sty 2019,Wisla Krakow,18
+345451,150 tys. EUR,15 sty 2020,Bruk-Bet Termalica Nieciecza,19
+345451,250 tys. EUR,24 lut 2021,Bruk-Bet Termalica Nieciecza,20
+345451,350 tys. EUR,30 cze 2021,Bruk-Bet Termalica Nieciecza,21
+345451,250 tys. EUR,31 gru 2021,Bruk-Bet Termalica Nieciecza,21
+345451,150 tys. EUR,14 cze 2022,Bruk-Bet Termalica Nieciecza,22
+345451,200 tys. EUR,18 lis 2022,Bruk-Bet Termalica Nieciecza,22
+345451,100 tys. EUR,5 kwi 2023,Bruk-Bet Termalica Nieciecza,22
+345451,100 tys. EUR,16 cze 2023,Bruk-Bet Termalica Nieciecza,23
+361575,100 tys. EUR,30 cze 2015,Lech Poznan U19,16
+361575,-,20 sie 2016,Lech Poznan U19,17
+361575,100 tys. EUR,21 sty 2017,Lech Poznan,17
+361575,100 tys. EUR,5 lip 2017,Lech Poznan,18
+361575,100 tys. EUR,25 sty 2018,Zaglebie Sosnowiec,19
+361575,175 tys. EUR,3 lip 2018,Zaglebie Sosnowiec,19
+361575,175 tys. EUR,21 lut 2019,GKS Katowice,20
+361575,600 tys. EUR,29 cze 2019,GKS Katowice,20
+361575,"1,00 mln EUR",15 sty 2020,Lech Poznan,20
+361575,900 tys. EUR,8 kwi 2020,Lech Poznan,21
+361575,"1,50 mln EUR",18 sie 2020,Lech Poznan,21
+361575,"4,00 mln EUR",15 sty 2021,Lech Poznan,21
+361575,"3,50 mln EUR",31 maj 2021,Lech Poznan,22
+361575,"2,50 mln EUR",22 gru 2021,1.FC Union Berlin,22
+361575,"2,50 mln EUR",31 mar 2022,Trabzonspor,23
+361575,"2,30 mln EUR",1 cze 2022,Trabzonspor,23
+361575,"1,50 mln EUR",21 wrz 2022,1.FC Union Berlin,23
+361575,"1,50 mln EUR",9 lis 2022,1.FC Union Berlin,23
+361575,"1,20 mln EUR",22 maj 2023,Panathinaikos Ateny,24
+361575,"1,50 mln EUR",20 paz 2023,1.FC Kaiserslautern,24
+374420,75 tys. EUR,24 lut 2021,GKS Jastrzebie,20
+374420,100 tys. EUR,30 cze 2021,GKS Jastrzebie,21
+374420,100 tys. EUR,14 sty 2022,GKS Jastrzebie,21
+374420,-,13 lip 2022,Bez klubu,22
+384522,75 tys. EUR,24 lut 2021,Stomil Olsztyn,23
+384522,100 tys. EUR,30 cze 2021,Stomil Olsztyn,23
+384522,-,13 paz 2021,Bez klubu,23
+456223,25 tys. EUR,18 lip 2019,GKS Jastrzebie,19
+456223,150 tys. EUR,28 lut 2020,GKS Jastrzebie,19
+456223,150 tys. EUR,24 lut 2021,GKS Tychy,20
+456223,200 tys. EUR,30 cze 2021,Lech Poznan II,21
+456223,-,7 wrz 2021,Lech Poznan II,21
+384461,75 tys. EUR,5 lip 2017,Lech Poznan,18
+384461,75 tys. EUR,16 sty 2018,Lech Poznan,18
+384461,75 tys. EUR,3 lip 2018,Odra Opole,19
+384461,125 tys. EUR,21 lut 2019,Odra Opole,19
+384461,650 tys. EUR,29 cze 2019,Odra Opole,20
+384461,550 tys. EUR,15 sty 2020,Lech Poznan,20
+384461,500 tys. EUR,8 kwi 2020,Lech Poznan,21
+384461,"3,00 mln EUR",18 sie 2020,Lech Poznan,21
+384461,"10,00 mln EUR",19 sty 2021,Brighton & Hove Albion,21
+384461,"10,00 mln EUR",18 mar 2021,Brighton & Hove Albion,21
+384461,"10,00 mln EUR",31 maj 2021,Brighton & Hove Albion,22
+384461,"10,00 mln EUR",23 gru 2021,Brighton & Hove Albion,22
+384461,"12,00 mln EUR",29 mar 2022,Brighton & Hove Albion,22
+384461,"12,00 mln EUR",15 cze 2022,Brighton & Hove Albion,23
+384461,"12,00 mln EUR",3 lis 2022,Brighton & Hove Albion,23
+384461,"10,00 mln EUR",20 cze 2023,Brighton & Hove Albion,24
+384523,75 tys. EUR,21 lut 2019,GKS Jastrzebie,21
+384523,200 tys. EUR,29 cze 2019,GKS Jastrzebie,21
+384523,150 tys. EUR,15 sty 2020,Chojniczanka Chojnice,21
+384523,125 tys. EUR,27 sie 2020,Stomil Olsztyn,22
+384523,150 tys. EUR,24 lut 2021,Stomil Olsztyn,23
+384523,125 tys. EUR,30 cze 2021,Stomil Olsztyn,23
+384523,100 tys. EUR,14 sty 2022,Stomil Olsztyn,23
+384523,-,2 lip 2022,Stomil Olsztyn,24
+456452,100 tys. EUR,18 sie 2020,Lech Poznan,20
+456452,-,7 wrz 2021,Lech Poznan,21
+358873,50 tys. EUR,16 sty 2018,Lech Poznan,17
+358873,200 tys. EUR,3 lip 2018,Lech Poznan,18
+358873,750 tys. EUR,25 sty 2019,Lech Poznan,18
+358873,"1,25 mln EUR",29 cze 2019,Lech Poznan,19
+358873,500 tys. EUR,15 sty 2020,Piast Gliwice,19
+358873,450 tys. EUR,8 kwi 2020,Piast Gliwice,20
+358873,300 tys. EUR,15 sty 2021,Lech Poznan,20
+358873,300 tys. EUR,21 maj 2021,Lech Poznan,21
+358873,200 tys. EUR,15 paz 2021,Lech Poznan,21
+358873,100 tys. EUR,31 gru 2021,Lech Poznan,21
+358873,100 tys. EUR,14 cze 2022,Lech Poznan,22
+358873,50 tys. EUR,18 lis 2022,Zaglebie Sosnowiec,22
+358873,50 tys. EUR,16 cze 2023,Zaglebie Sosnowiec,23
+412483,150 tys. EUR,24 lut 2021,Miedz Legnica,20
+412483,150 tys. EUR,30 cze 2021,Miedz Legnica,21
+412483,125 tys. EUR,14 sty 2022,Chrobry Glogow,21
+412483,150 tys. EUR,24 cze 2022,Chrobry Glogow,22
+412483,150 tys. EUR,18 lis 2022,Chrobry Glogow,22
+412483,75 tys. EUR,5 kwi 2023,Chrobry Glogow,23
+412483,50 tys. EUR,16 cze 2023,Chrobry Glogow,23
+346547,50 tys. EUR,29 cze 2019,GKS Jastrzebie,20
+346547,100 tys. EUR,28 lut 2020,GKS Jastrzebie,21
+346547,125 tys. EUR,27 sie 2020,GKS Jastrzebie,21
+346547,125 tys. EUR,24 lut 2021,GKS Jastrzebie,22
+346547,150 tys. EUR,30 cze 2021,GKS Jastrzebie,22
+346547,175 tys. EUR,14 sty 2022,Resovia Rzeszow,22
+346547,225 tys. EUR,24 cze 2022,Resovia Rzeszow,23
+346547,300 tys. EUR,18 lis 2022,Resovia Rzeszow,23
+346547,400 tys. EUR,16 cze 2023,Resovia Rzeszow,24
+358868,50 tys. EUR,10 cze 2018,Warta Poznan,18
+358868,-,13 paz 2021,Bez klubu,21
+393565,75 tys. EUR,21 lut 2019,Bruk-Bet Termalica Nieciecza,19
+393565,750 tys. EUR,29 cze 2019,Bruk-Bet Termalica Nieciecza,19
+393565,500 tys. EUR,15 sty 2020,Lech Poznan,19
+393565,450 tys. EUR,8 kwi 2020,Lech Poznan,20
+393565,350 tys. EUR,18 sie 2020,Lech Poznan,20
+393565,800 tys. EUR,15 sty 2021,Lech Poznan,20
+393565,"1,00 mln EUR",21 maj 2021,Lech Poznan,21
+393565,"1,20 mln EUR",31 gru 2021,Lech Poznan,21
+393565,"1,20 mln EUR",14 cze 2022,Lech Poznan,22
+393565,"2,50 mln EUR",29 wrz 2022,Lech Poznan,22
+393565,"3,50 mln EUR",14 lis 2022,Lech Poznan,22
+393565,"6,00 mln EUR",30 mar 2023,Lech Poznan,23
+393565,"6,00 mln EUR",9 cze 2023,Lech Poznan,23
+407099,25 tys. EUR,14 sty 2022,GKS Katowice,20
+407099,-,6 lip 2022,Garbarnia Krakow,21
+320733,50 tys. EUR,25 sty 2019,Zaglebie Lubin II,19
+320733,100 tys. EUR,18 sie 2020,Zaglebie Lubin,21
+320733,400 tys. EUR,19 sty 2021,Zaglebie Lubin,21
+320733,700 tys. EUR,21 maj 2021,Zaglebie Lubin,21
+320733,850 tys. EUR,15 paz 2021,Zaglebie Lubin,22
+320733,700 tys. EUR,31 gru 2021,Zaglebie Lubin,22
+320733,800 tys. EUR,14 cze 2022,Zaglebie Lubin,23
+320733,600 tys. EUR,16 lis 2022,Zaglebie Lubin,23
+320733,750 tys. EUR,30 mar 2023,Zaglebie Lubin,23
+320733,900 tys. EUR,9 cze 2023,Zaglebie Lubin,24
+346549,100 tys. EUR,30 cze 2015,Lech Poznan II,16
+346549,100 tys. EUR,5 lip 2017,Lech Poznan,18
+346549,150 tys. EUR,13 lip 2018,Zemplin Michalovce,19
+346549,150 tys. EUR,25 sty 2019,Lech Poznan,19
+346549,150 tys. EUR,25 cze 2019,MSK Zilina B,20
+346549,200 tys. EUR,15 gru 2019,MSK Zilina B,20
+346549,200 tys. EUR,10 lip 2020,MSK Zilina,21
+346549,600 tys. EUR,28 gru 2020,MSK Zilina,21
+346549,900 tys. EUR,26 cze 2021,MSK Zilina,22
+346549,800 tys. EUR,28 gru 2021,Aarhus GF,22
+346549,500 tys. EUR,20 cze 2022,Aarhus GF,23
+346549,400 tys. EUR,16 lis 2022,Zaglebie Lubin,23
+346549,550 tys. EUR,9 cze 2023,Zaglebie Lubin,24
+388953,100 tys. EUR,21 sty 2017,Lech Poznan,18
+388953,100 tys. EUR,5 lip 2017,Lech Poznan,19
+388953,150 tys. EUR,16 sie 2017,Podbeskidzie Bielsko-Biala,19
+388953,225 tys. EUR,25 sty 2018,Podbeskidzie Bielsko-Biala,19
+388953,225 tys. EUR,3 lip 2018,Lech Poznan,20
+388953,200 tys. EUR,25 sty 2019,Lech Poznan,20
+388953,300 tys. EUR,29 cze 2019,Piast Gliwice,21
+388953,350 tys. EUR,15 sty 2020,Lech Poznan,21
+388953,325 tys. EUR,8 kwi 2020,Lech Poznan,21
+388953,350 tys. EUR,27 sie 2020,Stal Mielec,22
+388953,250 tys. EUR,24 lut 2021,Widzew Lodz,22
+388953,200 tys. EUR,30 cze 2021,Widzew Lodz,23
+388953,100 tys. EUR,14 sty 2022,Widzew Lodz,23
+388953,100 tys. EUR,3 cze 2022,CS Mioveni,24
+388953,75 tys. EUR,21 gru 2022,ACSM Politehnica Iasi,24
+388953,-,4 mar 2023,Polonia Warszawa,24
+388953,50 tys. EUR,19 lip 2023,Polonia Warszawa,25
+433601,100 tys. EUR,21 lut 2019,Warta Poznan,18
+433601,350 tys. EUR,29 cze 2019,Warta Poznan,19
+433601,325 tys. EUR,8 kwi 2020,Lech Poznan II,19
+433601,250 tys. EUR,15 sty 2021,Lech Poznan,20
+433601,250 tys. EUR,21 maj 2021,Lech Poznan,20
+433601,200 tys. EUR,31 gru 2021,Wisla Krakow,21
+433601,150 tys. EUR,24 cze 2022,Stomil Olsztyn,21
+433601,150 tys. EUR,18 lis 2022,Gornik Leczna,22
+433601,100 tys. EUR,5 kwi 2023,Gornik Leczna,22
+433601,50 tys. EUR,16 cze 2023,Gornik Leczna,22
+433601,-,26 lip 2023,KKS 1925 Kalisz,23
+386964,50 tys. EUR,2 mar 2017,Gornik Zabrze,17
+386964,-,11 wrz 2021,Ruch Radzionkow,22
+463233,50 tys. EUR,3 lip 2018,Gornik Zabrze,19
+463233,100 tys. EUR,25 sty 2019,Gornik Zabrze,19
+463233,200 tys. EUR,29 cze 2019,Gornik Zabrze,20
+463233,200 tys. EUR,28 lut 2020,Sandecja Nowy Sacz,20
+463233,250 tys. EUR,27 sie 2020,Warta Poznan,21
+463233,250 tys. EUR,19 sty 2021,Warta Poznan,21
+463233,250 tys. EUR,21 maj 2021,Warta Poznan,22
+463233,250 tys. EUR,31 gru 2021,Gornik Zabrze,22
+463233,400 tys. EUR,7 kwi 2022,Gornik Zabrze,22
+463233,300 tys. EUR,14 cze 2022,Gornik Zabrze,23
+463233,500 tys. EUR,16 lis 2022,Gornik Zabrze,23
+463233,700 tys. EUR,9 cze 2023,Gornik Zabrze,24
+463233,550 tys. EUR,6 paz 2023,Gornik Zabrze,24
+469658,50 tys. EUR,25 sty 2019,Gornik Zabrze,18
+469658,100 tys. EUR,29 cze 2019,Gornik Zabrze,18
+469658,50 tys. EUR,18 sie 2020,Gornik Polkowice,19
+469658,75 tys. EUR,30 cze 2021,Gornik Polkowice,20
+469658,75 tys. EUR,14 sty 2022,Gornik Polkowice,21
+469658,100 tys. EUR,24 cze 2022,Gornik Polkowice,21
+469658,-,1 sie 2022,Siarka Tarnobrzeg,21
+469658,25 tys. EUR,6 paz 2023,Widzew Lodz,23
+320695,25 tys. EUR,6 lip 2022,Chojniczanka Chojnice,23
+320695,-,1 sie 2022,Warta Gorzow Wielkopolski,23
+386965,50 tys. EUR,3 lip 2018,Chrobry Glogow,20
+386965,-,20 sty 2019,Chrobry Glogow,20
+386965,50 tys. EUR,21 lut 2019,Chrobry Glogow,21
+386965,-,3 wrz 2021,Blekitni Stargard,23
+386967,50 tys. EUR,3 lip 2018,Gornik Zabrze,19
+386967,100 tys. EUR,25 sty 2019,Gornik Zabrze,20
+386967,350 tys. EUR,29 cze 2019,Gornik Zabrze,20
+386967,500 tys. EUR,15 sty 2020,Gornik Zabrze,21
+386967,450 tys. EUR,8 kwi 2020,Gornik Zabrze,21
+386967,600 tys. EUR,18 sie 2020,Gornik Zabrze,22
+386967,700 tys. EUR,19 sty 2021,Gornik Zabrze,22
+386967,"1,50 mln EUR",21 maj 2021,Gornik Zabrze,22
+386967,"1,50 mln EUR",31 gru 2021,Gornik Zabrze,23
+386967,"1,50 mln EUR",14 cze 2022,Gornik Zabrze,23
+386967,"1,50 mln EUR",22 gru 2022,Venezia FC,24
+386967,"3,00 mln EUR",21 mar 2023,Spezia Calcio,24
+386967,"3,00 mln EUR",15 cze 2023,Spezia Calcio,24
+386967,"2,20 mln EUR",11 paz 2023,Spezia Calcio,25
+505728,50 tys. EUR,25 sty 2019,Gornik Zabrze,19
+505728,100 tys. EUR,29 cze 2019,Gornik Zabrze,20
+505728,50 tys. EUR,15 sty 2020,Gornik Zabrze,20
+505728,50 tys. EUR,19 sty 2021,Gornik Zabrze,21
+505728,-,7 wrz 2021,Gornik Zabrze,22
+454273,50 tys. EUR,25 sty 2019,Gornik Zabrze,19
+454273,100 tys. EUR,29 cze 2019,Gornik Zabrze,19
+454273,50 tys. EUR,15 sty 2020,Gornik Zabrze,20
+454273,50 tys. EUR,19 sty 2021,Gornik Zabrze II,21
+454273,-,11 wrz 2021,Drama Zbroslawice,22
+479708,125 tys. EUR,15 sty 2020,Gornik Zabrze,19
+479708,200 tys. EUR,18 sie 2020,Gornik Zabrze,20
+479708,250 tys. EUR,19 sty 2021,Gornik Zabrze,20
+479708,400 tys. EUR,21 maj 2021,Gornik Zabrze,21
+479708,350 tys. EUR,26 gru 2021,FK Pohronie,21
+479708,250 tys. EUR,14 cze 2022,Chojniczanka Chojnice,22
+479708,100 tys. EUR,29 wrz 2022,Gornik Zabrze II,22
+479708,-,24 gru 2022,Gornik Zabrze II,22
+386956,50 tys. EUR,2 mar 2017,Gornik Zabrze,18
+386956,50 tys. EUR,5 lip 2017,Gornik Zabrze,18
+386956,50 tys. EUR,16 sty 2018,Gornik Zabrze,18
+386956,75 tys. EUR,3 lip 2018,Gornik Zabrze,19
+386956,75 tys. EUR,25 sty 2019,Gornik Zabrze,19
+386956,150 tys. EUR,29 cze 2019,Bruk-Bet Termalica Nieciecza,20
+386956,100 tys. EUR,15 sty 2020,Gornik Zabrze,20
+386956,150 tys. EUR,18 sie 2020,Gornik Zabrze,21
+386956,150 tys. EUR,19 sty 2021,Gornik Zabrze,21
+386956,250 tys. EUR,21 maj 2021,Gornik Zabrze,22
+386956,150 tys. EUR,31 gru 2021,Gornik Zabrze,22
+386956,300 tys. EUR,14 cze 2022,Gornik Zabrze,23
+386956,250 tys. EUR,29 wrz 2022,Radomiak Radom,23
+386956,250 tys. EUR,16 lis 2022,Radomiak Radom,23
+386956,100 tys. EUR,16 cze 2023,Sandecja Nowy Sacz,24
+498106,100 tys. EUR,3 lip 2018,Gornik Zabrze,18
+498106,150 tys. EUR,25 sty 2019,Gornik Zabrze,18
+498106,300 tys. EUR,29 cze 2019,Gornik Zabrze,19
+498106,200 tys. EUR,28 lut 2020,GKS Jastrzebie,20
+498106,75 tys. EUR,27 sie 2020,Wigry Suwalki,20
+498106,-,7 wrz 2021,Gornik Zabrze II,21
+387002,50 tys. EUR,16 sie 2017,Odra Opole,18
+387002,75 tys. EUR,25 sty 2018,Odra Opole,19
+387002,75 tys. EUR,3 lip 2018,Gornik Zabrze II,19
+387002,50 tys. EUR,21 lut 2019,Chojniczanka Chojnice,20
+387002,50 tys. EUR,18 lip 2019,Chojniczanka Chojnice,20
+387002,-,7 wrz 2021,Ruch Chorzow,22
+387002,25 tys. EUR,16 cze 2023,Polonia Bytom,24
+387002,-,13 lip 2023,Polonia Bytom,24
+463234,50 tys. EUR,16 sty 2018,Gornik Zabrze,17
+463234,50 tys. EUR,3 lip 2018,Gornik Zabrze,18
+463234,50 tys. EUR,25 sty 2019,Bez klubu,18
+463234,50 tys. EUR,29 cze 2019,Bez klubu,19
+463234,50 tys. EUR,15 sty 2020,Bez klubu,19
+463234,-,11 wrz 2021,Bez klubu,21
+386945,75 tys. EUR,16 sty 2018,Gornik Zabrze,19
+386945,75 tys. EUR,3 lip 2018,Gornik Zabrze II,20
+386945,75 tys. EUR,25 sty 2019,Gornik Zabrze II,20
+386945,25 tys. EUR,15 paz 2021,Gornik Zabrze,23
+386945,-,21 gru 2021,Gornik Zabrze,23
+461877,-,25 sty 2018,GKS Jastrzebie,18
+461877,50 tys. EUR,10 cze 2018,GKS Jastrzebie,19
+461877,-,11 wrz 2021,Nieznany,22
+499552,25 tys. EUR,15 paz 2021,Slask Wroclaw,21
+499552,25 tys. EUR,31 gru 2021,Slask Wroclaw,21
+499552,25 tys. EUR,24 cze 2022,Gornik Polkowice,22
+499552,-,30 sie 2022,Slask Wroclaw,22
+400871,50 tys. EUR,25 sty 2019,Arka Gdynia,19
+400871,100 tys. EUR,29 cze 2019,Arka Gdynia,19
+400871,75 tys. EUR,15 sty 2020,Arka Gdynia,20
+400871,75 tys. EUR,24 lut 2021,Arka Gdynia,21
+400871,150 tys. EUR,30 cze 2021,Arka Gdynia,21
+400871,125 tys. EUR,14 sty 2022,Arka Gdynia,22
+400871,250 tys. EUR,24 cze 2022,Arka Gdynia,22
+400871,350 tys. EUR,18 lis 2022,Arka Gdynia,22
+400871,300 tys. EUR,16 cze 2023,Arka Gdynia,23
+403345,50 tys. EUR,16 sty 2018,Arka Gdynia,18
+403345,50 tys. EUR,3 lip 2018,Arka Gdynia,18
+403345,-,1 sty 2019,Arka Gdynia,19
+454813,50 tys. EUR,18 sie 2020,Arka Gdynia,21
+454813,50 tys. EUR,24 lut 2021,Arka Gdynia,22
+454813,50 tys. EUR,30 cze 2021,Arka Gdynia,22
+454813,-,1 lis 2021,Polonia Chodziez,22
+401867,50 tys. EUR,25 sty 2018,Chrobry Glogow,18
+401867,50 tys. EUR,3 lip 2018,Chrobry Glogow,19
+401867,-,20 sty 2019,Chrobry Glogow,19
+401867,75 tys. EUR,21 lut 2019,Chrobry Glogow,19
+401867,150 tys. EUR,29 cze 2019,Chrobry Glogow,20
+401867,-,7 wrz 2021,GKS Przodkowo,22
+455679,-,1 sty 2019,Olimpia Elblag,19
+455679,25 tys. EUR,18 lip 2019,Olimpia Grudziadz,20
+455679,-,3 wrz 2021,Baltyk Gdynia,22
+297231,50 tys. EUR,16 sie 2017,Olimpia Grudziadz,19
+297231,-,1 sty 2019,Radomiak Radom,20
+297231,100 tys. EUR,15 sty 2020,Arka Gdynia,22
+297231,150 tys. EUR,18 sie 2020,Arka Gdynia,22
+297231,150 tys. EUR,24 lut 2021,Arka Gdynia,23
+297231,125 tys. EUR,30 cze 2021,Arka Gdynia,23
+297231,25 tys. EUR,5 sty 2022,Sandecja Nowy Sacz,23
+297231,100 tys. EUR,7 kwi 2022,Stal Mielec,24
+297231,-,25 cze 2022,Stal Mielec,24
+297231,50 tys. EUR,19 lip 2023,Znicz Pruszkow,25
+454818,50 tys. EUR,3 lip 2018,Arka Gdynia,18
+454818,-,1 sty 2019,Gryf Wejherowo,19
+512294,300 tys. EUR,25 sty 2019,Arka Gdynia,18
+512294,400 tys. EUR,29 cze 2019,Arka Gdynia,18
+512294,400 tys. EUR,15 sty 2020,Arka Gdynia,19
+512294,350 tys. EUR,8 kwi 2020,Arka Gdynia,19
+512294,450 tys. EUR,18 sie 2020,Arka Gdynia,19
+512294,350 tys. EUR,24 lut 2021,Arka Gdynia,20
+512294,350 tys. EUR,30 cze 2021,Arka Gdynia,20
+512294,450 tys. EUR,15 paz 2021,Wisla Krakow,20
+512294,450 tys. EUR,31 gru 2021,Wisla Krakow,20
+512294,250 tys. EUR,14 cze 2022,Wisla Krakow,21
+512294,200 tys. EUR,18 lis 2022,Wisla Krakow,21
+512294,150 tys. EUR,16 cze 2023,Wisla Krakow,22
+384385,-,25 sty 2018,Gryf Wejherowo,19
+384385,25 tys. EUR,27 sie 2020,Olimpia Grudziadz,21
+384385,-,7 wrz 2021,GKS Belchatow,22
+458717,50 tys. EUR,16 sty 2018,Arka Gdynia,17
+458717,50 tys. EUR,3 lip 2018,Arka Gdynia,17
+458717,50 tys. EUR,25 sty 2019,Arka Gdynia,18
+458717,100 tys. EUR,29 cze 2019,Arka Gdynia,18
+458717,75 tys. EUR,15 sty 2020,Arka Gdynia,19
+458717,-,1 sie 2020,Koniec kariery,20
+384157,50 tys. EUR,28 mar 2016,Korona Kielce,17
+384157,50 tys. EUR,24 lip 2016,Korona Kielce,18
+384157,50 tys. EUR,21 sty 2017,Korona Kielce,18
+384157,50 tys. EUR,5 lip 2017,Korona Kielce,19
+384157,50 tys. EUR,28 lut 2020,GKS Jastrzebie,21
+384157,25 tys. EUR,24 lut 2021,GKS Belchatow,22
+384157,25 tys. EUR,30 cze 2021,GKS Belchatow,23
+384157,-,7 wrz 2021,GKS Belchatow,23
+385876,50 tys. EUR,3 lip 2018,Korona Kielce II,19
+385876,50 tys. EUR,25 sty 2019,Korona Kielce II,19
+385876,-,11 wrz 2021,Spartakus Daleszyce,22
+433602,50 tys. EUR,25 sty 2019,Korona Kielce,18
+433602,100 tys. EUR,29 cze 2019,Korona Kielce,19
+433602,150 tys. EUR,15 sty 2020,Korona Kielce,19
+433602,100 tys. EUR,15 paz 2021,Gornik Zabrze,21
+433602,100 tys. EUR,31 gru 2021,Gornik Zabrze,21
+433602,100 tys. EUR,14 cze 2022,Gornik Zabrze,22
+433602,50 tys. EUR,16 lis 2022,Gornik Zabrze,22
+433602,25 tys. EUR,9 cze 2023,Gornik Zabrze,23
+433602,-,13 lip 2023,Sandecja Nowy Sacz,23
+514323,50 tys. EUR,25 sty 2019,Korona Kielce,18
+514323,50 tys. EUR,29 cze 2019,Korona Kielce,19
+514323,50 tys. EUR,15 sty 2020,Korona Kielce,19
+514323,50 tys. EUR,24 lut 2021,Korona Kielce,20
+514323,75 tys. EUR,30 cze 2021,Korona Kielce,21
+514323,25 tys. EUR,5 sty 2022,Korona Kielce,21
+514323,50 tys. EUR,14 sty 2022,Korona Kielce,21
+514323,25 tys. EUR,14 cze 2022,Ruch Chorzow,22
+514323,25 tys. EUR,18 lis 2022,Ruch Chorzow,22
+514323,25 tys. EUR,16 cze 2023,Ruch Chorzow,23
+514323,-,2 sie 2023,Podhale Nowy Targ,23
+386243,50 tys. EUR,10 sty 2016,Zenit Chmielnik,17
+386243,50 tys. EUR,28 mar 2016,Zenit Chmielnik,17
+386243,-,10 wrz 2021,Nieznany,23
+438479,50 tys. EUR,3 lip 2018,Korona Kielce,19
+438479,50 tys. EUR,25 sty 2019,Korona Kielce,19
+438479,50 tys. EUR,29 cze 2019,Korona Kielce,20
+438479,100 tys. EUR,15 sty 2020,Korona Kielce,20
+438479,-,7 wrz 2021,Wigry Suwalki,22
+387187,-,25 sty 2018,Olimpia Elblag,19
+387187,25 tys. EUR,28 lut 2020,Wigry Suwalki,21
+387187,-,7 wrz 2021,Stal Stalowa Wola,23
+453156,50 tys. EUR,3 lip 2018,Korona Kielce,18
+453156,50 tys. EUR,25 sty 2019,Korona Kielce,18
+453156,50 tys. EUR,29 cze 2019,Korona Kielce,18
+453156,75 tys. EUR,18 sie 2020,Korona Kielce,20
+453156,150 tys. EUR,21 maj 2021,Rakow Czestochowa,20
+453156,500 tys. EUR,15 paz 2021,Rakow Czestochowa,21
+453156,500 tys. EUR,31 gru 2021,Rakow Czestochowa,21
+453156,500 tys. EUR,14 cze 2022,Rakow Czestochowa,21
+453156,400 tys. EUR,16 lis 2022,Rakow Czestochowa,22
+453156,500 tys. EUR,9 cze 2023,Rakow Czestochowa,22
+453156,400 tys. EUR,6 paz 2023,Ruch Chorzow,23
+385860,50 tys. EUR,5 lip 2017,Bez klubu,18
+385860,50 tys. EUR,16 sty 2018,Bez klubu,19
+385860,-,10 wrz 2021,Bez klubu,23
+386233,50 tys. EUR,5 lip 2017,Korona Kielce,19
+386233,50 tys. EUR,16 sty 2018,Korona Kielce,19
+386233,-,10 wrz 2021,Alit Ozarow,23
+514327,50 tys. EUR,25 sty 2019,Korona Kielce,18
+514327,50 tys. EUR,29 cze 2019,Korona Kielce,19
+514327,50 tys. EUR,15 sty 2020,Korona Kielce,19
+514327,50 tys. EUR,24 lut 2021,Korona Kielce,20
+514327,50 tys. EUR,30 cze 2021,Korona Kielce,21
+514327,-,7 wrz 2021,LKS Lagow,21
+384487,50 tys. EUR,5 lip 2017,Cracovia,19
+384487,-,1 lip 2019,Koniec kariery,21
+426300,50 tys. EUR,10 wrz 2019,CD Izarra,20
+426300,50 tys. EUR,11 lut 2020,CD Izarra,20
+426300,-,11 wrz 2021,Sokol Kocmyrzow,22
+389396,50 tys. EUR,25 sty 2019,Cracovia,19
+389396,-,7 wrz 2021,Unia Tarnow,22
+496699,50 tys. EUR,15 sty 2020,Cracovia,19
+496699,-,16 wrz 2021,Tramwaj Krakow,21
+345443,50 tys. EUR,29 cze 2019,Cracovia,19
+345443,-,7 wrz 2021,Stal Stalowa Wola,21
+396690,50 tys. EUR,24 lip 2016,Cracovia,17
+396690,50 tys. EUR,21 sty 2017,Cracovia,17
+396690,75 tys. EUR,5 lip 2017,Cracovia,18
+396690,75 tys. EUR,16 sty 2018,Cracovia,18
+396690,75 tys. EUR,3 lip 2018,Cracovia,19
+396690,75 tys. EUR,21 lut 2019,Sandecja Nowy Sacz,19
+396690,350 tys. EUR,29 cze 2019,Sandecja Nowy Sacz,20
+396690,350 tys. EUR,28 lut 2020,Sandecja Nowy Sacz,20
+396690,325 tys. EUR,8 kwi 2020,Sandecja Nowy Sacz,21
+396690,250 tys. EUR,19 sty 2021,Cracovia,21
+396690,200 tys. EUR,21 maj 2021,Cracovia,22
+396690,100 tys. EUR,31 gru 2021,Cracovia,22
+396690,100 tys. EUR,14 cze 2022,Cracovia,23
+396690,50 tys. EUR,29 wrz 2022,Cracovia,23
+396690,50 tys. EUR,16 lis 2022,Cracovia,23
+396690,50 tys. EUR,16 cze 2023,Resovia Rzeszow,24
+345444,50 tys. EUR,3 lip 2018,Cracovia II,18
+345444,-,7 wrz 2021,Cracovia II,21
+345444,25 tys. EUR,14 cze 2022,Cracovia,22
+345444,25 tys. EUR,16 lis 2022,Cracovia,22
+345444,25 tys. EUR,9 cze 2023,Cracovia,23
+426297,50 tys. EUR,16 sty 2018,Cracovia,18
+426297,50 tys. EUR,3 lip 2018,Cracovia,18
+426297,50 tys. EUR,25 sty 2019,Cracovia,19
+426297,50 tys. EUR,29 cze 2019,Cracovia,19
+426297,200 tys. EUR,15 sty 2020,Cracovia,20
+426297,500 tys. EUR,18 sie 2020,Cracovia,20
+426297,400 tys. EUR,19 sty 2021,Cracovia,21
+426297,250 tys. EUR,21 maj 2021,Cracovia,21
+426297,350 tys. EUR,31 gru 2021,Cracovia,22
+426297,350 tys. EUR,14 cze 2022,Cracovia,22
+426297,150 tys. EUR,18 lis 2022,Sandecja Nowy Sacz,23
+426297,50 tys. EUR,16 cze 2023,Sandecja Nowy Sacz,23
+453410,50 tys. EUR,15 sty 2020,Cracovia,20
+453410,50 tys. EUR,19 sty 2021,Cracovia,21
+453410,50 tys. EUR,21 maj 2021,Cracovia,22
+453410,-,7 wrz 2021,Cracovia,22
+384477,-,20 sty 2019,Garbarnia Krakow,20
+384477,50 tys. EUR,21 lut 2019,Garbarnia Krakow,20
+384477,150 tys. EUR,29 cze 2019,Garbarnia Krakow,21
+384477,-,10 wrz 2021,Karpaty Krosno,23
+393568,50 tys. EUR,29 cze 2019,Cracovia,19
+393568,50 tys. EUR,15 sty 2020,Cracovia,19
+393568,150 tys. EUR,19 sty 2021,Cracovia,20
+393568,250 tys. EUR,21 maj 2021,Cracovia,21
+393568,200 tys. EUR,31 gru 2021,Cracovia,21
+393568,150 tys. EUR,14 cze 2022,Cracovia,22
+393568,50 tys. EUR,29 wrz 2022,Cracovia,22
+393568,25 tys. EUR,16 lis 2022,Cracovia,22
+393568,25 tys. EUR,9 cze 2023,Cracovia,23
+384482,50 tys. EUR,5 lip 2017,Cracovia,18
+384482,150 tys. EUR,16 sty 2018,Cracovia,19
+384482,200 tys. EUR,3 lip 2018,Cracovia,19
+384482,200 tys. EUR,25 sty 2019,Cracovia,20
+384482,200 tys. EUR,21 lut 2019,Chrobry Glogow,20
+384482,650 tys. EUR,29 cze 2019,Chrobry Glogow,20
+384482,650 tys. EUR,15 sty 2020,Cracovia,21
+384482,575 tys. EUR,8 kwi 2020,Cracovia,21
+384482,650 tys. EUR,18 sie 2020,Cracovia,21
+384482,650 tys. EUR,19 sty 2021,Cracovia,22
+384482,450 tys. EUR,21 maj 2021,Cracovia,22
+384482,450 tys. EUR,31 gru 2021,Cracovia,23
+384482,600 tys. EUR,7 kwi 2022,Cracovia,23
+384482,900 tys. EUR,14 cze 2022,Cracovia,23
+384482,750 tys. EUR,16 lis 2022,Cracovia,24
+384482,600 tys. EUR,30 mar 2023,Cracovia,24
+384482,500 tys. EUR,9 cze 2023,Cracovia,24
+287235,100 tys. EUR,28 mar 2016,Cracovia,18
+287235,100 tys. EUR,24 lip 2016,Cracovia,18
+287235,150 tys. EUR,21 sty 2017,Cracovia,18
+287235,100 tys. EUR,5 lip 2017,Cracovia,19
+287235,100 tys. EUR,25 sty 2018,Olimpia Grudziadz,19
+287235,100 tys. EUR,3 lip 2018,Cracovia,20
+287235,100 tys. EUR,21 lut 2019,GKS Tychy,20
+287235,250 tys. EUR,29 cze 2019,GKS Tychy,21
+287235,150 tys. EUR,15 sty 2020,Wisla Plock,21
+287235,250 tys. EUR,18 sie 2020,Wisla Plock,22
+287235,250 tys. EUR,19 sty 2021,Wisla Plock,22
+287235,250 tys. EUR,21 maj 2021,Wisla Plock,23
+287235,250 tys. EUR,14 sty 2022,Arka Gdynia,23
+287235,400 tys. EUR,24 cze 2022,Arka Gdynia,24
+287235,350 tys. EUR,18 lis 2022,Arka Gdynia,24
+287235,300 tys. EUR,16 cze 2023,Arka Gdynia,25
+384438,50 tys. EUR,16 sty 2018,Cracovia,18
+384438,100 tys. EUR,3 lip 2018,Cracovia,19
+384438,150 tys. EUR,25 sty 2019,Cracovia,19
+384438,250 tys. EUR,29 cze 2019,Cracovia,20
+384438,200 tys. EUR,15 sty 2020,Cracovia,20
+384438,200 tys. EUR,19 sty 2021,Cracovia,21
+384438,200 tys. EUR,21 maj 2021,Cracovia,22
+384438,175 tys. EUR,14 sty 2022,Resovia Rzeszow,22
+384438,125 tys. EUR,24 cze 2022,Resovia Rzeszow,23
+384438,-,8 sie 2022,Cracovia,23
+384438,50 tys. EUR,16 lis 2022,Cracovia,23
+384438,50 tys. EUR,9 cze 2023,Cracovia,24
+474243,50 tys. EUR,18 sie 2020,Rakow Czestochowa,19
+474243,50 tys. EUR,24 lut 2021,GKS Belchatow,20
+474243,75 tys. EUR,30 cze 2021,Rakow Czestochowa,20
+474243,-,1 lip 2022,Rakow Czestochowa II,21
+508770,25 tys. EUR,18 lip 2019,Puszcza Niepolomice,19
+508770,-,11 wrz 2021,Pcimianka Pcim,21
+408955,50 tys. EUR,10 sty 2016,Zaglebie Lubin II,16
+408955,-,3 wrz 2021,Ursus Warszawa,22
+453924,50 tys. EUR,28 lut 2020,Chrobry Glogow,21
+453924,-,7 wrz 2021,Carina Gubin,22
+345449,50 tys. EUR,25 sty 2019,Zaglebie Lubin,18
+345449,50 tys. EUR,29 cze 2019,Zaglebie Lubin,19
+345449,100 tys. EUR,15 sty 2020,Rakow Czestochowa,19
+345449,350 tys. EUR,18 sie 2020,Rakow Czestochowa,20
+345449,"2,50 mln EUR",19 sty 2021,Rakow Czestochowa,20
+345449,"5,00 mln EUR",31 maj 2021,Rakow Czestochowa,20
+345449,"5,00 mln EUR",16 gru 2021,Red Bull Salzburg,21
+345449,"5,00 mln EUR",27 maj 2022,Red Bull Salzburg,21
+345449,"5,00 mln EUR",10 lis 2022,Red Bull Salzburg,22
+345449,"5,00 mln EUR",9 cze 2023,KAA Gent,22
+345449,"4,00 mln EUR",11 wrz 2023,Red Bull Salzburg,23
+372696,50 tys. EUR,18 sie 2020,Zaglebie Lubin,20
+372696,100 tys. EUR,19 sty 2021,Zaglebie Lubin,20
+372696,400 tys. EUR,21 maj 2021,Zaglebie Lubin,21
+372696,650 tys. EUR,15 paz 2021,Zaglebie Lubin,21
+372696,650 tys. EUR,31 gru 2021,Zaglebie Lubin,21
+372696,550 tys. EUR,7 kwi 2022,Zaglebie Lubin,22
+372696,400 tys. EUR,14 cze 2022,Zaglebie Lubin,22
+372696,300 tys. EUR,29 wrz 2022,Stal Mielec,22
+372696,600 tys. EUR,16 lis 2022,Stal Mielec,22
+372696,500 tys. EUR,30 mar 2023,Stal Mielec,23
+372696,600 tys. EUR,9 cze 2023,Stal Mielec,23
+372696,500 tys. EUR,6 paz 2023,Zaglebie Lubin,23
+384524,50 tys. EUR,16 sty 2018,Zaglebie Lubin,18
+384524,100 tys. EUR,3 lip 2018,Odra Opole,19
+384524,100 tys. EUR,21 lut 2019,Odra Opole,19
+384524,500 tys. EUR,29 cze 2019,Odra Opole,20
+384524,200 tys. EUR,15 sty 2020,Wisla Krakow,20
+384524,300 tys. EUR,15 sty 2021,Wisla Krakow,21
+384524,300 tys. EUR,21 maj 2021,Wisla Krakow,22
+384524,400 tys. EUR,15 paz 2021,Wisla Krakow,22
+384524,400 tys. EUR,31 gru 2021,Wisla Krakow,22
+384524,300 tys. EUR,7 kwi 2022,Wisla Krakow,23
+384524,200 tys. EUR,14 cze 2022,Wisla Krakow,23
+384524,250 tys. EUR,29 wrz 2022,Widzew Lodz,23
+384524,400 tys. EUR,16 lis 2022,Widzew Lodz,23
+384524,650 tys. EUR,30 mar 2023,Widzew Lodz,24
+384524,550 tys. EUR,9 cze 2023,Widzew Lodz,24
+456012,50 tys. EUR,28 lut 2020,Chrobry Glogow,20
+456012,-,7 wrz 2021,Karkonosze Jelenia Gora,22
+498272,50 tys. EUR,29 cze 2019,Zaglebie Lubin,19
+498272,50 tys. EUR,15 sty 2020,Zaglebie Lubin,19
+498272,50 tys. EUR,19 sty 2021,Zaglebie Lubin,20
+498272,50 tys. EUR,21 maj 2021,Zaglebie Lubin,21
+498272,-,11 wrz 2021,MKP Wolow,21
+353827,50 tys. EUR,14 mar 2015,Zaglebie Lubin,16
+353827,50 tys. EUR,30 cze 2015,Zaglebie Lubin,17
+353827,100 tys. EUR,10 sty 2016,Zaglebie Lubin,17
+353827,100 tys. EUR,28 mar 2016,Zaglebie Lubin,17
+353827,100 tys. EUR,24 lip 2016,Zaglebie Lubin,18
+353827,100 tys. EUR,21 sty 2017,Zaglebie Lubin,18
+353827,75 tys. EUR,5 lip 2017,Zaglebie Lubin,19
+353827,75 tys. EUR,16 sty 2018,Zaglebie Lubin,19
+353827,100 tys. EUR,3 lip 2018,Zaglebie Lubin,20
+353827,100 tys. EUR,21 lut 2019,Chojniczanka Chojnice,20
+353827,200 tys. EUR,29 cze 2019,Chojniczanka Chojnice,21
+353827,150 tys. EUR,15 sty 2020,Zaglebie Lubin,21
+353827,50 tys. EUR,26 sie 2020,Bruk-Bet Termalica Nieciecza,22
+353827,150 tys. EUR,24 lut 2021,Bruk-Bet Termalica Nieciecza,22
+353827,200 tys. EUR,30 cze 2021,Bruk-Bet Termalica Nieciecza,23
+353827,150 tys. EUR,31 gru 2021,Bruk-Bet Termalica Nieciecza,23
+353827,75 tys. EUR,14 cze 2022,Bruk-Bet Termalica Nieciecza,24
+353827,150 tys. EUR,29 wrz 2022,Stal Mielec,24
+353827,250 tys. EUR,16 lis 2022,Stal Mielec,24
+353827,300 tys. EUR,9 cze 2023,Stal Mielec,25
+382429,50 tys. EUR,5 lip 2017,Zaglebie Lubin II,18
+382429,150 tys. EUR,3 lip 2018,Zaglebie Lubin,19
+382429,150 tys. EUR,25 sty 2019,Zaglebie Lubin,19
+382429,750 tys. EUR,29 cze 2019,Zaglebie Lubin,20
+382429,"1,50 mln EUR",15 sty 2020,Zaglebie Lubin,20
+382429,"1,30 mln EUR",8 kwi 2020,Legia Warszawa,21
+382429,"1,50 mln EUR",18 sie 2020,Legia Warszawa,21
+382429,"1,50 mln EUR",19 sty 2021,Legia Warszawa,21
+382429,"2,00 mln EUR",21 maj 2021,Legia Warszawa,22
+382429,"1,50 mln EUR",31 gru 2021,Legia Warszawa,22
+382429,"1,20 mln EUR",7 kwi 2022,Legia Warszawa,23
+382429,"1,00 mln EUR",14 cze 2022,Legia Warszawa,23
+382429,"1,50 mln EUR",16 lis 2022,Legia Warszawa,23
+382429,"4,50 mln EUR",9 cze 2023,Legia Warszawa,24
+382429,"5,50 mln EUR",6 paz 2023,Legia Warszawa,24
+385199,50 tys. EUR,16 sty 2018,Zaglebie Lubin,19
+385199,50 tys. EUR,3 lip 2018,Zaglebie Lubin,19
+385199,150 tys. EUR,25 sty 2019,Zaglebie Lubin,20
+385199,250 tys. EUR,29 cze 2019,Zaglebie Lubin,20
+385199,250 tys. EUR,15 sty 2020,Zaglebie Lubin,21
+385199,150 tys. EUR,18 sie 2020,Zaglebie Lubin,22
+385199,150 tys. EUR,19 sty 2021,Zaglebie Lubin,22
+385199,250 tys. EUR,15 paz 2021,Zaglebie Lubin,23
+385199,250 tys. EUR,31 gru 2021,Zaglebie Lubin,23
+385199,150 tys. EUR,14 cze 2022,Zaglebie Lubin,23
+385199,50 tys. EUR,29 wrz 2022,Zaglebie Lubin,24
+385199,50 tys. EUR,16 lis 2022,Zaglebie Lubin,24
+385199,-,20 cze 2023,Zaglebie Lubin,24
+385207,50 tys. EUR,15 sty 2020,Zaglebie Lubin,21
+385207,-,13 paz 2021,Bez klubu,23
+369194,50 tys. EUR,30 cze 2015,Energetyk ROW Rybnik,16
+369194,-,17 sty 2016,ROW 1964 Rybnik,16
+503857,25 tys. EUR,21 lut 2019,GKS Katowice,18
+503857,25 tys. EUR,30 cze 2021,GKS Katowice,21
+503857,-,11 wrz 2021,Bez klubu,21
+320733,50 tys. EUR,25 sty 2019,Zaglebie Lubin II,19
+320733,100 tys. EUR,18 sie 2020,Zaglebie Lubin,21
+320733,400 tys. EUR,19 sty 2021,Zaglebie Lubin,21
+320733,700 tys. EUR,21 maj 2021,Zaglebie Lubin,21
+320733,850 tys. EUR,15 paz 2021,Zaglebie Lubin,22
+320733,700 tys. EUR,31 gru 2021,Zaglebie Lubin,22
+320733,800 tys. EUR,14 cze 2022,Zaglebie Lubin,23
+320733,600 tys. EUR,16 lis 2022,Zaglebie Lubin,23
+320733,750 tys. EUR,30 mar 2023,Zaglebie Lubin,23
+320733,900 tys. EUR,9 cze 2023,Zaglebie Lubin,24
+385197,50 tys. EUR,25 sty 2019,Zaglebie Sosnowiec,20
+385197,250 tys. EUR,29 cze 2019,Zaglebie Sosnowiec,21
+385197,200 tys. EUR,15 sty 2020,Zaglebie Lubin,21
+385197,150 tys. EUR,27 sie 2020,Zaglebie Sosnowiec,22
+385197,-,7 wrz 2021,Podhale Nowy Targ,23
+342760,-,25 sty 2018,Stal Stalowa Wola,20
+342760,50 tys. EUR,18 lip 2019,Olimpia Grudziadz,21
+342760,50 tys. EUR,28 lut 2020,Olimpia Grudziadz,22
+342760,-,10 wrz 2021,Olimpia Grudziadz,23
+387243,50 tys. EUR,3 lip 2018,Pogon Szczecin,18
+387243,50 tys. EUR,25 sty 2019,Pogon Szczecin,19
+387243,50 tys. EUR,29 cze 2019,Pogon Szczecin,19
+387243,50 tys. EUR,15 sty 2020,Pogon Szczecin,20
+387243,-,11 wrz 2021,Flota Swinoujscie,22
+500293,-,25 sty 2018,GKS Belchatow,17
+500293,25 tys. EUR,21 lut 2019,Chojniczanka Chojnice,18
+500293,25 tys. EUR,18 lip 2019,Bez klubu,19
+500293,-,11 wrz 2021,KS Sulmin,21
+387252,50 tys. EUR,16 sie 2017,Chrobry Glogow,19
+387252,50 tys. EUR,25 sty 2018,Chrobry Glogow,19
+387252,-,3 wrz 2021,Baltyk Koszalin,23
+364695,50 tys. EUR,25 sty 2019,Pogon Szczecin,18
+364695,50 tys. EUR,29 cze 2019,Pogon Szczecin,19
+364695,100 tys. EUR,27 sie 2020,Stomil Olsztyn,20
+364695,100 tys. EUR,19 sty 2021,Pogon Szczecin,20
+364695,100 tys. EUR,30 cze 2021,Pogon Szczecin,21
+364695,100 tys. EUR,14 sty 2022,GKS Katowice,21
+364695,100 tys. EUR,24 cze 2022,GKS Katowice,22
+364695,-,7 sty 2023,Pogon Szczecin II,22
+425763,-,1 sty 2019,Ruch Chorzow,20
+425763,100 tys. EUR,18 sie 2020,Zaglebie Lubin,22
+425763,150 tys. EUR,19 sty 2021,Zaglebie Lubin,23
+425763,250 tys. EUR,21 maj 2021,Zaglebie Lubin,23
+425763,500 tys. EUR,15 paz 2021,Zaglebie Lubin,23
+425763,500 tys. EUR,31 gru 2021,Zaglebie Lubin,23
+425763,400 tys. EUR,7 kwi 2022,Zaglebie Lubin,24
+425763,500 tys. EUR,14 cze 2022,Zaglebie Lubin,24
+425763,400 tys. EUR,29 wrz 2022,Zaglebie Lubin,24
+425763,300 tys. EUR,16 lis 2022,Zaglebie Lubin,24
+425763,250 tys. EUR,9 cze 2023,Zaglebie Lubin,25
+425763,350 tys. EUR,6 paz 2023,Ruch Chorzow,25
+454377,-,1 sty 2019,Blekitni Stargard,19
+454377,50 tys. EUR,15 sty 2020,Jagiellonia Bialystok,20
+454377,100 tys. EUR,19 sty 2021,Stal Mielec,21
+454377,100 tys. EUR,21 maj 2021,Stal Mielec,21
+454377,-,7 wrz 2021,Motor Lublin,21
+454377,75 tys. EUR,6 lip 2022,Chojniczanka Chojnice,22
+454377,50 tys. EUR,18 lis 2022,Chojniczanka Chojnice,23
+454377,-,4 lut 2023,Wisla Pulawy,23
+454377,50 tys. EUR,19 lip 2023,Znicz Pruszkow,23
+372691,50 tys. EUR,3 lip 2018,Pogon Szczecin,18
+372691,50 tys. EUR,25 sty 2019,Pogon Szczecin,18
+372691,100 tys. EUR,24 lut 2021,GKS Tychy,21
+372691,125 tys. EUR,30 cze 2021,GKS Tychy,21
+372691,100 tys. EUR,14 sty 2022,GKS Tychy,21
+372691,-,12 lip 2022,Olimpia Elblag,22
