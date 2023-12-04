@@ -1,4 +1,6 @@
 # This is a sample Python script.
+import os
+
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -40,16 +42,17 @@ def scrape_player(uri):
             position = data.get_text().split("Pozycja:")[1].lstrip().strip()
 
     selected_keys = ['id', 'name', 'place_of_birth', 'brith_date', 'nationality', 'height', 'position']
-    with open('players', "a", newline="") as csv_file:
+    players_file_src = os.path.join('..', '..', 'data', 'transfermarkt', 'players.csv')
+    with open(players_file_src, "a", newline="") as csv_file:
         csv_writer = csv.DictWriter(csv_file, fieldnames=selected_keys)
         selected_data = {
             "id": id,
-            "name": name,
-            "place_of_birth": place_of_birth,
+            "name": unidecode(name),
+            "place_of_birth": unidecode(place_of_birth),
             "brith_date": brith_date,
-            "nationality": nationality,
+            "nationality": unidecode(nationality),
             "height": height,
-            "position": position,
+            "position": unidecode(position),
         }
         print(selected_data)
         csv_writer.writerow(selected_data)
@@ -63,7 +66,8 @@ def transfery(id):
     response = requests.get(url, headers=headers)
     json_result = json.loads(response.content)
     selected_keys = ['id','season','date', 'marketValue', 'fee', 'clubName1', 'clubName2']
-    with open('transfers',"a", newline="") as csv_file:
+    transfer_file_src = os.path.join('..', '..', 'data', 'transfermarkt', 'transfers.csv')
+    with open(transfer_file_src, "a", newline="") as csv_file:
         csv_writer = csv.DictWriter(csv_file, fieldnames=selected_keys)
         for transfer in json_result.get('transfers', {}):
             selected_data = {
@@ -82,7 +86,8 @@ def market_value_scrape(id):
     response = requests.get(url, headers=headers)
     json_result = json.loads(response.content)
     selected_keys = ['id','value','date', 'club', 'age']
-    with open('player_value',"a", newline="") as csv_file:
+    player_value_file_src = os.path.join('..', '..', 'data', 'transfermarkt', 'player_value.csv')
+    with open(player_value_file_src, "a", newline="") as csv_file:
         csv_writer = csv.DictWriter(csv_file, fieldnames=selected_keys)
         for element in json_result.get('list',{}):
             selected_data = {
@@ -116,16 +121,19 @@ def club_players_scrape(uri):
                 scrape_player(player_href)
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
+    transfer_file_src = os.path.join('..', '..', 'data', 'transfermarkt', 'transfers.csv')
+    player_value_file_src = os.path.join('..', '..', 'data', 'transfermarkt', 'player_value.csv')
+    players_file_src = os.path.join('..', '..', 'data', 'transfermarkt', 'players.csv')
     selected_keys = ['id','season','date', 'marketValue', 'fee', 'clubName1', 'clubName2']
-    with open('transfers',"a", newline="") as csv_file:
+    with open(transfer_file_src,"a", newline="") as csv_file:
         csv_writer = csv.DictWriter(csv_file, fieldnames=selected_keys)
         csv_writer.writeheader()
     selected_keys = ['id','value','date', 'club', 'age']
-    with open('player_value',"a", newline="") as csv_file:
+    with open(player_value_file_src,"a", newline="") as csv_file:
         csv_writer = csv.DictWriter(csv_file, fieldnames=selected_keys)
         csv_writer.writeheader()
     selected_keys = ['id', 'name', 'place_of_birth', 'brith_date', 'nationality', 'height', 'position']
-    with open('players',"a", newline="") as csv_file:
+    with open(players_file_src, "a", newline="") as csv_file:
         csv_writer = csv.DictWriter(csv_file, fieldnames=selected_keys)
         csv_writer.writeheader()
     club_scrape()

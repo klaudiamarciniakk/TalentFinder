@@ -1,0 +1,571 @@
+id,name,place_of_birth,brith_date,nationality,height,position
+320897,kacper chorazka,Krakow,18 mar 1999 (24),Polska,"1,89 m",Bramkarz
+385903,kacper polak,,20 cze 1998 (25),Polska,"1,84 m",Bramkarz
+453144,mateusz burylo,Krakow,26 kwi 2000 (23),Polska,"1,81 m",Bramkarz
+340871,maciej pawlik,Brzesko,15 sty 1998 (25),Polska,"1,76 m",Obronca
+384830,michal boniecki,,17 kwi 1998 (25),Polska,,Obronca
+385571,bartosz zak,Krakow,14 mar 1998 (25),Polska,,Obronca
+453142,piotr martuszewski,,24 cze 1999 (24),Polska,,Obronca
+453145,milosz stawowy,,12 mar 1999 (24),Polska,,Obronca
+455672,daniel peterka,Krakow,20 maj 1998 (25),Polska,"1,80 m",Obronca
+453143,piotr swiatko,Krakow,29 maj 1999 (24),Polska,"1,84 m",Srodkowy obronca
+495419,damian korczyk,Krakow,12 lut 2001 (22),Polska,"1,78 m",Lewy obronca
+384838,jakub ptak,Krakow,19 cze 1998 (25),Polska,"1,80 m",Prawy obronca
+495237,patryk plewka,Libiaz,2 sty 2000 (23),Polska,"1,74 m",Defensywny pomocnik
+384837,przemyslaw porebski,Krakow,30 cze 1998 (25),Polska,,Pomocnik
+384834,grzegorz kociolek,Krakow,7 sty 1998 (25),Polska,"1,77 m",Pomocnik
+384840,maciej rogoz,,14 sie 1998 (25),Polska,,Pomocnik
+384847,patryk skrzypniak,,22 gru 1998 (24),Polska,"1,78 m",Pomocnik
+385570,jakub tracz,,1 lut 1998 (25),Polska,"1,86 m",Pomocnik
+393896,przemyslaw zawadzki,,6 sty 1999 (24),Polska,,Pomocnik
+427824,kacper laskos,Gorlice,5 sty 2000 (23),Polska,"1,84 m",Defensywny pomocnik
+453146,marcin jaworski,,15 maj 1999 (24),Polska,,Pomocnik
+453147,norbert stachura,,8 kwi 1999 (24),Polska,,Pomocnik
+495235,karol rak,,1 cze 2000 (23),Polska,,Pomocnik
+495243,blazej skorski,,23 maj 2000 (23),Polska,"1,86 m",Srodkowy pomocnik
+297226,bartlomiej purcha,Jaroslaw,5 maj 1998 (25),Polska,"1,74 m",Ofensywny pomocnik
+453141,mateusz wyjadlowski,Krakow,4 sty 2000 (23),Polska,"1,77 m",Ofensywny pomocnik
+452671,wojciech slomka,Brzesko,4 lis 1998 (25),Polska,"1,81 m",Prawy napastnik
+453140,michal banik,,12 wrz 1999 (24),Polska,"1,78 m",Prawy napastnik
+384835,filip kowalski,,11 kwi 1998 (25),Polska,,Napastnik
+384849,ernest swietek,,10 lut 1998 (25),Polska,,Napastnik
+384855,krzysztof wydra,,17 kwi 1998 (25),Polska,,Napastnik
+453148,kamil radlowski,,15 sty 2000 (23),Polska,,Napastnik
+459367,adrian grzybek,Myslenice,26 mar 1999 (24),Polska,"1,71 m",Napastnik
+345452,bartosz mrozek,Katowice,23 lut 2000 (23),Polska,"1,91 m",Bramkarz
+407078,lukasz benedykcinski,Radziejow,18 lut 2001 (22),Polska,"1,93 m",Bramkarz
+366212,maciej dabrowski,Poznan,9 cze 1998 (25),Polska,"1,97 m",Bramkarz
+431412,wojciech olesinski,Poznan,26 lut 1999 (24),Polska,,Bramkarz
+463117,bartosz przybysz,Szamotuly,14 lut 2000 (23),Polska,"1,90 m",Bramkarz
+468584,kacper wojakiewicz,,19 maj 2001 (22),Polska,,Bramkarz
+472082,oliwier szybiak,,1 pa� 2001 (22),Polska,,Bramkarz
+289163,jan andrzejewski,Gniezno,8 kwi 1998 (25),Polska,"1,72 m",Obronca
+407101,oskar nowak,Poznan,2 lut 2001 (22),Polska,"1,75 m",Obronca
+384520,marcin mackowiak,Poznan,25 lut 1999 (24),Polska,"1,80 m",Srodkowy obronca
+289208,filip nawrocki,Jarocin,28 mar 1998 (25),Polska,"1,87 m",Srodkowy obronca
+345454,mateusz skrzypczak,Poznan,22 sie 2000 (23),Polska,"1,86 m",Srodkowy obronca
+384524,serafin szota,Namyslow,4 mar 1999 (24),Polska,"1,87 m",Srodkowy obronca
+407089,wiktor plesnierowicz,Kalisz,29 mar 2001 (22),Polska,"1,86 m",Srodkowy obronca
+407096,kacper andrzejewski,Konin,12 mar 2001 (22),Polska,"1,85 m",Srodkowy obronca
+345451,marcin grabowski,Pila,21 maj 2000 (23),Polska,"1,77 m",Lewy obronca
+456453,aleksander theus,Poznan,1 mar 1999 (24),Polska,"1,79 m",Prawy obronca
+472083,michal zimmer,Gniezno,8 mar 2000 (23),Polska,"1,75 m",Prawy obronca
+374420,szymon zalewski,Jastrzebie-Zdroj,17 kwi 2000 (23),Polska,"1,80 m",Prawy obronca
+384522,damian sierant,Poznan,12 sty 1998 (25),Polska,"1,80 m",Prawy obronca
+470560,jakub gwit,Znin,11 lut 1998 (25),Polska,,Prawy obronca
+289171,kacper wojdak,Turek,17 wrz 1998 (25),Polska,"1,80 m",Pomocnik
+384518,kacper friska,,20 cze 1998 (25),Polska,"1,83 m",Pomocnik
+456223,lukasz norkowski,Rosko,26 mar 2000 (23),Polska,"1,76 m",Defensywny pomocnik
+468585,aleksy kizielewicz,,27 lut 1999 (24),Polska,,Pomocnik
+407102,jakub bialczyk,Poznan,22 maj 2001 (22),Polska,"1,75 m",Srodkowy pomocnik
+462279,bartosz bartkowiak,Sroda Wielkopolska,17 kwi 2000 (23),Polska,"1,77 m",Srodkowy pomocnik
+384461,jakub moder,Szczecinek,7 kwi 1999 (24),Polska,"1,91 m",Srodkowy pomocnik
+384523,maciej spychala,Sierakow,28 sty 1998 (25),Polska,"1,81 m",Srodkowy pomocnik
+456452,eryk kryg,Szamotuly,6 lut 2000 (23),Polska,"1,83 m",Srodkowy pomocnik
+468586,szymon piekarski,,10 cze 1999 (24),Polska,,Srodkowy pomocnik
+407084,karol smajdor,Nowy Sacz,16 sty 2001 (22),Polska,"1,79 m",Prawy pomocnik
+345450,jakub borowiak,Srem,25 sie 2000 (23),Polska,"1,78 m",Prawy pomocnik
+358873,tymoteusz klups,Poznan,26 lut 2000 (23),Polska,"1,79 m",Prawy pomocnik
+494746,jakub draszczyk,Srem,10 lip 1999 (24),Polska,"1,68 m",Prawy pomocnik
+361575,tymoteusz puchacz,Sulechow,23 sty 1999 (24),Polska,"1,80 m",Lewy pomocnik
+437391,aleksander drobot,Debica,29 mar 1999 (24),Polska,"1,73 m",Lewy pomocnik
+384517,dawid maciejczyk,Lodz,15 sty 1999 (24),Polska,"1,80 m",Lewy pomocnik
+412483,pawel tupaj,Chodziez,2 mar 2000 (23),Polska,"1,74 m",Lewy pomocnik
+346547,marek mroz,Nowy Sacz,18 lut 1999 (24),Polska,"1,79 m",Ofensywny pomocnik
+358868,sebastian jarosz,Poznan,7 sty 2000 (23),Polska,"1,79 m",Ofensywny pomocnik
+393565,michal skoras,Jastrzebie-Zdroj,15 lut 2000 (23),Polska,"1,72 m",Lewy napastnik
+407099,jakub karbownik,Belchatow,15 mar 2001 (22),Polska,"1,73 m",Lewy napastnik
+320733,kacper chodyna,Drawsko Pomorskie,24 maj 1999 (24),Polska,"1,76 m",Prawy napastnik
+346549,dawid kurminowski,Srem,24 lut 1999 (24),Polska,"1,82 m",Srodkowy napastnik
+388953,pawel tomczyk,Poznan,4 maj 1998 (25),Polska,"1,85 m",Srodkowy napastnik
+433601,hubert sobol,Dobre Miasto,25 cze 2000 (23),Polska,"1,83 m",Srodkowy napastnik
+503799,kasper strozyk,,31 pa� 1999 (24),Polska,,Napastnik
+386964,mateusz szukala,Bytom,24 mar 1999 (24),Polska,"1,87 m",Bramkarz
+386952,tomasz lewandowski,,21 pa� 1998 (25),Polska,,Bramkarz
+386955,marcin maslowski,Zabrze,14 sie 1998 (25),Polska,"1,86 m",Bramkarz
+428862,mateusz michalski,,12 lut 1998 (25),Polska,"1,90 m",Bramkarz
+456710,blazej mandrysz,,1 lip 1998 (25),Polska,,Bramkarz
+463233,daniel bielica,Zabrze,30 kwi 1999 (24),Polska,"1,91 m",Bramkarz
+463496,dominik nowicki,,14 lip 1999 (24),Polska,,Bramkarz
+469658,jakub szymanski,Jastrzebie-Zdroj,30 sie 2000 (23),Polska,"1,90 m",Bramkarz
+387000,mateusz witek,,28 kwi 1998,Polska,"1,68 m",Obronca
+427115,dawid ceremon,,24 lip 1998 (25),Polska,,Obronca
+320695,bartlomiej gajda,Pszczyna,24 cze 1999 (24),Polska,"1,86 m",Srodkowy obronca
+386961,szymon rutkowski,,30 sty 1998 (25),Polska,,Srodkowy obronca
+386965,daniel wajsak,Nowy Targ,17 lut 1998 (25),Polska,"1,86 m",Srodkowy obronca
+386967,przemyslaw wisniewski,Zabrze,27 lip 1998 (25),Polska,"1,95 m",Srodkowy obronca
+396953,tomasz polak,Tarnowskie Gory,4 lut 2000 (23),Polska,,Srodkowy obronca
+452978,robert pieczur,Zabrze,7 mar 1998 (25),Polska,"1,85 m",Srodkowy obronca
+454270,aleksander knabel,,7 sie 1999 (24),Polska,,Srodkowy obronca
+505728,kamil surowiec,Myszkow,23 mar 1999 (24),Polska,"1,87 m",Srodkowy obronca
+499979,milosz cwielong,,21 pa� 1999 (24),Polska,"1,88 m",Lewy obronca
+386940,jakub dylag,Nysa,24 sie 1998 (25),Polska,,Prawy obronca
+451153,mateusz kopia,,13 sty 2000 (23),Polska,"1,81 m",Prawy obronca
+454273,karol jaksik,Lubliniec,30 lip 1999 (24),Polska,"1,85 m",Prawy obronca
+454281,damian jaworski,,14 lut 1999 (24),Polska,,Prawy obronca
+386947,mateusz kulanek,,26 lut 1998 (25),Polska,"1,79 m",Defensywny pomocnik
+344418,michal rymer,Wodzislaw Slaski,11 sty 1999 (24),Polska,"1,74 m",Pomocnik
+386944,tomasz kedziora,,26 cze 1998 (25),Polska,,Pomocnik
+386963,kacper siejka,,6 sty 1998 (25),Polska,,Pomocnik
+386966,szymon weber,,23 cze 1998 (25),Polska,,Pomocnik
+387001,pawel wojciechowski,,23 lut 1998 (25),Polska,,Pomocnik
+427113,bartosz scislak,Jastrzebie Zdroj,31 gru 1998 (24),Polska,"1,80 m",Pomocnik
+470377,kamil popek,Gluszyca,25 cze 1999 (24),Polska,,Pomocnik
+494751,adam stryjakiewicz,,18 lut 1999 (24),Polska,,Pomocnik
+498107,dawid skutnik,,17 sty 1999 (24),Polska,,Pomocnik
+386957,mateusz pietryga,,8 sty 1998 (25),Polska,"1,81 m",Srodkowy pomocnik
+456729,tymoteusz wojdanowski,Ruda Slaska,20 sty 1999 (24),Polska,"1,81 m",Srodkowy pomocnik
+479708,daniel scislak,Jastrzebie-Zdroj,13 mar 2000 (23),Polska,"1,77 m",Srodkowy pomocnik
+386956,dariusz pawlowski,Zabrze,25 lut 1999 (24),Polska,"1,84 m",Prawy pomocnik
+386935,mateusz cybulski,,15 wrz 1998 (25),Polska,,Prawy pomocnik
+498106,daniel liszka,,17 lut 2000 (23),Polska,"1,78 m",Lewy pomocnik
+387002,filip zagiel,Lewin Brzeski,16 wrz 1998 (25),Polska,"1,73 m",Ofensywny pomocnik
+463234,bartosz bartczuk,Olawa,14 cze 2000 (23),Polska,"1,81 m",Ofensywny pomocnik
+479707,jan borek,,5 mar 2001 (22),Polska,,Srodkowy napastnik
+386933,lukasz budny,,25 sie 1998 (25),Polska,,Napastnik
+386945,krzysztof kiklaisz,Opole,13 kwi 1998 (25),Polska,"1,86 m",Srodkowy napastnik
+455096,patryk joachim,Zabrze,15 mar 1999 (24),Polska,"1,81 m",Napastnik
+461877,konrad hasior,,4 mar 1999 (24),Polska,,Srodkowy napastnik
+499552,szymon krocz,,16 mar 2000 (23),Polska,"1,89 m",Srodkowy napastnik
+384402,piotr pruszynski,Tczew,26 lut 1998 (25),Polska,"1,85 m",Bramkarz
+400871,kacper krzepisz,Gdynia,16 gru 1999 (23),Polska,"1,90 m",Bramkarz
+403345,szymon wieckowicz,Gdansk,1 pa� 1999 (24),Polska,"1,92 m",Bramkarz
+384382,mateusz czaja,,11 kwi 1998 (25),Polska,,Obronca
+384399,bartosz olszewski,,28 mar 1998 (25),Polska,,Obronca
+455677,krzysztof bednarski,,18 sty 1999 (24),Polska,,Obronca
+458719,piotr skierka,,20 lut 1999 (24),Polska,,Obronca
+468759,maciej manteufel,,6 sie 1999 (24),Polska,,Obronca
+401868,oskar sikorski,Gdynia,9 lip 1999 (24),Polska,"1,86 m",Srodkowy obronca
+455676,fabian lengiewicz,Puck,5 lis 1999 (24),Polska,"1,88 m",Srodkowy obronca
+468757,damian lisiecki,Wejherowo,31 lip 2000 (23),Polska,"1,84 m",Srodkowy obronca
+454813,daniel chmielnicki,Szamocin,5 lut 1999 (24),Polska,"1,86 m",Srodkowy obronca
+468758,brajan wieczorek,Poznan,26 lut 1999 (24),Polska,"1,86 m",Srodkowy obronca
+510744,dawid blok,Gdynia,10 cze 2000 (23),Polska,"1,88 m",Srodkowy obronca
+454817,maciej kozakowski,Bytow,29 cze 1999 (24),Polska,"1,78 m",Lewy obronca
+384386,damian gebis,Gdynia,18 mar 1998 (25),Polska,"1,71 m",Prawy obronca
+384392,krzysztof krakowiak,Elblag,22 cze 1999 (24),Polska,"1,75 m",Prawy obronca
+384805,wiktor babinski,Bydgoszcz,29 maj 1999 (24),Polska,"1,78 m",Prawy obronca
+401867,szymon nowicki,Koscierzyna,14 maj 1999 (24),Polska,"1,81 m",Prawy obronca
+455678,piotr grabowski,Wejherowo,29 sie 1999 (24),Polska,"1,77 m",Prawy obronca
+372739,dawid szalecki,Gdynia,2 wrz 2000 (23),Polska,"1,76 m",Pomocnik
+384391,maciej kaszorek,,12 pa� 1998 (25),Polska,,Pomocnik
+384400,jonatan pasieka,,18 sty 1998 (25),Polska,,Pomocnik
+384404,karol siejak,,17 sie 1998 (25),Polska,,Pomocnik
+385721,mateusz olszewski,,28 mar 1998 (25),Polska,,Pomocnik
+428758,kacper zengerski,,8 sty 1998 (25),Polska,,Pomocnik
+454815,oskar bugajewski,,13 mar 1999 (24),Polska,,Pomocnik
+455679,bartosz nowicki,Wloclawek,30 cze 1999 (24),Polska,"1,82 m",Pomocnik
+455680,adrian polanski,Tczew,5 sie 1999 (24),Polska,"1,75 m",Pomocnik
+456687,dominik gniadecki,,9 gru 1999 (23),Polska,,Pomocnik
+457214,mikolaj nowakowski,,24 cze 1999 (24),Polska,,Pomocnik
+458723,mateusz klecha,,7 cze 1999 (24),Polska,,Pomocnik
+384803,dorian affeld,,22 sie 1999 (24),Polska,,Srodkowy pomocnik
+297231,jakub wawszczyk,Lipno,11 sty 1998 (25),Polska,"1,80 m",Lewy pomocnik
+454818,oskar ryk,Gdynia,28 pa� 1999 (24),Polska,"1,73 m",Lewy napastnik
+512294,mateusz mlynski,Gdynia,2 sty 2001 (22),Polska,"1,78 m",Lewy napastnik
+345442,wojciech kafka,Wejherowo,3 kwi 2000 (23),Polska,"1,74 m",Napastnik
+384408,mateusz wesierski,Kartuzy,25 mar 1998 (25),Polska,"1,87 m",Srodkowy napastnik
+385722,norbert holtyn,Aleksandrow ...,14 sty 1998 (25),Polska,"1,85 m",Srodkowy napastnik
+384385,mikolaj gabor,Gdynia,11 wrz 1998 (25),Polska,"1,80 m",Napastnik
+384393,andrzej lyszyk,Walcz,20 lut 1998 (25),Polska,"1,75 m",Srodkowy napastnik
+384409,kamil wosk,,6 wrz 1998 (25),Polska,,Napastnik
+385723,jakub klosowski,,23 kwi 1998 (25),Polska,,Napastnik
+395761,krystian ziarkowski,,23 lip 1998 (25),Polska,,Napastnik
+458717,jan los,Gdynia,20 lip 2000 (23),Polska,"1,75 m",Srodkowy napastnik
+468859,dawid sarnowski,,24 mar 1999 (24),Polska,,Napastnik
+384157,leonid otczenaszenko,Lutsk,9 cze 1998 (25),Polska,"1,93 m",Bramkarz
+428484,jakub borusinski,Kielce,18 lut 1999 (24),Polska,"1,91 m",Bramkarz
+385876,damian krazek,Kielce,16 lut 1999 (24),Polska,"1,93 m",Bramkarz
+386228,gabriel lodej,,27 gru 1998 (24),Polska,"1,88 m",Bramkarz
+386240,norbert wolczyk,,14 sty 1998 (25),Polska,,Bramkarz
+433602,pawel sokol,Debica,2 mar 2000 (23),Polska,"1,93 m",Bramkarz
+471173,patryk kozak,,7 sty 1999 (24),Polska,,Bramkarz
+514323,jakub osobinski,Skarzysko-Kamienna,13 kwi 2000 (23),Polska,"1,93 m",Bramkarz
+386243,maciej zawierucha,Kielce,10 lip 1998 (25),Polska,"1,86 m",Obronca
+385862,karol boszczyk,,27 kwi 1998 (25),Polska,,Obronca
+385869,bartosz guz,,8 sty 1998 (25),Polska,,Obronca
+385874,kamil koszela,,1 wrz 1998 (25),Polska,,Obronca
+385875,dawid kowalczyk,,22 maj 1999 (24),Polska,,Obronca
+386239,krystian wojtal,,9 lis 1998 (25),Polska,,Obronca
+471175,daniel wolowiec,Kielce,28 kwi 1999 (24),Polska,,Obronca
+438479,piotr pierzchala,Kielce,29 cze 1999 (24),Polska,"1,90 m",Srodkowy obronca
+466658,szymon czerwiak,Kielce,5 maj 1999 (24),Polska,"1,90 m",Srodkowy obronca
+514324,dawid swiderski,,3 sty 2000 (23),Polska,,Srodkowy obronca
+387187,szymon klepacki,Warszawa,24 cze 1998 (25),Polska,"1,84 m",Lewy obronca
+462291,bartosz kunat,Rybnik,25 gru 1999 (23),Polska,"1,77 m",Prawy obronca
+508784,oskar gwozdz,Busko-Zdroj,20 sty 2000 (23),Polska,,Prawy obronca
+386232,adrian olekszyk,,28 sty 1998 (25),Polska,,Pomocnik
+386234,norbert sinkiewicz,,6 kwi 1998 (25),Polska,,Pomocnik
+434290,kacper gromulski,,4 sty 1999 (24),Polska,,Pomocnik
+453159,michal rybus,,22 cze 1999 (24),Polska,,Pomocnik
+453161,hubert wojsa,,11 kwi 1999 (24),Polska,,Pomocnik
+514325,filip lech,,12 mar 2000 (23),Polska,,Pomocnik
+453154,ernest jopkiewicz,,13 lut 1999 (24),Polska,,Srodkowy pomocnik
+453156,wiktor dlugosz,Kielce,1 lip 2000 (23),Polska,"1,83 m",Prawy pomocnik
+346550,dawid szalas,Kielce,18 lut 1999 (24),Polska,,Lewy pomocnik
+453157,michal mazurek,Rzeszow,20 sty 1999 (24),Polska,"1,72 m",Lewy pomocnik
+374417,grzegorz panszczyk,,6 sie 2000 (23),Polska,"1,76 m",Lewy pomocnik
+385860,eryk borczynski,,10 sie 1998 (25),Polska,,Lewy pomocnik
+386236,krystian sornat,Kielce,25 sty 1998 (25),Polska,"1,82 m",Prawy napastnik
+385866,kacper chudecki,Kielce,11 wrz 1998 (25),Polska,"1,76 m",Srodkowy napastnik
+386233,piotr ponski,Sandomierz,10 kwi 1998 (25),Polska,"1,85 m",Srodkowy napastnik
+392726,kacper wiecha,,29 wrz 1998 (25),Polska,,Napastnik
+462290,kornel losak,,14 lut 1999 (24),Polska,,Napastnik
+464028,marcin chmielowiec,,9 sty 1998 (25),Polska,"1,74 m",Napastnik
+471174,daniel nowak,,29 kwi 1999 (24),Polska,,Napastnik
+512013,cezary matuszewski,,7 lut 2000 (23),Polska,,Napastnik
+514326,konrad stanczyk,,10 sty 2000 (23),Polska,,Napastnik
+514327,artur pirog,Kielce,25 kwi 2000 (23),Polska,"1,81 m",Srodkowy napastnik
+384487,damian smolen,Jaslo,20 lut 1998 (25),Polska,"1,92 m",Bramkarz
+426300,krzysztof sendorek,Krakow,13 cze 1999 (24),Polska,"1,82 m",Bramkarz
+462099,jakub sowa,,23 lut 2001 (22),Polska,,Bramkarz
+479456,mateusz burliga,,7 sty 2000 (23),Polska,,Bramkarz
+508765,michal jewula,,22 sty 2000 (23),Polska,,Bramkarz
+384476,dawid dukala,,8 sty 1998 (25),Polska,,Obronca
+427504,michal barnas,,4 wrz 1998 (25),Polska,,Obronca
+384916,mateusz jarzynka,Biala Podlaska,3 cze 1998 (25),Polska,"1,86 m",Srodkowy obronca
+384483,dominik pieprzyca,,15 cze 1998 (25),Polska,,Srodkowy obronca
+389396,adrian kajpust,Debica,8 kwi 1999 (24),Polska,"1,87 m",Srodkowy obronca
+462100,nikodem morawski,Krakow,11 maj 2000 (23),Polska,"1,82 m",Srodkowy obronca
+496699,dorian pitula,Krakow,1 kwi 2000 (23),Polska,"1,76 m",Srodkowy obronca
+426298,szymon mik,,19 lut 1998 (25),Polska,,Lewy obronca
+453418,kamil janecki,,17 maj 1999 (24),Polska,,Prawy obronca
+474242,dominik franczak,Krakow,7 sie 2000 (23),Polska,"1,83 m",Prawy obronca
+345443,michal zieba,Krakow,4 lut 2000 (23),Polska,"1,80 m",Prawy obronca
+396690,radoslaw kanach,Rzeszow,3 kwi 1999 (24),Polska,"1,81 m",Defensywny pomocnik
+345444,robert ozog,Krakow,8 sty 2000 (23),Polska,"1,78 m",Defensywny pomocnik
+384457,bartosz czarnecki,,8 sty 1998 (25),Polska,"1,79 m",Pomocnik
+426297,sylwester lusiusz,Brzozow,18 wrz 1999 (24),Polska,"1,85 m",Defensywny pomocnik
+453410,mateusz supryn,Lublin,4 kwi 1999 (24),Polska,"1,80 m",Defensywny pomocnik
+453414,jan czerlunczakiewicz,Krakow,8 kwi 1999 (24),Polska,"1,80 m",Defensywny pomocnik
+496698,mateusz jamrozy,,17 sty 2000 (23),Polska,,Pomocnik
+498250,juliusz gorzen,,21 lip 1999 (24),Polska,,Pomocnik
+508766,lukasz feret,,30 kwi 2001 (22),Polska,,Defensywny pomocnik
+508767,mateusz feret,,30 kwi 2001 (22),Polska,,Pomocnik
+508769,arkadiusz jurek,,24 lut 2001 (22),Polska,,Pomocnik
+384496,dariusz zaba,,29 cze 1998 (25),Polska,"1,77 m",Srodkowy pomocnik
+384477,grzegorz gawle,Ustrzyki Dolne,14 kwi 1998 (25),Polska,"1,70 m",Lewy pomocnik
+393568,patryk zaucha,Tarnow,19 kwi 2000 (23),Polska,"1,75 m",Lewy pomocnik
+453408,kacper malinowski,,16 cze 1999 (24),Polska,,Lewy pomocnik
+384482,kamil pestka,Krakow,22 sie 1998 (25),Polska,"1,89 m",Lewy pomocnik
+287235,hubert adamczyk,Bydgoszcz,23 lut 1998 (25),Polska,"1,80 m",Ofensywny pomocnik
+384438,sebastian strozik,Opole,15 maj 1999 (24),Polska,"1,92 m",Srodkowy napastnik
+384490,filip sroka,,16 kwi 1998 (25),Polska,,Napastnik
+384494,bartlomiej tymoszuk,Miedzyrzec Podlaski,6 sty 1998 (25),Polska,"1,80 m",Napastnik
+407872,adrian zmuda,,5 cze 1998 (25),Polska,,Napastnik
+474243,jakub bator,Dabrowa Tarnowska,26 pa� 2000 (23),Polska,"1,75 m",Srodkowy napastnik
+508770,grzegorz chlebda,Myslenice,24 cze 2000 (23),Polska,"1,85 m",Napastnik
+408955,krystian kalinowski,Warszawa,30 sty 1999 (24),Polska,"1,90 m",Bramkarz
+385202,grzegorz pyzio,,14 lut 1998 (25),Polska,,Bramkarz
+385204,jakub rzeszut,,7 sty 1998 (25),Polska,,Bramkarz
+412145,szymon stec,,10 lut 1999 (24),Polska,,Bramkarz
+453931,kacper sutor,,3 mar 1999 (24),Polska,,Obronca
+321242,pawel witsanko,Zabkowice Slaskie,9 mar 1998 (25),Polska,"1,73 m",Obronca
+385192,karol kondrat,,27 maj 1998 (25),Polska,,Obronca
+385193,beniamin kucy,,25 kwi 1998 (25),Polska,,Obronca
+385194,damian maslej,,29 kwi 1998 (25),Polska,,Obronca
+385206,dawid sliwinski,,2 pa� 1998 (25),Polska,,Obronca
+453924,maciej diduszko,Swiebodzice,17 lut 1999 (24),Polska,"1,71 m",Obronca
+453930,radoslaw wasiuk,,17 sty 1999 (24),Polska,,Obronca
+387635,jakub ostrowski,,10 cze 1998 (25),Polska,"1,88 m",Srodkowy obronca
+345449,kamil piatkowski,Jaslo,21 cze 2000 (23),Polska,"1,91 m",Srodkowy obronca
+372696,kamil kruk,Drezdenko,13 mar 2000 (23),Polska,"1,85 m",Srodkowy obronca
+384524,serafin szota,Namyslow,4 mar 1999 (24),Polska,"1,87 m",Srodkowy obronca
+456012,mateusz kulchawy,Gorzow Wielkopolski,19 cze 1999 (24),Polska,"1,65 m",Prawy obronca
+498272,maciej warpas,Brzeg Dolny,20 maj 2000 (23),Polska,"1,85 m",Prawy obronca
+353827,pawel zyra,Walbrzych,7 kwi 1998 (25),Polska,"1,78 m",Defensywny pomocnik
+287353,kacper szymankiewicz,Poznan,14 maj 1998 (25),Polska,"1,83 m",Pomocnik
+382429,bartosz slisz,Rybnik,29 mar 1999 (24),Polska,"1,79 m",Defensywny pomocnik
+384395,maciej majdowski,,29 mar 1998 (25),Polska,,Pomocnik
+385188,bartosz ciesielski,,24 cze 1998 (25),Polska,,Pomocnik
+385199,dawid pakulski,Walbrzych,23 lip 1998 (25),Polska,"1,79 m",Defensywny pomocnik
+385207,lukasz soszynski,Lubin,20 kwi 1998 (25),Polska,"1,75 m",Defensywny pomocnik
+453917,lukasz szukielowicz,Duszniki Zdroj,17 lut 1999 (24),Polska,"1,87 m",Defensywny pomocnik
+456722,kornel ciupka,Glogow,7 kwi 1999 (24),Polska,"1,85 m",Pomocnik
+513886,kryspin karbownik,,25 mar 2000 (23),Polska,,Pomocnik
+453925,wiktor nahrebecki,Swidnica,5 gru 1999 (23),Polska,"1,70 m",Srodkowy pomocnik
+408941,kacper nowak,Poznan,14 maj 2001 (22),Polska,"1,83 m",Prawy pomocnik
+369194,radoslaw dzierbicki,Rybnik,31 sty 1999 (24),Polska,"1,73 m",Lewy pomocnik
+320974,jakub obloj,,21 lis 1999 (24),Polska,"1,75 m",Lewy pomocnik
+346554,patryk jarantowicz,,26 cze 1998 (25),Polska,,Lewy pomocnik
+453932,jakub rys,Lubin,12 maj 1999 (24),Polska,"1,76 m",Ofensywny pomocnik
+503857,patryk grychtolik,Katowice,3 kwi 2000 (23),Polska,"1,82 m",Ofensywny pomocnik
+495032,jakub brzezowski,Gorzow Wielkopolski,3 sie 2000 (23),Polska,"1,75 m",Lewy napastnik
+320733,kacper chodyna,Drawsko Pomorskie,24 maj 1999 (24),Polska,"1,76 m",Prawy napastnik
+385190,oskar gizinski,Jelenia Gora,17 cze 1998 (25),Polska,"1,70 m",Srodkowy napastnik
+401879,krzysztof staskiewicz,Zary,22 sty 1999 (24),Polska,"1,81 m",Napastnik
+346553,mateusz piotrowski,,29 cze 1998 (25),Polska,"1,83 m",Napastnik
+385197,olaf nowak,Krakow,24 lut 1998 (25),Polska,"1,80 m",Srodkowy napastnik
+453933,przemyslaw siudak,Sulecin,18 sie 1999 (24),Polska,"1,77 m",Srodkowy napastnik
+456008,szymon tragarz,,7 maj 1999 (24),Polska,,Napastnik
+456009,marcel wolan,,8 pa� 1999 (24),Polska,,Napastnik
+456010,norbert walczak,,7 maj 1999 (24),Polska,,Napastnik
+456011,karol wierzchowski,,20 cze 1999 (24),Polska,,Napastnik
+504868,dominik sasiak,Szczecin,20 mar 2001 (22),Polska,"1,91 m",Bramkarz
+342760,mikolaj brylewski,Chelmno,20 sty 1998 (25),Polska,"1,92 m",Bramkarz
+387243,daniel kusztan,Szczecin,8 wrz 1999 (24),Polska,"1,87 m",Bramkarz
+399472,kacper pietrzak,,4 lut 2000 (23),Polska,,Bramkarz
+500293,oskar piernicki,Gdansk,7 mar 2000 (23),Polska,"1,88 m",Bramkarz
+387252,szymon walenski,Koszalin,22 lip 1998 (25),Polska,"1,86 m",Obronca
+364695,hubert sadowski,Szczecin,3 lut 2000 (23),Polska,"1,89 m",Srodkowy obronca
+387263,sebastian nagel,Nowogard,26 sty 1998 (25),Polska,"1,87 m",Srodkowy obronca
+454377,wojciech blyszko,Drawsko Pomorskie,5 pa� 1999 (24),Polska,"1,96 m",Srodkowy obronca
+387248,fabian pach,Pyrzyce,19 maj 1998 (25),Polska,"1,81 m",Lewy obronca
+372691,marcel stefaniak,Elblag,22 lut 2000 (23),Polska,"1,81 m",Lewy obronca
+387262,michal macuk,Szczecin,3 lut 1998 (25),Polska,,Lewy obronca
+425763,mateusz bartolewski,Szczecinek,12 sty 1998 (25),Polska,"1,87 m",Lewy obronca
+503007,danian pavlas,Magnitogorsk,6 wrz 2000 (23),Polska,"1,71 m",Lewy obronca
+425742,jedrzej kujawa,Poznan,15 maj 1998 (25),Polska,"1,76 m",Pomocnik
+454380,michal graczyk,Szczecin,1 lip 1999 (24),Polska,"1,85 m",Defensywny pomocnik
+407953,szymon jopek,Rzeszow,25 lut 1999 (24),Polska,"1,82 m",Defensywny pomocnik
+409048,stanislaw wawrzynowicz,Poznan,13 mar 1999 (24),Polska,"1,77 m",Defensywny pomocnik
+454388,maciej zurawski,Torun,22 gru 2000 (22),Polska,"1,84 m",Defensywny pomocnik
+494482,bartosz bielak,Debno,20 kwi 2000 (23),Polska,,Pomocnik
+506593,patryk miklas,Nowogard,3 sty 2000 (23),Polska,,Defensywny pomocnik
+320741,damian pawlowski,Szczecin,27 sty 1999 (24),Polska,"1,85 m",Srodkowy pomocnik
+387245,gracjan kusmierek,Gryfice,20 maj 1998 (25),Polska,"1,80 m",Prawy pomocnik
+387247,rafal mackowski,Police,6 maj 1998 (25),Polska,"1,80 m",Prawy pomocnik
+387258,mateusz bochnak,Szczecin,11 lut 1998 (25),Polska,"1,79 m",Prawy pomocnik
+454387,michal sacharuk,Torun,1 maj 2000 (23),Polska,"1,80 m",Prawy pomocnik
+466224,kacper michalski,Kostrzyn nad Odra,3 sty 2000 (23),Polska,"1,87 m",Prawy pomocnik
+407564,mateusz mackowiak,Poznan,29 maj 2001 (22),Polska,"1,75 m",Lewy pomocnik
+454378,jakub paprzycki,Poznan,26 maj 1999 (24),Polska,"1,78 m",Lewy pomocnik
+289168,sebastian kowalczyk,Szczecin,22 sie 1998 (25),Polska,"1,70 m",Ofensywny pomocnik
+297217,gracjan jaroch,Przemysl,15 kwi 1998 (25),Polska,"1,72 m",Ofensywny pomocnik
+345441,blazej starzycki,Szczecin,27 cze 2000 (23),Polska,"1,79 m",Ofensywny pomocnik
+454384,bartosz boniecki,Golub-Dobrzyn,9 kwi 2000 (23),Polska,"1,70 m",Lewy napastnik
+454386,adrian benedyczak,Kamien Pomorski,24 lis 2000 (23),Polska,"1,91 m",Lewy napastnik
+494478,mikolaj midzio,Szczecin,17 lut 2000 (23),Polska,"1,84 m",Srodkowy napastnik
+387188,michal gorzynski,Poznan,23 sty 1998 (25),Polska,"1,84 m",Srodkowy napastnik
+387265,aron stasiak,Kamien Pomorski,19 lut 1999 (24),Polska,"1,84 m",Srodkowy napastnik
+403348,oskar furst,,10 mar 2000 (23),Polska,"1,84 m",Napastnik
+364049,hubert gostomski,Warszawa,25 lut 1998 (25),Polska,"1,91 m",Bramkarz
+407491,luka gugeshashvili,Tiflis,29 kwi 1999 (24),Gruzja,"1,96 m",Bramkarz
+385856,robert nowacki,Lublin,19 maj 1998 (25),Polska,"1,87 m",Bramkarz
+455324,karol gres,,18 sty 1999 (24),Polska,,Bramkarz
+470565,wiktor kwiatkowski,,5 gru 2000 (22),Polska,,Bramkarz
+390984,jakub tomar,,5 lip 1998 (25),Polska,,Obronca
+499526,maciej korecki,,30 gru 2000 (22),Polska,,Obronca
+499527,damian glebocki,,22 lut 2000 (23),Polska,,Obronca
+357305,kamil pajnowski,Biala Podlaska,28 sty 1998 (25),Polska,"1,86 m",Srodkowy obronca
+297222,mateusz maliszewski,Bialystok,3 sty 1998 (25),Polska,"1,88 m",Srodkowy obronca
+384768,michal kozlik,Rawicz,29 kwi 1998 (25),Polska,"1,90 m",Srodkowy obronca
+397873,rafal kiczuk,Sokolka,19 mar 1998 (25),Polska,"1,91 m",Srodkowy obronca
+287331,dominik prusaczyk,Ostroleka,10 sty 1998 (25),Polska,"1,74 m",Srodkowy obronca
+387655,tomasz panek,,10 maj 1998 (25),Polska,"2,00 m",Srodkowy obronca
+403559,jan zysik,,19 wrz 2000 (23),Polska,"1,79 m",Srodkowy obronca
+342659,pawel olszewski,Wroclaw,7 cze 1999 (24),Polska,"1,78 m",Prawy obronca
+387659,bartosz ciborowski,Bialystok,14 maj 1998 (25),Polska,"1,77 m",Prawy obronca
+465500,bartosz golaszewski,Bialystok,19 lut 2000 (23),Polska,"1,78 m",Prawy obronca
+357303,patryk niemczynowicz,Bielsk Podlaski,12 wrz 1998 (25),Polska,"1,84 m",Pomocnik
+371954,dawid polkowski,Madrid,21 sie 1998 (25),Polska,"1,85 m",Defensywny pomocnik
+293041,patryk koncewicz,Bialystok,9 kwi 1998 (25),Polska,"1,82 m",Pomocnik
+287323,mateusz ostaszewski,Bialystok,27 mar 1998 (25),Polska,"1,70 m",Pomocnik
+385859,tomasz zareba,,6 lip 1998 (25),Polska,"1,70 m",Pomocnik
+387656,artur renkowski,Bialystok,11 mar 1998 (25),Polska,"1,78 m",Pomocnik
+387660,mateusz oksienczuk,,29 maj 1998 (25),Polska,,Pomocnik
+399266,mateusz prolejko,,7 lip 1998 (25),Polska,"1,75 m",Pomocnik
+465503,mateusz mikolajczyk,,22 sie 2000 (23),Polska,,Pomocnik
+466542,bartosz borowik,,1 mar 2000 (23),Polska,,Pomocnik
+503393,erwin grzybiak,,9 cze 2000 (23),Polska,,Pomocnik
+431482,mikolaj nawrocki,Zamosc,2 pa� 2001 (22),Polska,"1,80 m",Srodkowy pomocnik
+375195,jakub tabor,Madrid,10 lut 1999 (24),Polska,"1,86 m",Srodkowy pomocnik
+512542,kamil huczko,,9 maj 2000 (23),Polska,,Prawy pomocnik
+514528,kacper glowicki,Bialystok,18 pa� 2000 (23),Polska,"1,83 m",Prawy pomocnik
+385857,marcin pigiel,Dabrowa ...,15 lut 1998 (25),Polska,"1,82 m",Lewy pomocnik
+287319,przemyslaw mystkowski,Bialystok,25 kwi 1998 (25),Polska,"1,78 m",Ofensywny pomocnik
+289164,michal domanski,Debica,21 mar 1998 (25),Polska,"1,72 m",Ofensywny pomocnik
+321232,pawel kaczmarczyk,Kolno,6 lip 1998 (25),Polska,"1,71 m",Lewy napastnik
+455325,mateusz nikolajuk,Bialystok,27 pa� 2000 (23),Polska,"1,82 m",Prawy napastnik
+465499,jakub romanowicz,Glowno,3 pa� 2000 (23),Polska,"1,80 m",Prawy napastnik
+387153,patryk klimala,Swidnica,5 sie 1998 (25),Polska,"1,83 m",Srodkowy napastnik
+387657,damian toczydlowski,Bialystok,3 wrz 1998 (25),Polska,"1,76 m",Napastnik
+465502,jakub konon,,13 lis 2000 (23),Polska,,Napastnik
+494777,maksymilian fryczkowski,Bystrzyca Klodzka,3 maj 1999 (24),Polska,"1,90 m",Srodkowy napastnik
+499978,piotr zabielski,Wroclaw,27 cze 2000 (23),Polska,"1,77 m",Bramkarz
+384345,adrian mynarski,,15 lip 1999 (24),Polska,,Bramkarz
+385838,mateusz sobczak,,18 lut 1998 (25),Polska,,Bramkarz
+389323,krystian paszkowski,,22 mar 1998 (25),Polska,"1,81 m",Bramkarz
+399251,piotr szermach,Wroclaw,2 wrz 1999 (24),Polska,"1,90 m",Bramkarz
+453912,wiktor malinowski,,2 kwi 2000 (23),Polska,,Bramkarz
+494717,daniel golus,Wroclaw,15 lis 2000 (23),Polska,"1,72 m",Obronca
+384344,dawid matuszewski,,17 mar 1998 (25),Polska,,Obronca
+393726,bartosz mroz,,15 mar 1998 (25),Polska,,Obronca
+451202,piotr jasinski,,1 lip 1999 (24),Polska,,Obronca
+453911,radoslaw ryl,,24 cze 1999 (24),Polska,,Obronca
+463477,damian was,,10 cze 2000 (23),Polska,,Obronca
+385052,konrad poprawa,Lodz,4 cze 1998 (25),Polska,"1,85 m",Srodkowy obronca
+498038,sebastian golak,Poznan,28 wrz 1999 (24),Polska,"1,90 m",Srodkowy obronca
+384349,lukasz sztylka,,1 wrz 1999 (24),Polska,"1,79 m",Lewy obronca
+384782,jakub kierkiewicz,Klodzko,7 sie 1998 (25),Polska,"1,77 m",Lewy obronca
+384351,milosz taranek,Czestochowa,29 mar 1998 (25),Polska,"1,74 m",Prawy obronca
+427106,kacper izydorczyk,Wroclaw,25 cze 1999 (24),Polska,"1,73 m",Prawy obronca
+451198,bartosz borun,Olawa,17 maj 2000 (23),Polska,"1,81 m",Prawy obronca
+384341,michal kuriata,Olawa,20 kwi 1999 (24),Polska,,Defensywny pomocnik
+384432,mateusz palach,,2 sie 1998 (25),Polska,,Pomocnik
+427118,mateusz fiks,,23 sie 1998 (25),Polska,,Pomocnik
+428578,adrian puchala,,25 sie 1998 (25),Polska,,Pomocnik
+466299,thomas radon,,16 sty 1998 (25),Polska,,Pomocnik
+494718,kacper korkosz,,25 lip 2000 (23),Polska,,Pomocnik
+379868,maciej palaszewski,Wroclaw,7 kwi 1998 (25),Polska,"1,75 m",Srodkowy pomocnik
+461518,patryk ostrowski,,27 sie 2000 (23),Polska,"1,73 m",Prawy pomocnik
+442091,mateusz plociennik,,20 lis 1998 (25),Polska,,Lewy pomocnik
+384791,adrian lyszczarz,Olesnica,22 sie 1999 (24),Polska,"1,78 m",Ofensywny pomocnik
+403339,grzegorz kotowicz,Wroclaw,4 lut 2000 (23),Polska,"1,84 m",Prawy napastnik
+384338,mateusz czerwinski,,21 mar 1998 (25),Polska,,Napastnik
+384337,sebastian bergier,Wroclaw,20 gru 1999 (23),Polska,"1,85 m",Srodkowy napastnik
+384786,szymon kusnierz,,4 sty 1999 (24),Polska,,Napastnik
+453915,jakub karykowski,,19 lut 1998 (25),Polska,,Napastnik
+459223,mateusz gladysz,,17 lut 1999 (24),Polska,,Napastnik
+346546,radoslaw majecki,Starachowice,16 lis 1999 (24),Polska,"1,93 m",Bramkarz
+342661,tomasz wroblewski,Warszawa,29 lip 1999 (24),Polska,"1,87 m",Bramkarz
+358864,michal golunski,,24 maj 2000 (23),Polska,,Bramkarz
+387083,maciej babel,Ostrowiec ...,12 lut 1998 (25),Polska,"1,89 m",Bramkarz
+393891,jozef burta,Siedlce,20 wrz 1999 (24),Polska,"1,95 m",Bramkarz
+404055,mateusz kochalski,Swidnik,25 lip 2000 (23),Polska,"1,90 m",Bramkarz
+387167,maciej ostrowski,Golub-Dobrzyn,25 wrz 1998 (25),Polska,"1,80 m",Srodkowy obronca
+297234,mateusz zyro,Warszawa,28 pa� 1998 (25),Polska,"1,90 m",Srodkowy obronca
+342660,mateusz bondarenko,Lubsko,18 sie 1999 (24),Polska,"1,91 m",Srodkowy obronca
+345458,sebastian walukiewicz,Gorzow Wielkopolski,5 kwi 2000 (23),Polska,"1,88 m",Srodkowy obronca
+381929,kacper pietrzyk,Kozienice,16 kwi 1999 (24),Polska,"1,89 m",Srodkowy obronca
+387169,karol potrzebowski,,7 cze 1999 (24),Polska,,Srodkowy obronca
+387164,bartosz olszewski,Suwalki,8 sty 1999 (24),Polska,"1,80 m",Lewy obronca
+342042,adrian malachowski,Bydgoszcz,10 mar 1998 (25),Polska,"1,83 m",Defensywny pomocnik
+387082,eryk agnyziak,Warszawa,2 pa� 1999 (24),Polska,,Pomocnik
+387148,jakub kaminski,,23 lut 1999 (24),Polska,"1,84 m",Defensywny pomocnik
+393727,wiktor sobczyk,Kolo,29 mar 1998 (25),Polska,,Defensywny pomocnik
+451948,bartosz zychowicz,,26 sty 1999 (24),Polska,"1,78 m",Pomocnik
+387027,bartosz rymek,Ostroleka,29 maj 1999 (24),Polska,"1,77 m",Srodkowy pomocnik
+387033,aleksander waniek,Warszawa,9 sie 1998 (25),Polska,"1,73 m",Srodkowy pomocnik
+297230,bartlomiej urbanski,Grojec,15 maj 1998 (25),Polska,"1,74 m",Srodkowy pomocnik
+466034,patryk baran,Konskie,28 sie 1999 (24),Polska,"1,82 m",Srodkowy pomocnik
+387035,oskar wojtysiak,Radom,7 lis 1999 (24),Polska,"1,75 m",Prawy pomocnik
+393892,piotr cichocki,Makow Mazowiecki,29 kwi 1998 (25),Polska,"1,75 m",Prawy pomocnik
+345457,mateusz szwed,Chelm,10 lut 2000 (23),Polska,"1,77 m",Prawy pomocnik
+346550,dawid szalas,Kielce,18 lut 1999 (24),Polska,,Lewy pomocnik
+297216,konrad handzlik,Wadowice,13 lut 1998 (25),Polska,"1,68 m",Ofensywny pomocnik
+374418,mateusz praszelik,Raciborz,26 wrz 2000 (23),Polska,"1,84 m",Ofensywny pomocnik
+321240,milosz szczepanski,Nowy Sacz,22 mar 1998 (25),Polska,"1,68 m",Ofensywny pomocnik
+387165,kamil orlik,Tarnow,3 sie 1999 (24),Polska,"1,75 m",Lewy napastnik
+266346,grzegorz aftyka,Gryfino,2 lut 1998 (25),Polska,"1,78 m",Lewy napastnik
+345455,mikolaj neuman,Aleksandrow ...,29 sty 2000 (23),Polska,"1,83 m",Prawy napastnik
+287294,mateusz leleno,Warszawa,1 lut 1998 (25),Polska,"1,78 m",Prawy napastnik
+300427,mateusz olejarka,Przeworsk,13 sie 1999 (24),Polska,"1,70 m",Prawy napastnik
+461569,michal krol,Lublin,14 mar 2000 (23),Polska,"1,73 m",Prawy napastnik
+266409,mikolaj napora,Radom,13 lut 1998 (25),Polska,"1,80 m",Srodkowy napastnik
+377532,michal goral,Lodz,2 sie 1999 (24),Polska,"1,93 m",Srodkowy napastnik
+393567,kacper welniak,Naklo nad Notecia,21 maj 2000 (23),Polska,"1,85 m",Srodkowy napastnik
+342040,patryk czarnowski,Zyrardow,19 maj 1998 (25),Polska,"1,80 m",Srodkowy napastnik
+384042,daniel karczewski,Lublin,1 cze 1999 (24),Polska,"1,89 m",Bramkarz
+386249,krystian krupa,Lublin,5 wrz 1998 (25),Polska,"1,95 m",Bramkarz
+384979,michal andrzejkiewicz,,12 maj 1999 (24),Polska,,Bramkarz
+453392,oskar kasperek,,1 sty 2000 (23),Polska,"1,85 m",Bramkarz
+457436,alan rakowski,,4 pa� 1999 (24),Polska,,Bramkarz
+384986,marcin czajka,,29 cze 1998 (25),Polska,,Obronca
+386245,dorian goliszewski,,1 sty 1998 (25),Polska,,Obronca
+387008,sebastian pyda,,14 kwi 1998 (25),Polska,,Obronca
+387009,bartlomiej tkaczuk,Miedzyrzec Podlaski,7 lut 1999 (24),Polska,"1,81 m",Obronca
+387012,jakub wankiewicz,,7 cze 1998 (25),Polska,,Obronca
+426306,patryk mitura,,27 sty 1998 (25),Polska,,Obronca
+453393,daniel mostowiec,,6 wrz 1999 (24),Polska,,Obronca
+453394,michal chachula,,19 mar 1999 (24),Polska,,Obronca
+470595,daniel brzozowski,,21 mar 1999 (24),Polska,,Obronca
+514328,karol ordyniec,,20 sty 2001 (22),Polska,,Obronca
+384984,piotr chodziutko,Wlodawa,3 sty 1998 (25),Polska,"1,94 m",Srodkowy obronca
+453390,mateusz chyla,Lublin,7 kwi 1999 (24),Polska,"1,94 m",Srodkowy obronca
+453391,maksymilian cichocki,Lublin,9 wrz 1999 (24),Polska,"1,86 m",Srodkowy obronca
+452695,bartlomiej kozlowski,,11 sty 1999 (24),Polska,"1,87 m",Srodkowy obronca
+405793,piotr kozuchowski,,5 sty 1999 (24),Polska,"1,80 m",Lewy obronca
+386247,szymon kaminski,Lukow,30 sty 1998 (25),Polska,"1,92 m",Defensywny pomocnik
+471129,rafal dobrzynski,Krasnystaw,2 sie 2000 (23),Polska,"1,81 m",Defensywny pomocnik
+386246,przemyslaw ilczuk,Lublin,4 lip 1998 (25),Polska,"1,65 m",Pomocnik
+386251,michal matys,,6 sty 1998 (25),Polska,,Pomocnik
+386253,norbert pios,Lublin,7 lip 1998 (25),Polska,"1,85 m",Pomocnik
+387010,kacper waniowski,,8 mar 1998 (25),Polska,,Pomocnik
+387015,maciej welman,,15 sie 1998 (25),Polska,,Pomocnik
+407873,krzysztof jaskiewicz,,21 sty 1999 (24),Polska,,Pomocnik
+407874,jakub buczek,Lublin,25 sty 1999 (24),Polska,"1,81 m",Defensywny pomocnik
+433599,szymon kobialka,,30 maj 1999 (24),Polska,,Pomocnik
+453397,piotr waszczynski,,31 sty 1998 (25),Polska,,Pomocnik
+456202,krzysztof rybak,,24 lip 2000 (23),Polska,,Pomocnik
+382434,przemyslaw koszel,Lublin,10 cze 1998 (25),Polska,"1,75 m",Prawy pomocnik
+512726,mikolaj grzeda,Chelm,31 sty 2000 (23),Polska,"1,86 m",Ofensywny pomocnik
+346552,olaf martynek,Pionki,13 mar 1998 (25),Polska,"1,84 m",Lewy napastnik
+421710,patryk szysz,Lublin,1 kwi 1998 (25),Polska,"1,77 m",Prawy napastnik
+433295,piotr lecki,,15 pa� 1999,Polska,,Napastnik
+384977,rafal swaiti,,28 lip 1998 (25),Polska,,Napastnik
+390985,adrian zielinski,,11 sty 1998 (25),Polska,,Napastnik
+453399,aleksander flis,,16 lut 1999 (24),Polska,,Napastnik
+456203,kacper persona,,29 mar 1999 (24),Polska,,Napastnik
+469105,adam mazurek,,5 kwi 1999 (24),Polska,,Napastnik
+387280,kamil wachala,,1 kwi 1998 (25),Polska,,Bramkarz
+387269,klaudiusz szymura,,2 maj 1998 (25),Polska,,Obronca
+387270,bartlomiej switala,,1 wrz 1998 (25),Polska,,Obronca
+387282,mikolaj michna,,20 sie 1998 (25),Polska,,Obronca
+399428,kacper czajkowski,Wroclaw,3 cze 1998 (25),Polska,"1,84 m",Obronca
+343416,dominik malkowski,Katowice,7 kwi 1999 (24),Polska,"1,85 m",Srodkowy obronca
+346548,szymon gorecki,Swietochlowice,7 sie 1999 (24),Polska,"1,84 m",Srodkowy obronca
+398321,bartosz gesior,Chorzow,9 sty 1998 (25),Polska,"1,89 m",Srodkowy obronca
+358865,tomasz holos,Chorzow,22 cze 2000 (23),Polska,"1,82 m",Pomocnik
+387274,dominik szol,,13 lis 1998 (25),Polska,,Pomocnik
+387281,sergiusz hanel,,15 sty 1998 (25),Polska,,Pomocnik
+389397,patryk sikora,Mikolow,20 lis 1999 (24),Polska,"1,87 m",Defensywny pomocnik
+393000,mateusz lajblich,,6 mar 1998 (25),Polska,,Pomocnik
+395328,stanislaw sarwicki,Starachowice,28 gru 1998 (24),Polska,"1,81 m",Pomocnik
+399427,dawid piekarski,,28 sty 1998 (25),Polska,,Pomocnik
+345460,przemyslaw bargiel,Ruda Slaska,26 mar 2000 (23),Polska,"1,79 m",Srodkowy pomocnik
+387288,dominik lewandowski,Olesno,13 maj 1999 (24),Polska,"1,70 m",Ofensywny pomocnik
+387289,marcin milota,,2 lut 1998 (25),Polska,,Napastnik
+398300,aleksander sobczak,Wroclaw,25 mar 1998 (25),Polska,"1,91 m",Bramkarz
+508776,szymon pajkert,,21 kwi 2001 (22),Polska,,Bramkarz
+385537,dominik teda,,22 lut 1998 (25),Polska,,Bramkarz
+399268,krystian wojtczyk,Belchatow,27 cze 2000 (23),Polska,"1,89 m",Bramkarz
+426241,szymon malicki,,2 lip 2000 (23),Polska,,Bramkarz
+456455,dominik bieniek,,4 sty 1999 (24),Polska,,Bramkarz
+469307,damian pedziwiatr,,6 lip 2000 (23),Polska,,Bramkarz
+390965,kacper kokosza,,2 cze 1998 (25),Polska,,Obronca
+385491,damian augustyniak,,16 wrz 1998 (25),Polska,,Obronca
+385536,marcin skawinski,,18 sty 1998 (25),Polska,,Obronca
+385540,maciej weglewski,,1 lut 1999 (24),Polska,,Obronca
+385542,mateusz wiewiorowski,,17 wrz 1998 (25),Polska,,Obronca
+385544,piotr zerka,,15 kwi 1998 (25),Polska,,Obronca
+452655,michal klimczak,,21 wrz 1999 (24),Polska,,Obronca
+452659,albert jasitczak,,17 maj 1999 (24),Polska,,Obronca
+456457,artur cholerzynski,,8 sty 1999 (24),Polska,,Obronca
+456458,mikolaj kotowski,,11 lis 1999 (24),Polska,,Obronca
+385518,damian michalski,Belchatow,17 maj 1998 (25),Polska,"1,89 m",Srodkowy obronca
+385528,bartlomiej ozga,Wloszczowa,24 sie 1998 (25),Polska,"1,83 m",Srodkowy obronca
+479588,daniel chwalowski,Piotrkow ...,23 sie 2000 (23),Polska,,Srodkowy obronca
+385539,maciej walczak,,25 wrz 1998 (25),Polska,"1,82 m",Prawy obronca
+385545,bartlomiej zielinski,,20 gru 1999 (23),Polska,"1,79 m",Pomocnik
+512358,jakub szaniec,,3 sty 2000 (23),Polska,,Pomocnik
+385495,mateusz ciesielski,,25 mar 1998 (25),Polska,,Pomocnik
+385499,michal dymek,,16 lip 1998 (25),Polska,,Pomocnik
+385508,marcin lewicki,,31 mar 1998 (25),Polska,,Pomocnik
+385512,rafal marynowski,,2 sie 1998 (25),Polska,,Pomocnik
+385514,oskar mazerant,,3 cze 1998 (25),Polska,,Pomocnik
+385524,mikolaj nowak,,2 wrz 1998 (25),Polska,,Pomocnik
+385530,kacper podedworny,,27 pa� 1998 (25),Polska,,Pomocnik
+385538,rafal trzmiel,,22 kwi 1998 (25),Polska,,Pomocnik
+387688,marcel grot,,24 maj 1998 (25),Polska,,Pomocnik
+390982,marcin ryszka,,26 sty 1998 (25),Polska,"1,74 m",Defensywny pomocnik
+397871,kacper szafranski,,13 maj 1999 (24),Polska,,Pomocnik
+407319,aleksander michalski,,15 wrz 1999 (24),Polska,,Pomocnik
+426242,sebastian janik,,27 lut 1999 (24),Polska,,Pomocnik
+438652,damian siewiera,,28 lut 1999 (24),Polska,,Pomocnik
+452656,damian michalak,,18 sie 2000 (23),Polska,,Defensywny pomocnik
+452657,kornel stankiewicz,,17 mar 1999 (24),Polska,,Pomocnik
+452660,marcel ogrodowczyk,,29 sie 1999 (24),Polska,,Pomocnik
+456989,mieszko spiewak,,17 lut 2000 (23),Polska,,Pomocnik
+385478,wojciech byszewski,,9 lis 1998 (25),Polska,"1,72 m",Srodkowy pomocnik
+495431,kamil kopec,,4 mar 1998 (25),Polska,"1,83 m",Prawy pomocnik
+495430,kordian gorka,Siemianowice ...,30 pa� 1998 (25),Polska,"1,72 m",Lewy pomocnik
+385493,hubert berlowski,Belchatow,29 pa� 1998 (25),Polska,"1,83 m",Srodkowy napastnik
+385504,michal kutyba,,7 kwi 1998 (25),Polska,,Napastnik
+385532,filip przybylski,,7 kwi 1998 (25),Polska,,Napastnik
+385535,krzysztof ruszkiewicz,,15 lip 1998 (25),Polska,,Napastnik
+452658,kacper wojtczyk,,3 cze 1999 (24),Polska,,Napastnik
+452661,mateusz stolarczyk,Belchatow,4 maj 1999 (24),Polska,"1,80 m",Napastnik
+457852,konrad matuszewski,Belchatow,23 mar 2000 (23),Polska,"1,75 m",Napastnik
+458539,przemyslaw zdybowicz,Belchatow,10 sty 2000 (23),Polska,"1,85 m",Srodkowy napastnik
+465504,mateusz szyszkowski,,24 kwi 1999 (24),Polska,,Napastnik
