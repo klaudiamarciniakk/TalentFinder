@@ -22,14 +22,14 @@ def scrape_player(uri):
     name = url.split("transfermarkt.pl/")[1].split("/profil/")[0].replace("-", " ")
     header = soup.find_all('ul', {'class': 'data-header__items'})
     birth = header[0].find_all('li', {'class': 'data-header__label'})
-    brith_date = ""
+    birth_date = ""
     place_of_birth = ""
     nationality = ""
     height = ""
     position = ""
     for data in birth:
         if data.find("span")["itemprop"] == "birthDate":
-            brith_date = data.get_text().split("Urodz./Wiek:")[1].lstrip().strip()
+            birth_date = data.get_text().split("Urodz./Wiek:")[1].lstrip().strip()
         elif data.find("span")["itemprop"] == "birthPlace":
             place_of_birth = data.get_text().split("Miejsce urodzenia:")[1].lstrip().strip()
         elif data.find("span")["itemprop"] == "nationality":
@@ -41,7 +41,7 @@ def scrape_player(uri):
         elif "Pozycja" in data.get_text():
             position = data.get_text().split("Pozycja:")[1].lstrip().strip()
 
-    selected_keys = ['id', 'name', 'place_of_birth', 'brith_date', 'nationality', 'height', 'position']
+    selected_keys = ['id', 'name', 'place_of_birth', 'birth_date', 'nationality', 'height', 'position']
     players_file_src = os.path.join('..', '..', 'data', 'transfermarkt', 'players.csv')
     with open(players_file_src, "a", newline="") as csv_file:
         csv_writer = csv.DictWriter(csv_file, fieldnames=selected_keys)
@@ -49,7 +49,7 @@ def scrape_player(uri):
             "id": id,
             "name": unidecode(name),
             "place_of_birth": unidecode(place_of_birth),
-            "brith_date": brith_date,
+            "birth_date": birth_date,
             "nationality": unidecode(nationality),
             "height": height,
             "position": unidecode(position),
@@ -132,7 +132,7 @@ if __name__ == '__main__':
     with open(player_value_file_src,"a", newline="") as csv_file:
         csv_writer = csv.DictWriter(csv_file, fieldnames=selected_keys)
         csv_writer.writeheader()
-    selected_keys = ['id', 'name', 'place_of_birth', 'brith_date', 'nationality', 'height', 'position']
+    selected_keys = ['id', 'name', 'place_of_birth', 'birth_date', 'nationality', 'height', 'position']
     with open(players_file_src, "a", newline="") as csv_file:
         csv_writer = csv.DictWriter(csv_file, fieldnames=selected_keys)
         csv_writer.writeheader()

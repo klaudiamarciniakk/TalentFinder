@@ -1,4 +1,4 @@
-id,name,place_of_birth,brith_date,nationality,height,position
+id,name,place_of_birth,birth_date,nationality,height,position
 320897,kacper chorazka,Krakow,18 mar 1999 (24),Polska,"1,89 m",Bramkarz
 385903,kacper polak,,20 cze 1998 (25),Polska,"1,84 m",Bramkarz
 453144,mateusz burylo,Krakow,26 kwi 2000 (23),Polska,"1,81 m",Bramkarz
@@ -38,7 +38,7 @@ id,name,place_of_birth,brith_date,nationality,height,position
 431412,wojciech olesinski,Poznan,26 lut 1999 (24),Polska,,Bramkarz
 463117,bartosz przybysz,Szamotuly,14 lut 2000 (23),Polska,"1,90 m",Bramkarz
 468584,kacper wojakiewicz,,19 maj 2001 (22),Polska,,Bramkarz
-472082,oliwier szybiak,,1 paï¿½ 2001 (22),Polska,,Bramkarz
+472082,oliwier szybiak,,1 paŸ 2001 (22),Polska,,Bramkarz
 289163,jan andrzejewski,Gniezno,8 kwi 1998 (25),Polska,"1,72 m",Obronca
 407101,oskar nowak,Poznan,2 lut 2001 (22),Polska,"1,75 m",Obronca
 384520,marcin mackowiak,Poznan,25 lut 1999 (24),Polska,"1,80 m",Srodkowy obronca
@@ -79,9 +79,9 @@ id,name,place_of_birth,brith_date,nationality,height,position
 346549,dawid kurminowski,Srem,24 lut 1999 (24),Polska,"1,82 m",Srodkowy napastnik
 388953,pawel tomczyk,Poznan,4 maj 1998 (25),Polska,"1,85 m",Srodkowy napastnik
 433601,hubert sobol,Dobre Miasto,25 cze 2000 (23),Polska,"1,83 m",Srodkowy napastnik
-503799,kasper strozyk,,31 paï¿½ 1999 (24),Polska,,Napastnik
+503799,kasper strozyk,,31 paŸ 1999 (24),Polska,,Napastnik
 386964,mateusz szukala,Bytom,24 mar 1999 (24),Polska,"1,87 m",Bramkarz
-386952,tomasz lewandowski,,21 paï¿½ 1998 (25),Polska,,Bramkarz
+386952,tomasz lewandowski,,21 paŸ 1998 (25),Polska,,Bramkarz
 386955,marcin maslowski,Zabrze,14 sie 1998 (25),Polska,"1,86 m",Bramkarz
 428862,mateusz michalski,,12 lut 1998 (25),Polska,"1,90 m",Bramkarz
 456710,blazej mandrysz,,1 lip 1998 (25),Polska,,Bramkarz
@@ -98,7 +98,7 @@ id,name,place_of_birth,brith_date,nationality,height,position
 452978,robert pieczur,Zabrze,7 mar 1998 (25),Polska,"1,85 m",Srodkowy obronca
 454270,aleksander knabel,,7 sie 1999 (24),Polska,,Srodkowy obronca
 505728,kamil surowiec,Myszkow,23 mar 1999 (24),Polska,"1,87 m",Srodkowy obronca
-499979,milosz cwielong,,21 paï¿½ 1999 (24),Polska,"1,88 m",Lewy obronca
+499979,milosz cwielong,,21 paŸ 1999 (24),Polska,"1,88 m",Lewy obronca
 386940,jakub dylag,Nysa,24 sie 1998 (25),Polska,,Prawy obronca
 451153,mateusz kopia,,13 sty 2000 (23),Polska,"1,81 m",Prawy obronca
 454273,karol jaksik,Lubliniec,30 lip 1999 (24),Polska,"1,85 m",Prawy obronca
@@ -129,7 +129,7 @@ id,name,place_of_birth,brith_date,nationality,height,position
 499552,szymon krocz,,16 mar 2000 (23),Polska,"1,89 m",Srodkowy napastnik
 384402,piotr pruszynski,Tczew,26 lut 1998 (25),Polska,"1,85 m",Bramkarz
 400871,kacper krzepisz,Gdynia,16 gru 1999 (23),Polska,"1,90 m",Bramkarz
-403345,szymon wieckowicz,Gdansk,1 paï¿½ 1999 (24),Polska,"1,92 m",Bramkarz
+403345,szymon wieckowicz,Gdansk,1 paŸ 1999 (24),Polska,"1,92 m",Bramkarz
 384382,mateusz czaja,,11 kwi 1998 (25),Polska,,Obronca
 384399,bartosz olszewski,,28 mar 1998 (25),Polska,,Obronca
 455677,krzysztof bednarski,,18 sty 1999 (24),Polska,,Obronca
@@ -148,7 +148,7 @@ id,name,place_of_birth,brith_date,nationality,height,position
 401867,szymon nowicki,Koscierzyna,14 maj 1999 (24),Polska,"1,81 m",Prawy obronca
 455678,piotr grabowski,Wejherowo,29 sie 1999 (24),Polska,"1,77 m",Prawy obronca
 372739,dawid szalecki,Gdynia,2 wrz 2000 (23),Polska,"1,76 m",Pomocnik
-384391,maciej kaszorek,,12 paï¿½ 1998 (25),Polska,,Pomocnik
+384391,maciej kaszorek,,12 paŸ 1998 (25),Polska,,Pomocnik
 384400,jonatan pasieka,,18 sty 1998 (25),Polska,,Pomocnik
 384404,karol siejak,,17 sie 1998 (25),Polska,,Pomocnik
 385721,mateusz olszewski,,28 mar 1998 (25),Polska,,Pomocnik
@@ -161,7 +161,7 @@ id,name,place_of_birth,brith_date,nationality,height,position
 458723,mateusz klecha,,7 cze 1999 (24),Polska,,Pomocnik
 384803,dorian affeld,,22 sie 1999 (24),Polska,,Srodkowy pomocnik
 297231,jakub wawszczyk,Lipno,11 sty 1998 (25),Polska,"1,80 m",Lewy pomocnik
-454818,oskar ryk,Gdynia,28 paï¿½ 1999 (24),Polska,"1,73 m",Lewy napastnik
+454818,oskar ryk,Gdynia,28 paŸ 1999 (24),Polska,"1,73 m",Lewy napastnik
 512294,mateusz mlynski,Gdynia,2 sty 2001 (22),Polska,"1,78 m",Lewy napastnik
 345442,wojciech kafka,Wejherowo,3 kwi 2000 (23),Polska,"1,74 m",Napastnik
 384408,mateusz wesierski,Kartuzy,25 mar 1998 (25),Polska,"1,87 m",Srodkowy napastnik
@@ -253,7 +253,7 @@ id,name,place_of_birth,brith_date,nationality,height,position
 384490,filip sroka,,16 kwi 1998 (25),Polska,,Napastnik
 384494,bartlomiej tymoszuk,Miedzyrzec Podlaski,6 sty 1998 (25),Polska,"1,80 m",Napastnik
 407872,adrian zmuda,,5 cze 1998 (25),Polska,,Napastnik
-474243,jakub bator,Dabrowa Tarnowska,26 paï¿½ 2000 (23),Polska,"1,75 m",Srodkowy napastnik
+474243,jakub bator,Dabrowa Tarnowska,26 paŸ 2000 (23),Polska,"1,75 m",Srodkowy napastnik
 508770,grzegorz chlebda,Myslenice,24 cze 2000 (23),Polska,"1,85 m",Napastnik
 408955,krystian kalinowski,Warszawa,30 sty 1999 (24),Polska,"1,90 m",Bramkarz
 385202,grzegorz pyzio,,14 lut 1998 (25),Polska,,Bramkarz
@@ -264,7 +264,7 @@ id,name,place_of_birth,brith_date,nationality,height,position
 385192,karol kondrat,,27 maj 1998 (25),Polska,,Obronca
 385193,beniamin kucy,,25 kwi 1998 (25),Polska,,Obronca
 385194,damian maslej,,29 kwi 1998 (25),Polska,,Obronca
-385206,dawid sliwinski,,2 paï¿½ 1998 (25),Polska,,Obronca
+385206,dawid sliwinski,,2 paŸ 1998 (25),Polska,,Obronca
 453924,maciej diduszko,Swiebodzice,17 lut 1999 (24),Polska,"1,71 m",Obronca
 453930,radoslaw wasiuk,,17 sty 1999 (24),Polska,,Obronca
 387635,jakub ostrowski,,10 cze 1998 (25),Polska,"1,88 m",Srodkowy obronca
@@ -298,7 +298,7 @@ id,name,place_of_birth,brith_date,nationality,height,position
 385197,olaf nowak,Krakow,24 lut 1998 (25),Polska,"1,80 m",Srodkowy napastnik
 453933,przemyslaw siudak,Sulecin,18 sie 1999 (24),Polska,"1,77 m",Srodkowy napastnik
 456008,szymon tragarz,,7 maj 1999 (24),Polska,,Napastnik
-456009,marcel wolan,,8 paï¿½ 1999 (24),Polska,,Napastnik
+456009,marcel wolan,,8 paŸ 1999 (24),Polska,,Napastnik
 456010,norbert walczak,,7 maj 1999 (24),Polska,,Napastnik
 456011,karol wierzchowski,,20 cze 1999 (24),Polska,,Napastnik
 504868,dominik sasiak,Szczecin,20 mar 2001 (22),Polska,"1,91 m",Bramkarz
@@ -309,7 +309,7 @@ id,name,place_of_birth,brith_date,nationality,height,position
 387252,szymon walenski,Koszalin,22 lip 1998 (25),Polska,"1,86 m",Obronca
 364695,hubert sadowski,Szczecin,3 lut 2000 (23),Polska,"1,89 m",Srodkowy obronca
 387263,sebastian nagel,Nowogard,26 sty 1998 (25),Polska,"1,87 m",Srodkowy obronca
-454377,wojciech blyszko,Drawsko Pomorskie,5 paï¿½ 1999 (24),Polska,"1,96 m",Srodkowy obronca
+454377,wojciech blyszko,Drawsko Pomorskie,5 paŸ 1999 (24),Polska,"1,96 m",Srodkowy obronca
 387248,fabian pach,Pyrzyce,19 maj 1998 (25),Polska,"1,81 m",Lewy obronca
 372691,marcel stefaniak,Elblag,22 lut 2000 (23),Polska,"1,81 m",Lewy obronca
 387262,michal macuk,Szczecin,3 lut 1998 (25),Polska,,Lewy obronca
@@ -368,16 +368,16 @@ id,name,place_of_birth,brith_date,nationality,height,position
 465503,mateusz mikolajczyk,,22 sie 2000 (23),Polska,,Pomocnik
 466542,bartosz borowik,,1 mar 2000 (23),Polska,,Pomocnik
 503393,erwin grzybiak,,9 cze 2000 (23),Polska,,Pomocnik
-431482,mikolaj nawrocki,Zamosc,2 paï¿½ 2001 (22),Polska,"1,80 m",Srodkowy pomocnik
+431482,mikolaj nawrocki,Zamosc,2 paŸ 2001 (22),Polska,"1,80 m",Srodkowy pomocnik
 375195,jakub tabor,Madrid,10 lut 1999 (24),Polska,"1,86 m",Srodkowy pomocnik
 512542,kamil huczko,,9 maj 2000 (23),Polska,,Prawy pomocnik
-514528,kacper glowicki,Bialystok,18 paï¿½ 2000 (23),Polska,"1,83 m",Prawy pomocnik
+514528,kacper glowicki,Bialystok,18 paŸ 2000 (23),Polska,"1,83 m",Prawy pomocnik
 385857,marcin pigiel,Dabrowa ...,15 lut 1998 (25),Polska,"1,82 m",Lewy pomocnik
 287319,przemyslaw mystkowski,Bialystok,25 kwi 1998 (25),Polska,"1,78 m",Ofensywny pomocnik
 289164,michal domanski,Debica,21 mar 1998 (25),Polska,"1,72 m",Ofensywny pomocnik
 321232,pawel kaczmarczyk,Kolno,6 lip 1998 (25),Polska,"1,71 m",Lewy napastnik
-455325,mateusz nikolajuk,Bialystok,27 paï¿½ 2000 (23),Polska,"1,82 m",Prawy napastnik
-465499,jakub romanowicz,Glowno,3 paï¿½ 2000 (23),Polska,"1,80 m",Prawy napastnik
+455325,mateusz nikolajuk,Bialystok,27 paŸ 2000 (23),Polska,"1,82 m",Prawy napastnik
+465499,jakub romanowicz,Glowno,3 paŸ 2000 (23),Polska,"1,80 m",Prawy napastnik
 387153,patryk klimala,Swidnica,5 sie 1998 (25),Polska,"1,83 m",Srodkowy napastnik
 387657,damian toczydlowski,Bialystok,3 wrz 1998 (25),Polska,"1,76 m",Napastnik
 465502,jakub konon,,13 lis 2000 (23),Polska,,Napastnik
@@ -424,14 +424,14 @@ id,name,place_of_birth,brith_date,nationality,height,position
 393891,jozef burta,Siedlce,20 wrz 1999 (24),Polska,"1,95 m",Bramkarz
 404055,mateusz kochalski,Swidnik,25 lip 2000 (23),Polska,"1,90 m",Bramkarz
 387167,maciej ostrowski,Golub-Dobrzyn,25 wrz 1998 (25),Polska,"1,80 m",Srodkowy obronca
-297234,mateusz zyro,Warszawa,28 paï¿½ 1998 (25),Polska,"1,90 m",Srodkowy obronca
+297234,mateusz zyro,Warszawa,28 paŸ 1998 (25),Polska,"1,90 m",Srodkowy obronca
 342660,mateusz bondarenko,Lubsko,18 sie 1999 (24),Polska,"1,91 m",Srodkowy obronca
 345458,sebastian walukiewicz,Gorzow Wielkopolski,5 kwi 2000 (23),Polska,"1,88 m",Srodkowy obronca
 381929,kacper pietrzyk,Kozienice,16 kwi 1999 (24),Polska,"1,89 m",Srodkowy obronca
 387169,karol potrzebowski,,7 cze 1999 (24),Polska,,Srodkowy obronca
 387164,bartosz olszewski,Suwalki,8 sty 1999 (24),Polska,"1,80 m",Lewy obronca
 342042,adrian malachowski,Bydgoszcz,10 mar 1998 (25),Polska,"1,83 m",Defensywny pomocnik
-387082,eryk agnyziak,Warszawa,2 paï¿½ 1999 (24),Polska,,Pomocnik
+387082,eryk agnyziak,Warszawa,2 paŸ 1999 (24),Polska,,Pomocnik
 387148,jakub kaminski,,23 lut 1999 (24),Polska,"1,84 m",Defensywny pomocnik
 393727,wiktor sobczyk,Kolo,29 mar 1998 (25),Polska,,Defensywny pomocnik
 451948,bartosz zychowicz,,26 sty 1999 (24),Polska,"1,78 m",Pomocnik
@@ -460,7 +460,7 @@ id,name,place_of_birth,brith_date,nationality,height,position
 386249,krystian krupa,Lublin,5 wrz 1998 (25),Polska,"1,95 m",Bramkarz
 384979,michal andrzejkiewicz,,12 maj 1999 (24),Polska,,Bramkarz
 453392,oskar kasperek,,1 sty 2000 (23),Polska,"1,85 m",Bramkarz
-457436,alan rakowski,,4 paï¿½ 1999 (24),Polska,,Bramkarz
+457436,alan rakowski,,4 paŸ 1999 (24),Polska,,Bramkarz
 384986,marcin czajka,,29 cze 1998 (25),Polska,,Obronca
 386245,dorian goliszewski,,1 sty 1998 (25),Polska,,Obronca
 387008,sebastian pyda,,14 kwi 1998 (25),Polska,,Obronca
@@ -492,8 +492,8 @@ id,name,place_of_birth,brith_date,nationality,height,position
 512726,mikolaj grzeda,Chelm,31 sty 2000 (23),Polska,"1,86 m",Ofensywny pomocnik
 346552,olaf martynek,Pionki,13 mar 1998 (25),Polska,"1,84 m",Lewy napastnik
 421710,patryk szysz,Lublin,1 kwi 1998 (25),Polska,"1,77 m",Prawy napastnik
-433295,piotr lecki,,15 paï¿½ 1999,Polska,,Napastnik
-384977,rafal swaiti,,28 lip 1998 (25),Polska,,Napastnik
+433295,piotr lecki,,15 paŸ 1999,Polska,,Napastnik
+384977,rafal al swaiti,,28 lip 1998 (25),Polska,,Napastnik
 390985,adrian zielinski,,11 sty 1998 (25),Polska,,Napastnik
 453399,aleksander flis,,16 lut 1999 (24),Polska,,Napastnik
 456203,kacper persona,,29 mar 1999 (24),Polska,,Napastnik
@@ -545,7 +545,7 @@ id,name,place_of_birth,brith_date,nationality,height,position
 385512,rafal marynowski,,2 sie 1998 (25),Polska,,Pomocnik
 385514,oskar mazerant,,3 cze 1998 (25),Polska,,Pomocnik
 385524,mikolaj nowak,,2 wrz 1998 (25),Polska,,Pomocnik
-385530,kacper podedworny,,27 paï¿½ 1998 (25),Polska,,Pomocnik
+385530,kacper podedworny,,27 paŸ 1998 (25),Polska,,Pomocnik
 385538,rafal trzmiel,,22 kwi 1998 (25),Polska,,Pomocnik
 387688,marcel grot,,24 maj 1998 (25),Polska,,Pomocnik
 390982,marcin ryszka,,26 sty 1998 (25),Polska,"1,74 m",Defensywny pomocnik
@@ -559,8 +559,8 @@ id,name,place_of_birth,brith_date,nationality,height,position
 456989,mieszko spiewak,,17 lut 2000 (23),Polska,,Pomocnik
 385478,wojciech byszewski,,9 lis 1998 (25),Polska,"1,72 m",Srodkowy pomocnik
 495431,kamil kopec,,4 mar 1998 (25),Polska,"1,83 m",Prawy pomocnik
-495430,kordian gorka,Siemianowice ...,30 paï¿½ 1998 (25),Polska,"1,72 m",Lewy pomocnik
-385493,hubert berlowski,Belchatow,29 paï¿½ 1998 (25),Polska,"1,83 m",Srodkowy napastnik
+495430,kordian gorka,Siemianowice ...,30 paŸ 1998 (25),Polska,"1,72 m",Lewy pomocnik
+385493,hubert berlowski,Belchatow,29 paŸ 1998 (25),Polska,"1,83 m",Srodkowy napastnik
 385504,michal kutyba,,7 kwi 1998 (25),Polska,,Napastnik
 385532,filip przybylski,,7 kwi 1998 (25),Polska,,Napastnik
 385535,krzysztof ruszkiewicz,,15 lip 1998 (25),Polska,,Napastnik
