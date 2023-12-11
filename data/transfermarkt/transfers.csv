@@ -173,357 +173,6 @@ id,season,date,marketValue,fee,clubName1,clubName2
 459367,17/18,11 lip 2017,-,-,Wisla U19,Wisla Krakow
 459367,16/17,1 lip 2016,-,Bez odstepnego,Progres U19,Wisla U19
 459367,12/13,1 lip 2012,-,Bez odstepnego,Hutnik U19,Progres U19
-id,season,date,marketValue,fee,clubName1,clubName2
-320897,23/24,5 sie 2023,-,Bez odstepnego,Ermis Aradippou,ASIL Lysi
-320897,22/23,21 lip 2022,75 tys. EUR,Bez odstepnego,Omonia Nikozja,Ermis Aradippou
-320897,20/21,30 sty 2021,75 tys. EUR,50 tys. EUR,Z. Sosnowiec,Omonia Nikozja
-320897,20/21,7 sie 2020,50 tys. EUR,Bez odstepnego,Wisla Krakow,Z. Sosnowiec
-320897,19/20,31 lip 2020,50 tys. EUR,Koniec wypozyczenia,Z. Sosnowiec,Wisla Krakow
-320897,19/20,15 sie 2019,50 tys. EUR,Wypozyczenie,Wisla Krakow,Z. Sosnowiec
-320897,18/19,30 cze 2019,50 tys. EUR,Koniec wypozyczenia,Hutnik Krakow,Wisla Krakow
-320897,18/19,2 mar 2019,50 tys. EUR,Wypozyczenie,Wisla Krakow,Hutnik Krakow
-320897,18/19,31 gru 2018,50 tys. EUR,Koniec wypozyczenia,Rakow,Wisla Krakow
-320897,18/19,1 sie 2018,50 tys. EUR,Wypozyczenie,Wisla Krakow,Rakow
-320897,17/18,11 lip 2017,-,-,Wisla U19,Wisla Krakow
-320897,16/17,1 lip 2016,-,-,AP Wisla,Wisla U19
-385903,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,Sp. Lubliniec
-385903,16/17,1 lip 2016,-,?,Ruch U19,Wisla U19
-385903,15/16,1 lut 2016,-,Bez odstepnego,Polonia,Ruch U19
-385903,15/16,1 lip 2015,-,?,Nieznany,Polonia
-385903,14/15,1 sty 2015,-,?,Dr. Warszawa,Nieznany
-385903,14/15,1 lip 2014,-,?,AP Wisla,Dr. Warszawa
-385903,13/14,1 lip 2013,-,?,Wisla ,AP Wisla
-453144,18/19,1 sty 2019,-,-,Garbarnia U19,Koniec kariery
-453144,17/18,10 sie 2017,-,Bez odstepnego,Wisla U19,Garbarnia U19
-453144,16/17,1 lip 2016,-,Bez odstepnego,Garbarnia U19,Wisla U19
-453144,15/16,1 lut 2016,-,?,AP Profi,Garbarnia U19
-453144,15/16,1 lip 2015,-,Bez odstepnego,AP Wisla,AP Profi
-340871,21/22,6 sie 2021,-,-,Pauzuje,Polska
-340871,20/21,1 lip 2020,-,-,OKS Brzesko,Pauzuje
-340871,16/17,30 sie 2016,-,Bez odstepnego,Wisla Krakow II,OKS Brzesko
-340871,15/16,7 mar 2016,-,Bez odstepnego,OKS Brzesko,Wisla Krakow II
-384830,18/19,1 lip 2018,-,-,LKS Promna,Bez klubu
-384830,17/18,1 mar 2018,-,Bez odstepnego,Radomiak II,LKS Promna
-384830,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,Radomiak II
-385571,21/22,22 lip 2021,-,-,Bez klubu,Borek Krakow
-385571,18/19,1 lip 2018,-,-,Gwarek T.G.,Bez klubu
-385571,17/18,30 cze 2018,-,Koniec wypozyczenia,G. Piaski,Gwarek T.G.
-385571,17/18,1 lut 2018,-,Wypozyczenie,Gwarek T.G.,G. Piaski
-385571,17/18,1 sie 2017,-,Bez odstepnego,Wisla U19,Gwarek T.G.
-385571,16/17,1 lip 2016,-,Bez odstepnego,Hutnik U19,Wisla U19
-453142,19/20,1 lip 2019,-,Bez odstepnego,Cl. Krakow,Gorlice
-453142,18/19,1 lip 2018,-,Bez odstepnego,Progres U19,Cl. Krakow
-453142,16/17,1 lut 2017,-,?,Wisla U19,Progres U19
-453145,21/22,1 lip 2022,-,-,Nieznany,Bez klubu
-453145,20/21,1 lip 2020,-,Bez odstepnego,LKS Czaniec,Nieznany
-453145,18/19,1 lip 2018,-,Bez odstepnego,Wisla U19,LKS Czaniec
-455672,17/18,1 sty 2018,-,-,Sosnowianka,Koniec kariery
-455672,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,Sosnowianka
-455672,16/17,30 sie 2016,-,-,Wisla Krakow II,Wisla U19
-455672,16/17,1 lip 2016,-,?,Progres U19,Wisla Krakow II
-455672,12/13,1 lip 2012,-,?,Hutnik U19,Progres U19
-453143,21/22,1 lip 2021,50 tys. EUR,-,Miedz II,Bez klubu
-453143,19/20,31 sie 2019,50 tys. EUR,Bez odstepnego,Wisla Krakow,Miedz II
-453143,18/19,30 cze 2019,50 tys. EUR,Koniec wypozyczenia,Hutnik Krakow,Wisla Krakow
-453143,18/19,2 mar 2019,50 tys. EUR,Wypozyczenie,Wisla Krakow,Hutnik Krakow
-453143,17/18,1 lip 2018,-,-,Wisla U19,Wisla Krakow
-453143,16/17,1 lip 2016,-,-,AP Wisla,Wisla U19
-495419,21/22,19 sty 2022,-,-,Wieczysta,Bez klubu
-495419,20/21,3 lip 2020,50 tys. EUR,Bez odstepnego,Wisla Krakow II,Wieczysta
-495419,19/20,1 lip 2019,50 tys. EUR,-,Wisla U19,Wisla Krakow II
-384838,22/23,1 lip 2022,-,Bez odstepnego,Kocmyrzow,Pradniczanka K.
-384838,19/20,1 sie 2019,-,Bez odstepnego,Hutnik Krakow,Kocmyrzow
-384838,18/19,19 lip 2018,-,Bez odstepnego,Wisla Krakow II,Hutnik Krakow
-384838,17/18,30 cze 2018,-,Koniec wypozyczenia,Sola Oswiecim,Wisla Krakow II
-384838,17/18,22 lut 2018,-,Wypozyczenie,Wisla Krakow II,Sola Oswiecim
-384838,17/18,31 gru 2017,50 tys. EUR,Koniec wypozyczenia,Gryf Wejherowo,Wisla Krakow II
-384838,17/18,22 sie 2017,50 tys. EUR,Wypozyczenie,Wisla Krakow II,Gryf Wejherowo
-384838,17/18,1 lip 2017,50 tys. EUR,-,Wisla U19,Wisla Krakow II
-384838,15/16,1 lip 2015,-,-,AP Wisla,Wisla U19
-495237,23/24,14 wrz 2023,50 tys. EUR,-,Bez klubu,Chrobry Glogow
-495237,23/24,1 lip 2023,50 tys. EUR,-,Wisla Krakow,Bez klubu
-495237,19/20,31 lip 2020,100 tys. EUR,Koniec wypozyczenia,Stal Rzeszow,Wisla Krakow
-495237,19/20,2 wrz 2019,100 tys. EUR,Wypozyczenie,Wisla Krakow,Stal Rzeszow
-495237,17/18,11 lip 2017,300 tys. EUR,-,Wisla U19,Wisla Krakow
-384837,19/20,1 lip 2019,50 tys. EUR,Bez odstepnego,Miedz II,O. Ryczow
-384837,18/19,1 sie 2018,50 tys. EUR,Bez odstepnego,MKS Trzebinia,Miedz II
-384837,17/18,1 sie 2017,50 tys. EUR,Bez odstepnego,Wisla U19,MKS Trzebinia
-384834,17/18,1 lip 2017,-,-,Wisla U19,Koniec kariery
-384840,20/21,1 lip 2020,-,Bez odstepnego,Bochenski KS,Pradniczanka K.
-384840,18/19,1 lip 2018,-,Bez odstepnego,MKS Trzebinia,Bochenski KS
-384840,17/18,31 sty 2018,-,Bez odstepnego,Wisla Krakow II,MKS Trzebinia
-384840,17/18,1 lip 2017,-,-,Wisla U19,Wisla Krakow II
-384847,19/20,1 lip 2019,-,-,Gorlice,Bez klubu
-384847,18/19,31 gru 2018,-,Koniec wypozyczenia,Sola Oswiecim,Gorlice
-384847,17/18,22 lut 2018,-,Wypozyczenie,Gorlice,Sola Oswiecim
-384847,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,Gorlice
-385570,21/22,1 lip 2021,-,Bez odstepnego,Cl. Krakow,Pradniczanka K.
-385570,18/19,1 mar 2019,-,Bez odstepnego,Hutnik Krakow,Cl. Krakow
-385570,18/19,25 sie 2018,-,Bez odstepnego,Sola Oswiecim,Hutnik Krakow
-385570,18/19,1 lip 2018,-,Bez odstepnego,TS Wegrzce,Sola Oswiecim
-385570,17/18,30 cze 2018,-,Koniec wypozyczenia,Sola Oswiecim,TS Wegrzce
-385570,17/18,22 lut 2018,-,Wypozyczenie,TS Wegrzce,Sola Oswiecim
-385570,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,TS Wegrzce
-385570,16/17,1 lip 2016,-,?,Hutnik U19,Wisla U19
-393896,22/23,1 sie 2022,-,-,Pol. Glubczyce,LZS Walce
-393896,17/18,1 sie 2017,-,Bez odstepnego,Wisla U19,Pol. Glubczyce
-427824,22/23,1 lut 2023,-,Bez odstepnego,KS Podhalanin,Pcimianka Pcim
-427824,22/23,1 lip 2022,-,Bez odstepnego,Wojtowa,KS Podhalanin
-427824,21/22,18 mar 2022,-,-,Garbarnia,Wojtowa
-427824,20/21,13 sie 2020,50 tys. EUR,Bez odstepnego,GKS Tychy,Garbarnia
-427824,19/20,30 cze 2020,50 tys. EUR,Koniec wypozyczenia,KSZO Ostrowiec,GKS Tychy
-427824,19/20,6 lut 2020,50 tys. EUR,Wypozyczenie,GKS Tychy,KSZO Ostrowiec
-427824,18/19,13 lut 2019,50 tys. EUR,Bez odstepnego,Wisla Krakow,GKS Tychy
-427824,16/17,10 sty 2017,-,-,Wisla U19,Wisla Krakow
-427824,16/17,1 lip 2016,-,-,AP Wisla,Wisla U19
-453146,18/19,1 lip 2018,-,Bez odstepnego,Niepolomice U19,Wislanka Grabie
-453146,17/18,1 sty 2018,-,Bez odstepnego,Wisla U19,Niepolomice U19
-453147,23/24,1 lip 2023,-,-,Bez klubu,Nieznany
-453147,21/22,31 sty 2022,-,-,Termalica II,Bez klubu
-453147,19/20,1 lip 2019,-,-,Bruk-Bet U19,Termalica II
-453147,18/19,30 cze 2019,-,Koniec wypozyczenia,Dabrovia D.T.,Bruk-Bet U19
-453147,18/19,1 lip 2018,-,Wypozyczenie,Bruk-Bet U19,Dabrovia D.T.
-453147,17/18,18 sie 2017,-,Bez odstepnego,Wisla U19,Bruk-Bet U19
-495235,22/23,29 paz 2022,-,-,Bez klubu,LKS Trzebunia
-495235,20/21,30 cze 2021,-,-,Dalin M.,Bez klubu
-495235,17/18,1 lut 2018,-,Bez odstepnego,Wisla U19,Dalin M.
-495235,21/22,-,-,-,Dalin M.,Bez klubu
-495243,20/21,1 lut 2021,50 tys. EUR,Bez odstepnego,NKP Podhale,Luban Maniowy
-495243,19/20,1 sie 2019,50 tys. EUR,Bez odstepnego,Miedz Legnica,NKP Podhale
-495243,18/19,1 lip 2018,50 tys. EUR,Bez odstepnego,Wisla Krakow,Miedz Legnica
-495243,17/18,11 lip 2017,-,-,Wisla U19,Wisla Krakow
-495243,13/14,1 sty 2014,-,?,Dunajec,Wisla U19
-297226,23/24,11 lip 2023,-,Bez odstepnego,Garbarnia,NKP Podhale
-297226,21/22,23 lip 2021,50 tys. EUR,Bez odstepnego,Sokol Sieniawa,Garbarnia
-297226,18/19,28 lip 2018,50 tys. EUR,Bez odstepnego,Wisla Krakow,Sokol Sieniawa
-297226,17/18,30 cze 2018,50 tys. EUR,Koniec wypozyczenia,JKS Jaroslaw,Wisla Krakow
-297226,17/18,27 lip 2017,50 tys. EUR,Wypozyczenie,Wisla Krakow,JKS Jaroslaw
-297226,16/17,1 lip 2016,-,-,Wisla Krakow II,Wisla Krakow
-297226,14/15,1 sty 2015,-,-,Wisla U19,Wisla Krakow II
-453141,23/24,1 lip 2023,-,Bez odstepnego,Wisla Sand.,Podlasie B.P.
-453141,22/23,1 mar 2023,25 tys. EUR,Bez odstepnego,Jagiellonia,Wisla Sand.
-453141,22/23,31 gru 2022,25 tys. EUR,Koniec wypozyczenia,Motor Lublin,Jagiellonia
-453141,22/23,3 lip 2022,50 tys. EUR,Wypozyczenie,Jagiellonia,Motor Lublin
-453141,21/22,30 cze 2022,50 tys. EUR,Koniec wypozyczenia,Hutnik Krakow,Jagiellonia
-453141,21/22,9 lut 2022,100 tys. EUR,Wypozyczenie,Jagiellonia,Hutnik Krakow
-453141,21/22,4 lut 2022,100 tys. EUR,Koniec wypozyczenia,Stal Mielec,Jagiellonia
-453141,21/22,22 lip 2021,125 tys. EUR,Wypozyczenie,Jagiellonia,Stal Mielec
-453141,20/21,30 cze 2021,125 tys. EUR,Koniec wypozyczenia,P. Niepolomice,Jagiellonia
-453141,20/21,2 lut 2021,100 tys. EUR,Wypozyczenie,Jagiellonia,P. Niepolomice
-453141,20/21,10 sie 2020,-,Bez odstepnego,Wisla Krakow II,Jagiellonia
-453141,19/20,31 lip 2020,-,Koniec wypozyczenia,Garbarnia,Wisla Krakow II
-453141,19/20,25 lip 2019,-,Wypozyczenie,Wisla Krakow II,Garbarnia
-453141,18/19,30 cze 2019,-,Koniec wypozyczenia,Sola Oswiecim,Wisla Krakow II
-453141,18/19,27 lut 2019,-,Wypozyczenie,Wisla U19,Sola Oswiecim
-452671,23/24,1 lip 2023,-,7 tys. EUR,Garbarnia,Radunia Stezyca
-452671,21/22,21 lip 2021,75 tys. EUR,Bez odstepnego,Z. Sosnowiec,Garbarnia
-452671,20/21,31 gru 2020,150 tys. EUR,Koniec wypozyczenia,Skra Czesto.,Z. Sosnowiec
-452671,20/21,4 wrz 2020,150 tys. EUR,Wypozyczenie,Z. Sosnowiec,Skra Czesto.
-452671,19/20,1 lip 2019,50 tys. EUR,Bez odstepnego,Wisla Krakow,Z. Sosnowiec
-452671,18/19,31 gru 2018,50 tys. EUR,Koniec wypozyczenia,GKS Katowice,Wisla Krakow
-452671,17/18,13 lip 2017,50 tys. EUR,Wypozyczenie,Wisla Krakow,GKS Katowice
-452671,16/17,12 sty 2017,-,Bez odstepnego,Progres U19,Wisla Krakow
-452671,14/15,1 sty 2015,-,Bez odstepnego,Cracovia U19,Progres U19
-453140,22/23,4 lut 2023,-,Bez odstepnego,NKP Podhale,Czarni Polaniec
-453140,22/23,16 lip 2022,-,Bez odstepnego,Wierchy Rabka,NKP Podhale
-453140,21/22,30 cze 2022,-,Koniec wypozyczenia,Czarni Polaniec,Wierchy Rabka
-453140,21/22,1 sie 2021,-,Wypozyczenie,Wierchy Rabka,Czarni Polaniec
-453140,19/20,17 mar 2020,-,Bez odstepnego,O. Ryczow,Wierchy Rabka
-453140,19/20,1 lip 2019,-,Bez odstepnego,Pcimianka Pcim,O. Ryczow
-453140,18/19,1 lip 2018,-,Bez odstepnego,Wisla U19,Pcimianka Pcim
-453140,16/17,1 lip 2016,-,-,AP Wisla,Wisla U19
-384835,17/18,1 lip 2017,-,-,Jutrzenka,Bez klubu
-384835,16/17,1 sty 2017,-,Bez odstepnego,Wisla U19,Jutrzenka
-384835,20/21,-,-,-,Bez klubu,Modlnica
-384849,23/24,1 lip 2023,-,Bez odstepnego,Nieznany,Targowianka
-384849,21/22,1 lip 2021,-,Bez odstepnego,Bochenski KS,Nieznany
-384849,18/19,1 lip 2018,-,Bez odstepnego,MKS Trzebinia,Bochenski KS
-384849,17/18,1 sie 2017,-,Bez odstepnego,Wisla U19,MKS Trzebinia
-384855,17/18,1 sty 2018,-,-,LKS Promna,Koniec kariery
-384855,17/18,1 sie 2017,-,Bez odstepnego,Nieznany,LKS Promna
-384855,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,Nieznany
-453148,18/19,1 lip 2018,-,-,Garbarnia U19,Koniec kariery
-453148,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,Garbarnia U19
-459367,18/19,28 sie 2018,50 tys. EUR,Bez odstepnego,Wisla Krakow,Dalin M.
-459367,17/18,11 lip 2017,-,-,Wisla U19,Wisla Krakow
-459367,16/17,1 lip 2016,-,Bez odstepnego,Progres U19,Wisla U19
-459367,12/13,1 lip 2012,-,Bez odstepnego,Hutnik U19,Progres U19
-id,season,date,marketValue,fee,clubName1,clubName2
-id,season,date,marketValue,fee,clubName1,clubName2
-320897,23/24,5 sie 2023,-,Bez odstepnego,Ermis Aradippou,ASIL Lysi
-320897,22/23,21 lip 2022,75 tys. EUR,Bez odstepnego,Omonia Nikozja,Ermis Aradippou
-320897,20/21,30 sty 2021,75 tys. EUR,50 tys. EUR,Z. Sosnowiec,Omonia Nikozja
-320897,20/21,7 sie 2020,50 tys. EUR,Bez odstepnego,Wisla Krakow,Z. Sosnowiec
-320897,19/20,31 lip 2020,50 tys. EUR,Koniec wypozyczenia,Z. Sosnowiec,Wisla Krakow
-320897,19/20,15 sie 2019,50 tys. EUR,Wypozyczenie,Wisla Krakow,Z. Sosnowiec
-320897,18/19,30 cze 2019,50 tys. EUR,Koniec wypozyczenia,Hutnik Krakow,Wisla Krakow
-320897,18/19,2 mar 2019,50 tys. EUR,Wypozyczenie,Wisla Krakow,Hutnik Krakow
-320897,18/19,31 gru 2018,50 tys. EUR,Koniec wypozyczenia,Rakow,Wisla Krakow
-320897,18/19,1 sie 2018,50 tys. EUR,Wypozyczenie,Wisla Krakow,Rakow
-320897,17/18,11 lip 2017,-,-,Wisla U19,Wisla Krakow
-320897,16/17,1 lip 2016,-,-,AP Wisla,Wisla U19
-385903,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,Sp. Lubliniec
-385903,16/17,1 lip 2016,-,?,Ruch U19,Wisla U19
-385903,15/16,1 lut 2016,-,Bez odstepnego,Polonia,Ruch U19
-385903,15/16,1 lip 2015,-,?,Nieznany,Polonia
-385903,14/15,1 sty 2015,-,?,Dr. Warszawa,Nieznany
-385903,14/15,1 lip 2014,-,?,AP Wisla,Dr. Warszawa
-385903,13/14,1 lip 2013,-,?,Wisla ,AP Wisla
-453144,18/19,1 sty 2019,-,-,Garbarnia U19,Koniec kariery
-453144,17/18,10 sie 2017,-,Bez odstepnego,Wisla U19,Garbarnia U19
-453144,16/17,1 lip 2016,-,Bez odstepnego,Garbarnia U19,Wisla U19
-453144,15/16,1 lut 2016,-,?,AP Profi,Garbarnia U19
-453144,15/16,1 lip 2015,-,Bez odstepnego,AP Wisla,AP Profi
-340871,21/22,6 sie 2021,-,-,Pauzuje,Polska
-340871,20/21,1 lip 2020,-,-,OKS Brzesko,Pauzuje
-340871,16/17,30 sie 2016,-,Bez odstepnego,Wisla Krakow II,OKS Brzesko
-340871,15/16,7 mar 2016,-,Bez odstepnego,OKS Brzesko,Wisla Krakow II
-384830,18/19,1 lip 2018,-,-,LKS Promna,Bez klubu
-384830,17/18,1 mar 2018,-,Bez odstepnego,Radomiak II,LKS Promna
-384830,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,Radomiak II
-385571,21/22,22 lip 2021,-,-,Bez klubu,Borek Krakow
-385571,18/19,1 lip 2018,-,-,Gwarek T.G.,Bez klubu
-385571,17/18,30 cze 2018,-,Koniec wypozyczenia,G. Piaski,Gwarek T.G.
-385571,17/18,1 lut 2018,-,Wypozyczenie,Gwarek T.G.,G. Piaski
-385571,17/18,1 sie 2017,-,Bez odstepnego,Wisla U19,Gwarek T.G.
-385571,16/17,1 lip 2016,-,Bez odstepnego,Hutnik U19,Wisla U19
-453142,19/20,1 lip 2019,-,Bez odstepnego,Cl. Krakow,Gorlice
-453142,18/19,1 lip 2018,-,Bez odstepnego,Progres U19,Cl. Krakow
-453142,16/17,1 lut 2017,-,?,Wisla U19,Progres U19
-453145,21/22,1 lip 2022,-,-,Nieznany,Bez klubu
-453145,20/21,1 lip 2020,-,Bez odstepnego,LKS Czaniec,Nieznany
-453145,18/19,1 lip 2018,-,Bez odstepnego,Wisla U19,LKS Czaniec
-455672,17/18,1 sty 2018,-,-,Sosnowianka,Koniec kariery
-455672,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,Sosnowianka
-455672,16/17,30 sie 2016,-,-,Wisla Krakow II,Wisla U19
-455672,16/17,1 lip 2016,-,?,Progres U19,Wisla Krakow II
-455672,12/13,1 lip 2012,-,?,Hutnik U19,Progres U19
-453143,21/22,1 lip 2021,50 tys. EUR,-,Miedz II,Bez klubu
-453143,19/20,31 sie 2019,50 tys. EUR,Bez odstepnego,Wisla Krakow,Miedz II
-453143,18/19,30 cze 2019,50 tys. EUR,Koniec wypozyczenia,Hutnik Krakow,Wisla Krakow
-453143,18/19,2 mar 2019,50 tys. EUR,Wypozyczenie,Wisla Krakow,Hutnik Krakow
-453143,17/18,1 lip 2018,-,-,Wisla U19,Wisla Krakow
-453143,16/17,1 lip 2016,-,-,AP Wisla,Wisla U19
-495419,21/22,19 sty 2022,-,-,Wieczysta,Bez klubu
-495419,20/21,3 lip 2020,50 tys. EUR,Bez odstepnego,Wisla Krakow II,Wieczysta
-495419,19/20,1 lip 2019,50 tys. EUR,-,Wisla U19,Wisla Krakow II
-384838,22/23,1 lip 2022,-,Bez odstepnego,Kocmyrzow,Pradniczanka K.
-384838,19/20,1 sie 2019,-,Bez odstepnego,Hutnik Krakow,Kocmyrzow
-384838,18/19,19 lip 2018,-,Bez odstepnego,Wisla Krakow II,Hutnik Krakow
-384838,17/18,30 cze 2018,-,Koniec wypozyczenia,Sola Oswiecim,Wisla Krakow II
-384838,17/18,22 lut 2018,-,Wypozyczenie,Wisla Krakow II,Sola Oswiecim
-384838,17/18,31 gru 2017,50 tys. EUR,Koniec wypozyczenia,Gryf Wejherowo,Wisla Krakow II
-384838,17/18,22 sie 2017,50 tys. EUR,Wypozyczenie,Wisla Krakow II,Gryf Wejherowo
-384838,17/18,1 lip 2017,50 tys. EUR,-,Wisla U19,Wisla Krakow II
-384838,15/16,1 lip 2015,-,-,AP Wisla,Wisla U19
-495237,23/24,14 wrz 2023,50 tys. EUR,-,Bez klubu,Chrobry Glogow
-495237,23/24,1 lip 2023,50 tys. EUR,-,Wisla Krakow,Bez klubu
-495237,19/20,31 lip 2020,100 tys. EUR,Koniec wypozyczenia,Stal Rzeszow,Wisla Krakow
-495237,19/20,2 wrz 2019,100 tys. EUR,Wypozyczenie,Wisla Krakow,Stal Rzeszow
-495237,17/18,11 lip 2017,300 tys. EUR,-,Wisla U19,Wisla Krakow
-384837,19/20,1 lip 2019,50 tys. EUR,Bez odstepnego,Miedz II,O. Ryczow
-384837,18/19,1 sie 2018,50 tys. EUR,Bez odstepnego,MKS Trzebinia,Miedz II
-384837,17/18,1 sie 2017,50 tys. EUR,Bez odstepnego,Wisla U19,MKS Trzebinia
-384834,17/18,1 lip 2017,-,-,Wisla U19,Koniec kariery
-384840,20/21,1 lip 2020,-,Bez odstepnego,Bochenski KS,Pradniczanka K.
-384840,18/19,1 lip 2018,-,Bez odstepnego,MKS Trzebinia,Bochenski KS
-384840,17/18,31 sty 2018,-,Bez odstepnego,Wisla Krakow II,MKS Trzebinia
-384840,17/18,1 lip 2017,-,-,Wisla U19,Wisla Krakow II
-384847,19/20,1 lip 2019,-,-,Gorlice,Bez klubu
-384847,18/19,31 gru 2018,-,Koniec wypozyczenia,Sola Oswiecim,Gorlice
-384847,17/18,22 lut 2018,-,Wypozyczenie,Gorlice,Sola Oswiecim
-384847,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,Gorlice
-385570,21/22,1 lip 2021,-,Bez odstepnego,Cl. Krakow,Pradniczanka K.
-385570,18/19,1 mar 2019,-,Bez odstepnego,Hutnik Krakow,Cl. Krakow
-385570,18/19,25 sie 2018,-,Bez odstepnego,Sola Oswiecim,Hutnik Krakow
-385570,18/19,1 lip 2018,-,Bez odstepnego,TS Wegrzce,Sola Oswiecim
-385570,17/18,30 cze 2018,-,Koniec wypozyczenia,Sola Oswiecim,TS Wegrzce
-385570,17/18,22 lut 2018,-,Wypozyczenie,TS Wegrzce,Sola Oswiecim
-385570,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,TS Wegrzce
-385570,16/17,1 lip 2016,-,?,Hutnik U19,Wisla U19
-393896,22/23,1 sie 2022,-,-,Pol. Glubczyce,LZS Walce
-393896,17/18,1 sie 2017,-,Bez odstepnego,Wisla U19,Pol. Glubczyce
-427824,22/23,1 lut 2023,-,Bez odstepnego,KS Podhalanin,Pcimianka Pcim
-427824,22/23,1 lip 2022,-,Bez odstepnego,Wojtowa,KS Podhalanin
-427824,21/22,18 mar 2022,-,-,Garbarnia,Wojtowa
-427824,20/21,13 sie 2020,50 tys. EUR,Bez odstepnego,GKS Tychy,Garbarnia
-427824,19/20,30 cze 2020,50 tys. EUR,Koniec wypozyczenia,KSZO Ostrowiec,GKS Tychy
-427824,19/20,6 lut 2020,50 tys. EUR,Wypozyczenie,GKS Tychy,KSZO Ostrowiec
-427824,18/19,13 lut 2019,50 tys. EUR,Bez odstepnego,Wisla Krakow,GKS Tychy
-427824,16/17,10 sty 2017,-,-,Wisla U19,Wisla Krakow
-427824,16/17,1 lip 2016,-,-,AP Wisla,Wisla U19
-453146,18/19,1 lip 2018,-,Bez odstepnego,Niepolomice U19,Wislanka Grabie
-453146,17/18,1 sty 2018,-,Bez odstepnego,Wisla U19,Niepolomice U19
-453147,23/24,1 lip 2023,-,-,Bez klubu,Nieznany
-453147,21/22,31 sty 2022,-,-,Termalica II,Bez klubu
-453147,19/20,1 lip 2019,-,-,Bruk-Bet U19,Termalica II
-453147,18/19,30 cze 2019,-,Koniec wypozyczenia,Dabrovia D.T.,Bruk-Bet U19
-453147,18/19,1 lip 2018,-,Wypozyczenie,Bruk-Bet U19,Dabrovia D.T.
-453147,17/18,18 sie 2017,-,Bez odstepnego,Wisla U19,Bruk-Bet U19
-495235,22/23,29 paz 2022,-,-,Bez klubu,LKS Trzebunia
-495235,20/21,30 cze 2021,-,-,Dalin M.,Bez klubu
-495235,17/18,1 lut 2018,-,Bez odstepnego,Wisla U19,Dalin M.
-495235,21/22,-,-,-,Dalin M.,Bez klubu
-495243,20/21,1 lut 2021,50 tys. EUR,Bez odstepnego,NKP Podhale,Luban Maniowy
-495243,19/20,1 sie 2019,50 tys. EUR,Bez odstepnego,Miedz Legnica,NKP Podhale
-495243,18/19,1 lip 2018,50 tys. EUR,Bez odstepnego,Wisla Krakow,Miedz Legnica
-495243,17/18,11 lip 2017,-,-,Wisla U19,Wisla Krakow
-495243,13/14,1 sty 2014,-,?,Dunajec,Wisla U19
-297226,23/24,11 lip 2023,-,Bez odstepnego,Garbarnia,NKP Podhale
-297226,21/22,23 lip 2021,50 tys. EUR,Bez odstepnego,Sokol Sieniawa,Garbarnia
-297226,18/19,28 lip 2018,50 tys. EUR,Bez odstepnego,Wisla Krakow,Sokol Sieniawa
-297226,17/18,30 cze 2018,50 tys. EUR,Koniec wypozyczenia,JKS Jaroslaw,Wisla Krakow
-297226,17/18,27 lip 2017,50 tys. EUR,Wypozyczenie,Wisla Krakow,JKS Jaroslaw
-297226,16/17,1 lip 2016,-,-,Wisla Krakow II,Wisla Krakow
-297226,14/15,1 sty 2015,-,-,Wisla U19,Wisla Krakow II
-453141,23/24,1 lip 2023,-,Bez odstepnego,Wisla Sand.,Podlasie B.P.
-453141,22/23,1 mar 2023,25 tys. EUR,Bez odstepnego,Jagiellonia,Wisla Sand.
-453141,22/23,31 gru 2022,25 tys. EUR,Koniec wypozyczenia,Motor Lublin,Jagiellonia
-453141,22/23,3 lip 2022,50 tys. EUR,Wypozyczenie,Jagiellonia,Motor Lublin
-453141,21/22,30 cze 2022,50 tys. EUR,Koniec wypozyczenia,Hutnik Krakow,Jagiellonia
-453141,21/22,9 lut 2022,100 tys. EUR,Wypozyczenie,Jagiellonia,Hutnik Krakow
-453141,21/22,4 lut 2022,100 tys. EUR,Koniec wypozyczenia,Stal Mielec,Jagiellonia
-453141,21/22,22 lip 2021,125 tys. EUR,Wypozyczenie,Jagiellonia,Stal Mielec
-453141,20/21,30 cze 2021,125 tys. EUR,Koniec wypozyczenia,P. Niepolomice,Jagiellonia
-453141,20/21,2 lut 2021,100 tys. EUR,Wypozyczenie,Jagiellonia,P. Niepolomice
-453141,20/21,10 sie 2020,-,Bez odstepnego,Wisla Krakow II,Jagiellonia
-453141,19/20,31 lip 2020,-,Koniec wypozyczenia,Garbarnia,Wisla Krakow II
-453141,19/20,25 lip 2019,-,Wypozyczenie,Wisla Krakow II,Garbarnia
-453141,18/19,30 cze 2019,-,Koniec wypozyczenia,Sola Oswiecim,Wisla Krakow II
-453141,18/19,27 lut 2019,-,Wypozyczenie,Wisla U19,Sola Oswiecim
-452671,23/24,1 lip 2023,-,7 tys. EUR,Garbarnia,Radunia Stezyca
-452671,21/22,21 lip 2021,75 tys. EUR,Bez odstepnego,Z. Sosnowiec,Garbarnia
-452671,20/21,31 gru 2020,150 tys. EUR,Koniec wypozyczenia,Skra Czesto.,Z. Sosnowiec
-452671,20/21,4 wrz 2020,150 tys. EUR,Wypozyczenie,Z. Sosnowiec,Skra Czesto.
-452671,19/20,1 lip 2019,50 tys. EUR,Bez odstepnego,Wisla Krakow,Z. Sosnowiec
-452671,18/19,31 gru 2018,50 tys. EUR,Koniec wypozyczenia,GKS Katowice,Wisla Krakow
-452671,17/18,13 lip 2017,50 tys. EUR,Wypozyczenie,Wisla Krakow,GKS Katowice
-452671,16/17,12 sty 2017,-,Bez odstepnego,Progres U19,Wisla Krakow
-452671,14/15,1 sty 2015,-,Bez odstepnego,Cracovia U19,Progres U19
-453140,22/23,4 lut 2023,-,Bez odstepnego,NKP Podhale,Czarni Polaniec
-453140,22/23,16 lip 2022,-,Bez odstepnego,Wierchy Rabka,NKP Podhale
-453140,21/22,30 cze 2022,-,Koniec wypozyczenia,Czarni Polaniec,Wierchy Rabka
-453140,21/22,1 sie 2021,-,Wypozyczenie,Wierchy Rabka,Czarni Polaniec
-453140,19/20,17 mar 2020,-,Bez odstepnego,O. Ryczow,Wierchy Rabka
-453140,19/20,1 lip 2019,-,Bez odstepnego,Pcimianka Pcim,O. Ryczow
-453140,18/19,1 lip 2018,-,Bez odstepnego,Wisla U19,Pcimianka Pcim
-453140,16/17,1 lip 2016,-,-,AP Wisla,Wisla U19
-384835,17/18,1 lip 2017,-,-,Jutrzenka,Bez klubu
-384835,16/17,1 sty 2017,-,Bez odstepnego,Wisla U19,Jutrzenka
-384835,20/21,-,-,-,Bez klubu,Modlnica
-384849,23/24,1 lip 2023,-,Bez odstepnego,Nieznany,Targowianka
-384849,21/22,1 lip 2021,-,Bez odstepnego,Bochenski KS,Nieznany
-384849,18/19,1 lip 2018,-,Bez odstepnego,MKS Trzebinia,Bochenski KS
-384849,17/18,1 sie 2017,-,Bez odstepnego,Wisla U19,MKS Trzebinia
-384855,17/18,1 sty 2018,-,-,LKS Promna,Koniec kariery
-384855,17/18,1 sie 2017,-,Bez odstepnego,Nieznany,LKS Promna
-384855,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,Nieznany
-453148,18/19,1 lip 2018,-,-,Garbarnia U19,Koniec kariery
-453148,17/18,1 lip 2017,-,Bez odstepnego,Wisla U19,Garbarnia U19
-459367,18/19,28 sie 2018,50 tys. EUR,Bez odstepnego,Wisla Krakow,Dalin M.
-459367,17/18,11 lip 2017,-,-,Wisla U19,Wisla Krakow
-459367,16/17,1 lip 2016,-,Bez odstepnego,Progres U19,Wisla U19
-459367,12/13,1 lip 2012,-,Bez odstepnego,Hutnik U19,Progres U19
 345452,22/23,30 cze 2023,900 tys. EUR,Koniec wypozyczenia,Stal Mielec,Lech Poznan
 345452,21/22,12 maj 2022,100 tys. EUR,Wypozyczenie,Lech Poznan,Stal Mielec
 345452,20/21,30 cze 2021,100 tys. EUR,Koniec wypozyczenia,GKS Katowice,Lech Poznan
@@ -653,19 +302,6 @@ id,season,date,marketValue,fee,clubName1,clubName2
 345451,18/19,1 lip 2018,300 tys. EUR,Bez odstepnego,Lech Poznan II,Wisla Krakow
 345451,16/17,1 sty 2017,-,-,Lech U19,Lech Poznan II
 345451,14/15,1 lip 2014,-,Bez odstepnego,Blekitni Wronki,Lech U19
-361575,23/24,30 cze 2024,"1,50 mln EUR",Koniec wypozyczenia,1.FC K'lautern,Union Berlin
-361575,23/24,1 lip 2023,"1,20 mln EUR",Wypozyczenie,Union Berlin,1.FC K'lautern
-361575,22/23,30 cze 2023,"1,20 mln EUR",Koniec wypozyczenia,Panathinaikos,Union Berlin
-361575,22/23,1 sty 2023,"1,50 mln EUR",Wypozyczenie,Union Berlin,Panathinaikos
-361575,21/22,30 cze 2022,"2,30 mln EUR",Koniec wypozyczenia,Trabzonspor,Union Berlin
-361575,21/22,12 sty 2022,"2,50 mln EUR","Wypozyczenie:<br /><i class=""normaler-text"">200 tys. EUR</i>",Union Berlin,Trabzonspor
-361575,21/22,1 lip 2021,"3,50 mln EUR","2,50 mln EUR",Lech Poznan,Union Berlin
-361575,18/19,30 cze 2019,600 tys. EUR,Koniec wypozyczenia,GKS Katowice,Lech Poznan
-361575,18/19,31 sie 2018,175 tys. EUR,Wypozyczenie,Lech Poznan,GKS Katowice
-361575,18/19,30 sie 2018,175 tys. EUR,Koniec wypozyczenia,Z. Sosnowiec,Lech Poznan
-361575,17/18,1 sty 2018,100 tys. EUR,Wypozyczenie,Lech Poznan,Z. Sosnowiec
-361575,16/17,9 sty 2017,-,-,Lech U19,Lech Poznan
-361575,13/14,1 lip 2013,-,?,Falubaz U19,Lech U19
 456453,23/24,18 lip 2023,-,Bez odstepnego,Szturm J.,Unia Swarzedz
 456453,22/23,1 paz 2022,-,-,Bez klubu,Szturm J.
 456453,22/23,1 lip 2022,-,-,Pogon Grodzisk,Bez klubu
@@ -781,6 +417,19 @@ id,season,date,marketValue,fee,clubName1,clubName2
 494746,20/21,11 lip 2020,-,Wypozyczenie,Polonia Sroda,Gornik Konin
 494746,19/20,22 lip 2019,-,Bez odstepnego,Lech Poznan II,Polonia Sroda
 494746,18/19,1 lip 2018,-,-,Lech U19,Lech Poznan II
+361575,23/24,30 cze 2024,"1,50 mln EUR",Koniec wypozyczenia,1.FC K'lautern,Union Berlin
+361575,23/24,1 lip 2023,"1,20 mln EUR",Wypozyczenie,Union Berlin,1.FC K'lautern
+361575,22/23,30 cze 2023,"1,20 mln EUR",Koniec wypozyczenia,Panathinaikos,Union Berlin
+361575,22/23,1 sty 2023,"1,50 mln EUR",Wypozyczenie,Union Berlin,Panathinaikos
+361575,21/22,30 cze 2022,"2,30 mln EUR",Koniec wypozyczenia,Trabzonspor,Union Berlin
+361575,21/22,12 sty 2022,"2,50 mln EUR","Wypozyczenie:<br /><i class=""normaler-text"">200 tys. EUR</i>",Union Berlin,Trabzonspor
+361575,21/22,1 lip 2021,"3,50 mln EUR","2,50 mln EUR",Lech Poznan,Union Berlin
+361575,18/19,30 cze 2019,600 tys. EUR,Koniec wypozyczenia,GKS Katowice,Lech Poznan
+361575,18/19,31 sie 2018,175 tys. EUR,Wypozyczenie,Lech Poznan,GKS Katowice
+361575,18/19,30 sie 2018,175 tys. EUR,Koniec wypozyczenia,Z. Sosnowiec,Lech Poznan
+361575,17/18,1 sty 2018,100 tys. EUR,Wypozyczenie,Lech Poznan,Z. Sosnowiec
+361575,16/17,9 sty 2017,-,-,Lech U19,Lech Poznan
+361575,13/14,1 lip 2013,-,?,Falubaz U19,Lech U19
 437391,21/22,30 cze 2022,-,Koniec wypozyczenia,Stalowa Wola,Igloopol Debica
 437391,21/22,1 lip 2021,-,Wypozyczenie,Igloopol Debica,Stalowa Wola
 437391,20/21,30 cze 2021,-,Koniec wypozyczenia,Stalowa Wola,Igloopol Debica
@@ -2237,12 +1886,6 @@ id,season,date,marketValue,fee,clubName1,clubName2
 387263,17/18,4 mar 2018,-,Wypozyczenie,Pogon II,Swit Szczecin
 387263,17/18,1 lip 2017,-,-,Pogon U19,Pogon II
 387263,14/15,1 lip 2014,-,Bez odstepnego,Gryf Kamien,Pogon U19
-425763,23/24,1 lip 2023,250 tys. EUR,Bez odstepnego,Zaglebie Lubin,Ruch Chorzow
-425763,20/21,31 lip 2020,-,5 tys. EUR,Ruch Chorzow,Zaglebie Lubin
-425763,18/19,17 lip 2018,-,Bez odstepnego,Pogon II,Ruch Chorzow
-425763,17/18,30 cze 2018,-,Koniec wypozyczenia,Stilon,Pogon II
-425763,17/18,2 lip 2017,-,Wypozyczenie,Pogon II,Stilon
-425763,17/18,1 lip 2017,-,-,Pogon U19,Pogon II
 454377,23/24,1 lip 2023,-,Bez odstepnego,Wisla Pulawy,Znicz Pruszkow
 454377,22/23,3 lut 2023,50 tys. EUR,Bez odstepnego,Chojniczanka,Wisla Pulawy
 454377,22/23,1 lip 2022,-,Bez odstepnego,Motor Lublin,Chojniczanka
@@ -2268,3 +1911,1526 @@ id,season,date,marketValue,fee,clubName1,clubName2
 387262,20/21,1 lip 2020,-,-,Altludersdorf,Bez klubu
 387262,17/18,1 lip 2017,-,Bez odstepnego,Pogon U19,Altludersdorf
 387262,14/15,1 lip 2014,-,-,AP Pogon,Pogon U19
+425763,23/24,1 lip 2023,250 tys. EUR,Bez odstepnego,Zaglebie Lubin,Ruch Chorzow
+425763,20/21,31 lip 2020,-,5 tys. EUR,Ruch Chorzow,Zaglebie Lubin
+425763,18/19,17 lip 2018,-,Bez odstepnego,Pogon II,Ruch Chorzow
+425763,17/18,30 cze 2018,-,Koniec wypozyczenia,Stilon,Pogon II
+425763,17/18,2 lip 2017,-,Wypozyczenie,Pogon II,Stilon
+425763,17/18,1 lip 2017,-,-,Pogon U19,Pogon II
+503007,23/24,11 lip 2023,125 tys. EUR,Bez odstepnego,Proodeftiki,Wisla Pulawy
+503007,22/23,16 sie 2022,100 tys. EUR,Bez odstepnego,GKS Katowice,Proodeftiki
+503007,19/20,27 lut 2020,50 tys. EUR,5 tys. EUR,Rakow,GKS Katowice
+503007,19/20,31 gru 2019,50 tys. EUR,Koniec wypozyczenia,Skra Czesto.,Rakow
+503007,19/20,24 lip 2019,50 tys. EUR,Wypozyczenie,Rakow,Skra Czesto.
+503007,18/19,28 lut 2019,-,Bez odstepnego,KS Lomianki,Rakow
+503007,18/19,1 lip 2018,-,Bez odstepnego,Pogon U19,KS Lomianki
+503007,16/17,1 kwi 2017,-,-,AP Pogon,Pogon U19
+425742,22/23,1 sie 2022,-,Bez odstepnego,Unia Janikowo,Swit Szczecin
+425742,21/22,30 lis 2021,-,Bez odstepnego,Polonia Sroda,Unia Janikowo
+425742,18/19,2 sie 2018,50 tys. EUR,Bez odstepnego,Pogon Szczecin,Polonia Sroda
+425742,16/17,11 sie 2016,-,Bez odstepnego,Wa. Poznan U19,Pogon Szczecin
+425742,15/16,1 sty 2016,-,?,Polonia Sroda,Wa. Poznan U19
+425742,14/15,1 sty 2015,-,-,Polonia SW U19,Polonia Sroda
+454380,22/23,2 lut 2023,-,Bez odstepnego,Kotwica,Zawisza
+454380,21/22,3 mar 2022,-,Bez odstepnego,GKS Belchatow,Kotwica
+454380,21/22,28 lip 2021,-,Bez odstepnego,Pogon II,GKS Belchatow
+454380,20/21,30 cze 2021,-,Koniec wypozyczenia,Olimpia Grudz.,Pogon II
+454380,20/21,19 sie 2020,-,Wypozyczenie,Pogon II,Olimpia Grudz.
+454380,18/19,1 lip 2018,-,-,Pogon U19,Pogon II
+454380,14/15,1 lip 2014,-,-,AP Pogon,Pogon U19
+407953,23/24,30 cze 2024,50 tys. EUR,Koniec wypozyczenia,Polonia Bytom,P. Niepolomice
+407953,23/24,20 lip 2023,50 tys. EUR,Wypozyczenie,P. Niepolomice,Polonia Bytom
+407953,22/23,1 lip 2022,-,Bez odstepnego,Stalowa Wola,P. Niepolomice
+407953,19/20,1 lip 2019,-,Bez odstepnego,Pogon II,Stalowa Wola
+407953,18/19,30 cze 2019,-,Koniec wypozyczenia,Stalowa Wola,Pogon II
+407953,17/18,24 sty 2018,-,Wypozyczenie,Pogon II,Stalowa Wola
+407953,16/17,1 lip 2016,-,-,Pogon U19,Pogon II
+407953,15/16,1 lip 2015,-,?,Rzeszow U19,Pogon U19
+409048,22/23,1 lip 2022,-,-,Pogon II,Pogon Szczecin
+409048,19/20,31 gru 2019,50 tys. EUR,Koniec wypozyczenia,Legionovia,Pogon II
+409048,19/20,26 lip 2019,50 tys. EUR,Wypozyczenie,Pogon II,Legionovia
+409048,19/20,1 lip 2019,50 tys. EUR,-,Pogon Szczecin,Pogon II
+409048,18/19,1 lip 2018,-,-,Pogon II,Pogon Szczecin
+409048,16/17,1 lip 2016,-,-,Pogon U19,Pogon II
+409048,15/16,1 lip 2015,-,Bez odstepnego,Lech U19,Pogon U19
+409048,13/14,1 lip 2013,-,-,AP Lech,Lech U19
+454388,22/23,20 lip 2022,500 tys. EUR,?,Pogon Szczecin,Warta Poznan
+454388,20/21,30 cze 2021,500 tys. EUR,Koniec wypozyczenia,Warta Poznan,Pogon Szczecin
+454388,20/21,13 sty 2021,200 tys. EUR,Wypozyczenie,Pogon Szczecin,Warta Poznan
+454388,18/19,12 lip 2018,-,-,Pogon U19,Pogon Szczecin
+454388,15/16,1 sty 2016,-,Bez odstepnego,Wlokniarz U19,Pogon U19
+454388,13/14,1 sty 2014,-,Bez odstepnego,Elana U19,Wlokniarz U19
+494482,20/21,1 sie 2020,-,Bez odstepnego,Nieznany,Dab Debno
+494482,19/20,1 sie 2019,-,Bez odstepnego,Dab Debno,Nieznany
+494482,18/19,18 mar 2019,-,Bez odstepnego,Bez klubu,Dab Debno
+494482,18/19,1 lip 2018,-,Bez odstepnego,Stilon,Bez klubu
+494482,17/18,1 lut 2018,-,?,Pogon U19,Stilon
+506593,20/21,1 lip 2020,-,-,Sparta Weg.,Bez klubu
+506593,19/20,1 wrz 2019,-,Bez odstepnego,Gryf Kamien,Sparta Weg.
+506593,18/19,1 sie 2018,-,Bez odstepnego,Sparta Weg.,Gryf Kamien
+506593,17/18,1 lip 2017,-,Bez odstepnego,Pogon U19,Sparta Weg.
+506593,16/17,1 maj 2017,-,-,AP Pogon,Pogon U19
+506593,13/14,1 lip 2013,-,Bez odstepnego,Stal U19,AP Pogon
+506593,12/13,1 lip 2012,-,Bez odstepnego,Nowogard,Stal U19
+320741,23/24,14 lip 2023,-,Bez odstepnego,Sosnowiec II,KTS Weszlo 
+320741,21/22,30 cze 2022,50 tys. EUR,Koniec wypozyczenia,Pogon Grodzisk,Z. Sosnowiec
+320741,21/22,4 lut 2022,100 tys. EUR,Wypozyczenie,Z. Sosnowiec,Pogon Grodzisk
+320741,21/22,1 lip 2021,200 tys. EUR,Bez odstepnego,Wisla Krakow,Z. Sosnowiec
+320741,20/21,30 cze 2021,200 tys. EUR,Koniec wypozyczenia,Stal Mielec,Wisla Krakow
+320741,20/21,4 wrz 2020,200 tys. EUR,Wypozyczenie,Wisla Krakow,Stal Mielec
+320741,19/20,27 sie 2019,300 tys. EUR,Bez odstepnego,Pogon Szczecin,Wisla Krakow
+320741,18/19,30 cze 2019,300 tys. EUR,Koniec wypozyczenia,Wigry Suwalki,Pogon Szczecin
+320741,18/19,1 lip 2018,-,Wypozyczenie,Pogon Szczecin,Wigry Suwalki
+320741,17/18,13 lip 2017,-,-,Pogon II,Pogon Szczecin
+320741,16/17,1 lip 2016,-,-,Pogon U19,Pogon II
+320741,13/14,1 lip 2013,-,-,AP Pogon,Pogon U19
+320741,11/12,1 lip 2011,-,Bez odstepnego,S. Szczecin U19,AP Pogon
+387245,22/23,11 sty 2023,-,Bez odstepnego,Vineta Wolin,Sparta Gryfice
+387245,21/22,1 sty 2022,-,Bez odstepnego,Budowlani M.,Vineta Wolin
+387245,21/22,29 lip 2021,75 tys. EUR,Bez odstepnego,Pogon II,Budowlani M.
+387245,20/21,1 mar 2021,75 tys. EUR,-,Pauzuje,Pogon II
+387245,20/21,1 sie 2020,75 tys. EUR,-,Pogon II,Pauzuje
+387245,19/20,1 sie 2019,75 tys. EUR,Bez odstepnego,Kotwica,Pogon II
+387245,18/19,1 lip 2018,75 tys. EUR,Bez odstepnego,Legionovia,Kotwica
+387245,17/18,1 lut 2018,75 tys. EUR,Bez odstepnego,Pogon II,Legionovia
+387245,17/18,31 gru 2017,75 tys. EUR,Koniec wypozyczenia,Rakow,Pogon II
+387245,17/18,30 lip 2017,-,Wypozyczenie,Pogon II,Rakow
+387245,15/16,1 lip 2015,-,-,Pogon U19,Pogon II
+387245,14/15,1 lip 2014,-,-,AP Pogon,Pogon U19
+387245,12/13,1 lip 2012,-,Bez odstepnego,Sparta Gryfice,AP Pogon
+387247,22/23,15 sty 2023,-,Bez odstepnego,Kotwica,Gwardia Koszalin
+387247,21/22,27 sty 2022,-,-,Bez klubu,Kotwica
+387247,21/22,1 lip 2021,200 tys. EUR,-,Pogon II,Bez klubu
+387247,20/21,1 lip 2020,200 tys. EUR,-,Pogon Szczecin,Pogon II
+387247,18/19,30 cze 2019,200 tys. EUR,Koniec wypozyczenia,Chrobry Glogow,Pogon Szczecin
+387247,18/19,19 lip 2018,50 tys. EUR,Wypozyczenie,Pogon Szczecin,Chrobry Glogow
+387247,17/18,13 lip 2017,-,-,Pogon II,Pogon Szczecin
+387247,14/15,1 gru 2014,-,-,Pogon U19,Pogon II
+387247,13/14,1 lip 2013,-,-,AP Pogon,Pogon U19
+387247,12/13,1 lip 2012,-,Bez odstepnego,Chemik U19,AP Pogon
+387247,11/12,30 cze 2012,-,Koniec wypozyczenia,AP Pogon,Chemik U19
+387247,11/12,1 sty 2012,-,Wypozyczenie,Chemik U19,AP Pogon
+387258,22/23,24 sty 2023,450 tys. EUR,85 tys. EUR,Chrobry Glogow,Cracovia
+387258,21/22,1 lip 2021,-,Bez odstepnego,Blekitni Star.,Chrobry Glogow
+387258,19/20,22 lip 2019,-,Bez odstepnego,Pogon Szczecin,Blekitni Star.
+387258,18/19,30 cze 2019,-,Koniec wypozyczenia,Pogon Siedlce,Pogon Szczecin
+387258,18/19,16 lip 2018,50 tys. EUR,Wypozyczenie,Pogon Szczecin,Pogon Siedlce
+387258,16/17,19 maj 2017,-,-,Pogon II,Pogon Szczecin
+387258,15/16,1 sty 2016,-,-,Pogon U19,Pogon II
+387258,14/15,1 sty 2015,-,?,S. Szczecin,Pogon U19
+387258,14/15,1 lip 2014,-,?,AP Pogon,S. Szczecin
+454387,22/23,27 sty 2023,-,Bez odstepnego,Pogon Grodzisk,Zawisza
+454387,21/22,22 lip 2021,25 tys. EUR,Bez odstepnego,Chojniczanka,Pogon Grodzisk
+454387,18/19,17 sty 2019,-,?,Pogon II,Chojniczanka
+454387,18/19,1 lip 2018,-,-,Pogon U19,Pogon II
+454387,16/17,1 lip 2016,-,?,Iskra Ciechocin,Pogon U19
+454387,15/16,1 sty 2016,-,?,Wlokniarz U19,Iskra Ciechocin
+466224,22/23,1 lip 2022,-,Bez odstepnego,Gornik Zabrze,Ruch Chorzow
+466224,21/22,30 cze 2022,-,Koniec wypozyczenia,Wigry Suwalki,Gornik Zabrze
+466224,21/22,11 lut 2022,-,Wypozyczenie,Gornik Zabrze,Wigry Suwalki
+466224,21/22,31 gru 2021,-,Koniec wypozyczenia,Wigry Suwalki,Gornik Zabrze
+466224,21/22,1 wrz 2021,150 tys. EUR,Wypozyczenie,Gornik Zabrze,Wigry Suwalki
+466224,20/21,1 sie 2020,100 tys. EUR,?,GKS Katowice,Gornik Zabrze
+466224,19/20,16 lip 2019,100 tys. EUR,Bez odstepnego,Gornik Zabrze,GKS Katowice
+466224,18/19,5 lip 2018,-,-,Gornik II,Gornik Zabrze
+466224,17/18,1 sty 2018,-,Bez odstepnego,Pogon U19,Gornik II
+466224,16/17,1 lip 2016,-,-,AP Pogon,Pogon U19
+466224,13/14,1 lip 2013,-,Bez odstepnego,Legia Akademia,AP Pogon
+407564,23/24,3 sie 2023,-,Bez odstepnego,Sl. Wroclaw II,Skra Czesto.
+407564,22/23,30 cze 2023,-,Koniec wypozyczenia,Stomil,Sl. Wroclaw II
+407564,22/23,2 wrz 2022,-,Wypozyczenie,Sl. Wroclaw II,Stomil
+407564,21/22,30 cze 2022,200 tys. EUR,Koniec wypozyczenia,Odra Opole,Slask Wroclaw
+407564,21/22,1 lip 2021,100 tys. EUR,Wypozyczenie,Slask Wroclaw,Odra Opole
+407564,19/20,20 lut 2020,-,Bez odstepnego,RB Leipzig U19,Slask Wroclaw
+407564,18/19,1 lip 2018,-,-,RB Leipzig U17,RB Leipzig U19
+407564,17/18,11 lip 2017,-,70 tys. EUR,AP Pogon,RB Leipzig U17
+407564,16/17,8 lip 2016,-,2 tys. EUR,Warta Akademia,AP Pogon
+454378,19/20,1 lip 2019,-,-,Pogon II,Bez klubu
+454378,18/19,15 lis 2018,-,Koniec wypozyczenia,Sokol Ostroda,Pogon II
+454378,18/19,21 lip 2018,-,Wypozyczenie,Pogon II,Sokol Ostroda
+454378,16/17,1 kwi 2017,-,-,Pogon U19,Pogon II
+454378,15/16,1 lip 2015,-,Bez odstepnego,Warta Akademia,Pogon U19
+289168,23/24,1 sie 2023,"1,50 mln EUR",500 tys. EUR,Pogon Szczecin,Houston
+289168,16/17,25 lis 2016,-,-,Pogon II,Pogon Szczecin
+289168,14/15,1 sty 2015,-,-,Pogon U19,Pogon II
+289168,13/14,1 lip 2013,-,-,AP Pogon,Pogon U19
+289168,12/13,1 lip 2012,-,?,S. Szczecin U19,AP Pogon
+297217,23/24,1 lip 2023,25 tys. EUR,-,Skra Czesto.,Bez klubu
+297217,22/23,26 sty 2023,75 tys. EUR,?,GKS Tychy,Skra Czesto.
+297217,21/22,14 lip 2021,250 tys. EUR,Bez odstepnego,Warta Poznan,GKS Tychy
+297217,19/20,1 lip 2019,125 tys. EUR,Bez odstepnego,Pogon Szczecin,Warta Poznan
+297217,18/19,30 cze 2019,125 tys. EUR,Koniec wypozyczenia,Bytovia Bytow,Pogon Szczecin
+297217,18/19,2 lip 2018,75 tys. EUR,Wypozyczenie,Pogon Szczecin,Bytovia Bytow
+297217,17/18,30 cze 2018,75 tys. EUR,Koniec wypozyczenia,Blekitni Star.,Pogon Szczecin
+297217,17/18,23 lut 2018,75 tys. EUR,Wypozyczenie,Pogon Szczecin,Blekitni Star.
+297217,17/18,31 gru 2017,75 tys. EUR,Koniec wypozyczenia,Miedz Legnica,Pogon Szczecin
+297217,17/18,25 sie 2017,75 tys. EUR,Wypozyczenie,Pogon Szczecin,Miedz Legnica
+297217,16/17,1 lip 2016,-,-,Pogon U19,Pogon Szczecin
+297217,14/15,1 lip 2014,-,-,AP Pogon,Pogon U19
+297217,13/14,1 lip 2013,-,?,P. Przemysl,AP Pogon
+345441,20/21,30 cze 2021,50 tys. EUR,Koniec wypozyczenia,Blekitni Star.,Pogon Szczecin
+345441,20/21,3 wrz 2020,50 tys. EUR,Wypozyczenie,Pogon Szczecin,Blekitni Star.
+345441,19/20,23 wrz 2019,-,-,Pogon II,Pogon Szczecin
+345441,19/20,1 lip 2019,-,-,Pogon U19,Pogon II
+345441,18/19,30 cze 2019,-,Koniec wypozyczenia,Blekitni Star.,Pogon U19
+345441,18/19,4 lip 2018,-,Wypozyczenie,Pogon U19,Blekitni Star.
+345441,17/18,12 mar 2018,-,Koniec wypozyczenia,Unia Dolice,Pogon U19
+345441,17/18,1 lip 2017,-,Wypozyczenie,Pogon U19,Unia Dolice
+345441,15/16,1 lip 2015,-,-,AP Pogon,Pogon U19
+345441,14/15,1 lip 2014,-,Bez odstepnego,Blekitni U19,AP Pogon
+454384,23/24,1 sie 2023,-,Bez odstepnego,Pogon II,Vineta Wolin
+454384,20/21,30 cze 2021,-,Koniec wypozyczenia,Blekitni Star.,Pogon II
+454384,20/21,14 sty 2021,-,Wypozyczenie,Pogon II,Blekitni Star.
+454384,20/21,31 gru 2020,-,Koniec wypozyczenia,Arka Gdynia,Pogon II
+454384,20/21,21 wrz 2020,-,Wypozyczenie,Pogon II,Arka Gdynia
+454384,20/21,31 lip 2020,-,Koniec wypozyczenia,Elana Torun,Pogon II
+454384,19/20,1 lip 2019,-,Wypozyczenie,Pogon II,Elana Torun
+454384,18/19,30 cze 2019,-,Koniec wypozyczenia,Elana Torun,Pogon II
+454384,18/19,18 sty 2019,-,Wypozyczenie,Pogon II,Elana Torun
+454384,16/17,1 cze 2017,-,-,Pogon U19,Pogon II
+454386,21/22,1 lip 2021,500 tys. EUR,"2,40 mln EUR",Pogon Szczecin,Parma
+454386,19/20,31 lip 2020,300 tys. EUR,Koniec wypozyczenia,Chrobry Glogow,Pogon Szczecin
+454386,19/20,2 wrz 2019,300 tys. EUR,Wypozyczenie,Pogon Szczecin,Chrobry Glogow
+454386,17/18,2 mar 2018,-,-,Pogon U19,Pogon Szczecin
+454386,16/17,1 lip 2016,-,-,AP Pogon,Pogon U19
+494478,22/23,21 sty 2023,-,?,Torgelower FC,SV Zehdenick
+494478,21/22,1 sty 2022,-,Bez odstepnego,Warta Gorzow,Torgelower FC
+494478,21/22,14 lip 2021,-,Bez odstepnego,Chemik Police,Warta Gorzow
+494478,20/21,24 wrz 2020,-,-,Bez klubu,Chemik Police
+494478,20/21,31 sie 2020,-,-,Kotwica,Bez klubu
+494478,20/21,1 lip 2020,-,Bez odstepnego,Chemik Police,Kotwica
+494478,18/19,1 lip 2018,-,Bez odstepnego,Pogon II,Chemik Police
+494478,17/18,30 cze 2018,-,Koniec wypozyczenia,MKS Polonia U19,Pogon II
+494478,17/18,1 sty 2018,-,Wypozyczenie,Pogon II,MKS Polonia U19
+494478,16/17,1 kwi 2017,-,-,Pogon U19,Pogon II
+494478,16/17,1 lip 2016,-,-,AP Pogon,Pogon U19
+387188,23/24,1 sie 2023,-,-,Bez klubu,Jaroslawiec
+387188,21/22,1 lip 2021,-,-,Vict. Wrzesnia,Bez klubu
+387188,20/21,10 lut 2021,-,Bez odstepnego,Polonia Sroda,Vict. Wrzesnia
+387188,18/19,2 sie 2018,-,Bez odstepnego,Pogon II,Polonia Sroda
+387188,17/18,1 lip 2017,-,-,Pogon U19,Pogon II
+387188,15/16,1 lut 2016,-,?,Polonia Sroda,Pogon U19
+387188,14/15,4 maj 2015,-,-,Polonia SW U19,Polonia Sroda
+387265,23/24,30 cze 2024,75 tys. EUR,Koniec wypozyczenia,Kotwica,Pogon Szczecin
+387265,23/24,1 lip 2023,75 tys. EUR,Wypozyczenie,Pogon Szczecin,Kotwica
+387265,22/23,30 cze 2023,75 tys. EUR,Koniec wypozyczenia,Olimpia Elblag,Pogon Szczecin
+387265,22/23,20 lip 2022,25 tys. EUR,Wypozyczenie,Pogon Szczecin,Olimpia Elblag
+387265,20/21,30 cze 2021,100 tys. EUR,Koniec wypozyczenia,Gornik Leczna,Pogon Szczecin
+387265,18/19,28 sty 2019,50 tys. EUR,Wypozyczenie,Pogon Szczecin,Gornik Leczna
+387265,18/19,31 gru 2018,50 tys. EUR,Koniec wypozyczenia,Wigry Suwalki,Pogon Szczecin
+387265,18/19,1 lip 2018,-,Wypozyczenie,Pogon Szczecin,Wigry Suwalki
+387265,17/18,13 lip 2017,-,-,Pogon II,Pogon Szczecin
+387265,15/16,1 lip 2015,-,-,Pogon U19,Pogon II
+387265,14/15,1 sty 2015,-,-,AP Pogon,Pogon U19
+387265,14/15,1 lip 2014,-,Bez odstepnego,AP Lech,AP Pogon
+387265,12/13,1 lip 2012,-,Bez odstepnego,S. Szczecin U19,AP Lech
+387265,11/12,1 lip 2011,-,Bez odstepnego,Swiatowid Lobez,S. Szczecin U19
+387265,10/11,1 lip 2010,-,Bez odstepnego,Sparta Weg.,Swiatowid Lobez
+403348,22/23,16 mar 2023,-,Bez odstepnego,Unia Solec,Notec L.
+403348,22/23,4 sie 2022,-,Bez odstepnego,Zawisza,Unia Solec
+403348,20/21,12 sty 2021,25 tys. EUR,Bez odstepnego,Wigry Suwalki,Zawisza
+403348,19/20,30 cze 2020,25 tys. EUR,Koniec wypozyczenia,Znicz Biala P.,Wigry Suwalki
+403348,19/20,13 sty 2020,25 tys. EUR,Wypozyczenie,Wigry Suwalki,Znicz Biala P.
+403348,19/20,1 lip 2019,-,Bez odstepnego,Pogon II,Wigry Suwalki
+403348,16/17,1 cze 2017,-,-,AP Pogon,Pogon II
+403348,16/17,26 lip 2016,-,Bez odstepnego,Zawisza U19,AP Pogon
+364049,21/22,15 lip 2021,100 tys. EUR,Bez odstepnego,Jagiellonia,Wissa Szczuczyn
+364049,18/19,30 cze 2019,200 tys. EUR,Koniec wypozyczenia,GKS Jastrzebie,Jagiellonia
+364049,18/19,1 sty 2019,-,Wypozyczenie,Jagiellonia,GKS Jastrzebie
+364049,18/19,31 gru 2018,-,Koniec wypozyczenia,Nieciecza,Jagiellonia
+364049,18/19,1 lip 2018,-,Wypozyczenie,Jagiellonia,Nieciecza
+364049,17/18,30 cze 2018,-,Koniec wypozyczenia,Radomiak,Jagiellonia
+364049,17/18,3 lip 2017,50 tys. EUR,Wypozyczenie,Jagiellonia,Radomiak
+364049,16/17,13 lip 2016,50 tys. EUR,-,Jagiellonia U19,Jagiellonia
+364049,15/16,1 lip 2015,50 tys. EUR,?,Legionovia,Jagiellonia U19
+364049,14/15,1 sty 2015,-,?,Podbeskidzie II,Legionovia
+364049,14/15,1 lip 2014,-,?,MKS Polonia U19,Podbeskidzie II
+407491,22/23,1 lip 2022,400 tys. EUR,200 tys. EUR,Jagiellonia,Qarabag FK
+407491,21/22,30 cze 2022,400 tys. EUR,Koniec wypozyczenia,Qarabag FK,Jagiellonia
+407491,21/22,12 sty 2022,450 tys. EUR,Wypozyczenie,Jagiellonia,Qarabag FK
+407491,21/22,31 gru 2021,450 tys. EUR,Koniec wypozyczenia,FC Dila,Jagiellonia
+407491,19/20,28 sty 2020,450 tys. EUR,Wypozyczenie,Jagiellonia,FC Dila
+407491,19/20,27 sty 2020,450 tys. EUR,Koniec wypozyczenia,Recre Granada,Jagiellonia
+407491,19/20,1 lip 2019,450 tys. EUR,Wypozyczenie,Jagiellonia,Recre Granada
+407491,18/19,30 cze 2019,450 tys. EUR,Koniec wypozyczenia,FC Dila,Jagiellonia
+407491,18/19,27 lip 2018,50 tys. EUR,Wypozyczenie,Jagiellonia,FC Dila
+407491,18/19,13 lip 2018,50 tys. EUR,-,Jagiellonia U19,Jagiellonia
+407491,17/18,30 cze 2018,50 tys. EUR,Koniec wypozyczenia,Podlasie B.P.,Jagiellonia U19
+407491,17/18,31 sie 2017,50 tys. EUR,Wypozyczenie,Jagiellonia U19,Podlasie B.P.
+407491,15/16,1 sty 2016,-,150 tys. EUR,Dinamo Tbilisi,Jagiellonia U19
+407491,15/16,1 sie 2015,-,-,Dinamo Academy,Dinamo Tbilisi
+385856,23/24,1 sie 2023,-,Bez odstepnego,Orleta R.P.,Orzel Czem.
+385856,22/23,30 cze 2023,-,Koniec wypozyczenia,Mlodziezowka,Orleta R.P.
+385856,22/23,1 mar 2023,-,Wypozyczenie,Orleta R.P.,Mlodziezowka
+385856,17/18,1 sie 2017,-,Bez odstepnego,Jagiellonia U19,Orleta R.P.
+385856,14/15,1 lip 2014,-,Bez odstepnego,Orleta RP U19,Jagiellonia U19
+455324,19/20,1 lip 2019,-,-,Sokol Sokolka,Bez klubu
+455324,17/18,1 sty 2018,-,Bez odstepnego,Jagiellonia U19,Sokol Sokolka
+470565,20/21,1 sie 2020,-,-,Znicz Biala P.,Bez klubu
+470565,19/20,1 lip 2019,-,Bez odstepnego,H. Bialystok,Znicz Biala P.
+470565,18/19,1 lip 2018,-,Bez odstepnego,Jagiellonia U19,H. Bialystok
+390984,20/21,1 lip 2020,-,Bez odstepnego,Sokol Sokolka,Wissa Szczuczyn
+390984,19/20,1 lip 2019,-,Bez odstepnego,Wissa Szczuczyn,Sokol Sokolka
+390984,17/18,1 lip 2017,-,Bez odstepnego,Jagiellonia U19,Wissa Szczuczyn
+499526,17/18,1 lip 2017,-,Bez odstepnego,Jagiellonia U19,Sokol Sokolka
+499527,17/18,1 lip 2017,-,-,Jagiellonia U19,Koniec kariery
+357305,23/24,1 lip 2023,150 tys. EUR,Bez odstepnego,Stal Rzeszow,Stal Mielec
+357305,22/23,30 sie 2022,100 tys. EUR,Bez odstepnego,Gornik Leczna,Stal Rzeszow
+357305,18/19,30 cze 2019,-,Koniec wypozyczenia,Motor Lublin,Gornik Leczna
+357305,18/19,20 lut 2019,-,Wypozyczenie,Gornik Leczna,Motor Lublin
+357305,18/19,9 lip 2018,50 tys. EUR,Bez odstepnego,Podlasie B.P.,Gornik Leczna
+357305,17/18,9 sie 2017,50 tys. EUR,Bez odstepnego,Jagiellonia II,Podlasie B.P.
+357305,14/15,1 lip 2014,-,?,AP TOP-54 B.P.,Jagiellonia II
+297222,22/23,18 lip 2022,-,Bez odstepnego,Warmia Grajewo,KS Turosnianka
+297222,21/22,1 lip 2021,50 tys. EUR,Bez odstepnego,O. Zambrow,Warmia Grajewo
+297222,20/21,1 sie 2020,50 tys. EUR,Bez odstepnego,Znicz Biala P.,O. Zambrow
+297222,18/19,1 lip 2018,50 tys. EUR,Bez odstepnego,Jagiellonia II,Znicz Biala P.
+297222,17/18,30 cze 2018,50 tys. EUR,Koniec wypozyczenia,Bielsk Podlaski,Jagiellonia II
+297222,17/18,1 sie 2017,50 tys. EUR,Wypozyczenie,Jagiellonia II,Bielsk Podlaski
+297222,16/17,1 lip 2016,50 tys. EUR,-,Jagiellonia U19,Jagiellonia II
+384768,22/23,20 lip 2022,-,Bez odstepnego,Piast Zmigrod,Swidniczanka
+384768,21/22,16 sty 2022,-,Bez odstepnego,Kotwica,Piast Zmigrod
+384768,20/21,26 lip 2020,-,Bez odstepnego,Piast Zmigrod,Kotwica
+384768,17/18,1 sie 2017,-,Bez odstepnego,Jagiellonia II,Piast Zmigrod
+384768,15/16,1 lip 2015,-,?,UKS SMS U19,Jagiellonia II
+397873,23/24,1 lip 2023,-,-,O. Zambrow,Bez klubu
+397873,22/23,16 lip 2022,-,Bez odstepnego,Polonia,O. Zambrow
+397873,21/22,10 lip 2021,-,Bez odstepnego,Wisla Pulawy,Polonia
+397873,19/20,4 lip 2019,-,Bez odstepnego,Orleta R.P.,Wisla Pulawy
+397873,17/18,1 sie 2017,-,Bez odstepnego,Jagiellonia II,Orleta R.P.
+397873,16/17,1 sty 2017,-,-,Jagiellonia U19,Jagiellonia II
+287331,19/20,1 lip 2019,-,-,Bez klubu,Nieznany
+287331,17/18,1 lip 2017,-,-,Jagiellonia II,Bez klubu
+287331,14/15,1 lip 2014,-,Bez odstepnego,MKS Piaseczno,Jagiellonia II
+387655,22/23,1 lip 2022,-,Bez odstepnego,Gryf Wejherowo,Grom N.S.
+387655,20/21,4 sie 2020,-,Bez odstepnego,Grom N.S.,Gryf Wejherowo
+387655,19/20,1 lut 2020,-,Bez odstepnego,Sokol Ostroda,Grom N.S.
+387655,18/19,7 sie 2018,-,Bez odstepnego,Jaguar Gdansk,Sokol Ostroda
+387655,17/18,22 lut 2018,-,Bez odstepnego,GKS Przodkowo,Jaguar Gdansk
+387655,17/18,10 sie 2017,-,Bez odstepnego,Warmia Olsztyn,GKS Przodkowo
+387655,16/17,1 sty 2017,-,Bez odstepnego,Warmiak Lukta,Warmia Olsztyn
+387655,16/17,1 lip 2016,-,Bez odstepnego,Jagiellonia U19,Warmiak Lukta
+387655,15/16,1 lip 2015,-,Bez odstepnego,Naki U19,Jagiellonia U19
+403559,20/21,1 lip 2020,-,-,Jagiellonia II,Bez klubu
+403559,19/20,30 cze 2020,-,Koniec wypozyczenia,Ruch Wysokie M.,Jagiellonia II
+403559,19/20,1 sie 2019,-,Wypozyczenie,Jagiellonia II,Ruch Wysokie M.
+403559,19/20,1 lip 2019,-,-,Jagiellonia U19,Jagiellonia II
+403559,18/19,30 cze 2019,-,Koniec wypozyczenia,Ruch Wysokie M.,Jagiellonia U19
+403559,18/19,1 lip 2018,-,Wypozyczenie,Jagiellonia U19,Ruch Wysokie M.
+342659,19/20,1 sty 2020,250 tys. EUR,Koniec wypozyczenia,Stal Mielec,Jagiellonia
+342659,19/20,1 lip 2019,250 tys. EUR,Wypozyczenie,Jagiellonia,Stal Mielec
+342659,18/19,30 cze 2019,250 tys. EUR,Koniec wypozyczenia,Wigry Suwalki,Jagiellonia
+342659,17/18,8 lip 2017,-,Wypozyczenie,Jagiellonia,Wigry Suwalki
+342659,15/16,1 sty 2016,-,-,Jagiellonia U19,Jagiellonia
+342659,15/16,1 lip 2015,-,?,Wroclaw A. U19,Jagiellonia U19
+387659,20/21,16 lip 2020,-,Bez odstepnego,Orleta R.P.,O. Zambrow
+387659,17/18,1 sie 2017,-,Bez odstepnego,Jagiellonia U19,Orleta R.P.
+465500,22/23,1 lip 2022,-,Bez odstepnego,Jagiellonia II,DTS Helios 
+465500,21/22,30 cze 2022,-,Koniec wypozyczenia,O. Zambrow,Jagiellonia II
+465500,20/21,1 sie 2020,-,Wypozyczenie,Jagiellonia II,O. Zambrow
+465500,19/20,30 cze 2020,-,Koniec wypozyczenia,O. Zambrow,Jagiellonia II
+465500,19/20,1 sty 2020,-,Wypozyczenie,Jagiellonia II,O. Zambrow
+465500,19/20,31 gru 2019,-,Koniec wypozyczenia,Legionovia,Jagiellonia II
+465500,19/20,19 lip 2019,-,Wypozyczenie,Jagiellonia II,Legionovia
+465500,18/19,30 cze 2019,-,Koniec wypozyczenia,Mazur Elk,Jagiellonia II
+465500,18/19,1 sie 2018,-,Wypozyczenie,Jagiellonia II,Mazur Elk
+465500,18/19,1 lip 2018,-,-,Jagiellonia U19,Jagiellonia II
+357303,20/21,11 sie 2020,50 tys. EUR,Bez odstepnego,Jagiellonia II,Bielsk Podlaski
+357303,17/18,30 cze 2018,50 tys. EUR,Koniec wypozyczenia,Bielsk Podlaski,Jagiellonia II
+357303,17/18,1 sie 2017,50 tys. EUR,Wypozyczenie,Jagiellonia II,Bielsk Podlaski
+357303,14/15,1 lip 2014,-,-,Jagiellonia U19,Jagiellonia II
+371954,23/24,11 sie 2023,25 tys. EUR,Bez odstepnego,Podbeskidzie,Jagiellonia II
+371954,21/22,1 lip 2021,75 tys. EUR,Bez odstepnego,Blekitni Star.,Podbeskidzie
+371954,19/20,9 lut 2020,75 tys. EUR,Bez odstepnego,Jagiellonia II,Blekitni Star.
+371954,18/19,30 cze 2019,75 tys. EUR,Koniec wypozyczenia,Wigry Suwalki,Jagiellonia II
+371954,18/19,1 lip 2018,100 tys. EUR,Wypozyczenie,Jagiellonia II,Wigry Suwalki
+371954,17/18,30 cze 2018,100 tys. EUR,Koniec wypozyczenia,Pogon Siedlce,Jagiellonia II
+371954,17/18,20 lip 2017,50 tys. EUR,Wypozyczenie,Jagiellonia II,Pogon Siedlce
+371954,14/15,1 lip 2014,-,-,Jagiellonia U19,Jagiellonia II
+371954,12/13,1 lip 2012,-,-,AP Jagiellonia,Jagiellonia U19
+293041,20/21,1 sty 2021,-,Bez odstepnego,Sokol Sokolka,Wissa Szczuczyn
+293041,20/21,1 lip 2020,-,Bez odstepnego,O. Zambrow,Sokol Sokolka
+293041,19/20,30 cze 2020,-,Koniec wypozyczenia,Sokol Sokolka,O. Zambrow
+293041,19/20,12 lut 2020,-,Wypozyczenie,O. Zambrow,Sokol Sokolka
+293041,18/19,1 lip 2018,-,Bez odstepnego,Jagiellonia II,O. Zambrow
+293041,17/18,30 cze 2018,-,Koniec wypozyczenia,O. Zambrow,Jagiellonia II
+293041,17/18,14 lip 2017,-,Wypozyczenie,Jagiellonia II,O. Zambrow
+293041,14/15,1 lip 2014,-,-,Jagiellonia U19,Jagiellonia II
+287323,20/21,1 sty 2021,-,-,O. Zambrow,Bez klubu
+287323,19/20,1 sie 2019,-,Bez odstepnego,Jagiellonia II,O. Zambrow
+287323,18/19,30 cze 2019,-,Koniec wypozyczenia,O. Zambrow,Jagiellonia II
+287323,17/18,5 lut 2018,-,Wypozyczenie,Jagiellonia II,O. Zambrow
+287323,17/18,26 sty 2018,-,Koniec wypozyczenia,Widzew Lodz,Jagiellonia II
+287323,17/18,19 lip 2017,-,Wypozyczenie,Jagiellonia II,Widzew Lodz
+287323,16/17,31 gru 2016,-,Koniec wypozyczenia,Rozwoj Katowice,Jagiellonia II
+287323,16/17,19 sie 2016,-,Wypozyczenie,Jagiellonia II,Rozwoj Katowice
+287323,16/17,1 lip 2016,-,-,Jagiellonia U19,Jagiellonia II
+287323,15/16,26 sie 2015,-,Bez odstepnego,B. Dortmund U19,Jagiellonia U19
+287323,15/16,1 lip 2015,-,-,B. Dortmund U17,B. Dortmund U19
+287323,14/15,1 lip 2014,-,-,B. Dortmund U16,B. Dortmund U17
+287323,13/14,10 wrz 2013,-,125 tys. EUR,Jagiellonia U19,B. Dortmund U16
+385859,20/21,1 lip 2020,-,-,Orleta R.P.,Bez klubu
+385859,19/20,30 cze 2020,-,Koniec wypozyczenia,Orleta Lukow,Orleta R.P.
+385859,19/20,1 mar 2020,-,Wypozyczenie,Orleta R.P.,Orleta Lukow
+385859,18/19,6 mar 2019,-,Bez odstepnego,Szepietowo,Orleta R.P.
+385859,17/18,1 sty 2018,-,Bez odstepnego,Jagiellonia II,Szepietowo
+385859,17/18,1 lip 2017,-,-,Jagiellonia U19,Jagiellonia II
+387656,21/22,1 lip 2021,-,-,Jagiellonia II,Koniec kariery
+387656,20/21,30 cze 2021,-,Koniec wypozyczenia,Huragan M.P.,Jagiellonia II
+387656,20/21,29 lip 2020,-,Wypozyczenie,Jagiellonia II,Huragan M.P.
+387656,19/20,30 cze 2020,-,Koniec wypozyczenia,Orleta R.P.,Jagiellonia II
+387656,19/20,8 sie 2019,-,Wypozyczenie,Jagiellonia II,Orleta R.P.
+387656,18/19,30 cze 2019,-,Koniec wypozyczenia,Podlasie B.P.,Jagiellonia II
+387656,18/19,1 sie 2018,-,Wypozyczenie,Jagiellonia II,Podlasie B.P.
+387656,17/18,30 cze 2018,-,Koniec wypozyczenia,Podlasie B.P.,Jagiellonia II
+387656,17/18,10 sie 2017,-,Wypozyczenie,Jagiellonia II,Podlasie B.P.
+387656,14/15,1 sty 2015,-,-,Jagiellonia U19,Jagiellonia II
+387656,13/14,1 sty 2014,-,-,AP Jagiellonia,Jagiellonia U19
+387660,18/19,1 lip 2018,-,-,Jagiellonia II,Bez klubu
+387660,17/18,1 lip 2017,-,-,Jagiellonia U19,Jagiellonia II
+399266,19/20,1 lip 2019,-,Bez odstepnego,O. Zambrow,KS Michalowo
+399266,17/18,3 sie 2017,-,Bez odstepnego,Jagiellonia U19,O. Zambrow
+465503,21/22,9 mar 2022,-,Bez odstepnego,Sokol Sokolka,Wissa Szczuczyn
+465503,19/20,1 lip 2019,-,Bez odstepnego,Jagiellonia U19,Sokol Sokolka
+465503,18/19,30 cze 2019,-,Koniec wypozyczenia,Wissa Szczuczyn,Jagiellonia U19
+465503,18/19,1 sty 2019,-,Wypozyczenie,Jagiellonia U19,Wissa Szczuczyn
+465503,18/19,31 gru 2018,-,Koniec wypozyczenia,Sokol Sokolka,Jagiellonia U19
+465503,18/19,1 lip 2018,-,Wypozyczenie,Jagiellonia U19,Sokol Sokolka
+466542,20/21,1 sty 2021,-,Bez odstepnego,KS Wasilkow,KS Michalowo
+466542,20/21,1 sie 2020,-,Bez odstepnego,Nieznany,KS Wasilkow
+466542,19/20,1 lip 2019,-,Bez odstepnego,Nieznany,Nieznany
+466542,18/19,1 lip 2018,-,Bez odstepnego,Jagiellonia U19,Nieznany
+503393,20/21,1 mar 2021,-,-,Korona Gora Kalwaria,Bez klubu
+503393,20/21,1 sie 2020,-,-,Bez klubu,Korona Gora Kalwaria
+503393,18/19,1 sie 2018,-,-,Legionovia U19,Bez klubu
+503393,17/18,1 lip 2017,-,Bez odstepnego,Jagiellonia U19,Legionovia U19
+431482,21/22,1 sty 2022,-,Bez odstepnego,Jagiellonia II,Swidniczanka
+431482,20/21,1 sie 2020,50 tys. EUR,-,Jagiellonia,Jagiellonia II
+431482,18/19,6 kwi 2019,50 tys. EUR,-,Jagiellonia U19,Jagiellonia
+431482,17/18,1 lip 2017,50 tys. EUR,-,AP Jagiellonia,Jagiellonia U19
+431482,16/17,1 lip 2016,-,?,BKS Lublin Mlod,AP Jagiellonia
+375195,23/24,28 lip 2023,-,Bez odstepnego,Pelikan Lowicz,KS Wiazownica
+375195,21/22,3 mar 2022,-,Bez odstepnego,Siarka T.,Pelikan Lowicz
+375195,20/21,9 lip 2020,-,?,Wolczanka,Siarka T.
+375195,18/19,1 mar 2019,-,Bez odstepnego,Stal Rzeszow,Wolczanka
+375195,18/19,24 sie 2018,-,?,Jagiellonia II,Stal Rzeszow
+375195,16/17,1 lut 2017,-,-,Jagiellonia U19,Jagiellonia II
+375195,15/16,1 lip 2015,-,?,Stal Rzeszow,Jagiellonia U19
+375195,14/15,1 lip 2014,-,-,Rzeszow U19,Stal Rzeszow
+512542,19/20,1 lip 2019,-,-,Jagiellonia U19,Jagiellonia II
+512542,18/19,31 gru 2018,-,Koniec wypozyczenia,Dab Dabrowa,Jagiellonia U19
+512542,18/19,1 lip 2018,-,Wypozyczenie,Jagiellonia U19,Dab Dabrowa
+514528,23/24,30 cze 2024,-,Koniec wypozyczenia,O. Zambrow,Jagiellonia II
+514528,22/23,14 lip 2022,-,Wypozyczenie,Jagiellonia II,O. Zambrow
+514528,20/21,30 cze 2021,-,Koniec wypozyczenia,O. Zambrow,Jagiellonia II
+514528,19/20,1 sie 2019,-,Wypozyczenie,Jagiellonia II,O. Zambrow
+514528,19/20,1 lip 2019,-,-,Jagiellonia U19,Jagiellonia II
+514528,18/19,30 cze 2019,-,Koniec wypozyczenia,Ruch Wysokie M.,Jagiellonia U19
+514528,18/19,1 sie 2018,-,Wypozyczenie,Jagiellonia U19,Ruch Wysokie M.
+385857,21/22,15 lip 2021,-,Bez odstepnego,Gornik Konin,Podlasie B.P.
+385857,20/21,6 lut 2021,-,Bez odstepnego,Wisla Pulawy,Gornik Konin
+385857,19/20,18 lip 2019,-,Bez odstepnego,Jagiellonia II,Wisla Pulawy
+385857,18/19,30 cze 2019,-,Koniec wypozyczenia,Gornik Leczna,Jagiellonia II
+385857,18/19,7 lut 2019,-,Wypozyczenie,Jagiellonia II,Gornik Leczna
+385857,18/19,5 lut 2019,-,Koniec wypozyczenia,Widzew Lodz,Jagiellonia II
+385857,17/18,31 lip 2017,-,Wypozyczenie,Jagiellonia II,Widzew Lodz
+385857,14/15,1 lip 2014,-,-,Jagiellonia U19,Jagiellonia II
+385857,12/13,1 lip 2012,-,-,AP Jagiellonia,Jagiellonia U19
+287319,23/24,4 lip 2023,125 tys. EUR,Bez odstepnego,Iraklis,GKS Tychy
+287319,22/23,6 sty 2023,150 tys. EUR,-,Bez klubu,Iraklis
+287319,22/23,1 lip 2022,300 tys. EUR,-,Jagiellonia,Bez klubu
+287319,18/19,30 cze 2019,125 tys. EUR,Koniec wypozyczenia,Podbeskidzie,Jagiellonia
+287319,18/19,12 lip 2018,225 tys. EUR,Wypozyczenie,Jagiellonia,Podbeskidzie
+287319,17/18,30 cze 2018,200 tys. EUR,Koniec wypozyczenia,Miedz Legnica,Jagiellonia
+287319,17/18,31 sie 2017,200 tys. EUR,Wypozyczenie,Jagiellonia,Miedz Legnica
+287319,13/14,13 lut 2014,-,-,Jagiellonia II,Jagiellonia
+287319,13/14,14 sty 2014,-,-,Jagiellonia U19,Jagiellonia II
+287319,12/13,1 lip 2012,-,-,AP Jagiellonia,Jagiellonia U19
+289164,22/23,1 wrz 2022,-,Bez odstepnego,Nieznany,Legion Pilzno
+289164,21/22,1 lip 2021,50 tys. EUR,Bez odstepnego,Ruch Wysokie M.,Nieznany
+289164,19/20,19 lut 2020,50 tys. EUR,Bez odstepnego,Wisloka Debica,Ruch Wysokie M.
+289164,19/20,25 lip 2019,50 tys. EUR,Bez odstepnego,Stal Rzeszow,Wisloka Debica
+289164,18/19,30 cze 2019,50 tys. EUR,Koniec wypozyczenia,Wolczanka,Stal Rzeszow
+289164,18/19,1 mar 2019,50 tys. EUR,Wypozyczenie,Stal Rzeszow,Wolczanka
+289164,18/19,18 wrz 2018,50 tys. EUR,Bez odstepnego,Jagiellonia II,Stal Rzeszow
+289164,17/18,30 cze 2018,50 tys. EUR,Koniec wypozyczenia,O. Zambrow,Jagiellonia II
+289164,17/18,1 sie 2017,50 tys. EUR,Wypozyczenie,Jagiellonia II,O. Zambrow
+289164,16/17,1 lip 2016,50 tys. EUR,-,Jagiellonia,Jagiellonia II
+289164,14/15,8 sie 2014,-,?,Mielec U19,Jagiellonia
+289164,13/14,1 kwi 2014,-,-,AP Stal M.,Mielec U19
+321232,19/20,1 sty 2020,-,-,O. Zambrow,Bez klubu
+321232,19/20,16 sie 2019,-,Bez odstepnego,Jagiellonia II,O. Zambrow
+321232,18/19,30 cze 2019,-,Koniec wypozyczenia,Skra Czesto.,Jagiellonia II
+321232,18/19,8 lut 2019,-,Wypozyczenie,Jagiellonia II,Skra Czesto.
+321232,18/19,31 gru 2018,50 tys. EUR,Koniec wypozyczenia,Wigry Suwalki,Jagiellonia II
+321232,18/19,1 lip 2018,50 tys. EUR,Wypozyczenie,Jagiellonia II,Wigry Suwalki
+321232,17/18,30 cze 2018,50 tys. EUR,Koniec wypozyczenia,GKS Tychy,Jagiellonia II
+321232,17/18,8 sie 2017,50 tys. EUR,Wypozyczenie,Jagiellonia II,GKS Tychy
+321232,14/15,1 lip 2014,-,-,Jagiellonia U19,Jagiellonia II
+455325,20/21,1 sie 2020,75 tys. EUR,-,Jagiellonia II,Bez klubu
+455325,19/20,31 gru 2019,75 tys. EUR,Koniec wypozyczenia,O. Zambrow,Jagiellonia
+455325,18/19,10 sie 2018,75 tys. EUR,Wypozyczenie,Jagiellonia,O. Zambrow
+455325,17/18,14 gru 2017,-,-,Jagiellonia U19,Jagiellonia
+465499,23/24,31 lip 2023,-,Bez odstepnego,LKS Lodz,O. Zambrow
+465499,22/23,1 lip 2022,-,-,LKS Lodz II,LKS Lodz
+465499,19/20,30 cze 2020,50 tys. EUR,Koniec wypozyczenia,Pogon Siedlce,LKS Lodz II
+465499,19/20,1 lip 2019,50 tys. EUR,Wypozyczenie,LKS Lodz II,Pogon Siedlce
+465499,18/19,1 lip 2018,-,Bez odstepnego,Jagiellonia U19,LKS Lodz II
+465499,15/16,1 sty 2016,-,?,UKS SMS U19,Jagiellonia U19
+387153,23/24,1 sty 2024,"2,50 mln EUR",Bez odstepnego,H. Beer Sheva,Slask Wroclaw
+387153,22/23,30 sty 2023,"4,00 mln EUR",?,New York,H. Beer Sheva
+387153,20/21,22 kwi 2021,"2,00 mln EUR","4,36 mln EUR",Celtic Glasgow,New York
+387153,19/20,14 sty 2020,"4,00 mln EUR","4,00 mln EUR",Jagiellonia,Celtic Glasgow
+387153,17/18,30 cze 2018,125 tys. EUR,Koniec wypozyczenia,Wigry Suwalki,Jagiellonia
+387153,17/18,3 lip 2017,50 tys. EUR,Wypozyczenie,Jagiellonia,Wigry Suwalki
+387153,16/17,14 wrz 2016,-,-,Jagiellonia U19,Jagiellonia
+387153,16/17,1 lip 2016,-,?,Dzierzoniow U19,Jagiellonia U19
+387153,15/16,27 lut 2016,-,?,Legia U19,Dzierzoniow U19
+387153,14/15,1 lip 2014,-,,Dzierzoniow U19,Legia U19
+387657,19/20,1 sty 2020,-,Bez odstepnego,Sokol Sokolka,Wissa Szczuczyn
+387657,19/20,1 lip 2019,-,Bez odstepnego,Wissa Szczuczyn,Sokol Sokolka
+387657,18/19,1 lip 2018,-,?,Mazur Elk,Wissa Szczuczyn
+387657,17/18,12 wrz 2017,-,Bez odstepnego,Siarka T.,MKS Elk
+387657,17/18,18 lip 2017,-,?,Jagiellonia U19,Siarka T.
+465502,20/21,1 lip 2020,-,-,KS Michalowo,Bez klubu
+465502,18/19,1 lip 2018,-,-,Jagiellonia U19,KS Michalowo
+494777,22/23,1 lip 2022,-,-,Krysztal S. S.,Bez klubu
+494777,20/21,1 sie 2020,-,Bez odstepnego,Slask U19,Krysztal S. S.
+494777,19/20,30 cze 2020,-,Koniec wypozyczenia,Polonia B.K.,Slask U19
+494777,19/20,1 lip 2019,-,Wypozyczenie,Slask U19,Polonia B.K.
+494777,18/19,30 cze 2019,-,Koniec wypozyczenia,Nysa Klodzko,Slask U19
+494777,18/19,1 lip 2018,-,Wypozyczenie,Slask U19,Nysa Klodzko
+494777,17/18,1 sie 2017,-,Bez odstepnego,Jagiellonia U19,Slask U19
+499978,22/23,14 lip 2022,-,Bez odstepnego,Sleza Wroclaw,Piast Zmigrod
+499978,19/20,1 lip 2019,-,Bez odstepnego,Sl. Wroclaw II,Sleza Wroclaw
+499978,18/19,30 cze 2019,-,Koniec wypozyczenia,Sleza Wroclaw,Sl. Wroclaw II
+499978,18/19,1 lut 2019,-,Wypozyczenie,Sl. Wroclaw II,Sleza Wroclaw
+499978,18/19,1 lip 2018,-,-,Slask U19,Sl. Wroclaw II
+384345,19/20,1 lip 2019,-,-,Sl. Wroclaw II,Bez klubu
+384345,18/19,30 cze 2019,-,Koniec wypozyczenia,Foto-Higiena,Sl. Wroclaw II
+384345,18/19,2 sie 2018,-,Wypozyczenie,Sl. Wroclaw II,Foto-Higiena
+384345,16/17,1 lip 2016,-,-,Slask U19,Sl. Wroclaw II
+385838,19/20,1 lip 2019,-,-,Sokol ,Bez klubu
+385838,16/17,1 sty 2017,-,Bez odstepnego,Sl. Wroclaw II,Sokol 
+385838,16/17,1 lip 2016,-,-,Slask U19,Sl. Wroclaw II
+389323,19/20,1 sie 2019,-,Bez odstepnego,Pol. Trzebnica,Nieznany
+389323,18/19,1 sie 2018,-,-,Bez klubu,Pol. Trzebnica
+389323,17/18,1 sty 2018,-,-,Stilon,Bez klubu
+389323,16/17,1 lut 2017,-,Bez odstepnego,Sl. Wroclaw II,Stilon
+389323,16/17,1 lip 2016,-,-,Slask U19,Sl. Wroclaw II
+389323,20/21,-,-,Bez odstepnego,Nieznany,LKS Krzyzano.
+399251,18/19,1 sty 2019,-,-,Sleza Wroclaw,Bez klubu
+399251,18/19,2 sie 2018,-,Bez odstepnego,Stal Brzeg,Sleza Wroclaw
+399251,17/18,1 sie 2017,-,Bez odstepnego,Sl. Wroclaw II,Stal Brzeg
+399251,16/17,1 lip 2016,-,-,Slask U19,Sl. Wroclaw II
+453912,20/21,1 sty 2021,-,-,Nieznany,Bez klubu
+453912,19/20,1 sie 2019,-,Bez odstepnego,Orla Wasosz,Nieznany
+453912,18/19,1 sty 2019,-,Bez odstepnego,Orzel Pawlowice,Orla Wasosz
+453912,18/19,1 lip 2018,-,?,Slask U19,Orzel Pawlowice
+494717,21/22,1 lip 2021,-,-,Sl. Wroclaw II,Bez klubu
+494717,20/21,30 cze 2021,-,Koniec wypozyczenia,Polonia Nysa,Sl. Wroclaw II
+494717,19/20,1 lip 2019,-,Wypozyczenie,Slask U19,Polonia Nysa
+384344,22/23,1 lip 2022,-,-,Piast Nadolice,Bez klubu
+384344,17/18,1 lut 2018,-,Bez odstepnego,Sl. Wroclaw II,Polonia Kepno
+384344,16/17,1 lip 2016,-,-,Slask U19,Sl. Wroclaw II
+384344,19/20,-,-,-,Polonia Kepno,Bez klubu
+384344,20/21,-,-,-,Bez klubu,Piast Nadolice
+393726,21/22,1 lip 2021,-,-,Nysa Klodzko,Bez klubu
+393726,20/21,1 lip 2020,-,-,Bez klubu,Nysa Klodzko
+393726,19/20,1 lip 2019,-,-,Nysa Klodzko,Bez klubu
+393726,18/19,1 lip 2018,-,Bez odstepnego,Piast Zmigrod,Nysa Klodzko
+393726,17/18,30 cze 2018,-,Koniec wypozyczenia,Nysa Klodzko,Piast Zmigrod
+393726,17/18,1 wrz 2017,-,Wypozyczenie,Piast Zmigrod,Nysa Klodzko
+393726,16/17,1 lut 2017,-,Bez odstepnego,Slask U19,Piast Zmigrod
+393726,13/14,1 cze 2014,-,-,AP Slask,Slask U19
+451202,21/22,1 lip 2021,-,Bez odstepnego,Nieznany,Orla Wasosz
+451202,20/21,30 cze 2021,-,Koniec wypozyczenia,Orla Wasosz,Nieznany
+451202,20/21,1 sty 2021,-,Wypozyczenie,Nieznany,Orla Wasosz
+451202,20/21,31 gru 2020,-,Koniec wypozyczenia,Pogon Olesnica,Nieznany
+451202,20/21,1 lip 2020,-,Wypozyczenie,Nieznany,Pogon Olesnica
+451202,18/19,1 lip 2018,-,Bez odstepnego,Pogon Olesnica,Nieznany
+451202,17/18,1 lip 2017,-,Bez odstepnego,Sl. Wroclaw II,Pogon Olesnica
+451202,16/17,1 lip 2016,-,-,Slask U19,Sl. Wroclaw II
+453911,19/20,1 lip 2019,-,-,Orzel Zabkowice,Bez klubu
+453911,18/19,1 mar 2019,-,Bez odstepnego,Sl. Wroclaw II,Orzel Zabkowice
+453911,18/19,1 lip 2018,-,-,Slask U19,Sl. Wroclaw II
+463477,21/22,1 sie 2021,-,Bez odstepnego,Strzelinianka ,Marcinkowice
+463477,20/21,1 kwi 2021,-,-,Bez klubu,Strzelinianka 
+463477,17/18,1 mar 2018,-,-,Wroclaw A. U19,Bez klubu
+463477,17/18,1 lip 2017,-,Bez odstepnego,Slask U19,Wroclaw A. U19
+385052,18/19,30 cze 2019,-,Koniec wypozyczenia,Skra Czesto.,Slask Wroclaw
+385052,18/19,1 wrz 2018,100 tys. EUR,Wypozyczenie,Slask Wroclaw,Skra Czesto.
+385052,18/19,31 sie 2018,100 tys. EUR,Koniec wypozyczenia,Wigry Suwalki,Slask Wroclaw
+385052,18/19,1 lip 2018,100 tys. EUR,Wypozyczenie,Slask Wroclaw,Wigry Suwalki
+385052,17/18,12 lip 2017,-,-,Sl. Wroclaw II,Slask Wroclaw
+385052,16/17,17 sty 2017,-,-,Slask U19,Sl. Wroclaw II
+385052,16/17,1 lip 2016,-,10 tys. EUR,LKS U19,Slask U19
+385052,14/15,1 lip 2014,-,?,GKS Ksawerow,LKS U19
+498038,22/23,30 cze 2023,-,Koniec wypozyczenia,GKS Jastrzebie,Chojniczanka
+498038,22/23,24 sty 2023,25 tys. EUR,Wypozyczenie,Chojniczanka,GKS Jastrzebie
+498038,22/23,5 lip 2022,-,Bez odstepnego,Sokol Kleczew,Chojniczanka
+498038,21/22,1 lip 2021,-,Bez odstepnego,Jarota Jarocin,Sokol Kleczew
+498038,19/20,17 lut 2020,-,Bez odstepnego,Mieszko Gniezno,Jarota Jarocin
+498038,19/20,22 lip 2019,-,Bez odstepnego,Sl. Wroclaw II,Mieszko Gniezno
+498038,18/19,1 lip 2018,-,-,Slask U19,Sl. Wroclaw II
+384349,23/24,28 lip 2023,-,Bez odstepnego,Piast Zmigrod,Stal Brzeg
+384349,22/23,1 lip 2022,-,Bez odstepnego,Sl. Wroclaw II,Piast Zmigrod
+384349,21/22,30 cze 2022,-,Koniec wypozyczenia,Piast Zmigrod,Sl. Wroclaw II
+384349,21/22,3 sie 2021,-,Wypozyczenie,Sl. Wroclaw II,Piast Zmigrod
+384349,20/21,30 cze 2021,-,Koniec wypozyczenia,Polonia-Stal,Sl. Wroclaw II
+384349,20/21,29 lip 2020,-,Wypozyczenie,Sl. Wroclaw II,Polonia-Stal
+384349,16/17,1 lip 2016,-,-,Slask U19,Sl. Wroclaw II
+384782,21/22,1 paz 2021,-,-,Bez klubu,Slowianin W.
+384782,21/22,1 lip 2021,-,-,Sl. Wroclaw II,Bez klubu
+384782,20/21,30 cze 2021,-,Koniec wypozyczenia,Nysa Klodzko,Sl. Wroclaw II
+384782,20/21,1 sie 2020,-,Wypozyczenie,Sl. Wroclaw II,Nysa Klodzko
+384782,19/20,30 cze 2020,-,Koniec wypozyczenia,L. Dzierzoniow,Sl. Wroclaw II
+384782,19/20,1 sie 2019,-,Wypozyczenie,Sl. Wroclaw II,L. Dzierzoniow
+384782,16/17,1 sie 2016,-,-,Slask U19,Sl. Wroclaw II
+384782,16/17,1 lip 2016,-,?,Wroclaw A. U19,Slask U19
+384351,22/23,3 mar 2023,-,Bez odstepnego,Orzel Zabkowice,Pol. Trzebnica
+384351,22/23,9 sie 2022,-,Bez odstepnego,Polonia Nysa,Orzel Zabkowice
+384351,21/22,10 sie 2021,-,Bez odstepnego,Piast Zerniki,Polonia Nysa
+384351,17/18,1 lut 2018,-,Bez odstepnego,Sl. Wroclaw II,Piast Zerniki
+384351,16/17,1 lip 2016,-,-,Slask U19,Sl. Wroclaw II
+427106,21/22,1 sie 2021,-,Bez odstepnego,Sl. Wroclaw II,Solna G.
+427106,20/21,30 cze 2021,-,Koniec wypozyczenia,Polonia Nysa,Sl. Wroclaw II
+427106,19/20,21 lut 2020,-,Wypozyczenie,Sl. Wroclaw II,Polonia Nysa
+427106,16/17,1 lip 2016,-,-,Slask U19,Sl. Wroclaw II
+451198,22/23,15 lip 2022,50 tys. EUR,Bez odstepnego,Slask Wroclaw,GKS Jastrzebie
+451198,18/19,28 mar 2019,-,-,Sl. Wroclaw II,Slask Wroclaw
+451198,18/19,28 mar 2019,-,-,Slask U19,Sl. Wroclaw II
+451198,18/19,1 lip 2018,-,-,AP Slask,Slask U19
+384341,19/20,1 lip 2019,-,Bez odstepnego,Sl. Wroclaw II,Stal Brzeg
+384341,18/19,30 cze 2019,-,Koniec wypozyczenia,Stal Brzeg,Sl. Wroclaw II
+384341,18/19,31 lip 2018,-,Wypozyczenie,Sl. Wroclaw II,Stal Brzeg
+384341,16/17,1 lip 2016,-,-,Slask U19,Sl. Wroclaw II
+384432,21/22,1 lip 2021,-,-,Polonia Nysa,Bez klubu
+384432,19/20,27 lut 2020,-,Bez odstepnego,Agroplon ,Polonia Nysa
+384432,18/19,1 sie 2018,-,Bez odstepnego,Ruch Zd.,Agroplon 
+384432,17/18,13 lip 2017,-,Bez odstepnego,Slask U19,Ruch Zd.
+384432,16/17,1 lip 2016,-,?,Pomologia U19,Slask U19
+384432,14/15,1 lip 2014,-,?,Nieznany,Pomologia U19
+427118,21/22,1 lip 2021,-,-,KS Krapkowice,Bez klubu
+427118,20/21,1 lip 2020,-,Bez odstepnego,Ruch Zd.,KS Krapkowice
+427118,19/20,30 cze 2020,-,Koniec wypozyczenia,KS Krapkowice,Ruch Zd.
+427118,19/20,1 sty 2020,-,Wypozyczenie,Ruch Zd.,KS Krapkowice
+427118,19/20,1 lip 2019,-,Bez odstepnego,Sw. Czarnowasy,Ruch Zd.
+427118,18/19,30 cze 2019,-,Koniec wypozyczenia,KS Krapkowice,Sw. Czarnowasy
+427118,18/19,1 sty 2019,-,Wypozyczenie,Sw. Czarnowasy,KS Krapkowice
+427118,17/18,1 lip 2017,-,Bez odstepnego,Slask U19,Sw. Czarnowasy
+427118,16/17,1 lip 2016,-,Bez odstepnego,Wroclaw A. U19,Slask U19
+428578,19/20,1 lip 2019,-,Bez odstepnego,Pol. Trzebnica,Barycz Sulow
+428578,17/18,8 sie 2017,-,Bez odstepnego,Orla Wasosz,Pol. Trzebnica
+428578,16/17,1 sty 2017,-,Bez odstepnego,Sl. Wroclaw II,Orla Wasosz
+428578,16/17,1 lip 2016,-,-,Slask U19,Sl. Wroclaw II
+466299,17/18,1 lip 2017,-,-,Slask U19,Koniec kariery
+494718,22/23,1 paz 2022,-,Bez odstepnego,MKP Wolow,Nieznany
+494718,21/22,1 mar 2022,-,Bez odstepnego,Czarni ,MKP Wolow
+494718,21/22,1 lip 2021,-,Bez odstepnego,Mech. Brzezina,Czarni 
+494718,18/19,1 sie 2018,-,Bez odstepnego,Piast Zerniki,Mech. Brzezina
+494718,17/18,1 lip 2018,-,Bez odstepnego,Slask U19,Piast Zerniki
+379868,23/24,1 sty 2024,-,-,Olimpia Grudz.,Bez klubu
+379868,23/24,18 lip 2023,-,Bez odstepnego,Wieczysta,Olimpia Grudz.
+379868,22/23,14 paz 2022,150 tys. EUR,-,Bez klubu,Wieczysta
+379868,22/23,1 lip 2022,150 tys. EUR,-,AE Kifisias,Bez klubu
+379868,21/22,15 lut 2022,125 tys. EUR,Bez odstepnego,Gornik Polk.,AE Kifisias
+379868,21/22,26 lip 2021,250 tys. EUR,Bez odstepnego,Slask Wroclaw,Gornik Polk.
+379868,19/20,30 cze 2020,150 tys. EUR,Koniec wypozyczenia,Stomil,Slask Wroclaw
+379868,18/19,28 lut 2019,150 tys. EUR,Wypozyczenie,Slask Wroclaw,Stomil
+379868,16/17,31 sie 2016,-,Koniec wypozyczenia,Rakow,Slask Wroclaw
+379868,16/17,14 lip 2016,50 tys. EUR,Wypozyczenie,Slask Wroclaw,Rakow
+379868,14/15,16 lip 2014,-,-,Slask U19,Slask Wroclaw
+461518,23/24,3 sie 2023,-,Bez odstepnego,Strzelinianka ,Polonia Nysa
+461518,22/23,9 mar 2023,-,Bez odstepnego,L. Dzierzoniow,Strzelinianka 
+461518,22/23,1 lip 2022,-,Bez odstepnego,Sl. Wroclaw II,L. Dzierzoniow
+461518,21/22,30 cze 2022,-,Koniec wypozyczenia,Polonia Nysa,Sl. Wroclaw II
+461518,21/22,31 sie 2021,-,Wypozyczenie,Sl. Wroclaw II,Polonia Nysa
+461518,20/21,30 cze 2021,-,Koniec wypozyczenia,Polonia Nysa,Sl. Wroclaw II
+461518,20/21,16 lip 2020,-,Wypozyczenie,Sl. Wroclaw II,Polonia Nysa
+461518,16/17,1 lut 2017,-,-,Slask U19,Sl. Wroclaw II
+461518,15/16,1 lip 2015,-,-,AP Slask,Slask U19
+442091,21/22,1 sty 2022,-,-,C. Inowroclaw,Bez klubu
+442091,21/22,30 cze 2021,-,Bez odstepnego,Chelminianka,C. Inowroclaw
+442091,20/21,30 cze 2020,-,Bez odstepnego,C. Inowroclaw,Chelminianka
+442091,19/20,1 lip 2019,-,-,Bez klubu,C. Inowroclaw
+442091,18/19,1 lip 2018,-,-,Chemik Bydgoszcz,Bez klubu
+442091,17/18,30 cze 2018,-,Koniec wypozyczenia,Unia Solec,Chemik Bydgoszcz
+442091,17/18,2 mar 2018,-,Wypozyczenie,Chemik Bydgoszcz,Unia Solec
+442091,17/18,18 sie 2017,-,?,Sl. Wroclaw II,Chemik Bydgoszcz
+442091,17/18,1 lip 2017,-,-,Slask U19,Sl. Wroclaw II
+442091,16/17,1 mar 2017,-,?,Chemik U19,Slask U19
+384791,23/24,18 lip 2023,300 tys. EUR,Bez odstepnego,Slask Wroclaw,Resovia
+384791,18/19,30 cze 2019,450 tys. EUR,Koniec wypozyczenia,GKS Katowice,Slask Wroclaw
+384791,18/19,1 lip 2018,75 tys. EUR,Wypozyczenie,Slask Wroclaw,GKS Katowice
+384791,16/17,8 lut 2017,-,-,Sl. Wroclaw II,Slask Wroclaw
+384791,16/17,1 lip 2016,-,Bez odstepnego,Wroclaw A. U19,Sl. Wroclaw II
+403339,22/23,4 sie 2022,-,Bez odstepnego,Slask Wroclaw,Polonia Nysa
+403339,19/20,5 cze 2020,-,-,Sl. Wroclaw II,Slask Wroclaw
+403339,19/20,1 lip 2019,-,-,Slask U19,Sl. Wroclaw II
+403339,15/16,1 lip 2015,-,-,AP Slask,Slask U19
+384338,22/23,27 lip 2022,-,Bez odstepnego,Jelenia Gora,Kwisa S.
+384338,19/20,1 lip 2019,-,Bez odstepnego,Piast Zerniki,Jelenia Gora
+384338,18/19,1 lip 2018,-,Bez odstepnego,Sl. Wroclaw II,Piast Zerniki
+384338,16/17,1 lip 2016,-,-,Slask U19,Sl. Wroclaw II
+384337,22/23,11 lut 2023,100 tys. EUR,Bez odstepnego,Slask Wroclaw,GKS Katowice
+384337,18/19,30 cze 2019,200 tys. EUR,Koniec wypozyczenia,Wigry Suwalki,Slask Wroclaw
+384337,18/19,1 sty 2019,100 tys. EUR,Wypozyczenie,Slask Wroclaw,Wigry Suwalki
+384337,18/19,31 gru 2018,100 tys. EUR,Koniec wypozyczenia,Stal Mielec,Slask Wroclaw
+384337,18/19,1 lip 2018,75 tys. EUR,Wypozyczenie,Slask Wroclaw,Stal Mielec
+384337,17/18,23 lis 2017,-,-,Sl. Wroclaw II,Slask Wroclaw
+384337,16/17,1 lip 2016,-,-,Slask U19,Sl. Wroclaw II
+384786,20/21,1 sie 2020,-,-,Bez klubu,Esthetic L. S.
+384786,19/20,1 mar 2020,-,-,Orzel Zabkowice,Bez klubu
+384786,19/20,1 lip 2019,-,Bez odstepnego,L. Dzierzoniow,Orzel Zabkowice
+384786,18/19,1 lut 2019,-,Bez odstepnego,Sl. Wroclaw II,L. Dzierzoniow
+384786,18/19,1 lip 2018,-,-,Slask U19,Sl. Wroclaw II
+384786,16/17,1 lip 2016,-,?,Wroclaw A. U19,Slask U19
+453915,19/20,30 cze 2020,-,Koniec wypozyczenia,Nysa Klodzko,Orzel Zabkowice
+453915,19/20,1 lip 2019,-,Wypozyczenie,Orzel Zabkowice,Nysa Klodzko
+453915,17/18,1 lip 2017,-,Bez odstepnego,Wroclaw A. U19,Orzel Zabkowice
+453915,16/17,1 sty 2017,-,Bez odstepnego,Slask U19,Wroclaw A. U19
+459223,21/22,1 lip 2021,-,Bez odstepnego,Polonia-Stal,Venus Nowice
+459223,20/21,30 cze 2021,-,Koniec wypozyczenia,Venus Nowice,Polonia-Stal
+459223,20/21,1 lip 2020,-,Wypozyczenie,Polonia-Stal,Venus Nowice
+459223,19/20,31 gru 2019,-,Koniec wypozyczenia,Venus Nowice,Polonia-Stal
+459223,19/20,1 lip 2019,-,Wypozyczenie,Polonia-Stal,Venus Nowice
+459223,18/19,30 cze 2019,-,Koniec wypozyczenia,Venus Nowice,Polonia-Stal
+459223,18/19,1 sty 2019,-,Wypozyczenie,Polonia-Stal,Venus Nowice
+459223,17/18,1 lip 2017,-,Bez odstepnego,Slask U19,Polonia-Stal
+346546,22/23,30 cze 2023,"2,00 mln EUR",Koniec wypozyczenia,Cercle Brugge,Monaco
+346546,22/23,20 lip 2022,"3,00 mln EUR",Wypozyczenie,Monaco,Cercle Brugge
+346546,19/20,30 cze 2020,"4,50 mln EUR",Koniec wypozyczenia,Legia Warszawa,Monaco
+346546,19/20,30 sty 2020,"5,00 mln EUR",Wypozyczenie,Monaco,Legia Warszawa
+346546,19/20,29 sty 2020,"5,00 mln EUR","7,00 mln EUR",Legia Warszawa,Monaco
+346546,17/18,30 cze 2018,200 tys. EUR,Koniec wypozyczenia,Stal Mielec,Legia Warszawa
+346546,17/18,19 lip 2017,150 tys. EUR,Wypozyczenie,Legia Warszawa,Stal Mielec
+346546,15/16,1 lip 2016,100 tys. EUR,-,Legia II,Legia Warszawa
+346546,15/16,10 lut 2016,-,-,Legia U19,Legia II
+346546,14/15,1 lip 2014,-,?,KSZO U19,Legia U19
+342661,20/21,3 wrz 2020,50 tys. EUR,Bez odstepnego,Foll. Gavorrano,Pianese
+342661,19/20,1 lip 2019,100 tys. EUR,Bez odstepnego,Pianese,Gavorrano
+342661,17/18,30 lip 2017,-,Bez odstepnego,Legia U19,Pianese
+358864,20/21,1 lip 2020,-,-,GKS Kowale,Bez klubu
+358864,19/20,1 lip 2019,-,Bez odstepnego,Miedz U19 ,GKS Kowale
+358864,18/19,1 sie 2018,-,Bez odstepnego,Legia U19,Miedz U19 
+358864,17/18,1 sie 2017,-,?,AP Lechia,Legia U19
+358864,16/17,30 cze 2017,-,Koniec wypozyczenia,Legia U19,AP Lechia
+358864,16/17,1 lip 2016,-,Wypozyczenie,AP Lechia,Legia U19
+358864,13/14,1 lip 2013,-,?,Czarni U19,AP Lechia
+387083,22/23,1 sty 2023,-,-,Bez klubu,Spartakus Daleszyce
+387083,19/20,1 lip 2019,-,-,Sokol Ostroda,Bez klubu
+387083,17/18,3 sie 2017,-,Bez odstepnego,Legia II,Sokol Ostroda
+387083,14/15,1 lip 2014,-,-,Legia U19,Legia II
+387083,13/14,1 lip 2013,-,?,KSZO U19,Legia U19
+393891,23/24,1 lip 2023,25 tys. EUR,Bez odstepnego,Slask Wroclaw,Odra Opole
+393891,21/22,2 lip 2021,-,Bez odstepnego,Piast Zmigrod,Slask Wroclaw
+393891,20/21,19 wrz 2020,-,Bez odstepnego,Pogon Siedlce,Piast Zmigrod
+393891,19/20,30 cze 2020,-,Koniec wypozyczenia,KKS Kalisz,Pogon Siedlce
+393891,19/20,20 lip 2019,-,Wypozyczenie,Pogon Siedlce,KKS Kalisz
+393891,18/19,20 lip 2018,-,Bez odstepnego,Legia U19,Pogon Siedlce
+393891,17/18,30 cze 2018,-,Koniec wypozyczenia,Victoria Sulejowek,Legia U19
+393891,17/18,31 sie 2017,-,Wypozyczenie,Legia U19,Victoria Sulejowek
+393891,15/16,1 sty 2016,-,-,Legia U19,Legia II
+393891,15/16,1 lip 2015,-,?,P. Siedlce U19,Legia U19
+404055,22/23,1 lip 2022,300 tys. EUR,100 tys. EUR,Legia Warszawa,Stal Mielec
+404055,21/22,30 cze 2022,300 tys. EUR,Koniec wypozyczenia,Radomiak,Legia Warszawa
+404055,21/22,16 sie 2021,300 tys. EUR,Wypozyczenie,Legia Warszawa,Radomiak
+404055,20/21,30 cze 2021,300 tys. EUR,Koniec wypozyczenia,Radomiak,Legia Warszawa
+404055,20/21,21 sie 2020,100 tys. EUR,Wypozyczenie,Legia Warszawa,Radomiak
+404055,19/20,25 maj 2020,100 tys. EUR,-,Legia II,Legia Warszawa
+404055,19/20,28 lut 2020,100 tys. EUR,Koniec wypozyczenia,Radomiak,Legia II
+404055,18/19,12 lip 2018,-,Wypozyczenie,Legia II,Radomiak
+404055,17/18,30 cze 2018,-,Koniec wypozyczenia,Legionovia,Legia II
+404055,17/18,1 lut 2018,-,Wypozyczenie,Legia II,Legionovia
+404055,16/17,1 lut 2017,-,-,Legia U19,Legia II
+404055,16/17,1 lip 2016,-,-,Legia Akademia,Legia U19
+404055,15/16,1 lip 2015,-,?,BKS Lublin Mlod,Legia Akademia
+387167,19/20,1 lip 2019,-,Bez odstepnego,Swit N.D.M.,Zabkovia Zabki
+387167,18/19,10 sie 2018,-,Bez odstepnego,Legionovia,Swit N.D.M.
+387167,17/18,25 sie 2017,-,Bez odstepnego,Legia II,Legionovia
+387167,14/15,1 sty 2015,-,-,Legia U19,Legia II
+297234,22/23,1 lip 2022,650 tys. EUR,Bez odstepnego,Stal Mielec,Widzew Lodz
+297234,20/21,5 sie 2020,150 tys. EUR,50 tys. EUR,Legia Warszawa,Stal Mielec
+297234,19/20,30 cze 2020,150 tys. EUR,Koniec wypozyczenia,Stal Mielec,Legia Warszawa
+297234,19/20,1 lip 2019,150 tys. EUR,Wypozyczenie,Legia Warszawa,Stal Mielec
+297234,18/19,30 cze 2019,150 tys. EUR,Koniec wypozyczenia,Miedz Legnica,Legia Warszawa
+297234,18/19,31 sie 2018,150 tys. EUR,Wypozyczenie,Legia Warszawa,Miedz Legnica
+297234,17/18,30 cze 2018,100 tys. EUR,Koniec wypozyczenia,Wigry Suwalki,Legia Warszawa
+297234,17/18,19 lut 2018,100 tys. EUR,Wypozyczenie,Legia Warszawa,Wigry Suwalki
+297234,16/17,10 lut 2017,-,-,Legia II,Legia Warszawa
+297234,14/15,1 sty 2015,-,-,Legia U19,Legia II
+342660,22/23,1 lip 2022,125 tys. EUR,Bez odstepnego,GKS Jastrzebie,Resovia
+342660,21/22,31 gru 2021,-,Koniec wypozyczenia,Sokol Ostroda,GKS Jastrzebie
+342660,21/22,31 sie 2021,125 tys. EUR,Wypozyczenie,GKS Jastrzebie,Sokol Ostroda
+342660,20/21,21 sie 2020,50 tys. EUR,Bez odstepnego,Legia II,GKS Jastrzebie
+342660,19/20,31 lip 2020,50 tys. EUR,Koniec wypozyczenia,Stomil,Legia II
+342660,19/20,22 sty 2020,-,Wypozyczenie,Legia II,Stomil
+342660,19/20,16 sty 2020,-,Koniec wypozyczenia,Skra Czesto.,Legia II
+342660,19/20,26 lip 2019,-,Wypozyczenie,Legia II,Skra Czesto.
+342660,17/18,1 lip 2017,-,-,Legia U19,Legia II
+345458,23/24,1 lip 2023,"3,00 mln EUR","1,00 mln EUR",Cagliari Calcio,FC Empoli
+345458,22/23,30 cze 2023,"3,00 mln EUR",Koniec wypozyczenia,FC Empoli,Cagliari Calcio
+345458,22/23,1 wrz 2022,"5,00 mln EUR",Wypozyczenie,Cagliari Calcio,FC Empoli
+345458,18/19,30 cze 2019,"4,00 mln EUR",Koniec wypozyczenia,Pogon Szczecin,Cagliari Calcio
+345458,18/19,16 sty 2019,200 tys. EUR,Wypozyczenie,Cagliari Calcio,Pogon Szczecin
+345458,18/19,15 sty 2019,200 tys. EUR,"3,50 mln EUR",Pogon Szczecin,Cagliari Calcio
+345458,17/18,1 lip 2017,-,15 tys. EUR,Legia II,Pogon Szczecin
+345458,16/17,1 lip 2016,-,-,Legia Akademia,Legia II
+381929,23/24,18 lip 2023,-,Bez odstepnego,Bron Radom,Pogon Grodzisk
+381929,22/23,1 lip 2022,-,Bez odstepnego,Stalowa Wola,Bron Radom
+381929,20/21,30 sty 2021,50 tys. EUR,Bez odstepnego,Olimpia Grudz.,Stalowa Wola
+381929,20/21,20 sie 2020,50 tys. EUR,?,Legia II,Olimpia Grudz.
+381929,20/21,31 lip 2020,50 tys. EUR,Koniec wypozyczenia,Radomiak,Legia II
+381929,19/20,17 lip 2019,-,Wypozyczenie,Legia II,Radomiak
+381929,18/19,30 cze 2019,-,Koniec wypozyczenia,Olimpia Grudz.,Legia II
+381929,18/19,25 sty 2019,-,Wypozyczenie,Legia II,Olimpia Grudz.
+381929,17/18,1 lip 2017,-,-,Legia U19,Legia II
+387169,17/18,1 lip 2017,-,-,Znicz U19,Znicz II
+387169,16/17,1 lut 2017,-,?,Legia U19,Znicz U19
+387164,22/23,11 lip 2022,-,Bez odstepnego,Bron Radom,KTS Weszlo 
+387164,20/21,6 mar 2021,75 tys. EUR,Bez odstepnego,Skra Czesto.,Bron Radom
+387164,19/20,28 lut 2020,75 tys. EUR,Bez odstepnego,Wigry Suwalki,Skra Czesto.
+387164,17/18,22 lut 2018,-,Bez odstepnego,Legia U19,Wigry Suwalki
+387164,16/17,1 lip 2016,-,-,Legia Akademia,Legia U19
+342042,23/24,18 sie 2023,175 tys. EUR,Bez odstepnego,W. Mannheim,LKS Lodz
+342042,22/23,1 lip 2022,150 tys. EUR,Bez odstepnego,1.FC Magdeburg,W. Mannheim
+342042,20/21,1 sie 2020,100 tys. EUR,Bez odstepnego,GKS Belchatow,1.FC Magdeburg
+342042,19/20,1 lip 2019,-,Bez odstepnego,Znicz Pruszkow,GKS Belchatow
+342042,18/19,19 lip 2018,50 tys. EUR,Bez odstepnego,Legia II,Znicz Pruszkow
+342042,17/18,30 cze 2018,50 tys. EUR,Koniec wypozyczenia,Znicz Pruszkow,Legia II
+342042,17/18,18 lut 2018,50 tys. EUR,Wypozyczenie,Legia II,Znicz Pruszkow
+342042,17/18,31 gru 2017,50 tys. EUR,Koniec wypozyczenia,Pogon Siedlce,Legia II
+342042,17/18,21 lip 2017,-,Wypozyczenie,Legia II,Pogon Siedlce
+342042,14/15,1 lip 2014,-,-,Legia U19,Legia II
+342042,12/13,1 lip 2012,-,?,Zawisza U19,Legia U19
+387082,18/19,1 lut 2019,-,Bez odstepnego,Victoria Sulejowek,Dr. Warszawa
+387082,17/18,10 sie 2017,-,Bez odstepnego,Legia U19,Victoria Sulejowek
+387082,16/17,30 cze 2017,-,Koniec wypozyczenia,Znicz U19,Legia U19
+387082,16/17,1 lut 2017,-,Wypozyczenie,Legia U19,Znicz U19
+387082,16/17,1 lip 2016,-,-,Legia Akademia,Legia U19
+387148,18/19,1 sty 2019,-,-,Grom Plewiska,Bez klubu
+387148,17/18,1 sty 2018,-,Bez odstepnego,Legia U19,Grom Plewiska
+387148,17/18,31 gru 2017,-,Koniec wypozyczenia,GKS Dopiewo,Legia U19
+387148,17/18,2 sie 2017,-,Wypozyczenie,Legia U19,GKS Dopiewo
+387148,16/17,1 lip 2016,-,-,Legia Akademia,Legia U19
+393727,17/18,1 lip 2017,-,-,Legia U19,Bez klubu
+451948,22/23,4 sie 2022,-,Bez odstepnego,KS Krapkowice,LZS Starowice
+451948,20/21,1 lip 2021,-,Bez odstepnego,Ruch Zd.,KS Krapkowice
+451948,19/20,30 cze 2020,-,Koniec wypozyczenia,KS Krapkowice,Ruch Zd.
+451948,19/20,1 sty 2020,-,Wypozyczenie,Ruch Zd.,KS Krapkowice
+451948,19/20,1 lip 2019,-,Bez odstepnego,Agroplon ,Ruch Zd.
+451948,18/19,1 sie 2018,-,Bez odstepnego,Ruch Zd.,Agroplon 
+451948,18/19,1 lip 2018,-,Koniec wypozyczenia,Polonia Nysa,Ruch Zd.
+451948,17/18,1 lut 2018,-,Wypozyczenie,Ruch Zd.,Polonia Nysa
+451948,17/18,1 sie 2017,-,Bez odstepnego,Legia U19,Ruch Zd.
+387027,23/24,1 lip 2023,-,Bez odstepnego,Legionovia,Wisla Pulawy
+387027,21/22,7 mar 2022,-,Bez odstepnego,Pogon Siedlce,Legionovia
+387027,20/21,27 sie 2020,-,?,Legia II,Pogon Siedlce
+387027,19/20,30 cze 2020,-,Koniec wypozyczenia,Motor Lublin,Legia II
+387027,19/20,9 sie 2019,-,Wypozyczenie,Legia II,Motor Lublin
+387027,18/19,30 cze 2019,-,Koniec wypozyczenia,Lechia Tomaszow,Legia II
+387027,18/19,2 mar 2019,-,Wypozyczenie,Legia II,Lechia Tomaszow
+387027,16/17,1 sty 2017,-,-,Legia U19,Legia II
+387027,16/17,1 lip 2016,-,-,Legia Akademia,Legia U19
+387033,22/23,1 mar 2023,-,Bez odstepnego,LKS Lagow,Legia II
+387033,21/22,1 wrz 2021,-,Bez odstepnego,Legia II,LKS Lagow
+387033,20/21,30 cze 2021,-,Koniec wypozyczenia,Olimpia Elblag,Legia II
+387033,20/21,24 lut 2021,-,Wypozyczenie,Legia II,Olimpia Elblag
+387033,14/15,1 maj 2015,-,-,Legia U19,Legia II
+387033,14/15,1 sty 2015,-,-,Legia Akademia,Legia U19
+297230,22/23,11 lip 2022,-,Bez odstepnego,Pogon Grodzisk,KTS Weszlo 
+297230,20/21,22 paz 2020,100 tys. EUR,-,Bez klubu,Pogon Grodzisk
+297230,20/21,1 lip 2020,100 tys. EUR,-,Pogon Siedlce,Bez klubu
+297230,19/20,11 mar 2020,100 tys. EUR,-,Chojniczanka,Pogon Siedlce
+297230,18/19,28 lut 2019,100 tys. EUR,Bez odstepnego,Willem II,Chojniczanka
+297230,17/18,6 lip 2017,100 tys. EUR,100 tys. EUR,Legia Warszawa,Willem II
+297230,16/17,7 lut 2017,-,-,Legia II,Legia Warszawa
+297230,15/16,21 lip 2015,-,?,Polonia,Legia II
+297230,13/14,1 lut 2014,-,-,MKS Polonia U19,Polonia
+466034,23/24,1 lip 2023,-,-,Polonia II,Pauzuje
+466034,21/22,26 lip 2021,25 tys. EUR,Bez odstepnego,LKS Lagow,Polonia II
+466034,20/21,11 lut 2021,25 tys. EUR,Bez odstepnego,Pogon Grodzisk,LKS Lagow
+466034,20/21,25 wrz 2020,25 tys. EUR,Bez odstepnego,Hetman Zamosc,Pogon Grodzisk
+466034,19/20,12 lut 2020,25 tys. EUR,Bez odstepnego,Stomil,Hetman Zamosc
+466034,19/20,1 lip 2019,-,Bez odstepnego,Gornik II,Stomil
+466034,18/19,30 cze 2019,-,Koniec wypozyczenia,Stomil,Gornik II
+466034,18/19,28 lut 2019,-,Wypozyczenie,Gornik II,Stomil
+466034,18/19,1 lip 2018,-,Bez odstepnego,MKS Polonia U19,Gornik II
+466034,17/18,5 sie 2017,-,Bez odstepnego,Widzew Lodz,MKS Polonia U19
+466034,16/17,8 lut 2017,-,Bez odstepnego,Legia U19,Widzew Lodz
+387035,22/23,30 lip 2022,-,Bez odstepnego,Stalowa Wola,P. Bialobrzegi
+387035,21/22,13 lip 2021,-,Bez odstepnego,Legia II,Stalowa Wola
+387035,18/19,1 lip 2018,-,-,Legia U19,Legia II
+387035,16/17,1 lip 2016,-,-,Legia Akademia,Legia U19
+393892,22/23,20 lip 2022,-,Bez odstepnego,LKS Lagow,Siarka T.
+393892,21/22,2 sie 2021,-,Bez odstepnego,Legia II,LKS Lagow
+393892,15/16,1 sty 2016,-,-,Legia U19,Legia II
+393892,14/15,1 lip 2014,-,Bez odstepnego,Pultusk,Legia U19
+345457,23/24,5 lip 2023,-,Bez odstepnego,Chelmianka,Legionovia
+345457,22/23,13 wrz 2022,-,-,Bez klubu,Chelmianka
+345457,21/22,1 lip 2022,-,-,Alki Oroklini,Bez klubu
+345457,21/22,14 sty 2022,-,-,Bez klubu,Alki Oroklini
+345457,21/22,1 lip 2021,100 tys. EUR,-,Z. Sosnowiec,Bez klubu
+345457,18/19,29 mar 2019,-,Bez odstepnego,Legia II,Z. Sosnowiec
+345457,16/17,1 lip 2016,-,-,Legia Akademia,Legia II
+345457,13/14,1 lip 2013,-,Bez odstepnego,Niedzwiadek Ml.,Legia Akademia
+346550,22/23,1 lip 2022,-,Bez odstepnego,LKS Lagow,Moravia M.
+346550,20/21,6 lut 2021,-,Bez odstepnego,GKS Nowiny,LKS Lagow
+346550,20/21,28 sie 2020,-,Bez odstepnego,Korona Kielce II,GKS Nowiny
+346550,18/19,1 lip 2018,-,-,Korona U19,Korona Kielce II
+346550,16/17,1 lut 2017,-,?,Legia U19,Korona U19
+346550,15/16,14 sie 2015,-,?,Korona U19,Legia U19
+297216,23/24,1 lip 2023,-,Bez odstepnego,Garbarnia,Star St.
+297216,22/23,14 lip 2022,-,Bez odstepnego,GKS Jastrzebie,Garbarnia
+297216,21/22,5 lip 2021,150 tys. EUR,Bez odstepnego,Warta Poznan,GKS Jastrzebie
+297216,20/21,5 sie 2020,125 tys. EUR,Bez odstepnego,Olimpia Grudz.,Warta Poznan
+297216,17/18,31 sie 2017,50 tys. EUR,Bez odstepnego,Legia II,Olimpia Grudz.
+297216,16/17,9 lut 2017,50 tys. EUR,Koniec wypozyczenia,Z. Sosnowiec,Legia II
+297216,16/17,13 lip 2016,50 tys. EUR,Wypozyczenie,Legia II,Z. Sosnowiec
+297216,16/17,1 lip 2016,50 tys. EUR,Bez odstepnego,Wisla Krakow II,Legia II
+297216,14/15,1 lip 2014,-,-,Wisla U19,Wisla Krakow II
+374418,23/24,30 cze 2024,900 tys. EUR,Koniec wypozyczenia,Cosenza,Hellas Verona
+374418,22/23,26 sty 2023,"1,20 mln EUR",Wypozyczenie,Hellas Verona,Cosenza
+374418,22/23,2 sty 2023,"1,20 mln EUR","2,00 mln EUR",Slask Wroclaw,Hellas Verona
+374418,22/23,31 gru 2022,"1,20 mln EUR",Koniec wypozyczenia,Hellas Verona,Slask Wroclaw
+374418,21/22,29 sty 2022,"1,50 mln EUR",Wypozyczenie,Slask Wroclaw,Hellas Verona
+374418,20/21,1 sie 2020,200 tys. EUR,Bez odstepnego,Legia Warszawa,Slask Wroclaw
+374418,17/18,6 lut 2018,-,-,Legia II,Legia Warszawa
+374418,17/18,1 lip 2017,-,-,Legia U19,Legia II
+374418,14/15,1 lip 2014,-,?,Odra Centrum ,Legia U19
+321240,23/24,1 wrz 2023,400 tys. EUR,50 tys. EUR,Lechia Gdansk,Piast Gliwice
+321240,22/23,30 cze 2023,400 tys. EUR,Koniec wypozyczenia,Warta Poznan,Lechia Gdansk
+321240,21/22,20 sty 2022,250 tys. EUR,Wypozyczenie,Lechia Gdansk,Warta Poznan
+321240,21/22,1 lip 2021,400 tys. EUR,Bez odstepnego,Rakow,Lechia Gdansk
+321240,17/18,26 sty 2018,50 tys. EUR,25 tys. EUR,Legia Warszawa,Rakow
+321240,17/18,6 lip 2017,-,-,Legia II,Legia Warszawa
+321240,16/17,1 lip 2016,-,-,Legia U19,Legia II
+321240,14/15,1 lip 2014,-,-,Legia Akademia,Legia U19
+387165,23/24,10 lip 2023,-,Bez odstepnego,Unia Tarnow,Siarka T.
+387165,22/23,17 lut 2023,-,Bez odstepnego,LKS Lagow,Unia Tarnow
+387165,21/22,8 lut 2022,-,Bez odstepnego,Chojniczanka,LKS Lagow
+387165,20/21,11 wrz 2020,-,Bez odstepnego,Legia II,Chojniczanka
+387165,17/18,1 lip 2017,-,-,Legia U19,Legia II
+387165,16/17,1 lip 2016,-,-,Legia Akademia,Legia U19
+266346,23/24,22 sie 2023,50 tys. EUR,Bez odstepnego,P. Niepolomice,Blekitni Star.
+266346,22/23,30 cze 2023,50 tys. EUR,Koniec wypozyczenia,Polonia,P. Niepolomice
+266346,22/23,10 sty 2023,75 tys. EUR,Wypozyczenie,P. Niepolomice,Polonia
+266346,21/22,1 lip 2021,75 tys. EUR,Bez odstepnego,Wigry Suwalki,P. Niepolomice
+266346,19/20,12 lip 2019,-,Bez odstepnego,Legia II,Wigry Suwalki
+266346,17/18,1 lip 2017,-,-,Legia U19,Legia II
+266346,14/15,1 lip 2014,-,-,Legia Akademia,Legia U19
+266346,11/12,1 lut 2012,-,Bez odstepnego,Energetyk U19,Legia Akademia
+345455,22/23,11 lip 2022,-,Bez odstepnego,Ursus Warszawa,KTS Weszlo 
+345455,20/21,8 sie 2020,-,Bez odstepnego,Legia II,Ursus Warszawa
+345455,19/20,1 lip 2019,-,-,Legia U19,Legia II
+345455,18/19,30 cze 2019,-,Koniec wypozyczenia,KKS Kalisz,Legia U19
+345455,18/19,23 sty 2019,-,Wypozyczenie,Legia U19,KKS Kalisz
+345455,16/17,30 cze 2017,-,-,Legia Akademia,Legia U19
+287294,22/23,1 lip 2022,-,-,Bez klubu,Nieznany
+287294,21/22,1 lip 2021,-,-,Victoria Sulejowek,Bez klubu
+287294,19/20,1 sie 2019,-,Bez odstepnego,Legia II,Victoria Sulejowek
+287294,18/19,21 wrz 2018,50 tys. EUR,-,Legia II,Legia Warszawa
+287294,17/18,30 cze 2018,50 tys. EUR,Koniec wypozyczenia,Legionovia,Legia II
+287294,17/18,1 lut 2018,50 tys. EUR,Wypozyczenie,Legia II,Legionovia
+287294,17/18,31 sty 2018,50 tys. EUR,Koniec wypozyczenia,P. Niepolomice,Legia II
+287294,17/18,10 sie 2017,-,Wypozyczenie,Legia II,P. Niepolomice
+287294,14/15,1 sty 2015,-,-,Legia U19,Legia II
+300427,22/23,1 sie 2022,25 tys. EUR,Bez odstepnego,Stal Rzeszow II,Wolczanka
+300427,21/22,1 lip 2021,-,-,Stal Rzeszow,Stal Rzeszow II
+300427,20/21,30 cze 2021,-,Koniec wypozyczenia,Wolczanka,Stal Rzeszow
+300427,20/21,31 lip 2020,-,Wypozyczenie,Stal Rzeszow,Wolczanka
+300427,19/20,30 cze 2020,-,Koniec wypozyczenia,Wolczanka,Stal Rzeszow
+300427,19/20,22 lut 2020,-,Wypozyczenie,Stal Rzeszow,Wolczanka
+300427,18/19,1 sty 2019,-,Bez odstepnego,Legia II,Stal Rzeszow
+300427,17/18,1 sty 2018,-,-,Legia U19,Legia II
+300427,15/16,1 sty 2016,-,-,Legia Akademia,Legia U19
+461569,21/22,30 cze 2022,25 tys. EUR,Koniec wypozyczenia,Gornik Leczna,Motor Lublin
+461569,21/22,14 lip 2021,25 tys. EUR,Wypozyczenie,Motor Lublin,Gornik Leczna
+461569,20/21,8 lip 2020,25 tys. EUR,?,Legia II,Motor Lublin
+461569,19/20,30 cze 2020,25 tys. EUR,Koniec wypozyczenia,Wigry Suwalki,Legia II
+461569,19/20,5 lip 2019,-,Wypozyczenie,Legia II,Wigry Suwalki
+461569,19/20,1 lip 2019,-,-,Legia U19,Legia II
+461569,18/19,30 cze 2019,-,Koniec wypozyczenia,Wisla Pulawy,Legia U19
+461569,18/19,6 sie 2018,-,Wypozyczenie,Legia U19,Wisla Pulawy
+266409,23/24,3 sie 2023,-,-,Bez klubu,P. Bialobrzegi
+266409,22/23,1 sty 2023,-,-,Alki Oroklini,Bez klubu
+266409,22/23,29 sie 2022,-,Bez odstepnego,Mszczonowianka,Alki Oroklini
+266409,21/22,6 sie 2021,-,Bez odstepnego,Mazowsze Grojec,Mszczonowianka
+266409,20/21,1 mar 2021,-,Bez odstepnego,O. Zambrow,Mazowsze Grojec
+266409,20/21,1 sie 2020,-,Bez odstepnego,Swit N.D.M.,O. Zambrow
+266409,19/20,30 cze 2020,-,Koniec wypozyczenia,O. Zambrow,Swit N.D.M.
+266409,19/20,12 lut 2020,-,Wypozyczenie,Swit N.D.M.,O. Zambrow
+266409,18/19,6 mar 2019,-,Bez odstepnego,Blekitni Star.,Swit N.D.M.
+266409,18/19,22 sie 2018,-,Bez odstepnego,Drweca NML,Blekitni Star.
+266409,17/18,1 sie 2017,-,Bez odstepnego,Legia U19,Drweca NML
+377532,23/24,1 lip 2023,-,-,C. Elblag,Bez klubu
+377532,22/23,26 sty 2023,-,Bez odstepnego,Sokol A. L.,C. Elblag
+377532,21/22,3 sie 2021,75 tys. EUR,Bez odstepnego,Z. Sosnowiec,Sokol A. L.
+377532,19/20,18 lip 2019,250 tys. EUR,Bez odstepnego,Legia II,Z. Sosnowiec
+377532,18/19,30 cze 2019,250 tys. EUR,Koniec wypozyczenia,Stomil,Legia II
+377532,18/19,5 lip 2018,-,Wypozyczenie,Legia II,Stomil
+377532,17/18,1 lip 2017,-,-,Legia U19,Legia II
+377532,15/16,1 sty 2016,-,?,UKS SMS U19,Legia U19
+393567,23/24,1 lip 2023,50 tys. EUR,?,Podbeskidzie,Motor Lublin
+393567,22/23,30 cze 2023,50 tys. EUR,Koniec wypozyczenia,Motor Lublin,Podbeskidzie
+393567,22/23,17 sty 2023,50 tys. EUR,Wypozyczenie,Podbeskidzie,Motor Lublin
+393567,21/22,24 lip 2021,25 tys. EUR,?,Wigry Suwalki,Podbeskidzie
+393567,19/20,10 sty 2020,-,Bez odstepnego,Legia II,Wigry Suwalki
+393567,18/19,30 cze 2019,-,Koniec wypozyczenia,Siarka T.,Legia II
+393567,18/19,14 sty 2019,-,Wypozyczenie,Legia II,Siarka T.
+393567,17/18,1 sty 2018,-,-,Legia U19,Legia II
+393567,17/18,1 lip 2017,-,-,Legia Akademia,Legia U19
+342040,22/23,1 lip 2022,-,Bez odstepnego,Nieciecza,Znicz Pruszkow
+342040,21/22,30 cze 2022,125 tys. EUR,Koniec wypozyczenia,Znicz Pruszkow,Nieciecza
+342040,21/22,2 lut 2022,125 tys. EUR,Wypozyczenie,Nieciecza,Znicz Pruszkow
+342040,20/21,15 sie 2020,-,Bez odstepnego,Znicz Pruszkow,Nieciecza
+342040,17/18,4 sie 2017,-,Bez odstepnego,Legia II,Znicz Pruszkow
+342040,14/15,1 sty 2015,-,-,Legia U19,Legia II
+342040,14/15,1 lip 2014,-,?,MKS Piaseczno,Legia U19
+342040,13/14,1 sty 2014,-,-,Piaseczno U19,MKS Piaseczno
+384042,22/23,1 lip 2022,-,-,Stal Krasnik,Bez klubu
+384042,21/22,1 sie 2021,-,Bez odstepnego,O.Urzedow,Stal Krasnik
+384042,20/21,1 sie 2020,-,-,Bez klubu,O.Urzedow
+384042,18/19,1 wrz 2017,-,-,Motor U19,Bez klubu
+384042,16/17,1 lip 2016,-,Bez odstepnego,Dr. Warszawa,Motor U19
+384042,15/16,1 mar 2016,-,Bez odstepnego,Dolcan Zabki,Dr. Warszawa
+384042,15/16,1 lip 2015,-,?,Stal Krasnik,Dolcan Zabki
+386249,23/24,1 sie 2023,-,Bez odstepnego,Tluchovia ,Swidniczanka
+386249,22/23,13 lut 2023,-,Bez odstepnego,Lublinianka,Tluchovia 
+386249,22/23,30 lip 2022,-,Bez odstepnego,St. Krasnystaw,Lublinianka
+386249,20/21,27 lut 2021,-,Bez odstepnego,RKS Radomsko,St. Krasnystaw
+386249,19/20,26 lut 2020,-,Bez odstepnego,Motor Lublin,RKS Radomsko
+386249,19/20,1 lip 2019,-,Bez odstepnego,Siarka T.,Motor Lublin
+386249,17/18,17 sty 2018,-,?,Lublinianka,Siarka T.
+386249,16/17,1 lip 2016,-,Bez odstepnego,Motor U19,Lublinianka
+386249,15/16,30 cze 2016,-,Koniec wypozyczenia,Unia Belzyce,Motor U19
+386249,15/16,1 sty 2016,-,Wypozyczenie,Motor U19,Unia Belzyce
+384979,18/19,1 lip 2018,-,-,Motor U19,Bez klubu
+453392,21/22,26 lip 2021,-,Bez odstepnego,Podlasie B.P.,Lutnia P.
+453392,19/20,6 mar 2020,-,Bez odstepnego,Polesie Kock,Podlasie B.P.
+453392,18/19,1 lip 2018,-,Bez odstepnego,Motor U19,Powislak K.
+453392,18/19,1 lip 2018,-,Bez odstepnego,Powislak K.,Polesie Kock
+453392,16/17,1 lip 2016,-,Bez odstepnego,Stal Krasnik,Motor U19
+453392,15/16,1 sty 2016,-,-,Stal K. U19,Stal Krasnik
+457436,20/21,1 lip 2020,-,-,Sygnal Lublin,Bez klubu
+457436,19/20,1 wrz 2019,-,?,Sokol Konopnica,Sygnal Lublin
+457436,18/19,1 lip 2018,-,Bez odstepnego,Motor U19,Sokol Konopnica
+384986,20/21,1 mar 2021,-,Bez odstepnego,Nieznany,Nieznany
+384986,20/21,1 sie 2020,-,Bez odstepnego,Nieznany,Nieznany
+384986,18/19,1 mar 2019,-,Bez odstepnego,POM Iskra,Nieznany
+384986,18/19,1 sie 2018,-,Bez odstepnego,Nieznany,POM Iskra
+384986,17/18,1 wrz 2017,-,Bez odstepnego,POM Iskra,Nieznany
+384986,16/17,1 sie 2016,-,Bez odstepnego,Motor U19,POM Iskra
+386245,20/21,1 lip 2020,-,-,GKS Niemce,Bez klubu
+386245,18/19,1 lip 2018,-,Bez odstepnego,Nieznany,GKS Niemce
+386245,17/18,1 maj 2018,-,-,Bez klubu,Nieznany
+386245,17/18,1 lip 2017,-,-,Motor U19,Bez klubu
+387008,15/16,1 lip 2017,-,Bez odstepnego,Motor U19,Stal Poniatowa
+387009,21/22,1 sie 2021,-,Bez odstepnego,Huragan M.P.,Nieznany
+387009,20/21,30 cze 2021,-,Koniec wypozyczenia,Lutnia P.,Huragan M.P.
+387009,20/21,1 sty 2021,-,Wypozyczenie,Huragan M.P.,Lutnia P.
+387009,20/21,1 lip 2020,-,Bez odstepnego,Motor Lublin,Huragan M.P.
+387009,19/20,30 cze 2020,-,Koniec wypozyczenia,Huragan M.P.,Motor Lublin
+387009,19/20,1 lip 2019,-,Wypozyczenie,Motor Lublin,Huragan M.P.
+387009,18/19,30 cze 2019,-,Koniec wypozyczenia,Podlasie B.P.,Motor Lublin
+387009,18/19,3 sie 2018,-,Wypozyczenie,Motor Lublin,Podlasie B.P.
+387009,16/17,1 sty 2017,-,-,Motor U19,Motor Lublin
+387009,14/15,1 lip 2014,-,?,Legia U19,Motor U19
+387009,13/14,1 sty 2014,-,?,Motor U19,Legia U19
+387012,19/20,1 sie 2019,-,-,Lewart Lubartow,Bez klubu
+387012,16/17,1 lip 2016,-,Bez odstepnego,Motor U19,Powislak K.
+387012,18/19,-,-,?,Powislak K.,Lewart Lubartow
+426306,20/21,1 lip 2020,-,-,Polesie Kock,Bez klubu
+426306,18/19,30 cze 2019,-,Koniec wypozyczenia,Podlasie B.P.,Polesie Kock
+426306,18/19,3 sie 2018,-,Wypozyczenie,Polesie Kock,Podlasie B.P.
+426306,15/16,30 cze 2016,-,Koniec wypozyczenia,Motor U19,Polesie Kock
+426306,15/16,1 lip 2015,-,Wypozyczenie,Polesie Kock,Motor U19
+453393,17/18,1 lip 2018,-,-,Motor U19,Koniec kariery
+453394,17/18,1 lip 2018,-,-,Motor U19,Koniec kariery
+470595,21/22,2 sie 2021,-,Bez odstepnego,Victoria,Granit Bychawa
+470595,19/20,1 lip 2019,-,Bez odstepnego,Motor Lublin,Victoria
+470595,18/19,30 cze 2019,-,Koniec wypozyczenia,Victoria,Motor Lublin
+470595,18/19,1 lip 2018,-,Wypozyczenie,Motor Lublin,Victoria
+470595,17/18,1 sty 2018,-,-,Lublin II,Motor Lublin
+470595,16/17,1 sie 2016,-,-,Motor U19,Lublin II
+514328,19/20,1 sie 2019,-,-,Motor U19,Bez klubu
+384984,23/24,1 sie 2023,-,Bez odstepnego,Barycz Sulow,LZS Starowice
+384984,22/23,27 lut 2023,-,Bez odstepnego,Lublinianka,Barycz Sulow
+384984,21/22,27 sty 2022,-,Bez odstepnego,Tomasovia T. L.,Lublinianka
+384984,20/21,1 lut 2021,-,Bez odstepnego,Lublinianka,Tomasovia T. L.
+384984,20/21,1 lip 2020,-,Bez odstepnego,Wlodawianka,Lublinianka
+384984,19/20,1 sie 2019,-,Bez odstepnego,Chelmianka,Wlodawianka
+384984,17/18,1 lip 2017,-,Bez odstepnego,Wlodawianka,Chelmianka
+384984,16/17,1 wrz 2016,-,Bez odstepnego,Motor U19,Wlodawianka
+384984,15/16,1 lip 2015,-,Bez odstepnego,Mielec U19,Motor U19
+384984,14/15,1 lip 2014,-,Bez odstepnego,Widok Lublin,Mielec U19
+453390,23/24,1 sty 2024,-,Bez odstepnego,Avia Swidnik,Orleta R.P.
+453390,23/24,12 lip 2023,-,Bez odstepnego,Podlasie B.P.,Avia Swidnik
+453390,22/23,8 lip 2022,-,Bez odstepnego,Orleta R.P.,Podlasie B.P.
+453390,19/20,8 sie 2019,-,Bez odstepnego,Miedz II,Orleta R.P.
+453390,18/19,30 cze 2019,-,Koniec wypozyczenia,Podlasie B.P.,Miedz II
+453390,18/19,1 sie 2018,-,Wypozyczenie,Miedz II,Podlasie B.P.
+453390,17/18,1 sie 2017,-,Bez odstepnego,Motor Lublin,Miedz II
+453390,16/17,1 kwi 2017,-,-,Lublin II,Motor Lublin
+453390,16/17,1 wrz 2016,-,-,Motor U19,Lublin II
+453390,16/17,1 lip 2016,-,-,Motor Lublin AP,Motor U19
+453391,23/24,1 lip 2023,-,Bez odstepnego,Motor Lublin,Polonia Bytom
+453391,17/18,1 lut 2018,-,-,Motor U19,Motor Lublin
+452695,18/19,1 sty 2019,-,-,Polesie Kock,Koniec kariery
+452695,18/19,1 lip 2018,-,Bez odstepnego,Motor U19,Polesie Kock
+452695,16/17,30 cze 2017,-,Koniec wypozyczenia,Avia Swidnik,Motor U19
+452695,16/17,1 lip 2016,-,Wypozyczenie,Motor U19,Avia Swidnik
+405793,21/22,1 lip 2021,-,Bez odstepnego,Chelmianka,St. Krasnystaw
+405793,18/19,3 lip 2018,-,Bez odstepnego,Motor Lublin,Chelmianka
+405793,16/17,1 sty 2017,-,-,Motor U19,Motor Lublin
+386247,23/24,1 lip 2023,-,Bez odstepnego,Orleta R.P.,Podlasie B.P.
+386247,20/21,1 lip 2020,-,Bez odstepnego,Motor Lublin,Orleta R.P.
+386247,19/20,30 cze 2020,-,Koniec wypozyczenia,Orleta R.P.,Motor Lublin
+386247,19/20,9 sty 2020,-,Wypozyczenie,Motor Lublin,Orleta R.P.
+386247,14/15,13 mar 2015,-,-,Motor U19,Motor Lublin
+386247,14/15,1 sty 2015,-,-,Motor Lublin AP,Motor U19
+471129,20/21,15 lip 2020,-,?,Motor Lublin,Avia Swidnik
+471129,19/20,30 cze 2020,-,Koniec wypozyczenia,Chelmianka,Motor Lublin
+471129,19/20,1 sie 2019,-,Wypozyczenie,Motor Lublin,Chelmianka
+471129,17/18,1 lut 2018,-,-,Motor U19,Motor Lublin
+471129,16/17,1 sty 2017,-,-,Lublin II,Motor U19
+471129,16/17,1 lip 2016,-,-,Motor U19,Lublin II
+386246,21/22,1 lip 2021,-,Bez odstepnego,Wlodawianka,KS Raszyn
+386246,20/21,23 lip 2020,-,Bez odstepnego,Orleta R.P.,Wlodawianka
+386246,18/19,1 sie 2018,-,Bez odstepnego,Leczna II,Orleta R.P.
+386246,17/18,1 lip 2017,-,Bez odstepnego,Motor U19,Leczna II
+386246,15/16,1 lip 2015,-,?,Jagiellonia U19,Motor U19
+386246,14/15,1 lip 2014,-,?,Motor U19,Jagiellonia U19
+386251,20/21,1 lip 2020,-,-,O. Niedrzwica,Bez klubu
+386251,17/18,1 lip 2017,-,Bez odstepnego,Motor U19,O. Niedrzwica
+386251,16/17,30 cze 2017,-,Koniec wypozyczenia,O. Niedrzwica,Motor U19
+386251,16/17,1 sie 2016,-,Wypozyczenie,Motor U19,O. Niedrzwica
+386253,22/23,1 lip 2022,-,-,Bez klubu,POM Iskra
+386253,21/22,1 lip 2021,-,-,Lublinianka,Bez klubu
+386253,20/21,1 lip 2020,-,-,Bez klubu,Lublinianka
+386253,19/20,1 lip 2019,-,-,Lublin II,Bez klubu
+386253,18/19,30 cze 2019,-,Koniec wypozyczenia,Chelmianka,Lublin II
+386253,18/19,1 wrz 2018,-,Wypozyczenie,Lublin II,Chelmianka
+386253,18/19,1 lip 2018,-,-,Motor U19,Lublin II
+386253,17/18,30 cze 2018,-,Koniec wypozyczenia,Lublinianka,Motor U19
+386253,17/18,1 lip 2017,-,Wypozyczenie,Motor U19,Lublinianka
+386253,16/17,1 sty 2017,-,-,Motor Lublin,Motor U19
+386253,15/16,1 sty 2016,-,-,Motor U19,Motor Lublin
+387010,21/22,1 lip 2021,-,Bez odstepnego,Huragan M.P.,V. Parczew
+387010,19/20,8 sie 2019,-,Bez odstepnego,Orleta R.P.,Huragan M.P.
+387010,18/19,1 sie 2018,-,Bez odstepnego,Eko Rozanka,Orleta R.P.
+387010,17/18,1 lip 2017,-,Bez odstepnego,Motor U19,Eko Rozanka
+387015,22/23,1 lut 2023,-,Bez odstepnego,St. Krasnystaw,Krysztal W.
+387015,22/23,1 sie 2022,-,Bez odstepnego,Stal Krasnik,St. Krasnystaw
+387015,21/22,1 sie 2021,-,Bez odstepnego,Orleta R.P.,Stal Krasnik
+387015,20/21,20 lut 2021,-,Bez odstepnego,Wlodawianka,Orleta R.P.
+387015,20/21,31 lip 2020,-,Bez odstepnego,Stal Krasnik,Wlodawianka
+387015,18/19,17 lut 2019,-,Bez odstepnego,Sygnal Lublin,Stal Krasnik
+387015,17/18,1 lut 2018,-,-,Bez klubu,Sygnal Lublin
+387015,17/18,1 lip 2017,-,-,Motor U19,Bez klubu
+407873,19/20,1 sty 2020,-,-,Avia Swidnik,Bez klubu
+407873,18/19,26 lut 2019,-,-,Bez klubu,Avia Swidnik
+407873,18/19,1 lip 2018,-,-,Motor U19,Bez klubu
+407874,22/23,1 lut 2023,-,Bez odstepnego,Stal Krasnik,Krysztal W.
+407874,21/22,26 lip 2021,-,Bez odstepnego,Lewart Lubartow,Stal Krasnik
+407874,20/21,22 lip 2020,-,Bez odstepnego,Motor Lublin,Lewart Lubartow
+407874,19/20,30 cze 2020,-,Koniec wypozyczenia,Lewart Lubartow,Motor Lublin
+407874,19/20,1 sty 2020,-,Wypozyczenie,Motor Lublin,Lewart Lubartow
+407874,19/20,31 gru 2019,-,Koniec wypozyczenia,Hetman Zamosc,Motor Lublin
+407874,19/20,1 sie 2019,-,Wypozyczenie,Motor Lublin,Hetman Zamosc
+407874,18/19,30 cze 2019,-,Koniec wypozyczenia,Hetman Zamosc,Motor Lublin
+407874,18/19,13 mar 2019,-,Wypozyczenie,Motor Lublin,Hetman Zamosc
+407874,17/18,1 lut 2018,-,-,Motor U19,Motor Lublin
+433599,21/22,1 lip 2021,-,Bez odstepnego,Nieznany,Polesie Kock
+433599,19/20,1 maj 2020,-,-,Bez klubu,Nieznany
+433599,18/19,1 lip 2018,-,-,Avia Swidnik,Bez klubu
+433599,17/18,1 lip 2017,-,Bez odstepnego,Motor U19,Avia Swidnik
+453397,19/20,1 lip 2019,-,Bez odstepnego,Polesie Kock,Wlodawianka
+453397,18/19,1 lut 2019,-,Bez odstepnego,Lublinianka,Polesie Kock
+453397,17/18,1 sty 2018,-,Bez odstepnego,Widok Lublin,Lublinianka
+453397,16/17,30 cze 2017,-,Koniec wypozyczenia,Motor U19,Widok Lublin
+453397,16/17,1 lip 2016,-,Wypozyczenie,Widok Lublin,Motor U19
+453397,22/23,-,-,?,Wlodawianka,POM Iskra
+456202,22/23,1 sie 2022,-,Bez odstepnego,Lublinianka,Unia H.
+456202,21/22,30 cze 2022,-,Koniec wypozyczenia,MKS Opolanin,Lublinianka
+456202,21/22,1 sie 2021,-,Wypozyczenie,Lublinianka,MKS Opolanin
+456202,20/21,1 lip 2020,-,Bez odstepnego,Motor Lublin,Lublinianka
+456202,19/20,30 cze 2020,-,Koniec wypozyczenia,Lublinianka,Motor Lublin
+456202,19/20,1 lip 2019,-,Wypozyczenie,Motor Lublin,Lublinianka
+456202,18/19,1 lip 2018,-,-,Motor U19,Motor Lublin
+382434,21/22,8 lip 2021,-,Bez odstepnego,Hetman Zamosc,Orleta R.P.
+382434,20/21,30 lip 2020,-,Bez odstepnego,Motor Lublin,Hetman Zamosc
+382434,20/21,1 lip 2020,-,Koniec wypozyczenia,Hetman Zamosc,Motor Lublin
+382434,19/20,1 sie 2019,-,Wypozyczenie,Motor Lublin,Hetman Zamosc
+382434,19/20,1 lip 2019,-,Koniec wypozyczenia,Chelmianka,Motor Lublin
+382434,17/18,1 lip 2017,-,Wypozyczenie,Motor Lublin,Chelmianka
+382434,16/17,5 sie 2016,-,Bez odstepnego,Stal Mielec,Motor Lublin
+382434,15/16,1 lip 2015,-,-,Mielec U19,Stal Mielec
+382434,14/15,1 lip 2014,-,Bez odstepnego,Widok Lublin,Mielec U19
+512726,22/23,1 lip 2022,-,Bez odstepnego,Krysztal W.,Gryf Gm. Zamosc
+512726,21/22,1 sie 2021,-,Bez odstepnego,Hetman Zamosc,Krysztal W.
+512726,19/20,1 paz 2019,-,-,Bez klubu,Hetman Zamosc
+512726,18/19,1 lip 2018,-,-,Motor U19,Bez klubu
+346552,21/22,1 lip 2021,-,-,Podlasie B.P.,Bez klubu
+346552,18/19,1 sie 2018,-,Bez odstepnego,Legionovia,Podlasie B.P.
+346552,17/18,25 sie 2017,-,Bez odstepnego,Motor Lublin,Legionovia
+346552,15/16,1 lut 2016,-,?,Legia U19,Motor Lublin
+421710,22/23,1 lip 2022,"1,50 mln EUR",Bez odstepnego,Zaglebie Lubin,Basaksehir
+421710,18/19,31 gru 2018,150 tys. EUR,Koniec wypozyczenia,Gornik Leczna,Zaglebie Lubin
+421710,18/19,30 sie 2018,150 tys. EUR,Wypozyczenie,Zaglebie Lubin,Gornik Leczna
+421710,18/19,29 sie 2018,150 tys. EUR,150 tys. EUR,Gornik Leczna,Zaglebie Lubin
+421710,17/18,12 lip 2017,-,-,Leczna II,Gornik Leczna
+421710,16/17,30 cze 2017,-,Koniec wypozyczenia,Motor Lublin,Leczna II
+421710,16/17,26 sie 2016,-,Wypozyczenie,Leczna II,Motor Lublin
+421710,13/14,1 lut 2014,-,-,Leczna U19 ,Leczna II
+433295,18/19,1 lip 2018,-,Bez odstepnego,Motor U19,Victoria
+384977,18/19,1 mar 2019,-,-,Polesie Kock,Bez klubu
+384977,17/18,1 mar 2018,-,Bez odstepnego,POM Iskra,Polesie Kock
+384977,16/17,1 sie 2016,-,Bez odstepnego,Motor U19,POM Iskra
+390985,17/18,1 lip 2017,-,-,Motor U19,Koniec kariery
+390985,16/17,30 cze 2017,-,Koniec wypozyczenia,Victoria,Motor U19
+390985,15/16,1 sty 2016,-,Wypozyczenie,Motor U19,Victoria
+453399,21/22,1 lip 2021,-,-,Victoria,Bez klubu
+453399,18/19,1 lip 2018,-,Bez odstepnego,Motor U19,Victoria
+456203,21/22,1 mar 2022,-,Bez odstepnego,Huczwa Tyszowce,Victoria
+456203,21/22,1 sie 2021,-,Bez odstepnego,Victoria,Huczwa Tyszowce
+456203,18/19,1 lip 2018,-,Bez odstepnego,Motor U19,Victoria
+469105,19/20,1 lip 2019,-,-,Motor U19,Sokol Konopnica
+469105,18/19,30 cze 2019,-,Koniec wypozyczenia,Hetman Zamosc,Motor U19
+469105,18/19,1 lip 2018,-,Wypozyczenie,Motor U19,Hetman Zamosc
+469105,19/20,-,-,-,Sokol Konopnica,Bez klubu
+387280,16/17,1 lip 2016,-,Bez odstepnego,Ruch U19,Urania Ruda Slaska
+387269,22/23,1 sie 2022,-,-,Orzel Naklo,Bez klubu
+387269,20/21,1 mar 2021,-,-,Bez klubu,Orzel Naklo
+387269,20/21,1 lip 2020,-,-,Odra Miasteczko,Bez klubu
+387269,17/18,1 lip 2017,-,Bez odstepnego,Ruch U19,Odra Miasteczko
+387270,22/23,1 lip 2022,-,-,Orzel Naklo,Bez klubu
+387270,20/21,1 sty 2021,-,Bez odstepnego,Ruch Chorzow II,Orzel Naklo
+387270,17/18,1 lip 2017,-,Bez odstepnego,Rozwoj II,Ruch Chorzow II
+387270,16/17,1 lip 2016,-,Bez odstepnego,Ruch U19,Rozwoj II
+387282,19/20,1 lip 2019,-,Bez odstepnego,Ruch Chorzow,Odra Miasteczko
+387282,18/19,1 lip 2018,-,Bez odstepnego,Orzel Naklo,Ruch Chorzow
+387282,17/18,1 lip 2017,-,Bez odstepnego,Ruch U19,Orzel Naklo
+387282,20/21,-,-,?,Orzel Naklo,Odra Miasteczko
+387282,19/20,-,-,?,Odra Miasteczko,Orzel Naklo
+387282,20/21,-,-,?,Odra Miasteczko,Orzel Naklo
+399428,23/24,1 lip 2023,-,-,Pelikan Lowicz,Bez klubu
+399428,21/22,4 mar 2022,-,Bez odstepnego,Gwarek T.G.,Pelikan Lowicz
+399428,21/22,15 lip 2021,-,Bez odstepnego,Polonia Bytom,Gwarek T.G.
+399428,20/21,30 cze 2021,-,Koniec wypozyczenia,Gwarek T.G.,Polonia Bytom
+399428,20/21,24 sty 2021,-,Wypozyczenie,Polonia Bytom,Gwarek T.G.
+399428,20/21,14 lip 2020,-,Bez odstepnego,Foto-Higiena,Polonia Bytom
+399428,19/20,1 sie 2019,-,Bez odstepnego,Stalowa Wola,Foto-Higiena
+399428,18/19,17 lip 2018,50 tys. EUR,Bez odstepnego,Ruch Chorzow,Stalowa Wola
+399428,17/18,30 cze 2018,50 tys. EUR,Koniec wypozyczenia,GKS Jastrzebie,Ruch Chorzow
+399428,17/18,1 lut 2018,75 tys. EUR,Wypozyczenie,Ruch Chorzow,GKS Jastrzebie
+399428,17/18,27 lip 2017,-,-,Ruch Chorzow II,Ruch Chorzow
+399428,15/16,1 lip 2015,-,-,Ruch U19,Ruch Chorzow II
+343416,21/22,3 sie 2021,-,Bez odstepnego,Gwarek Ornontowice,Szczakowianka
+343416,19/20,9 mar 2020,-,Bez odstepnego,Gornik Polk.,Gwarek Ornontowice
+343416,19/20,23 lip 2019,-,-,Bez klubu,Gornik Polk.
+343416,18/19,28 cze 2019,-,-,Ruch Chorzow,Bez klubu
+343416,17/18,19 lip 2017,-,-,Ruch Chorzow II,Ruch Chorzow
+343416,15/16,1 lip 2015,-,-,Ruch U19,Ruch Chorzow II
+346548,23/24,29 lip 2023,-,Bez odstepnego,Moravia M.,LKS Lagow
+346548,22/23,1 sie 2022,25 tys. EUR,Bez odstepnego,Neptun Konskie,Moravia M.
+346548,21/22,1 sie 2021,-,Bez odstepnego,Ruch Chorzow II,Neptun Konskie
+346548,20/21,30 cze 2021,-,Koniec wypozyczenia,Polonia Laziska,Ruch Chorzow II
+346548,20/21,1 lip 2020,-,Wypozyczenie,Ruch Chorzow II,Polonia Laziska
+346548,19/20,30 cze 2020,-,Koniec wypozyczenia,Wilki Wilcza,Ruch Chorzow II
+346548,19/20,1 lip 2019,-,Wypozyczenie,Ruch Chorzow II,Wilki Wilcza
+346548,18/19,30 cze 2019,-,Koniec wypozyczenia,Naprzod Lipiny,Ruch Chorzow II
+346548,18/19,1 sty 2019,-,Wypozyczenie,Ruch Chorzow II,Naprzod Lipiny
+346548,18/19,31 gru 2018,-,Koniec wypozyczenia,Slask Swietochlowice,Ruch Chorzow II
+346548,18/19,1 lip 2018,-,Wypozyczenie,Ruch Chorzow II,Slask Swietochlowice
+346548,16/17,18 lis 2016,-,-,Ruch U19,Ruch Chorzow II
+346548,16/17,1 lip 2016,-,-,AP Ruch,Ruch U19
+398321,21/22,22 lip 2021,50 tys. EUR,Bez odstepnego,Kotwica,KKS Kalisz
+398321,20/21,1 lip 2020,50 tys. EUR,Bez odstepnego,Gryf Wejherowo,Kotwica
+398321,19/20,18 lip 2019,50 tys. EUR,Bez odstepnego,Legia II,Gryf Wejherowo
+398321,17/18,9 mar 2018,50 tys. EUR,Bez odstepnego,Sandecja,Legia II
+398321,17/18,13 lip 2017,-,Bez odstepnego,Ruch Chorzow II,Sandecja
+398321,15/16,1 lip 2015,-,-,Ruch U19,Ruch Chorzow II
+398321,13/14,1 lip 2013,-,-,AP Ruch,Ruch U19
+358865,20/21,1 sty 2021,-,-,Szombierki B.,Bez klubu
+358865,19/20,25 paz 2019,-,-,Bez klubu,Szombierki B.
+358865,19/20,11 wrz 2019,-,-,Ruch U19,Bez klubu
+387274,18/19,1 lip 2018,-,Bez odstepnego,Ruch U19,Nieznany
+387274,17/18,30 cze 2018,-,Koniec wypozyczenia,Orzel Naklo,Ruch U19
+387274,17/18,1 lip 2017,-,Wypozyczenie,Ruch U19,Orzel Naklo
+387281,21/22,1 sty 2022,-,Bez odstepnego,Odra Miasteczko,Orzel Naklo
+387281,21/22,31 gru 2021,-,Koniec wypozyczenia,LKS Jednosc S.,Odra Miasteczko
+387281,21/22,1 lip 2021,-,Wypozyczenie,Odra Miasteczko,LKS Jednosc S.
+387281,17/18,1 sty 2018,-,Bez odstepnego,Slask Swietochlowice,Odra Miasteczko
+387281,17/18,31 gru 2017,-,Koniec wypozyczenia,Orzel Naklo,Slask Swietochlowice
+387281,17/18,1 wrz 2017,-,Wypozyczenie,Slask Swietochlowice,Orzel Naklo
+387281,17/18,1 sie 2017,-,Bez odstepnego,Ruch U19,Slask Swietochlowice
+389397,19/20,30 wrz 2019,-,-,Bez klubu,Ruch Chorzow
+389397,18/19,30 cze 2019,-,-,Ruch Chorzow,Bez klubu
+389397,17/18,11 sie 2017,-,-,Ruch Chorzow II,Ruch Chorzow
+389397,16/17,1 lip 2016,-,-,Ruch U19,Ruch Chorzow II
+389397,15/16,1 lip 2015,-,-,AP Ruch,Ruch U19
+393000,22/23,1 sie 2022,-,?,Orzel Naklo,Bez klubu
+393000,19/20,1 lip 2019,-,Bez odstepnego,Odra Miasteczko,Orzel Naklo
+393000,18/19,1 lip 2018,-,Bez odstepnego,Ruch Chorzow II,Odra Miasteczko
+393000,17/18,30 cze 2018,-,Koniec wypozyczenia,Orzel Naklo,Ruch Chorzow II
+393000,17/18,1 lip 2017,-,Wypozyczenie,Ruch Chorzow II,Orzel Naklo
+393000,16/17,10 kwi 2017,-,-,Ruch U19,Ruch Chorzow II
+393000,16/17,1 lip 2016,-,-,Ruch Chorzow II,Ruch U19
+393000,15/16,1 cze 2016,-,-,AP Ruch,Ruch Chorzow II
+395328,22/23,1 lip 2022,-,-,Star St.,Bez klubu
+395328,19/20,1 lip 2019,-,Bez odstepnego,KSZO Ostrowiec,Star St.
+395328,18/19,1 lip 2018,-,Bez odstepnego,Ruch Chorzow II,KSZO Ostrowiec
+395328,17/18,30 cze 2018,-,Koniec wypozyczenia,KSZO Ostrowiec,Ruch Chorzow II
+395328,17/18,11 sie 2017,-,Wypozyczenie,Ruch Chorzow II,KSZO Ostrowiec
+395328,17/18,1 lip 2017,-,-,Ruch U19,Ruch Chorzow II
+395328,14/15,1 lip 2014,-,Bez odstepnego,Juventa U19,Ruch U19
+399427,17/18,1 lip 2017,-,-,Ruch U19,Bez klubu
+345460,23/24,1 lip 2023,-,Bez odstepnego,Slask Wroclaw,Wieczysta
+345460,19/20,2 wrz 2019,175 tys. EUR,Bez odstepnego,Milan U19,Slask Wroclaw
+345460,18/19,30 cze 2019,175 tys. EUR,Koniec wypozyczenia,Spezia U19,Milan U19
+345460,18/19,17 sie 2018,250 tys. EUR,Wypozyczenie,Milan U19,Spezia U19
+345460,17/18,12 lip 2017,300 tys. EUR,350 tys. EUR,Ruch Chorzow,Milan U19
+345460,15/16,13 kwi 2016,-,-,Ruch U19,Ruch Chorzow
+387288,20/21,14 sie 2020,-,Bez odstepnego,Gornik Leczna,MKS Kluczbork
+387288,19/20,5 lip 2019,-,Bez odstepnego,MKS Kluczbork,Gornik Leczna
+387288,18/19,1 lip 2018,-,-,Kluczbork U19,MKS Kluczbork
+387288,17/18,1 lip 2017,-,Bez odstepnego,Ruch U19,Kluczbork U19
+387288,16/17,1 lip 2016,-,-,AP Ruch,Ruch U19
+387289,20/21,1 lip 2020,-,Bez odstepnego,Odra Miasteczko,Orzel Naklo
+387289,19/20,30 cze 2020,-,Koniec wypozyczenia,Orzel Naklo,Odra Miasteczko
+387289,19/20,1 lip 2019,-,Wypozyczenie,Odra Miasteczko,Orzel Naklo
+387289,18/19,1 lip 2018,-,Bez odstepnego,Orzel Naklo,Odra Miasteczko
+387289,17/18,1 lip 2017,-,Bez odstepnego,Ruch U19,Orzel Naklo
+398300,22/23,1 lip 2022,-,Bez odstepnego,Apis,Eintr. Niesky
+398300,21/22,1 lip 2021,-,Bez odstepnego,NFV G/W Gorlitz,Apis
+398300,20/21,1 lip 2020,-,Bez odstepnego,Apis,NFV G/W Gorlitz
+398300,19/20,1 sty 2020,-,Bez odstepnego,Pol. Trzebnica,Apis
+398300,19/20,1 lip 2019,-,Bez odstepnego,Sl. Wroclaw II,Pol. Trzebnica
+398300,18/19,30 cze 2019,-,Koniec wypozyczenia,Piast Zmigrod,Sl. Wroclaw II
+398300,18/19,19 lip 2018,-,Wypozyczenie,Sl. Wroclaw II,Piast Zmigrod
+398300,17/18,1 lip 2017,-,Bez odstepnego,GKS Belchatow,Sl. Wroclaw II
+398300,16/17,31 sie 2016,-,Bez odstepnego,Stal Mielec,GKS Belchatow
+398300,15/16,30 cze 2016,-,Koniec wypozyczenia,Wolczanka,Stal Mielec
+398300,15/16,7 kwi 2016,-,Wypozyczenie,Stal Mielec,Wolczanka
+398300,15/16,26 lut 2016,-,-,Mielec U19,Stal Mielec
+398300,15/16,1 lip 2015,-,Bez odstepnego,Piast Gliwice II,Mielec U19
+398300,14/15,1 lut 2015,-,-,Piast U19,Piast Gliwice II
+398300,14/15,1 lip 2014,-,Bez odstepnego,GW Gorlitz U19,Piast U19
+398300,12/13,1 lip 2012,-,Bez odstepnego,Slask U19,GW Gorlitz U19
+508776,22/23,1 lip 2022,-,Bez odstepnego,Orkan Buczek,Nieznany
+508776,21/22,23 lip 2021,-,Bez odstepnego,Wlokniarz Zelow,Orkan Buczek
+508776,19/20,1 lip 2019,-,Bez odstepnego,Belchatow U19,Wlokniarz Zelow
+385537,18/19,1 lip 2018,-,-,Nieznany,Bez klubu
+385537,15/16,1 lip 2015,-,Bez odstepnego,Belchatow U19,Nieznany
+399268,21/22,1 lip 2021,-,Bez odstepnego,Belchatow II,Orkan Buczek
+399268,20/21,30 cze 2021,-,Koniec wypozyczenia,Orkan Buczek,Belchatow II
+399268,20/21,1 lip 2020,-,Wypozyczenie,Belchatow II,Orkan Buczek
+399268,19/20,30 cze 2020,-,Koniec wypozyczenia,Orkan Buczek,Belchatow II
+399268,19/20,12 sie 2019,-,Wypozyczenie,Belchatow II,Orkan Buczek
+399268,18/19,1 sty 2019,-,-,Belchatow U19,Belchatow II
+426241,21/22,1 sie 2021,-,?,W. Dzialoszyn,Polonia P. T.
+426241,20/21,1 lut 2021,-,?,Polonia P. T.,W. Dzialoszyn
+426241,19/20,1 sie 2019,-,Bez odstepnego,GKS Belchatow,Polonia P. T.
+426241,18/19,30 cze 2019,-,Koniec wypozyczenia,A. Szczercow,GKS Belchatow
+426241,18/19,9 sie 2018,-,Wypozyczenie,GKS Belchatow,A. Szczercow
+426241,18/19,20 lip 2018,-,-,Belchatow U19,GKS Belchatow
+456455,17/18,1 lip 2017,-,-,Belchatow U19,Koniec kariery
+469307,19/20,1 lip 2019,-,-,Nieznany,Bez klubu
+469307,18/19,1 sty 2019,-,Bez odstepnego,Zj. Belchatow,Nieznany
+469307,18/19,1 lip 2018,-,Bez odstepnego,Belchatow U19,Zj. Belchatow
+390965,19/20,1 lip 2019,-,Bez odstepnego,Radomiak,Oskar Przysucha
+390965,18/19,30 cze 2019,-,Koniec wypozyczenia,Spartakus Daleszyce,Radomiak
+390965,18/19,5 mar 2019,-,Wypozyczenie,Radomiak,Spartakus Daleszyce
+390965,17/18,30 cze 2018,-,Koniec wypozyczenia,KSZO Ostrowiec,Radomiak
+390965,17/18,11 sie 2017,-,Wypozyczenie,Radomiak,KSZO Ostrowiec
+390965,16/17,30 cze 2017,-,Koniec wypozyczenia,E. Kozienice,Radomiak
+390965,16/17,1 sty 2017,-,Wypozyczenie,Radomiak,E. Kozienice
+390965,15/16,1 sty 2016,-,?,Belchatow U19,Radomiak
+385491,16/17,1 lip 2016,-,-,Belchatow U19,Koniec kariery
+385536,16/17,1 lip 2016,-,-,Belchatow U19,Koniec kariery
+385540,22/23,1 wrz 2022,-,-,Bez klubu,Piast Zerniki
+385540,20/21,1 sty 2021,-,-,Piast Zerniki,Bez klubu
+385540,20/21,1 wrz 2020,-,-,Bez klubu,Piast Zerniki
+385540,17/18,1 sty 2018,-,-,Belchatow U19,Bez klubu
+385542,16/17,1 lip 2016,-,Bez odstepnego,Belchatow U19,Zj. Belchatow
+385542,20/21,-,-,Bez odstepnego,Zj. Belchatow,Nieznany
+385542,22/23,-,-,Bez odstepnego,Nieznany,Nieznany
+385544,17/18,1 lip 2017,-,-,Rzasnia,Koniec kariery
+385544,15/16,1 sty 2016,-,Bez odstepnego,Belchatow U19,Rzasnia
+452655,20/21,1 sty 2021,-,-,Nieznany,Bez klubu
+452655,20/21,1 sie 2020,-,Bez odstepnego,Bychlew,Nieznany
+452655,19/20,1 lip 2019,-,-,Bez klubu,Bychlew
+452655,17/18,1 lip 2017,-,Bez odstepnego,Belchatow U19,PTC Pabianice
+452655,18/19,-,-,-,PTC Pabianice,Bez klubu
+452659,21/22,1 sie 2021,-,Bez odstepnego,LUKS Gomunice,Nieznany
+452659,20/21,1 sie 2020,-,Bez odstepnego,MLKS Konopnica,LUKS Gomunice
+452659,19/20,1 sie 2019,-,Bez odstepnego,Slowian Dwo.,MLKS Konopnica
+452659,18/19,1 lip 2018,-,Bez odstepnego,Omega Kleszczow,Slowian Dwo.
+452659,17/18,1 lip 2017,-,Bez odstepnego,Belchatow U19,Omega Kleszczow
+456457,20/21,1 lip 2020,-,-,H. Wloszczowa,Bez klubu
+456457,18/19,1 lip 2018,-,Bez odstepnego,Belchatow U19,H. Wloszczowa
+456458,21/22,1 sie 2021,-,Bez odstepnego,LKS Kamienica,A. Szczercow
+456458,20/21,1 sie 2020,-,Bez odstepnego,Zj. Belchatow,LKS Kamienica
+456458,18/19,1 sty 2019,-,-,Bez klubu,Zj. Belchatow
+456458,18/19,1 lip 2018,-,-,Belchatow II,Bez klubu
+456458,17/18,1 lip 2018,-,Bez odstepnego,Belchatow U19,Orkan Buczek
+456458,17/18,1 sty 2018,-,Bez odstepnego,Orkan Buczek,Belchatow II
+385518,22/23,29 sie 2022,"1,00 mln EUR",500 tys. EUR,Wisla Plock,Greuther Furth
+385518,19/20,1 lip 2019,-,Bez odstepnego,GKS Belchatow,Wisla Plock
+385518,17/18,31 gru 2017,-,Koniec wypozyczenia,Gornik Polk.,GKS Belchatow
+385518,17/18,1 sie 2017,-,Wypozyczenie,GKS Belchatow,Gornik Polk.
+385518,15/16,11 mar 2016,-,-,Belchatow II,GKS Belchatow
+385518,14/15,1 sty 2015,-,-,Belchatow U19,Belchatow II
+385528,17/18,1 lip 2017,-,Bez odstepnego,Belchatow II,Sulmierzyce
+385528,18/19,-,-,Bez odstepnego,Sulmierzyce,Pilica Przedborz
+385528,21/22,-,-,Bez odstepnego,KS Niedospielin,Victoria Zytno
+385528,20/21,-,-,Bez odstepnego,Pilica Przedborz,KS Niedospielin
+479588,21/22,6 sie 2021,50 tys. EUR,Bez odstepnego,Orkan Buczek,Widzew II
+479588,20/21,1 lip 2020,50 tys. EUR,Bez odstepnego,GKS Belchatow,Orkan Buczek
+479588,19/20,30 cze 2020,50 tys. EUR,Koniec wypozyczenia,Orkan Buczek,GKS Belchatow
+479588,19/20,12 sie 2019,50 tys. EUR,Wypozyczenie,GKS Belchatow,Orkan Buczek
+479588,17/18,14 lip 2017,-,-,Belchatow U19,GKS Belchatow
+385539,20/21,1 lip 2020,-,Bez odstepnego,Wiwa Goszcz,MGKS Skalnik
+385539,19/20,1 sty 2020,-,Bez odstepnego,Omega Kleszczow,Wiwa Goszcz
+385539,19/20,1 lip 2019,-,Bez odstepnego,Stal Niewiadow,Omega Kleszczow
+385539,18/19,1 sie 2018,-,Bez odstepnego,Lechia Tomaszow,Stal Niewiadow
+385539,16/17,1 lut 2017,-,?,Belchatow U19,Lechia Tomaszow
+385545,18/19,14 sty 2019,-,Bez odstepnego,GKS Belchatow,Omega Kleszczow
+385545,17/18,14 lip 2017,-,-,Belchatow U19,GKS Belchatow
+512358,21/22,31 gru 2021,-,Koniec wypozyczenia,MKS Kluczbork,Omega Kleszczow
+512358,21/22,2 sie 2021,-,Wypozyczenie,Omega Kleszczow,MKS Kluczbork
+512358,20/21,30 cze 2021,-,Koniec wypozyczenia,Ostrovia 1909,Omega Kleszczow
+512358,20/21,1 wrz 2020,-,Wypozyczenie,Omega Kleszczow,Ostrovia 1909
+512358,20/21,30 sie 2020,-,Koniec wypozyczenia,Gornik Konin,Omega Kleszczow
+512358,19/20,4 lut 2020,-,Wypozyczenie,Omega Kleszczow,Gornik Konin
+512358,19/20,31 gru 2019,-,Koniec wypozyczenia,W. Dzialoszyn,Omega Kleszczow
+512358,19/20,1 lip 2019,-,Wypozyczenie,Omega Kleszczow,W. Dzialoszyn
+512358,18/19,1 lip 2018,-,Bez odstepnego,Belchatow U19,Omega Kleszczow
+385495,17/18,30 cze 2018,-,Koniec wypozyczenia,W. Dzialoszyn,Nieznany
+385495,17/18,1 lip 2017,-,Wypozyczenie,Nieznany,W. Dzialoszyn
+385495,16/17,1 sty 2017,-,Bez odstepnego,Belchatow U19,Nieznany
+385495,13/14,1 lip 2013,-,Bez odstepnego,Nieznany,Belchatow U19
+385499,17/18,1 lip 2017,-,-,Belchatow U19,Bez klubu
+385508,20/21,1 sty 2021,-,-,MLKS Konopnica,Bez klubu
+385508,18/19,1 sty 2019,-,Bez odstepnego,Zj. Belchatow,Przemyslaw Poz.
+385508,18/19,1 lip 2018,-,Bez odstepnego,Nieznany,Zj. Belchatow
+385508,15/16,1 lip 2015,-,Bez odstepnego,Belchatow U19,Rzasnia
+385508,17/18,-,-,Bez odstepnego,Rzasnia,Nieznany
+385508,20/21,-,-,Bez odstepnego,Przemyslaw Poz.,MLKS Konopnica
+385512,18/19,1 lip 2018,-,Bez odstepnego,Zawisza Pajeczno,A. Szczercow
+385512,17/18,1 lip 2017,-,Bez odstepnego,Belchatow U19,Zawisza Pajeczno
+385514,21/22,1 sty 2022,-,Bez odstepnego,Przemsza,Victoria Czestochowa
+385514,19/20,9 mar 2020,-,Bez odstepnego,Polonia Poraj,Przemsza
+385514,18/19,1 sty 2019,-,Bez odstepnego,Orkan Buczek,Polonia Poraj
+385514,17/18,1 sty 2018,-,?,Ceramika Opoczno,Orkan Buczek
+385514,17/18,1 lip 2017,-,Bez odstepnego,Belchatow U19,Ceramika Opoczno
+385524,20/21,1 mar 2021,-,Bez odstepnego,Zj. Belchatow,Rzasnia
+385524,15/16,1 lip 2015,-,Bez odstepnego,Belchatow U19,Zj. Belchatow
+385530,17/18,1 lip 2017,-,-,Belchatow U19,Bez klubu
+385530,16/17,30 cze 2017,-,Koniec wypozyczenia,Zawisza Rzgow,Belchatow U19
+385530,16/17,1 wrz 2016,-,Wypozyczenie,Belchatow U19,Zawisza Rzgow
+385538,16/17,1 lip 2016,-,Bez odstepnego,Belchatow U19,Zj. Belchatow
+385538,19/20,-,-,-,Zj. Belchatow,Bez klubu
+387688,18/19,1 cze 2019,-,Koniec wypozyczenia,E. Kozienice,Radomiak II
+387688,18/19,1 lip 2018,-,Wypozyczenie,Radomiak II,E. Kozienice
+387688,17/18,1 lip 2017,-,Bez odstepnego,Belchatow U19,Radomiak II
+387688,14/15,1 lip 2014,-,Bez odstepnego,Radomiak U19,Belchatow U19
+387688,22/23,-,-,Bez odstepnego,E. Kozienice,KS Warka
+387688,19/20,-,-,Bez odstepnego,Radomiak II,E. Kozienice
+390982,23/24,18 wrz 2023,-,-,Bez klubu,Jorpeland
+390982,23/24,1 lip 2023,-,-,Wisla Pulawy,Bez klubu
+390982,21/22,18 mar 2022,-,Bez odstepnego,GKS Belchatow,Wisla Pulawy
+390982,16/17,8 lip 2016,-,Bez odstepnego,MOSiR Jastrzebie Zdroj U19,GKS Belchatow
+390982,15/16,30 cze 2016,-,Koniec wypozyczenia,Belchatow U19,MOSiR Jastrzebie Zdroj U19
+390982,15/16,1 lip 2015,-,Wypozyczenie,MOSiR Jastrzebie Zdroj U19,Belchatow U19
+397871,21/22,1 mar 2022,-,Bez odstepnego,Conc. Piotrkow,MGKS Skalnik
+397871,19/20,1 lip 2019,-,Bez odstepnego,Warta Sieradz,Conc. Piotrkow
+397871,18/19,1 sie 2018,-,Bez odstepnego,Belchatow U19,Warta Sieradz
+407319,20/21,1 kwi 2021,-,Bez odstepnego,Zawisza Rzgow,Bychlew
+407319,19/20,1 lip 2019,-,Bez odstepnego,Orkan Buczek,Zawisza Rzgow
+407319,18/19,1 sie 2018,-,Bez odstepnego,LKS U19,Orkan Buczek
+407319,17/18,1 lip 2017,-,Bez odstepnego,Belchatow U19,LKS U19
+426242,23/24,1 lip 2023,-,-,KS Drzewce,Bez klubu
+426242,21/22,1 lut 2022,-,Bez odstepnego,Granit Bychawa,KS Drzewce
+426242,20/21,1 lut 2021,-,Bez odstepnego,Stok Zakrzowek,Granit Bychawa
+426242,19/20,30 cze 2020,-,Koniec wypozyczenia,Granit Bychawa,Stok Zakrzowek
+426242,19/20,1 lip 2019,-,Wypozyczenie,Stok Zakrzowek,Granit Bychawa
+426242,18/19,30 cze 2019,-,Koniec wypozyczenia,Granit Bychawa,Stok Zakrzowek
+426242,18/19,1 sie 2018,-,Wypozyczenie,Stok Zakrzowek,Granit Bychawa
+426242,18/19,1 lip 2018,-,Bez odstepnego,Belchatow U19,Stok Zakrzowek
+438652,20/21,1 sty 2021,-,Bez odstepnego,RKS Radomsko,Orkan Buczek
+438652,19/20,24 lip 2019,-,Bez odstepnego,Orkan Buczek,RKS Radomsko
+438652,18/19,1 lip 2018,-,Bez odstepnego,Belchatow U19,Orkan Buczek
+452656,20/21,30 cze 2021,25 tys. EUR,Koniec wypozyczenia,KS Kutno,GKS Belchatow
+452656,20/21,8 mar 2021,25 tys. EUR,Wypozyczenie,GKS Belchatow,KS Kutno
+452656,18/19,20 lip 2018,-,-,Belchatow U19,GKS Belchatow
+452657,19/20,1 lip 2019,-,-,Hutnik Warszawa,Bez klubu
+452657,18/19,1 mar 2019,-,Bez odstepnego,Widzew II,Hutnik Warszawa
+452657,17/18,1 lip 2017,-,Bez odstepnego,LKS U19,Widzew II
+452657,16/17,1 sty 2017,-,?,Belchatow U19,LKS U19
+452660,22/23,1 lip 2022,-,Bez odstepnego,Skalnik Gracze,LZS Ligota T.
+452660,21/22,30 cze 2022,-,Koniec wypozyczenia,LZS Ligota T.,Skalnik Gracze
+452660,21/22,1 sty 2022,-,Wypozyczenie,Skalnik Gracze,LZS Ligota T.
+452660,19/20,1 lip 2019,-,Bez odstepnego,W. Dzialoszyn,Skalnik Gracze
+452660,18/19,30 cze 2019,-,Koniec wypozyczenia,Skalnik Gracze,W. Dzialoszyn
+452660,18/19,1 sty 2019,-,Wypozyczenie,W. Dzialoszyn,Skalnik Gracze
+452660,17/18,1 lip 2017,-,Bez odstepnego,Belchatow U19,W. Dzialoszyn
+452660,13/14,1 sty 2014,-,Bez odstepnego,W. Dzialoszyn,Belchatow U19
+456989,20/21,1 sty 2021,-,Bez odstepnego,Polonia P. T.,Orkan Buczek
+456989,20/21,1 lip 2020,-,Bez odstepnego,Wlokniarz Zelow,Polonia P. T.
+456989,19/20,1 lip 2019,-,Bez odstepnego,Belchatow U19,Wlokniarz Zelow
+456989,18/19,30 cze 2019,-,Koniec wypozyczenia,Omega Kleszczow,Belchatow U19
+456989,18/19,1 lut 2019,-,Wypozyczenie,Belchatow U19,Omega Kleszczow
+385478,22/23,1 sty 2023,-,Bez odstepnego,Jadowniczanka,Dabrovia D.T.
+385478,20/21,1 lip 2020,-,Bez odstepnego,Dabrovia D.T.,Jadowniczanka
+385478,18/19,1 lip 2018,-,Bez odstepnego,Jadowniczanka,Dabrovia D.T.
+385478,17/18,1 lip 2017,-,Bez odstepnego,Koszalin U19,Jadowniczanka
+385478,16/17,1 sty 2017,-,?,Belchatow U19,Koszalin U19
+385478,15/16,1 lut 2016,-,?,Mielec U19,Belchatow U19
+495431,17/18,1 sie 2017,-,Bez odstepnego,Belchatow U19,Ruch Radzionkow
+495430,22/23,22 lip 2022,-,Bez odstepnego,Polonia Bytom,Lechia Tomaszow
+495430,20/21,2 sty 2021,-,-,Bez klubu,Polonia Bytom
+495430,20/21,1 sie 2020,-,-,Elana Torun,Bez klubu
+495430,17/18,18 lip 2017,-,Bez odstepnego,Stadion Slaski Chorzow,Elana Torun
+495430,16/17,30 cze 2017,-,Koniec wypozyczenia,Belchatow U19,Stadion Slaski Chorzow
+495430,16/17,1 sty 2017,-,Wypozyczenie,Stadion Slaski Chorzow,Belchatow U19
+385493,23/24,1 sie 2023,-,Bez odstepnego,GKS Belchatow,Polonia P. T.
+385493,22/23,6 kwi 2023,-,-,Bez klubu,GKS Belchatow
+385493,22/23,19 sty 2023,-,-,U. Skierniewice,Bez klubu
+385493,20/21,17 lip 2020,25 tys. EUR,Bez odstepnego,GKS Belchatow,U. Skierniewice
+385493,19/20,30 cze 2020,25 tys. EUR,Koniec wypozyczenia,Orkan Buczek,GKS Belchatow
+385493,18/19,31 sie 2018,-,Wypozyczenie,GKS Belchatow,Orkan Buczek
+385493,16/17,20 kwi 2017,-,-,Belchatow II,GKS Belchatow
+385493,15/16,1 lut 2016,-,-,Belchatow U19,Belchatow II
+385504,16/17,1 lip 2016,-,Bez odstepnego,Belchatow U19,Zj. Belchatow
+385532,18/19,1 lip 2018,-,Bez odstepnego,Belchatow II,Zj. Belchatow
+385532,17/18,1 lip 2017,-,-,Belchatow U19,Belchatow II
+385532,20/21,-,-,Bez odstepnego,Zj. Belchatow,Nieznany
+385535,17/18,1 lip 2017,-,Bez odstepnego,Wlokniarz M.,Pilica Przedborz
+385535,15/16,1 lip 2015,-,Bez odstepnego,Belchatow U19,Wlokniarz M.
+385535,19/20,-,-,Bez odstepnego,Pilica Przedborz,Wlokniarz M.
+452658,18/19,18 lip 2018,-,?,Belchatow U19,Orkan Buczek
+452661,23/24,1 wrz 2023,-,Bez odstepnego,Wlokniarz Zelow,Nieznany
+452661,21/22,1 sie 2021,50 tys. EUR,Bez odstepnego,Polonia P. T.,Wlokniarz Zelow
+452661,20/21,1 lip 2020,50 tys. EUR,Bez odstepnego,GKS Belchatow,Polonia P. T.
+452661,19/20,30 cze 2020,50 tys. EUR,Koniec wypozyczenia,Sokol A. L.,GKS Belchatow
+452661,19/20,25 lip 2019,50 tys. EUR,Wypozyczenie,GKS Belchatow,Sokol A. L.
+452661,18/19,11 lip 2018,-,-,Belchatow U19,GKS Belchatow
+457852,21/22,1 wrz 2021,25 tys. EUR,Bez odstepnego,GKS Belchatow,Polonia P. T.
+457852,19/20,30 cze 2020,50 tys. EUR,Koniec wypozyczenia,Sokol A. L.,GKS Belchatow
+457852,19/20,25 lip 2019,50 tys. EUR,Wypozyczenie,GKS Belchatow,Sokol A. L.
+457852,17/18,22 lis 2017,-,-,Belchatow II,GKS Belchatow
+457852,16/17,1 mar 2016,-,-,Belchatow U19,Belchatow II
+458539,22/23,16 lip 2022,-,Bez odstepnego,Orleta R.P.,GKS Belchatow
+458539,21/22,11 mar 2022,-,Bez odstepnego,Wisla Krakow,Orleta R.P.
+458539,20/21,30 cze 2021,125 tys. EUR,Koniec wypozyczenia,Resovia,Wisla Krakow
+458539,20/21,1 lut 2021,100 tys. EUR,Wypozyczenie,Wisla Krakow,Resovia
+458539,20/21,31 gru 2020,100 tys. EUR,Koniec wypozyczenia,GKS Belchatow,Wisla Krakow
+458539,19/20,23 sty 2020,100 tys. EUR,Wypozyczenie,Wisla Krakow,GKS Belchatow
+458539,19/20,16 sie 2019,75 tys. EUR,20 tys. EUR,GKS Belchatow,Wisla Krakow
+458539,16/17,20 paz 2016,-,-,Belchatow II,GKS Belchatow
+458539,15/16,1 sty 2016,-,-,Belchatow U19,Belchatow II
+465504,21/22,1 sie 2021,-,Bez odstepnego,Rzasnia,A. Szczercow
+465504,18/19,1 lip 2018,-,Bez odstepnego,Belchatow U19,Rzasnia
