@@ -45,6 +45,7 @@ This project aims to conduct a comprehensive analysis of the careers of youth fo
   - **sofascore/:** Data scraper handling Sofascore website
   - **transfermarkt/:** Data scraper handling Transfermarkt website
 - **reports/:** Reports and analysis results - tbd
+- **documents/:** Documents directory
 
 ### System Requirements
 
@@ -114,6 +115,7 @@ Projekt ten ma na celu przeprowadzenie kompleksowej analizy kariery młodzieżow
   - **sofascore/:** Scrapper danych obsługujący stronę Sofascore
   - **transfermarkt/:** Scrapper danych obsługujący stronę Transfermarkt
 - **reports/:** Raporty i wyniki analiz - tbd
+- **documents/:** Katalog z dokumentami
 
 ## Wymagania Systemowe
 
