@@ -1,530 +1,4659 @@
 id,slug,team,height,preferredFoot,marketValue
-887692,kacper-chorazka,asil-lysis,188,Right,77000 EUR
-831688,kacper-polak,no-team,184,Both,0 EUR
-,mateusz-burylo,,,,
-,maciej-pawlik,,,,
-,michal-boniecki,,,,
-,bartosz-zak,,,,
-,piotr-martuszewski,,,,
-,milosz-stawowy,,,,
-,daniel-peterka,,,,
-927724,piotr-swiatko,no-team,182,Right,46000 EUR
-941605,damian-korczyk,no-team,178,Left,46000 EUR
-941616,patryk-plewka,chrobry-glogow,174,Right,52000 EUR
-861318,przemyslaw-porebski,no-team,170,,52000 EUR
-,grzegorz-kociolek,,,,
-,maciej-rogoz,,,,
-,patryk-skrzypniak,,,,
-,jakub-tracz,,,,
-956066,przemyslaw-zawadzki,polonia-glubczyce,,, 
-871374,kacper-laskos,no-team,183,Right,46000 EUR
-,marcin-jaworski,,,,
-,norbert-stachura,,,,
-,karol-rak,,,,
-861320,bartlomiej-purcha,podhale-nowy-targ,174,Left,47000 EUR
-1022397,mateusz-wyjadlowski,podlasie-ii-biala-podlaska,173,Right,26000 EUR
-881950,wojciech-slomka,radunia-stezyca,178,Right,77000 EUR
-,michal-banik,,,,
-,filip-kowalski,,,,
-,ernest-swietek,,,,
-,krzysztof-wydra,,,,
-,kamil-radlowski,,,,
-941606,adrian-grzybek,no-team,171,,52000 EUR
-886909,bartosz-mrozek,lech-poznan,191,Right,850000 EUR
-1148088,lukasz-benedykcinski,no-team,193,Both, 
-140650,maciej-dabrowski,no-team,194,Right,45000 EUR
-,wojciech-olesinski,,,,
-926006,bartosz-przybysz,sokol-kleczew,190,Right,49000 EUR
-,kacper-wojakiewicz,,,,
-,oliwier-szybiak,,,,
-971415,jan-andrzejewski,sokol-kleczew,172,Right,0 EUR
-1005897,oskar-nowak,no-team,175,Right,49000 EUR
-,marcin-mackowiak,,,,
-1021797,filip-nawrocki,skra-czestochowa,186,Right,94000 EUR
-887580,serafin-szota,widzew-lodz,186,Right,570000 EUR
-940422,wiktor-plesnierowicz,warta-poznan,184,,410000 EUR
-1021798,kacper-andrzejewski,sokol-kleczew,183,Right,53000 EUR
-941360,marcin-grabowski,gornik-leczna,177,Left,110000 EUR
-1009463,aleksander-theus,no-team,177,Right, 
-1021807,michal-zimmer,sokol-kleczew,175,Right, 
-1051381,szymon-zalewski,miedz-legnica,180,Right,95000 EUR
-1022384,damian-sierant,no-team,180,,92000 EUR
-,jakub-gwit,,,,
-1155684,kacper-wojdak,swit-skolwin-szczecin,180,Right, 
-1409405,kacper-friska,blekitni-ii-stargard,,, 
-991148,lukasz-norkowski,polonia-bytom,172,Right,195000 EUR
-,aleksy-kizielewicz,,,,
-1021815,jakub-bialczyk,swit-skolwin-szczecin,175,, 
-1017544,bartosz-bartkowiak,radunia-stezyca,173,, 
-886242,jakub-moder,brighton-and-hove-albion,191,Right,10900000 EUR
-943368,maciej-spychala,zks-olimpia-elblag,181,Right,92000 EUR
-1145932,eryk-kryg,no-team,183,Left, 
-943501,szymon-piekarski,no-team,,, 
-974613,karol-smajdor,sandecja-nowy-sacz,179,Right,0 EUR
-,jakub-borowiak,,,,
-915510,tymoteusz-klups,zaglebie-sosnowiec,180,Right,53000 EUR
-,jakub-draszczyk,,,,
-867493,tymoteusz-puchacz,1-fc-kaiserslautern,180,Left,1500000 EUR
-956036,aleksander-drobot,igloopol-debica,176,Left, 
-,dawid-maciejczyk,,,,
-1021824,pawel-tupaj,chrobry-glogow,174,,53000 EUR
-942480,marek-mroz,zaglebie-lubin,179,,365000 EUR
-942479,michal-skoras,club-brugge,172,Right,6300000 EUR
-1017545,jakub-karbownik,chelmianka-chelm,173,Right,52000 EUR
-942334,kacper-chodyna,zaglebie-lubin,176,Right,835000 EUR
-922074,dawid-kurminowski,zaglebie-lubin,182,Right,515000 EUR
-864010,pawel-tomczyk,polonia-warszawa,184,Right,52000 EUR
-940421,hubert-sobol,kks-1925-kalisz,181,Right,52000 EUR
-,kasper-strozyk,,,,
-938233,mateusz-szukala,ruch-radzionkow,187,,49000 EUR
-,marcin-maslowski,,,,
-252901,mateusz-michalski,polonia-warszawa,176,Right,49000 EUR
-,blazej-mandrysz,,,,
-,dominik-nowicki,,,,
-1133550,jakub-szymanski,wisla-plock,189,Right,290000 EUR
-,mateusz-witek,,,,
-,dawid-ceremon,,,,
-845001,bartlomiej-gajda,warta-gorzow-wielkopolski,186,Right,26000 EUR
-,szymon-rutkowski,,,,
-845124,daniel-wajsak,no-team,185,Right,52000 EUR
-931266,przemyslaw-wisniewski,spezia,195,Right,2000000 EUR
-,tomasz-polak,,,,
-886752,robert-pieczur,no-team,185,,0 EUR
-,aleksander-knabel,,,,
-940542,kamil-surowiec,gornik-zabrze-ii,185,Right,52000 EUR
-,milosz-cwielong,,,,
-,jakub-dylag,,,,
-,mateusz-kopia,,,,
-940661,karol-jaksik,no-team,185,Right,52000 EUR
-,damian-jaworski,,,,
-,mateusz-kulanek,,,,
-,michal-rymer,,,,
-138595,tomasz-kedziora,paok,184,Right,3100000 EUR
-,kacper-siejka,,,,
-,szymon-weber,,,,
-43415,pawel-wojciechowski,sleza-wroclaw,181,Right,26000 EUR
-,bartosz-scislak,,,,
-,kamil-popek,,,,
-,adam-stryjakiewicz,,,,
-,dawid-skutnik,,,,
-,mateusz-pietryga,,,,
-,tymoteusz-wojdanowski,,,,
-987357,daniel-scislak,polonia-bytom,177,Right,47000 EUR
-845123,dariusz-pawlowski,polonia-warszawa,187,Right,96000 EUR
-,mateusz-cybulski,,,,
-930211,daniel-liszka,no-team,178,Left,72000 EUR
-891705,filip-zagiel,polonia-bytom,173,Both,26000 EUR
-914272,bartosz-bartczuk,no-team,181,,45000 EUR
-,jan-borek,,,,
-,lukasz-budny,,,,
-798668,krzysztof-kiklaisz,lks-goczalkowice-zdroj,184,Right,24000 EUR
-,patryk-joachim,,,,
-921242,konrad-hasior,gks-jastrzebie,183,, 
-1126643,szymon-krocz,znicz-pruszkow,189,Right,26000 EUR
-,piotr-pruszynski,,,,
-940856,kacper-krzepisz,mzks-arka-gdynia,190,Right,290000 EUR
-886903,szymon-wieckowicz,no-team,192,, 
-,mateusz-czaja,,,,
-,krzysztof-bednarski,,,,
-,piotr-skierka,,,,
-,maciej-manteufel,,,,
-956037,oskar-sikorski,olimpia-grudziadz,186,,0 EUR
-,fabian-lengiewicz,,,,
-1021420,damian-lisiecki,gryf-wejherowo,184,Right, 
-,brajan-wieczorek,,,,
-,dawid-blok,,,,
-956628,maciej-kozakowski,starogard-gdanski,,, 
-1148057,damian-gebis,no-team,171,Right, 
-956630,krzysztof-krakowiak,starogard-gdanski,,, 
-,wiktor-babinski,,,,
-893322,szymon-nowicki,radunia-stezyca,181,Right,155000 EUR
-,piotr-grabowski,,,,
-1604014,dawid-szalecki,gks-cartusia-1923,,, 
-,maciej-kaszorek,,,,
-,jonatan-pasieka,,,,
-,karol-siejak,,,,
-1585066,mateusz-olszewski,blyskawica-reda-rekowo,,, 
-,kacper-zengerski,,,,
-,oskar-bugajewski,,,,
-971410,bartosz-nowicki,blekitni-ii-stargard,182,Right,24000 EUR
-1524880,adrian-polanski,grom-nowy-staw,,, 
-,dominik-gniadecki,,,,
-,mikolaj-nowakowski,,,,
-,mateusz-klecha,,,,
-841405,dorian-affeld,zawisza-bydgoszcz,,, 
-801304,jakub-wawszczyk,znicz-pruszkow,179,Left,54000 EUR
-935287,oskar-ryk,blekitni-ii-stargard,173,,0 EUR
-945392,mateusz-mlynski,gornik-leczna,178,Right,155000 EUR
-921457,wojciech-kafka,ks-stolem-gniewino,174,,0 EUR
-844893,mateusz-wesierski,no-team,187,,0 EUR
-1022392,norbert-holtyn,grom-nowy-staw,185,, 
-921448,mikolaj-gabor,blekitni-ii-stargard,180,Both,26000 EUR
-1509277,andrzej-lyszyk,gryf-slupsk,,, 
-1498846,kamil-wosk,gryf-wejherowo,,, 
-,jakub-klosowski,,,,
-,krystian-ziarkowski,,,,
-914273,jan-los,no-team,175,Left, 
-,dawid-sarnowski,,,,
-833813,leonid-otczenaszenko,gks-belchatow,192,Both,27000 EUR
-,jakub-borusinski,,,,
-926185,damian-krazek,spartakus-daleszyce,193,,52000 EUR
-,gabriel-lodej,,,,
-,norbert-wolczyk,,,,
-862948,pawel-sokol,sandecja-nowy-sacz,193,Right,24000 EUR
-,patryk-kozak,,,,
-941971,jakub-osobinski,podhale-nowy-targ,191,,26000 EUR
-826556,maciej-zawierucha,no-team,186,,52000 EUR
-,karol-boszczyk,,,,
-1138737,bartosz-guz,pogon-staszow,,, 
-,kamil-koszela,,,,
-,dawid-kowalczyk,,,,
-,krystian-wojtal,,,,
-,daniel-wolowiec,,,,
-936290,piotr-pierzchala,gwardia-koszalin,190,Right,91000 EUR
-962485,szymon-czerwiak,wisla-sandomierz,,, 
-,dawid-swiderski,,,,
-921978,szymon-klepacki,no-team,184,,24000 EUR
-1562217,oskar-gwozdz,aks-1947-busko-zdroj,,, 
-,adrian-olekszyk,,,,
-1138701,norbert-sinkiewicz,gks-zio-max-nowiny,,, 
-,kacper-gromulski,,,,
-,michal-rybus,,,,
-,hubert-wojsa,,,,
-1519177,filip-lech,nk-propalitet,,, 
-,ernest-jopkiewicz,,,,
-926184,wiktor-dlugosz,ruch-chorzow,182,Right,375000 EUR
-,dawid-szalas,,,,
-1484200,michal-mazurek,sokol-kolbuszowa-dolna,,, 
-,grzegorz-panszczyk,,,,
-1138667,krystian-sornat,wierna-malogoszcz,,, 
-,kacper-chudecki,,,,
-878976,piotr-ponski,lks-orleta-kielce,183,,54000 EUR
-1138706,kacper-wiecha,no-team,,, 
-,kornel-losak,,,,
-,marcin-chmielowiec,,,,
-890417,daniel-nowak,ruch-zdzieszowice,,, 
-,cezary-matuszewski,,,,
-,konrad-stanczyk,,,,
-941970,artur-pirog,aks-1947-busko-zdroj,181,,49000 EUR
-1009587,krzysztof-sendorek,no-team,182,,47000 EUR
-,jakub-sowa,,,,
-,mateusz-burliga,,,,
-,michal-jewula,,,,
-,dawid-dukala,,,,
-,michal-barnas,,,,
-,dominik-pieprzyca,,,,
-941718,adrian-kajpust,garbarnia-krakow,187,Right,47000 EUR
-,nikodem-morawski,,,,
-,szymon-mik,,,,
-,kamil-janecki,,,,
-,dominik-franczak,,,,
-1594711,michal-zieba,legia-ii-warszawa,180,Right, 
-949380,radoslaw-kanach,resovia-rzeszow,181,Right,52000 EUR
-941548,robert-ozog,cracovia,175,Right,23000 EUR
-,bartosz-czarnecki,,,,
-888950,sylwester-lusiusz,cracovia,185,,47000 EUR
-962456,mateusz-supryn,rb-keflavik,180,Left,47000 EUR
-,jan-czerlunczakiewicz,,,,
-,mateusz-jamrozy,,,,
-,juliusz-gorzen,,,,
-,lukasz-feret,,,,
-,mateusz-feret,,,,
-,arkadiusz-jurek,,,,
-,dariusz-zaba,,,,
-893134,grzegorz-gawle,no-team,170,,160000 EUR
-,kacper-malinowski,,,,
-829030,hubert-adamczyk,mzks-arka-gdynia,174,Right,330000 EUR
-914546,sebastian-strozik,wisla-plock,179,Right,48000 EUR
-,filip-sroka,,,,
-,bartlomiej-tymoszuk,,,,
-,adrian-zmuda,,,,
-,grzegorz-chlebda,,,,
-825768,krystian-kalinowski,lks-lomza,185,Both,26000 EUR
-,grzegorz-pyzio,,,,
-,jakub-rzeszut,,,,
-,szymon-stec,,,,
-,kacper-sutor,,,,
-,pawel-witsanko,,,,
-,karol-kondrat,,,,
-,beniamin-kucy,,,,
-,damian-maslej,,,,
-250527,dawid-sliwinski,no-team,175,,0 EUR
-992960,maciej-diduszko,mkp-carina-gubin,171,, 
-,radoslaw-wasiuk,,,,
-971473,jakub-ostrowski,no-team,188,Right,0 EUR
-942335,kamil-piatkowski,red-bull-salzburg,191,Right,3900000 EUR
-887580,serafin-szota,widzew-lodz,186,Right,570000 EUR
-991057,mateusz-kulchawy,no-team,165,Right,52000 EUR
-798698,pawel-zyra,gornik-leczna,178,Both,310000 EUR
-921752,kacper-szymankiewicz,wisla-pulawy,183,, 
-844500,bartosz-slisz,legia-warszawa,179,Right,5200000 EUR
-,maciej-majdowski,,,,
-,bartosz-ciesielski,,,,
-989447,lukasz-soszynski,stal-stalowa-wola,175,Right,52000 EUR
-957282,lukasz-szukielowicz,lechia-dzierzoniow,,, 
-1022417,kornel-ciupka,no-team,185,, 
-,kryspin-karbownik,,,,
-1594633,wiktor-nahrebecki,mkp-carina-gubin,170,Right, 
-1424754,kacper-nowak,zawisza-bydgoszcz,,Right, 
-844501,radoslaw-dzierbicki,energetyk-row-rybnik,173,, 
-,jakub-obloj,,,,
-,patryk-jarantowicz,,,,
-,jakub-rys,,,,
-981298,patryk-grychtolik,gks-katowice,182,, 
-1411031,jakub-brzezowski,hhc-hardenberg,175,Left, 
-942334,kacper-chodyna,zaglebie-lubin,176,Right,835000 EUR
-,oskar-gizinski,,,,
-1417432,krzysztof-staskiewicz,no-team,181,Right, 
-1148133,mateusz-piotrowski,gwardia-koszalin,187,, 
-941398,olaf-nowak,kotwica-kolobrzeg,180,,145000 EUR
-,przemyslaw-siudak,,,,
-,szymon-tragarz,,,,
-,marcel-wolan,,,,
-,norbert-walczak,,,,
-,karol-wierzchowski,,,,
-1009471,dominik-sasiak,no-team,191,Right, 
-801448,mikolaj-brylewski,no-team,188,,48000 EUR
-,kacper-pietrzak,,,,
-921227,oskar-piernicki,gks-belchatow,,, 
-956646,szymon-walenski,baltyk-koszalin,,, 
-956258,hubert-sadowski,stomil-olsztyn,190,Right,46000 EUR
-,sebastian-nagel,,,,
-971474,wojciech-blyszko,znicz-pruszkow,196,Right,47000 EUR
-,fabian-pach,,,,
-941604,marcel-stefaniak,zks-olimpia-elblag,181,Left,52000 EUR
-,michal-macuk,,,,
-955982,mateusz-bartolewski,ruch-chorzow,187,Left,360000 EUR
-1021232,danian-pavlas,wisla-pulawy,171,Left,135000 EUR
-886747,jedrzej-kujawa,swit-skolwin-szczecin,176,Right,49000 EUR
-1089538,michal-graczyk,zawisza-bydgoszcz,185,Right, 
-941967,stanislaw-wawrzynowicz,pogon-szczecin,177,Both,24000 EUR
-941226,maciej-zurawski,warta-poznan,184,Right,580000 EUR
-,bartosz-bielak,,,,
-,patryk-miklas,,,,
-938661,damian-pawlowski,no-team,185,Right,49000 EUR
-912791,gracjan-kusmierek,no-team,180,,70000 EUR
-916112,rafal-mackowski,gwardia-koszalin,178,Both,215000 EUR
-984797,michal-sacharuk,zawisza-bydgoszcz,180,,23000 EUR
-940543,kacper-michalski,ruch-chorzow,187,Right,425000 EUR
+id_sofascore,slug,,,,
+984868,christoffer-monty,,,,
+894470,max-christensen,,,,
+1093310,simon-rossil,,,,
+963044,jacob-haahr,fremad-amager,187,,205000 EUR
+856651,rasmus-moller,hillerod,186,Left,55000 EUR
+,sebastian-fabrin,,,,
+,sebastian-fischer,,,,
+1092409,victor-kristiansen,,,,
+1152271,marcus-korang,,,,
+826057,mads-roerslev,brentford,180,Right,6400000 EUR
+837010,niklas-vesterlund,tromso-il,185,Right,1200000 EUR
+1126789,philip-banda,naestved-boldklub,181,Left,47000 EUR
+1008456,oliver-sonne,silkeborg-if,184,Right,825000 EUR
+987803,ludvig-henriksen,naestved-boldklub,,Right,320000 EUR
+1126439,mattias-jakobsen,vendsyssel-ff,,Right,180000 EUR
+1031135,trygve-solberg-aarstad,no-team,180,Right,27000 EUR
+987802,felix-winther,tromso-il,185,Both,230000 EUR
+,marcus-porsgrunn,,,,
+998279,alexander-hjaelmhof,no-team,,Left, 
+1050829,jonathan-canto,no-team,185,Both,26000 EUR
+957279,mohamed-daramy,stade-de-reims,180,Right,10300000 EUR
+973479,ahmed-daghim,b-93-kopenhagen,183,Right,52000 EUR
+1091024,lucas-orneborg,no-team,170,Right,97000 EUR
+,ali-al-mosawe,,,,
+1088510,tobias-pedersen,hb-koge,,Right,26000 EUR
+,nicholas-sejr,,,,
+826069,jonas-wind,vfl-wolfsburg,190,Right,26000000 EUR
+,ibrahim-samrawi,,,,
+1082282,oliver-andersen,frem,187,,26000 EUR
+885172,kristall-mani-ingason,sonderjyske,178,Right,410000 EUR
+1021075,william-boving,sk-sturm-graz,176,Right,2800000 EUR
+918432,muamer-brajanac,hobro,189,Right,365000 EUR
+934198,andreas-kirkeby,,,,
+1150068,mohammad-hassan,naestved-boldklub,,,110000 EUR
+1000565,andreas-gulstorff,fc-nordsjaelland,181,Right,155000 EUR
+1470034,samuel-andersen,no-team,186,Left, 
+1110843,emmanuel-ogura,hik,184,Right,155000 EUR
+940882,rasmus-from,vsk-aarhus,,,110000 EUR
+957664,magnus-worts,,,,
+,gideon-mensah,,,,
+928101,marcus-gudmann,hb-koge,183,Right,49000 EUR
+1398165,valdemar-montell,fc-roskilde,,Right, 
+,thor-hoholt,,,,
+988802,maxwell-woledzi,,,,
+1113071,jonas-jensen-abbew,,,,
+,ulrich-bony-nene,,,,
+,teodor-foss,,,,
+940864,clinton-antwi,kups,167,Left,310000 EUR
+1017893,lucas-boje-larsen,hillerod,,Left,290000 EUR
+949135,lukas-talbro,no-team,,,105000 EUR
+918430,oliver-villadsen,fc-nordsjaelland,173,Right,2300000 EUR
+1083341,lucas-lykkegaard,hik,,Right,95000 EUR
+1398079,andreas-chabert,no-team,,Right, 
+1082280,oliver-angus,nykobing-fc,174,Right,49000 EUR
+918438,jacob-christensen,1-fc-koln,180,Right,2100000 EUR
+,nicklas-strunck-jakobsen,,,,
+994007,tochi-chukwuani,lyngby,187,Right,750000 EUR
+1006146,oliver-rimmen,,,,
+,mohamed-diomande,,,,
+988801,abu-francis,,,,
+,lasso-coulibaly,,,,
+940863,frederik-christensen,fc-helsingor,176,,360000 EUR
+963055,hektor-hojbjerre-thomsen,,,,
+,jonathan-amon,,,,
+,eric-oteng,,,,
+1110842,simon-adingra,brighton-and-hove-albion,175,Right,15700000 EUR
+1050832,frederik-munck,ishoj-if,,,24000 EUR
+905174,ibrahim-sadiq,az-alkmaar,166,Right,3100000 EUR
+,isaac-atanga,,,,
+1021218,emeka-nnamani,nykobing-fc,178,Both,160000 EUR
+975743,oliver-antman,fc-nordsjaelland,185,Right,675000 EUR
+856654,joachim-rothmann,hb-koge,180,Right,260000 EUR
+996989,christian-rasmussen,,,,
+1391640,mikkel-lejbowicz,,,,
+926608,kasper-kristensen,trelleborgs-ff,191,Right,190000 EUR
+918439,daniel-gadegaard-andersen,esbjerg,191,Right,145000 EUR
+963546,adi-saric,,,,
+,villads-olesen,,,,
+856644,sebastian-hausner,ifk-goteborg,188,Right,750000 EUR
+963052,emil-agerbaek,denmark-u17,,, 
+1404640,daniel-jakobsen,aarhus-fremad,,,92000 EUR
+887822,jakob-kiilerich,kolding-if,190,Left,23000 EUR
+,sune-balle,,,,
+1015625,mads-bager,skive,,Left, 
+856655,daniel-thogersen,b-93-kopenhagen,183,Left,48000 EUR
+,viktor-storgaard,,,,
+1398104,frederik-jorgensen,brabrand,,Left, 
+916921,mikkel-lassen,fredrikstad-fk,180,Right,340000 EUR
+1398142,oliver-lund,no-team,173,Right, 
+981319,magnus-anbo,,,,
+839948,benjamin-hvidt,agf,189,Right,310000 EUR
+856641,soren-bugge-jepsen,,,,
+38855,jacob-reus,,,,
+1398100,faysal-halimi,no-team,,Right, 
+1000263,albert-gronbaek,bodoglimt,176,Both,10600000 EUR
+1015628,magnus-kirchheiner,aarhus-fremad,,, 
+1048766,jon-jokull-hjaltason,ibv-vestmannaeyjar,,, 
+,marcus-ginnerup,,,,
+,martinus-mandal,,,,
+1015626,mostafa-maarouf,thisted,,Right,71000 EUR
+856649,magnus-kaastrup,vvv-venlo,176,Right,340000 EUR
+,william-forby,,,,
+861311,kasper-lunding,,,,
+1015627,jacob-trenskow,,,,
+893613,alexander-ammitzboll,aalesunds-fk,187,Right,97000 EUR
+918441,gustav-mogensen,hodd-il,190,Right,90000 EUR
+,jonas-yderholm,,,,
+1035693,frederik-ihler,landskrona-bois,180,Right,155000 EUR
+860306,oliver-christensen,fiorentina,190,Right,3900000 EUR
+856291,hans-christian-bernat,odense-bk,188,Right,310000 EUR
+1423559,philip-gejl,naesby,,,55000 EUR
+1126856,tobias-jakobsen,,,,
+1035601,marcus-alstrup,b-93-kopenhagen,,,110000 EUR
+1133231,magnus-nielsen,odense-bk,184,Right,105000 EUR
+1005968,peter-hansen,no-team,,Right, 
+1144449,marco-kruse,if-lyseng,,, 
+963053,daniel-obbekjaer,07-vestur-sorvagur,194,Right,115000 EUR
+1001451,christian-vestergaard,,,,
+998448,anton-pedersen,,,,
+1423687,oliver-skolnik,fc-roskilde,,Left, 
+1133429,jonathan-kjaer,middelfart,185,Left,145000 EUR
+1092741,frederik-lund,odder,,Left, 
+1035603,jonas-skytte,naesby,,Right,55000 EUR
+,nicolai-skott,,,,
+1063467,valdemar-kwasniak,middelfart,178,Right, 
+,laurits-lillemose,,,,
+928957,jonathan-harboe,,,,
+963048,valdemar-ibsen,oks,,, 
+1017669,tarik-ibrahimagic,if-vestri,184,Both,91000 EUR
+,anders-klynge,,,,
+,lucas-moller-jensen,,,,
+,kristian-brondum,,,,
+939585,mads-frokjaer-jensen,preston-north-end,186,Right,775000 EUR
+856643,peter-clement,,,,
+930961,mathias-jorgensen,esbjerg,185,Right,485000 EUR
+1035602,mikkel-michelsen,,,,
+,emil-suarez,,,,
+1035600,rasmus-nissen,,,,
+1017671,max-fenger,mjallby-aif,182,Right,760000 EUR
+963038,andreas-jungdal,cremonese,195,Right,325000 EUR
+1126790,magnus-nissen,no-team,,,54000 EUR
+1102804,tobias-bargisen,,,,
+1049120,andreas-foged,no-team,186,Left,55000 EUR
+897287,kasper-poulsgaard,,,,
+1100552,peter-ullum,ariana-fc,197,Left,97000 EUR
+,waris-faghir,,,,
+1120392,magnus-enggaard,,,,
+,christian-hechmann,,,,
+954535,fard-ibrahim,fc-isloch-minsk-region,183,Left,220000 EUR
+1092740,emil-nielsen,,,,
+918436,thomas-gundelund,vejle,180,Right,260000 EUR
+,magnus-bisgaard,,,,
+,noah-weng,,,,
+1017656,mathias-voss,07-vestur-sorvagur,183,Right,78000 EUR
+1144442,andreas-broe,holstebro-bk,,, 
+1017654,tobias-sommer,sonderjyske,,Right,24000 EUR
+940531,nikolaj-lebaek,tarup-paarup-if,,,26000 EUR
+893864,lundrim-hetemi,fc-fredericia,170,Right,145000 EUR
+1431210,anton-stage,middelfart,,, 
+,rasmus-schjang-larsen,,,,
+,rami-ayman,,,,
+1046650,villads-rasmussen,hobro,176,Left,92000 EUR
+1017655,alexander-jensen,if-brommapojkarna,180,Right,880000 EUR
+1398122,lucas-from,aarhus-fremad,178,Right, 
+,valdemar-bjerre,,,,
+1135579,foday-trawally,tallinna-kalev,185,,180000 EUR
+861823,arbnor-mucolli,ifk-goteborg,175,Left,1500000 EUR
+,jonathan-petersen,,,,
+,kasper-thychosen,,,,
+1126857,valdemar-sadrifar,no-team,186,Left,27000 EUR
+940629,zhenao-wang,dalian-pro,175,Left,140000 EUR
+903057,thais-damgaard,,,,
+,jakob-kristensen,,,,
+1035985,adama-fofana,fk-zalgiris,180,Right,245000 EUR
+861199,adam-jakobsen,fc-fredericia,185,Right,260000 EUR
+893865,jonas-andersen,no-team,190,Right,73000 EUR
+905293,matthew-palmer,new-zealand-u17,196,, 
+981681,foday-manneh,,,,
+1000397,wahid-faghir,sv-07-elversberg,185,Right,2600000 EUR
+,martin-lauritsen,,,,
+,elias-rafn-olafsson,,,,
+,enock-mawete-mwimba,,,,
+976384,valdemar-birkso,,,,
+,patrick,,,,
+976378,japhet-sery-larsen,sk-brann,179,Right,2200000 EUR
+999206,john-ndjate,,,,
+,oskar-bloch,,,,
+999132,tobias-anker,,,,
+918433,nikolas-dyhr,fc-midtjylland,177,Left, 
+856653,oliver-olsen,randers-fc,190,Both,260000 EUR
+976388,sunday-odeh,no-team,,Right,52000 EUR
+999140,hanus-sorensen,,,,
+938306,nicolas-madsen,kvc-westerlo,193,Right,1500000 EUR
+857671,jens-cajuste,napoli,188,Right,9500000 EUR
+980718,victor-dawa,plateau-united,,Right,96000 EUR
+,pyry-hannola,,,,
+976379,antonis-martis,perth-glory,169,Right,195000 EUR
+957921,oliver-sorensen,fc-midtjylland,184,Left,1000000 EUR
+979228,jonathan-dahl-bagger,vanlose,,Left,24000 EUR
+976387,lukas-giessing,b36-torshavn,172,Right,24000 EUR
+885863,michael-baidoo,if-elfsborg,174,Right,2300000 EUR
+940643,christian-tue-jensen,hb-koge,177,Right,135000 EUR
+907522,nikola-dejan-djuric,,,,
+999186,aral-simsir,fc-midtjylland,,Right,925000 EUR
+976381,gustav-isaksen,lazio,178,Both,13100000 EUR
+976386,mads-hansen,fc-nordsjaelland,188,Right,1000000 EUR
+,mikkel-tonnesen,,,,
+976382,jibril-abubakar,no-team,198,Right,48000 EUR
+957937,casper-tengstedt,,,,
+979227,emil-sand,no-team,,,24000 EUR
+1146399,mathias-balle,no-team,198,Right, 
+,lasse-holm,,,,
+,elvin-sigaard,,,,
+,marcus-bundgaard-sorensen,,,,
+1033079,nicolai-christensen,,,,
+918435,mathias-ross,nec-nijmegen,190,Right,1300000 EUR
+856642,anders-baertelsen,haugesund,191,Right,425000 EUR
+,mikkel-konnerup,,,,
+1029714,thomas-christiansen,vendsyssel-ff,185,Right,145000 EUR
+1130891,daniel-mortensen,skive,181,Right,97000 EUR
+,benedikt-axelsson,,,,
+932481,lukas-klitten,hobro,184,Left,320000 EUR
+,patrick-bjorkman,,,,
+997583,malthe-hojholt,aab,182,Right,825000 EUR
+1398172,zifarlino-nsoni,skive,,Right, 
+918431,jeppe-pedersen,aab,180,Right,275000 EUR
+,soren-fjordbak,,,,
+933661,oliver-klitten,hobro,182,Right,320000 EUR
+,emil-colding,,,,
+,jonathan-flindt,,,,
+,andreas-fruergaard,,,,
+,nicolai-laursen,,,,
+1022526,marcus-hannesbo,,,,
+1100558,oliver-borsting,aab,,, 
+839719,wessam-abou-ali,ik-sirius,186,Right,1500000 EUR
+918437,mikkel-kaufmann,1-fc-union-berlin,190,Right,2600000 EUR
+987647,soren-tengstedt,silkeborg-if,187,Left,660000 EUR
+,gabriel-christensen,,,,
+826056,casper-hauervig,no-team,192,,54000 EUR
+856640,mads-hermansen,leicester-city,187,Right,7200000 EUR
+1116420,tobias-juul,lyngby,,, 
+1110858,lucas-ziegler,fa-2000,182,Right,140000 EUR
+,daniel-holsting,,,,
+856645,anton-skipper,sarpsborg-08,194,Right,340000 EUR
+,luke-singh,,,,
+,joseph-mwamba,,,,
+1018524,emil-staugaard,,,,
+,benjamin-laursen,,,,
+,elias-gartig,,,,
+994178,lucas-steen,,,,
+1018522,jacob-rasmussen,no-team,183,Left,47000 EUR
+826070,andreas-bruus,troyes,183,Right,1100000 EUR
+1150100,matin-saleh,no-team,,Both, 
+978952,kasper-jorgensen,aab,185,Right,480000 EUR
+,frederik-norrestrand,,,,
+918440,morten-frendrup,genoa,178,Right,5700000 EUR
+1094168,andreas-pyndt,silkeborg-if,175,Right,335000 EUR
+1050771,laurids-andersen,,,,
+,victor-sorensen,,,,
+947929,jesper-lindstrom,napoli,182,Right,30000000 EUR
+842539,agust-hlynsson,breidablik-kopavogur,174,Right,205000 EUR
+987907,peter-bjur,agf,180,Left,460000 EUR
+882041,magnus-warming,,,,
+1423679,giran-pyne-cole,naestved-boldklub,173,Right,24000 EUR
+999571,ertugrul-teksen,,,,
+,andrew-oseni,,,,
+1018523,mathias-kvistgaarden,brondby-if,173,Right,2700000 EUR
+1086196,lucas-balck,,,,
+1048714,roni-arabaci,fc-roskilde,176,Right,52000 EUR
+,anton-bisgaard,,,,
+1018525,mikkel-eslund,bk-avarta,185,Right, 
+,mads-kikkenborg,,,,
+1119219,nicolai-vistisen,vendsyssel-ff,188,Right,48000 EUR
+1166264,jesper-sorensen,kolding-if,195,Right,24000 EUR
+1398078,alexander-kostow,thisted,,, 
+,patrick-jorgensen,,,,
+1126584,tobias-stagaard,esbjerg,187,,93000 EUR
+981265,patrick-tjornelund,kolding-if,,Right,23000 EUR
+,thor-kristiansen,,,,
+910132,david-easter,,,,
+,jacob-lonne,,,,
+,mikkel-sondergaard,,,,
+,oliver-nielsen,,,,
+1022424,denis-catovic,,,,
+,frederik-hummelgaard,,,,
+930562,jonas-mortensen,esbjerg,179,Right,105000 EUR
+929568,emil-ankersen,no-team,,,47000 EUR
+958910,noah-nurmi,inter-turku,181,Right,140000 EUR
+,simon-baekgaard,,,,
+,andreas-lausen,,,,
+987637,mirza-husic,no-team,,, 
+,jeppe-paulsen,,,,
+,deniz-korkmaz,,,,
+910130,mads-larsen,,,,
+,mathias-holm,,,,
+963037,mads-zaar,young-boys-fd,,Right,24000 EUR
+1121244,marcus-hansen,esbjerg,184,,54000 EUR
+987639,rasmus-rejnhold,fairfield-stags,183,Right,52000 EUR
+,martin-egelund,,,,
+1121243,mads-borchers,varbergs-bois,188,Left,245000 EUR
+1069478,zean-dalugge,vendsyssel-ff,185,Right,210000 EUR
+904985,patrick-egelund,fc-fredericia,169,Right,140000 EUR
+,mikkel-nielsen,,,,
+,magnus-simonsen,,,,
+991873,magnus-dalsgaard,,,,
+,patrick-laursen,,,,
+,niels-friis-topholm,,,,
+,mikkel-thygesen,,,,
+988201,frederik-alves,,,,
+,nicklas-bugge,,,,
+1048718,anders-sonderby,vejgaard-b,,,55000 EUR
+,william-sorensen,,,,
+,asger-vandso,,,,
+,luc-park,,,,
+,daniel-jorgensen,,,,
+,kasper-rytter,,,,
+,mikkel-juhl,,,,
+988203,rasmus-carstensen,1-fc-koln,187,Right,2700000 EUR
+,sebastian-blindkilde,,,,
+1000539,anders-dahl,silkeborg-if,176,Right,205000 EUR
+,magnus-schelle,,,,
+988202,pelle-mattsson,silkeborg-if,181,Right,430000 EUR
+,nikolaj-sauer,,,,
+,kristian-kvist,,,,
+,oliver-schmidt,,,,
+,joakim-grosen,,,,
+,valdemar-fogt,,,,
+,ali-farej,,,,
+,stefan-stojilkovic,,,,
+,sebastian-jorgensen,,,,
+882830,oliver-haurits,,,,
+,alexander-lind,,,,
+,anton-holch-leth,,,,
+1092737,anders-iversen,holstebro-bk,177,Right, 
+,peter-nemec,,,,
+940792,victor-smedsrud,skovshoved,192,Right,23000 EUR
+1130812,casper-mols,,,,
+910163,kristian-olsen,,,,
+,philip-osterbaek,,,,
+,oliver-saundry,,,,
+1046653,kristoffer-madsen,tarup-paarup-if,,Right, 
+,oliver-ostergaard,,,,
+1009242,ture-blaue,no-team,,,23000 EUR
+,mathias-therkelsen,,,,
+,mads-winther,,,,
+,jonas-madsen,,,,
+,rasmus-andersen,,,,
+1089494,morten-dyrmose,no-team,,,26000 EUR
+,emil-johansen,,,,
+1092730,kristian-bach,kjellerup-if,,, 
+,morten-snabe,,,,
+1029723,mads-steenberg,asa-aarhus,,,55000 EUR
+,zlatan-henic,,,,
+,jeppe-jordoson,,,,
+1018762,bastian-toelhoj,no-team,,,105000 EUR
+,frederik-topgaard,,,,
+996493,mads-hansen,sonderjyske,174,Right,55000 EUR
+930374,patrick-jahn,,,,
+,jonas-bossen,,,,
+,oskar-stentoft,,,,
+1029722,steffen-svenningsen,holstebro-bk,,,26000 EUR
+1006002,johann-joensen,07-vestur-sorvagur,185,Right,23000 EUR
+,nicolai-dupont,,,,
+1035604,jannick-liburd,no-team,180,Left,52000 EUR
+946393,peter-christiansen,sonderjyske,175,Right,435000 EUR
+,edin-muratovic,,,,
+997444,ardit-murati,no-team,184,Right,23000 EUR
+1006186,arman-taranis,no-team,,Right,49000 EUR
+982465,nazifi-yahaya,katsina-united,,Left, 
+989628,oliver-funch,,,,
+1398140,nikolai-toftelund,no-team,,Right, 
+886320,alexander-jensen,,,,
+,tobias-gundel,,,,
+927037,emil-bodholdt-larsen,,,,
+985738,frederik-winther,fc-augsburg,186,Left,825000 EUR
+1198649,victor-laub,,,,
+1029677,filip-panjeskovic,hillerod,188,Right,105000 EUR
+,oliver-thers,,,,
+1381571,mads-emil-langberg,hillerod,,,105000 EUR
+,casper-borod,,,,
+,christoffer-saietz,,,,
+,thor-hoholt,,,,
+926558,adam-sorensen,bodoglimt,165,Left,810000 EUR
+929114,esben-wolf,,,,
+1114370,mohammad-fazal,,,,
+,mads-hojlund,,,,
+,andreas-kaltoft,,,,
+,tobias-bak,,,,
+932032,daniel-soidik,,,,
+,waldemar-kattrup,,,,
+826072,devrim-sahin,ishoj-if,,Right,46000 EUR
+943920,mads-carlson,naestved-boldklub,184,,185000 EUR
+1004554,karim-el-haddouchi,fa-2000,179,,26000 EUR
+996685,emil-kornvig,cittadella,170,Right,465000 EUR
+,emil-willer,,,,
+1417464,mads-sindholdt,ballerup-skovlunde,,, 
+,jakob-jensen,,,,
+,emilio-simonsen,,,,
+1404298,marius-christiansen,slagelse,,,105000 EUR
+,asger-ammundsen,,,,
+1086074,willads-delvin,,,,
+,frederik-lindberg,,,,
+,marcus-lindberg,,,,
+,rasmus-pasternak,,,,
+929121,simon-pedersen,,,,
+,ahmad-traore,,,,
+1132094,mikki-van-sas,feyenoord,193,Right,430000 EUR
+1047355,jaimy-kroesen,jong-feyenoord,184,Right,53000 EUR
+,mannou-berger,,,,
+1470017,mateo-husselin,jong-feyenoord,,Right, 
+1445610,lars-de-blok,jong-feyenoord,,Left, 
+,milan-hokke,,,,
+1121931,sem-valk,feyenoord,195,, 
+1130306,jayden-candelaria,jong-feyenoord,,Left, 
+1195789,rainey-breinburg,jong-feyenoord,,Left, 
+1465863,lugene-arnaud,jong-feyenoord,,Right, 
+1544570,paris-elmensdorp,feyenoord-u19,,, 
+1433802,gjivai-zechiel,feyenoord,,Right,630000 EUR
+1047394,timo-zaal,jong-feyenoord,184,Right,245000 EUR
+1126692,antoni-milambo,feyenoord,179,Right,4099999 EUR
+1544565,noah-pusic,feyenoord-u19,,, 
+1193084,mike-kleijn,,,,
+,wassim-essanoussi,,,,
+1048046,joep-van-der-sluijs,jong-feyenoord,180,Left,120000 EUR
+1405723,amadou-david-sanyang,jong-feyenoord,,, 
+1445614,delano-van-der-heijden,jong-feyenoord,167,Right, 
+1509751,amir-rais,jong-feyenoord,,Right, 
+1218004,jaden-slory,,,,
+1198088,nesto-groen,jong-feyenoord,,Right, 
+,fabiano-rust,,,,
+,silver-elum,,,,
+1496006,stijn-petiet,,,,
+1446119,maxim-mariani,jong-groningen,,,23000 EUR
+126541,mart-haven,,,,
+,robin-kelder,,,,
+,jay-kuiper,,,,
+1017298,joel-van-kaam,jong-groningen,179,Right,165000 EUR
+1405740,daniel-beukers,fc-groningen,181,Right, 
+,joop-oosterhof,,,,
+,mees-mink,,,,
+1424404,jorg-schreuders,fc-groningen,,,170000 EUR
+,djurre-laansma,,,,
+,jan-muller,,,,
+1121402,tika-de-jonge,fc-groningen,173,Right, 
+,steyn-potma,,,,
+,david-van-der-werff,,,,
+1015875,kian-slor,,,,
+1170956,jens-schraven,jong-groningen,,, 
+1093224,alex-mortensen,jong-groningen,175,Right,78000 EUR
+1625485,nils-eggens,fc-groningen,,, 
+1009667,jord-ruijgrok,jong-de-graafschap,188,Right,45000 EUR
+1144947,ties-wieggers,de-graafschap,189,,27000 EUR
+1129126,nigel-van-haveren,jong-de-graafschap,,Right,24000 EUR
+,andrey-voznyi,,,,
+1132765,maas-willemsen,de-graafschap,190,,26000 EUR
+1516205,jesse-oostendorp,de-graafschap,175,, 
+,ruben-radstake,,,,
+,sem-went,,,,
+,kellen-berkel,,,,
+1520735,jesper-van-riel,de-graafschap,,Left, 
+,stan-van-dillen,,,,
+1387853,jim-van-der-logt,de-graafschap,,,26000 EUR
+,chris-alderden,,,,
+,jan-oliver-huckstorf,,,,
+,nic-hartgers,,,,
+,kyan-lever,,,,
+1485410,stan-wevers,de-graafschap,,, 
+1090109,hamza-bouihrouchane,de-graafschap,,,97000 EUR
+1427451,anis-yadir,de-graafschap,,, 
+,sofian-daif,,,,
+1516203,tygo-grotenhuis,jong-de-graafschap,,, 
+,blnd-hassan,,,,
+1436179,hozan-osman,jong-de-graafschap,178,Right, 
+1479501,mert-bulut,jong-de-graafschap,,, 
+1516207,daan-van-bentum,jong-de-graafschap,,, 
+1429549,sam-bisselink,de-graafschap,,,47000 EUR
+,ezra-van-der-heiden,,,,
+,mert-erkan,,,,
+1472801,elie-raterink,de-graafschap,,,81000 EUR
+,quinten-inge,,,,
+1101843,dorian-nacu,,,,
+1411051,mike-veenstra,jong-de-graafschap,194,, 
+,denzel-eijken,,,,
+1133590,timo-jansink,fc-twente,,, 
+1402595,rick-jonkers,jong-twente,190,, 
+,xander-mulder,,,,
+,leco-zeevalkink,,,,
+1470014,julien-mesbahi,,,,
+1183535,jair-haakmat,jong-twente,190,Left,24000 EUR
+1150775,michel-driezen,,,,
+,jaden-donald,,,,
+1498913,mats-rots,,,,
+1383167,chiel-olde-keizer,heracles-almelo,185,Left,49000 EUR
+1196901,tim-geypens,fc-twente,181,Left, 
+,morris-de-wilde,,,,
+,tyrese-gijsbertha,,,,
+1384483,irakli-yegoian,,,,
+1482075,manuel-iylia,jong-twente,168,Right, 
+1512238,harrie-kuster,jong-twente,,Right, 
+,jort-ribbers,,,,
+,tiago-codinha,,,,
+1384485,sander-sybrandy,,,,
+,semir-ozturk,,,,
+1424845,shi-jon-martina,,,,
+,derrick-slagveer,,,,
+,mohamed-essakkati,,,,
+1486432,yaid-marhoum,heracles-almelo,190,Right, 
+1402591,kick-landkroon,jong-twente,184,Right, 
+,kayne-van-oevelen,,,,
+,abdessalam-ouboumalne,,,,
+,huub-veltman,,,,
+,khadim-ngom,,,,
+,billy-van-duijl,,,,
+,jay-koorndijk,,,,
+1512194,nash-bijnoe,fc-volendam,,, 
+,waleed-ait-abdellah,,,,
+1618954,luc-van-koeverden,jong-volendam,,, 
+1470890,rob-tol,,,,
+,roman-schoonhoven,,,,
+1470784,francisco-reyes-marizan,jong-volendam,,, 
+,flip-klomp,,,,
+,bram-van-driel,,,,
+,myron-mau-asam,,,,
+,milan-engelander,,,,
+,mika-van-der-horst,,,,
+,key-shawn-wong-a-soij,,,,
+,jermaine-rijssel,,,,
+,caner-demircioglu,,,,
+1512193,ezechiel-fiemawhle,,,,
+1381645,quincy-hoeve,jong-volendam,,Right,78000 EUR
+985387,david-petrovic,,,,
+1082251,ahmed-azmi,jong-ado-den-haag,188,Right,26000 EUR
+,sem-buvelot,,,,
+1533794,thijmen-de-koning,jong-ado-den-haag,,, 
+1135865,emre-ates,jong-ado-den-haag,191,,23000 EUR
+1385559,keanu-does,jong-ado-den-haag,,, 
+,devyn-payne,,,,
+897183,sinan-ozen,,,,
+,nigel-owusu,,,,
+,ronny-boakye,,,,
+,mustafa-tetik,,,,
+1214248,aiman-achemlal,jong-ado-den-haag,173,Right,23000 EUR
+,niels-noordhoek,,,,
+,kaj-van-houwelingen,,,,
+955197,joey-brandt,,,,
+,raelson-gomes-landim,,,,
+1384298,jaydavon-haas,jong-ado-den-haag,180,Right, 
+,finn-de-bruin,,,,
+1131649,elijah-velland,jong-ado-den-haag,,Right,27000 EUR
+1086109,robyn-esajas,jong-ado-den-haag,181,Left, 
+1424526,issac-dijkhuizen,hv-cv-quick,,, 
+,lorenzo-maasland,,,,
+,sofyan-el-hanoudi,,,,
+,lloyd-hendriks,,,,
+1424524,enoch-george,hv-cv-quick,,, 
+1130708,nando-verdoni,go-ahead-eagles,,Right,27000 EUR
+1185612,lars-groenendijk,,,,
+,vincent-derksen,,,,
+,hugo-lacroix,,,,
+,boy-nijgh,,,,
+1384271,didi-naarendorp,jong-go-ahead-eagles,,Left, 
+1457734,emre-oztas,jong-go-ahead-eagles,165,, 
+,donte-apinsa,,,,
+1492444,jorn-smits,jong-go-ahead-eagles,,Left, 
+,ivan-van-den-berg,,,,
+1190978,nick-de-mol,,,,
+1386182,robbin-weijenberg,jong-go-ahead-eagles,,Right,26000 EUR
+,devonish-eustatia,,,,
+1424535,delano-costella,hv-cv-quick,180,, 
+,siem-askamp,,,,
+1150149,gijs-steinfelder,go-ahead-eagles,,, 
+1131652,juruel-bernadina,jong-go-ahead-eagles,,Right,23000 EUR
+,zakaria-belfassi,,,,
+1386183,milan-berenschot,jong-go-ahead-eagles,179,Right, 
+954676,jesper-kok,,,,
+,kader-kone,,,,
+,vital-kakesa,,,,
+,jop-scharpfenecker,,,,
+1049270,tyrick-bodak,,,,
+1190936,thijmen-renkel,jong-cambuur,,, 
+1579302,chima-anyasi,sc-cambuur,,, 
+,toni-jonker,,,,
+1521235,myles-veldman,jong-cambuur,182,Left, 
+,bram-marsman,,,,
+,julian-schrott,,,,
+,bjarn-zorgdrager,,,,
+1592993,tyrique-mercera,jong-cambuur,185,Both, 
+1521236,tom-van-der-werff,sc-cambuur,,, 
+,matthias-nartey,,,,
+925931,jochem-nap,,,,
+,sven-dijkstra,,,,
+,yme-bruinsma,,,,
+1608926,jeffrey-buitenweg,sc-cambuur,,, 
+,marcel-schaapman,,,,
+,daan-visser,,,,
+1529982,yoram-van-der-veen,,,,
+,maxwell-rodrigues,,,,
+,wiebe-kooistra,,,,
+800496,denis-adamov,zenit-st-petersburg,192,Right,930000 EUR
+,sergey-eshchenko,,,,
+,evgeniy-latyshonok,,,,
+,denis-mukhin,,,,
+1049437,nikita-kokarev,arsenal-tula,184,Right,420000 EUR
+984890,stanislav-agkatsev,fc-krasnodar,188,Right,1100000 EUR
+1157288,valentin-grishin,krasnodar-2,185,Right,97000 EUR
+,aleksey-tataev,,,,
+,sergey-borodin,,,,
+,evgeniy-nazarov,,,,
+876594,ilya-martynov,leon-saturn-ramenskoe,185,Right,92000 EUR
+,vyacheslav-litvinov,,,,
+989681,rashid-chichba,no-team,179,Left,105000 EUR
+989680,stepan-nikitin,no-team,193,Right,165000 EUR
+,dmitriy-ivanov,,,,
+,pavel-dashin,,,,
+,azamat-gaev,,,,
+939489,oleg-isaenko,fc-khimki,169,Left,410000 EUR
+994005,danila-vedernikov,fc-murom,176,Left,430000 EUR
+939481,dmitriy-pivovarov,,,,
+963122,sergey-novikov,,,,
+,denis-vlasov,,,,
+1129990,maksim-khramtsov,dinamo-makhachkala,187,Both,380000 EUR
+1157347,stepan-komar,krasnodar-2,179,Left,110000 EUR
+,nikolay-bochko,,,,
+,igor-paradin,,,,
+,danil-pelikh,,,,
+,bogdan-logachev,,,,
+963113,sergey-volkov,fc-krasnodar,176,Right,4600000 EUR
+,daniil-kornyushin,,,,
+989674,nikita-furin,no-team,172,,105000 EUR
+,mamma-mammaev,,,,
+825878,artem-golubev,fc-ufa,181,Right,370000 EUR
+,aleksandr-chernikov,,,,
+,andrey-tekuchev,,,,
+,vyacheslav-yakimov,,,,
+963120,dmitriy-kratkov,krasnodar-2,174,Right,145000 EUR
+,sergey-peterson,,,,
+,valeriy-fomenko,,,,
+,nikita-plotnikov,,,,
+,aleks-matsukatov,,,,
+989682,mikhail-kolomiytsev,kuban-holding-pavlovskaya,176,Right, 
+1212190,david-kokoev,neftekhimik-nizhnekamsk,178,Right,340000 EUR
+989671,igor-yurchenko,krasnodar-youth,176,, 
+,levon-bayramyan,,,,
+,bogdan-reichmen,,,,
+,roman-kurazhov,,,,
+1082802,danil-benedyk,no-team,167,Right, 
+,nikita-shershnev,,,,
+,vladislav-misan,,,,
+939492,eduard-spertsyan,fc-krasnodar,178,Right,18500000 EUR
+1595581,dmitriy-kotov,no-team,168,Right,130000 EUR
+,nikita-molochnikov,,,,
+1157323,oleg-oznobikhin,fc-ufa,175,Right,105000 EUR
+1082868,roman-simonov,no-team,173,Right,105000 EUR
+,nikita-sergeev,,,,
+848391,rustam-khalnazarov,arsenal-tula,175,Both,140000 EUR
+939488,ruslan-apekov,akron-togliatti,172,Right,360000 EUR
+,ilya-vorotnikov,,,,
+939485,shamil-mavlyanov,khimik-avgust-vurnari,180,Right,120000 EUR
+,maksim-azarenko,,,,
+,ruslan-rzaev,,,,
+983552,islam-bek-gubzhokov,,,,
+,ruslan-arzumanov,,,,
+928418,german-onugkha,vejle,190,Right,580000 EUR
+1047710,aleksandr-butenko,mashuk-kmv-pyatigorsk,176,Right,205000 EUR
+1086202,leon-sabua,urartu,182,Right,265000 EUR
+,maksim-kutovoy,,,,
+989679,ruslan-pidlisnyak,no-team,182,Right,24000 EUR
+1129989,mikhail-bersnev,no-team,179,Right,120000 EUR
+956846,sergey-aydarov,rodina-moscow,192,Right,170000 EUR
+989356,daniil-frolkin,,,,
+,nikita-beletskiy,,,,
+997526,denis-popov,no-team,187,Right,27000 EUR
+825877,aleksandr-zakharov,no-team,186,Right,26000 EUR
+1047453,vadim-lazarev,dinamo-kirov,188,Left,135000 EUR
+989617,vyacheslav-larchenkov,no-team,178,, 
+,konstantin-baidak,,,,
+989594,evgeniy-livadnov,fc-biolog-novokubansk-progress,185,Both,46000 EUR
+1047580,dmitriy-tananeev,rodina-2-moscow,192,Right,270000 EUR
+,ilya-nelin,,,,
+1215198,dmitriy-meshkov,,,,
+814892,dmitriy-skopintsev,,,,
+,maksim-sukhomlinov,,,,
+,roman-petrov,,,,
+956845,mikhail-osinov,zenit-penza,181,Right,140000 EUR
+,aleksey-neskoromnyi,,,,
+,pavel-zenzura,,,,
+,dmitriy-weber,,,,
+800851,sergey-zabrodin,no-team,169,Left,46000 EUR
+1048339,ruslan-fishchenko,rodina-moscow,180,Right,485000 EUR
+,sergey-lukyanov,,,,
+1154050,norik-mkrtchyan,no-team,180,Right,26000 EUR
+989604,evgeniy-cherkes,,,,
+933863,andrey-napolov,no-team,179,Right, 
+,ivan-danilov,,,,
+1019988,aleksandr-gulevskiy,no-team,176,Right, 
+,nikita-kolotievskiy,,,,
+849730,maksim-skrynnik,no-team,180,Right,54000 EUR
+,denis-karnuta,,,,
+,nikita-kryukov,,,,
+,gocha-gogrichiani,,,,
+800920,dmitriy-solovjev,,,,
+,roman-petrov,,,,
+,igor-volkov,,,,
+,dzhambulat-dulaev,,,,
+989607,vladislav-morozov,sokol-saratov,181,,265000 EUR
+857045,anton-shitov,veles-moscow,190,Left,110000 EUR
+949277,artem-poplevchenkov,dinamo-stavropol,197,Right,26000 EUR
+799942,danila-ermakov,volga-ulyanovsk,186,Right,110000 EUR
+,aleksandr-alekseev,,,,
+,daniil-yarusov,,,,
+924061,daniil-markov,no-team,189,Right,23000 EUR
+800826,artem-mamin,ural-yekaterinburg,187,Right,485000 EUR
+318957,aleksandr-likhachev,fc-tekstilshchik-ivanovo,183,Left,205000 EUR
+,leonid-mironov,,,,
+,daniil-petrunin,,,,
+,maksim-aktisov,,,,
+,nikita-morgunov,,,,
+,albert-gilmanshin,,,,
+910116,audrey-zepatta,,,,
+,nikolay-tolstopyatov,,,,
+,artem-voropaev,,,,
+,maksim-sazonov,,,,
+,turgay-mokhbaliev,,,,
+825893,artem-gorbulin,kyzyltash-yalta,170,Right,52000 EUR
+1023533,vladislav-vasiljev,no-team,183,Both,69000 EUR
+,fanil-sungatulin,,,,
+1035141,dmitriy-mitroga,,,,
+919378,ruslan-litvinov,spartak-moscow,183,Right,4700000 EUR
+912942,maksim-kalachevskiy,,,,
+910114,dmitriy-markitesov,,,,
+988211,maksim-danilin,rodina-2-moscow,165,Left,73000 EUR
+572506,sergey-eremenko,,,,
+,nikita-bakalyuk,,,,
+,kirill-folmer,,,,
+963119,aslan-mutaliev,amkar-perm,175,Right,190000 EUR
+857050,mikhail-ignatov,,,,
+,ivan-repyakh,,,,
+887068,petr-volodkin,forte-taganrog,172,Left,210000 EUR
+,aleksandr-rudenko,,,,
+910115,ilya-mazurov,,,,
+989633,svyatoslav-kozhedub,chayka-peschanokopskoye,173,Left,110000 EUR
+901109,soltmurad-bakaev,rodina-moscow,175,Right,370000 EUR
+,stepan-oganesyan,,,,
+983999,stepan-melnikov,alania-vladikavkaz,180,Left,185000 EUR
+921347,maksim-glushenkov,lokomotiv-moscow,180,Left,7400000 EUR
+910110,danila-proshlyakov,2drots-moskau,187,Right,135000 EUR
+857055,daniil-lopatin,dynamo-bryansk,180,Right,105000 EUR
+947931,thierno-thioub,no-team,194,Right,26000 EUR
+1147547,nikita-sudarikov,no-team,178,Right, 
+791955,timur-akmurzin,veles-moscow,189,Right,170000 EUR
+978651,egor-tushev,,,,
+986124,david-volk,dinamo-makhachkala,190,Right,580000 EUR
+,eduard-rakhmatullin,,,,
+,tagir-khismatullin,,,,
+800820,anton-chernov,no-team,193,Right,80000 EUR
+1008661,nikita-yanovich,rubin-kazan,186,Right,155000 EUR
+978648,ilya-agapov,,,,
+978198,vladislav-mikushin,leningradets,187,Right,265000 EUR
+,pavel-korkin,,,,
+989637,ruslan-gavrilov,,,,
+1128406,grigori-ziganshin,no-team,184,Right,105000 EUR
+1091613,viktor-aleksandrov,,,,
+,igor-kalinin,,,,
+857049,danil-stepanov,fc-khimki,172,Left,875000 EUR
+921349,dmitriy-gubanov,,,,
+,danila-karyagin,,,,
+965333,rail-abdullin,no-team,173,Right,49000 EUR
+989667,aleksandr-smelov,,,,
+,stepan-ostanin,,,,
+,amir-nurullin,,,,
+989698,roman-baluev,,,,
+989659,vyacheslav-fomin,,,,
+,igor-nikolov,,,,
+953488,adil-mukhametzyanov,nefis-kazan,170,Right, 
+986125,georgiy-bazaev,,,,
+,anton-adarichev,,,,
+989669,stepan-surikov,,,,
+989484,maksim-sedov,,,,
+989658,nikita-makarov,,,,
+1390009,danil-kamantsev,khimik-avgust-vurnari,,, 
+,daniil-rybakov,,,,
+1126729,yuriy-zheleznov,,,,
+1429690,denis-fedorochev,fc-ilpar-ilyinsky,168,, 
+962821,mikhail-yakovlev,,,,
+832175,reza-shekari,sepahan-sc,187,Right,620000 EUR
+,ilya-gilyazutdinov,,,,
+,aydar-karimov,,,,
+960032,artur-sagitov,,,,
+,aleksandr-tsiberkin,,,,
+966502,nikita-saprunov,fc-strela-voronezh,182,Right,135000 EUR
+,nikita-tsygankov,,,,
+989660,anton-sholokh,,,,
+,artur-rashitov,,,,
+,artur-maksimchuk,,,,
+280663,igor-leshchuk,dynamo-moscow,186,Left,730000 EUR
+800720,ivan-zirikov,broke-boys,189,Right, 
+857056,david-sangare,akron-togliatti,187,Right,185000 EUR
+,egor-sedov,,,,
+1018252,petr-kudakovskiy,numancia,193,Right,45000 EUR
+1063229,vladislav-yarukov,,,,
+,roman-evgenjev,,,,
+1047617,ilya-kalachev,fc-isloch-minsk-region,186,Right,420000 EUR
+989593,bogdan-zorin,,,,
+989612,kirill-glushchenkov,,,,
+989609,dmitriy-vladimirov,no-team,182,Left,190000 EUR
+,ivan-yurchenko,,,,
+965913,svyatoslav-tses,,,,
+919400,daniil-fedorov,no-team,176,Left,110000 EUR
+,ilya-panin,,,,
+,vladislav-kozlov,,,,
+,maksim-nenakhov,,,,
+989592,sergey-slepov,,,,
+,robinson-zvonkov,,,,
+857047,vladimir-moskvichev,torpedo-moscow,177,Right,485000 EUR
+,roman-denisov,,,,
+989623,yuriy-nesov,,,,
+1156872,vladislav-lepekhin,no-team,176,Right,105000 EUR
+989619,igor-shkolik,,,,
+989699,artem-gorbunov,kompositum-pavlovsky-posad,180,Right,24000 EUR
+,boburshokh-khasanov,,,,
+943153,danil-lipovoy,neftekhimik-nizhnekamsk,177,Left,310000 EUR
+1019723,viktor-demjanov,irtysh-omsk,172,Right,160000 EUR
+,aleksey-usanov,,,,
+825886,stanislav-latsevich,no-team,163,Right,26000 EUR
+989616,vladislav-galkin,,,,
+825888,vyacheslav-grulev,dynamo-moscow,188,Right,1900000 EUR
+,andrey-mazurin,,,,
+989602,valentin-zekhov,,,,
+800808,anton-terekhov,chayka-peschanokopskoye,182,Right,180000 EUR
+989600,ilya-gomanyuk,,,,
+,stanislav-krokhin,,,,
+,mikhail-ageev,,,,
+,maksim-danilin,,,,
+,timur-melekestsev,,,,
+988804,roman-pukhov,no-team,180,Right,78000 EUR
+,konstantin-tyukavin,,,,
+223608,ilya-pomazun,ural-yekaterinburg,187,Right,2600000 EUR
+800948,georgiy-kyrnats,,,,
+957529,nikolay-zirikov,neftekhimik-nizhnekamsk,184,Right,73000 EUR
+957530,maksim-edapin,no-team,202,Right,52000 EUR
+957528,nikolay-radchenko,no-team,180,Right, 
+,nikita-chernov,,,,
+907682,ivan-zakharov,no-team,183,Right,155000 EUR
+957534,danil-savinykh,leon-saturn-ramenskoe,177,Right,69000 EUR
+,vadim-karpov,,,,
+,konstantin-erokhin,,,,
+957536,evgeniy-ignatovich,,,,
+904400,nair-tiknizyan,lokomotiv-moscow,180,Left,6400000 EUR
+,ivan-maklakov,,,,
+919400,daniil-fedorov,no-team,176,Left,110000 EUR
+957538,vadim-konyukhov,akron-togliatti,177,Left,190000 EUR
+,semen-matviychuk,,,,
+960348,maksim-eleev,metallurg-m-lipetsk,175,Right,220000 EUR
+923985,aleksandr-silyanov,lokomotiv-moscow,185,Right,4400000 EUR
+957537,nikita-abramushkin,khimik-dzerzhinsk,184,Right,155000 EUR
+856582,khetag-khosonov,fc-khimki,184,Right,775000 EUR
+957547,konstantin-maradishvili,lokomotiv-moscow,180,Right,1100000 EUR
+957543,tigran-avanesyan,baltika-kaliningrad,175,Right,205000 EUR
+,andrey-savinov,,,,
+,robert-lamanov,,,,
+788202,astemir-gordyushenko,rodina-moscow,176,Right,530000 EUR
+,anatoliy-anisimov,,,,
+,kirill-shekhov,,,,
+,grigoriy-lobanov,,,,
+957544,anton-krachkovskiy,kairat-almaty,165,Right,310000 EUR
+,aleksey-pilipenko,,,,
+,timur-pukhov,,,,
+1112684,danila-yanov,fc-murom,172,Right,170000 EUR
+957541,khasan-tashaev,no-team,175,Right, 
+,vitaliy-zhironkin,,,,
+,ivan-oleynikov,,,,
+1156980,nikolay-maksimov,no-team,187,,49000 EUR
+,sergey-pryakhin,,,,
+605454,timur-zhamaletdinov,volgar-astrakhan,181,Right,270000 EUR
+,lassana-ndiaye,,,,
+,egor-shapovalov,,,,
+,artem-popov,,,,
+873451,oskars-rubenis,fk-auda,175,Right,77000 EUR
+957590,ilya-vostrikov,no-team,173,Right,135000 EUR
+,dmitriy-merenchukov,,,,
+962260,andrey-savin,fc-tyumen,194,Right,130000 EUR
+919372,vitaliy-botnar,,,,
+546588,mikhail-mzhelskiy,no-team,201,Right,52000 EUR
+974362,vitaliy-sychev,,,,
+895885,timur-kraykov,sokol-saratov,186,Right,73000 EUR
+1215658,daniil-kuznetsov,dinamo-m-bryansk,,, 
+845277,ivan-lapshov,irtysh-omsk,188,Right,165000 EUR
+1145871,artem-gyurdzhan,kamaz-naberezhnye-chelny,190,Right,160000 EUR
+851492,stanislav-magkeev,lokomotiv-moscow,186,Right,2100000 EUR
+,innokentiy-samokhvalov,,,,
+954057,artur-chernyi,zenit-2-st-petersburg,184,Right,230000 EUR
+1109915,nikita-shishchenko,sakhalinets-moscow,187,Right,46000 EUR
+,dmitriy-koltyapin,,,,
+1415363,maks-dziov,fc-west-armenia,188,Right,140000 EUR
+,roman-kvatania,,,,
+,albert-gilmanshin,,,,
+,pavel-khodeev,,,,
+,evgeniy-morozov,,,,
+800802,mikhail-lysov,no-team,182,Left, 
+,nikolay-poyarkov,,,,
+954074,german-osnov,rodina-2-moscow,185,Left,160000 EUR
+1396306,leonid-furtsev,fc-lokomotiv-liski,177,Left, 
+,ilya-golosov,,,,
+976244,dmitriy-sukharev,,,,
+919374,nikita-sharkov,volga-ulyanovsk,177,Right,23000 EUR
+,stanislav-utkin,,,,
+1215674,nikita-zheltikov,salyut-m-belgorod,,, 
+,vadim-loginov,,,,
+1144306,kamil-salakhetdinov,no-team,184,Right,54000 EUR
+1127635,artem-sukhanov,arsenal-tula,177,Right,195000 EUR
+,daniil-kulikov,,,,
+1001872,ilya-petukhov,,,,
+1479331,timur-lobanov,fc-sokol-kazan,170,Right,82000 EUR
+800775,georgiy-makhatadze,,,,
+952410,aleksey-mironov,fc-rostov,175,Right,1100000 EUR
+,maksim-petrov,,,,
+800776,nikita-dorofeev,metallurg-lipetsk,180,Right,97000 EUR
+976243,nikolay-titkov,orenburg,177,Right,310000 EUR
+,daniil-chernyakov,,,,
+1525484,sergey-belyi,fc-troitsk,,, 
+,daniil-zaretskiy,,,,
+800844,dmitriy-rybchinskiy,,,,
+,ivan-sharov,,,,
+,vladislav-ignatenko,,,,
+1047454,nikita-glushkov,dinamo-makhachkala,175,Right,410000 EUR
+954075,kirill-shchetinin,fc-rostov,178,Right,2100000 EUR
+1388686,mikhail-maltsev,sokol-saratov,181,Left,310000 EUR
+1128415,mikhail-kazimir,kamaz-naberezhnye-chelny,177,,92000 EUR
+,aleksey-lomakin,,,,
+1046461,nikita-iosifov,,,,
+954062,dzambolat-tsallagov,ska-khabarovsk,181,Right,105000 EUR
+857061,vladislav-karapuzov,pari-nizhny-novgorod,175,Right,740000 EUR
+976245,denis-faizullin,arsenal-tula,174,Right,145000 EUR
+954073,ruslan-kul,kamaz-naberezhnye-chelny,186,Right,340000 EUR
+988297,aleksandr-dolgov,fakel-voronezh,184,Right,515000 EUR
+,timur-suleymanov,,,,
+,mikhail-ageev,,,,
+,islam-vagabov,,,,
+,zagir-gereykhanov,,,,
+1188546,gevork-sarkisyan,veles-moscow,179,Right,225000 EUR
+976249,maksim-turishchev,rodina-moscow,183,Right,385000 EUR
+,nikita-frasinyuk,,,,
+954070,kirill-klimov,ska-khabarovsk,191,Left,91000 EUR
+978175,bogdan-ovsyannikov,krylya-sovetov-samara,188,Right,630000 EUR
+,nikita-pischulin,,,,
+1415444,egor-lyubakov,fc-tyumen,196,Right, 
+989685,danil-beltyukov,no-team,192,Right,93000 EUR
+,agustin-rogel,,,,
+797223,maksim-karpov,zvezda-st-petersburg,186,Right,180000 EUR
+963108,nikita-kotin,shinnik-yaroslavl,188,Right,295000 EUR
+1085801,aleksandr-nesterov,chayka-peschanokopskoye,190,Right,105000 EUR
+989687,nikita-trubin,krylya-sovetov-youth,191,, 
+989696,artem-sapov,no-team,190,Right,55000 EUR
+,daniil-matveev,,,,
+1047445,nikita-verkhunov,khimik-avgust-vurnari,190,Right,93000 EUR
+,nikita-stroev,,,,
+989697,ilya-kotkin,krylya-sovetov-youth,192,, 
+,georgiy-tigiev,,,,
+,pablo-davydov,,,,
+862928,gennadiy-kiselev,spartak-kostroma,175,Left,185000 EUR
+,vsevolod-gruzdev,,,,
+,vladislav-shchetinin,,,,
+,maksim-mukhin,,,,
+,evgeniy-priymak,,,,
+,aleksey-karasev,,,,
+987380,danila-smirnov,volgar-astrakhan,176,Right,260000 EUR
+989688,konstantin-shamaev,khimik-avgust-vurnari,174,, 
+989699,artem-gorbunov,kompositum-pavlovsky-posad,180,Right,24000 EUR
+,viktor-gryazin,,,,
+845398,mikhail-tikhonov,no-team,176,Right,110000 EUR
+,aleksandr-bogomolov,,,,
+,ilya-volnov,,,,
+,denis-kravchenko,,,,
+989700,bakhadur-sokolov,khimik-avgust-vurnari,174,Right,130000 EUR
+989691,egor-novikov,no-team,179,Right,54000 EUR
+280657,ramil-sheydayev,,,,
+1048580,ilya-buryukin,salyut-belgorod,170,Right,52000 EUR
+,aleksandr-bosov,,,,
+,bogdan-chinarev,,,,
+881019,vanja-vucicevic,fk-trinec,188,Left,27000 EUR
+858859,egor-golenkov,fc-rostov,189,Right,1000000 EUR
+,nikita-kireev,,,,
+,vladimir-tyavin,,,,
+,maksim-pogodin,,,,
+989703,pavel-zuev,krylya-sovetov-youth,191,, 
+1156987,nikita-salikov,no-team,193,,9000 EUR
+798523,vladimir-sugrobov,ska-khabarovsk,186,Right,415000 EUR
+,maksim-bogatyrev,,,,
+903687,nikita-repin,kyzyltash-yalta,192,Right,105000 EUR
+1390062,timur-magomedov,dinamo-makhachkala,194,Right,82000 EUR
+,aleksandr-shipakhin,,,,
+,pavel-kaloshin,,,,
+800488,anton-belov,fc-zorky-krasnogorsk,191,Right,170000 EUR
+,magomed-elmurzaev,,,,
+985371,mukhtar-khanmurzaev,no-team,190,Right,27000 EUR
+,alikadi-saidov,,,,
+,dmitriy-rashchektaev,,,,
+,yusup-vagabov,,,,
+1442061,rustam-machilov,mashuk-kmv-pyatigorsk,187,Right,210000 EUR
+1144299,aliaskhab-dubukhov,fc-nart-cherkessk,179,Both,73000 EUR
+,amir-mokhammad,,,,
+941252,nikita-chistyakov,,,,
+1441886,umar-magomedbekov,druzhba-maikop,183,Left,135000 EUR
+956844,magomednabi-yagyaev,,,,
+,sergey-mikhailov,,,,
+,shamil-abdurazakov,,,,
+,said-shikhaliev,,,,
+928168,danil-glebov,,,,
+,zikrula-magomedov,,,,
+985372,valentin-andyamov,krasnoe-znamya-noginsk,177,Left,94000 EUR
+,ramazan-kerimov,,,,
+1596790,shikhamir-isaev,fc-nart-cherkessk,,, 
+,radzhab-gusengadzhiev,,,,
+1442232,magomednur-isaev,fc-legion-makhachkala,185,Right, 
+,ismail-ibragimov,,,,
+875563,kamil-zakirov,,,,
+,abdulakh-khaybulaev,,,,
+1127504,sergey-babkin,krylya-sovetov-samara,176,Right,1100000 EUR
+,nikita-adamov,,,,
+799059,ivan-ivanchenko,no-team,185,Right,120000 EUR
+798401,nikita-andreev,no-team,177,Right,27000 EUR
+1129941,mutaalim-magomedov,mashuk-kmv-pyatigorsk,174,Left,160000 EUR
+,razhab-magomedov,,,,
+,anar-panaev,,,,
+,salautdin-batyrbekov,,,,
+,islam-khalimbekov,,,,
+,erik-zaerko,,,,
+911258,magomed-magomedov,mashuk-kmv-pyatigorsk,170,Right,155000 EUR
+,sultan-isalov,,,,
+,artem-sukhanov,,,,
+1049706,camal-cafarov,sabah-fk,178,Right,53000 EUR
+785973,andres-ponce,akron-togliatti,182,Both,620000 EUR
+943341,gamid-agalarov,akhmat-grozny,180,Left,1400000 EUR
+796560,dzhamal-dibirgadzhiev,volga-ulyanovsk,192,Right,140000 EUR
+1110896,muslim-shikhbabaev,forte-taganrog,180,Left,170000 EUR
+800492,said-aliev,ska-khabarovsk,180,Right,415000 EUR
+,arsanbeg-murtazaliev,,,,
+,tamerlan-musaev,,,,
+1442235,dzhamalutdin-dzhabrailov,fc-legion-makhachkala,177,Both, 
+,abu-said-eldarushev,,,,
+,oleg-baklov,,,,
+928262,vladislav-poletaev,irtysh-omsk,188,Right,205000 EUR
+1124777,vladimir-kutyrev,fc-strela-voronezh,,, 
+840748,aleksey-mamin,ural-yekaterinburg,188,Right,465000 EUR
+,aleksandr-medvedev,,,,
+280647,dzhamaldin-khodzhaniyazov,akron-togliatti,185,Left,360000 EUR
+798106,dominik-dinga,no-team,187,Right,260000 EUR
+,maksim-gorin,,,,
+825889,kirill-lukyanchikov,fc-orel,191,Right,52000 EUR
+1126727,ilya-nekrasov,dinamo-kirov,187,Right,135000 EUR
+1126726,gleb-geykin,zenit-penza,183,Right,120000 EUR
+,egor-badin,,,,
+,aleksey-fakhrutdinov,,,,
+,ivan-vereshchagin,,,,
+,denis-drozhalkin,,,,
+,nikita-beskrovnyi,,,,
+1150644,ivan-lyubukhin,ural-2-ekaterinburg,195,,78000 EUR
+,pavel-nevidomyi,,,,
+,aleksandr-dantsev,,,,
+,chingiz-magomadov,,,,
+842947,mingiyan-beveev,ural-yekaterinburg,182,Right,825000 EUR
+,sergey-krotov,,,,
+,pavel-kirillov,,,,
+1118000,denis-novikov,,,,
+,andrey-tushkov,,,,
+1126728,lev-tolkachev,ural-2-ekaterinburg,175,Right,190000 EUR
+,danil-davletshin,,,,
+1430295,aleksey-bulka,uralets-ts-nizhniy-tagil,,, 
+,aleksandr-volchkov,,,,
+,danila-kushtin,,,,
+1519266,maksim-prokopjev,no-team,180,Right, 
+,yan-chizhkov,,,,
+1001440,dmitriy-makovskiy,,,,
+,konstantin-sysoev,,,,
+,danil-khoroshev,,,,
+988414,aleksandr-galimov,dinamo-kirov,175,Left,52000 EUR
+,vasiliy-koryukov,,,,
+,igor-voronin,,,,
+800937,artem-yusupov,irtysh-omsk,190,Right,190000 EUR
+,evgeniy-tatarinov,,,,
+,nikolay-sidorkin,,,,
+,sergey-itkin,,,,
+,sergey-arkhipovskiy,,,,
+957530,maksim-edapin,no-team,202,Right,52000 EUR
+886643,ruslan-yunusov,sakhalin-yuzhno-sakhalinsk,190,Right,120000 EUR
+,roman-smirnov,,,,
+1069000,andrey-shirokov,no-team,187,Right,77000 EUR
+,maksim-tarasov,,,,
+,ivan-shalonikov,,,,
+978282,gleb-zakharov,rodina-2-moscow,190,Right,155000 EUR
+989444,valeriy-ganus,no-team,196,Right,105000 EUR
+,nikita-shestakov,,,,
+,kirill-vojts,,,,
+989443,rostislav-vorobjev,no-team,175,Right,97000 EUR
+1023529,matvey-uzhgin,enisey-krasnoyarsk,175,Left,195000 EUR
+,aleksandr-egorov,,,,
+,aleksey-valyukov,,,,
+1050435,aleksey-tretyakov,no-team,177,Right,72000 EUR
+1018670,vladislav-kozhemyakin,fc-rostov,178,Left, 
+,timur-sakharov,,,,
+992679,nikita-razdorskikh,enisey-krasnoyarsk,177,Right,415000 EUR
+1047393,denis-samoilov,fc-tyumen,182,Right,310000 EUR
+1144700,timur-farrakhov,no-team,180,Right,48000 EUR
+928419,yaroslav-matvienko,torpedo-miass,172,Right,96000 EUR
+,evgeniy-morev,,,,
+1405098,yuriy-marin,dinamo-m-bryansk,175,, 
+988750,denis-shnitov,no-team,176,Right, 
+,evgeniy-pesikov,,,,
+1415479,danila-polshikov,enisey-krasnoyarsk,168,Left, 
+861135,aleksandr-sobolev,spartak-moscow,195,Right,8199999 EUR
+1494199,vladislav-lutashev,,,,
+950058,nikita-kozlov,no-team,175,Right,27000 EUR
+,igor-abramov,,,,
+,aleksandr-tsogoev,,,,
+791955,timur-akmurzin,veles-moscow,189,Right,170000 EUR
+,aleksey-chernov,,,,
+989653,rem-saitgareev,no-team,195,Right,23000 EUR
+1046014,igor-maltsev,,,,
+,ayrat-safin,,,,
+800867,ruslan-khaziev,no-team,181,Right,54000 EUR
+,vyacheslav-demin,,,,
+,artem-egorov,,,,
+,lev-safronov,,,,
+,nikita-gurkov,,,,
+1398734,ilya-shudrov,fc-rosich,,, 
+,nikita-nedorezkov,,,,
+,aleksey-eliseev,,,,
+,ivan-mikhailov,,,,
+989656,mikhail-kolesnikov,fc-ufa-youth,188,Right,47000 EUR
+,danil-krugovoy,,,,
+871602,viktor-patrashko,no-team,185,Left, 
+,daniel-gumerov,,,,
+989639,ilya-vydrin,metallurg-asha,170,, 
+989638,nikita-popov,fc-ufa-youth,171,, 
+,dinar-akhmetov,,,,
+,mark-krivorog,,,,
+,eduard-gavrilov,,,,
+,valentin-videneev,,,,
+,nikita-belousov,,,,
+307256,igor-bezdenezhnykh,pfc-kuban,175,Right,195000 EUR
+,danila-emeljanov,,,,
+,arseni-zdorovets,,,,
+,evgeniy-bazhanov,,,,
+989645,nikita-mashko,fc-legion-makhachkala,182,Right, 
+,mikhail-izvekov,,,,
+989646,ilya-beganski,,,,
+,marsel-enikeev,,,,
+,konstantin-kovalchuk,,,,
+,denis-reshetnikov,,,,
+990081,andrey-vlasov,no-team,169,Left, 
+989644,andrey-podgornov,fc-ufa-youth,182,, 
+,linar-mukhametshin,,,,
+989657,arseniy-zhugin,fc-ufa-youth,171,, 
+,daud-garifullin,,,,
+887374,erkebulan-seydakhmet,taraz,,, 
+,timur-kutlusurin,,,,
+989650,artem-konovalov,fc-ufa-youth,180,, 
+800935,vyacheslav-zhuravlev,uralets-ts-nizhniy-tagil,180,Right,130000 EUR
+,igor-andreev,,,,
+,daniil-zaplakhov,,,,
+989661,denis-timofeev,fc-ufa-youth,181,, 
+989648,nikita-komendantov,,,,
+850914,nikita-goylo,fc-sochi,188,Right,485000 EUR
+962551,nikolay-rybikov,volgar-astrakhan,193,Right,55000 EUR
+980442,nodari-kalichava,samgurali-tskhaltubo-ii,191,Right,81000 EUR
+,mikhail-ponomarenko,,,,
+1550522,maksim-timofeev,fc-ryazan,184,Right, 
+951446,kirill-aloyan,fc-ryazan,186,Right,45000 EUR
+1008380,vladislav-molchan,caen-ii,188,,110000 EUR
+930386,aleksey-plotnikov,,,,
+,danila-prokhin,,,,
+1101751,saba-sazonov,torino,194,Right,3100000 EUR
+,danila-khotulev,,,,
+850330,vasiliy-zapryagaev,,,,
+1216388,nikita-olishevskiy,no-team,181,Left,52000 EUR
+,aleksey-ivanov,,,,
+1188540,aleksandr-korotkov,arsenal-tula,185,Right, 
+942821,samir-bayramov,zenit-2-st-petersburg,172,Right, 
+996969,ilya-vakhania,,,,
+942822,maksim-smirnov,no-team,170,Right,70000 EUR
+875283,nikita-kakkoev,pari-nizhny-novgorod,185,Right,1000000 EUR
+980595,vladislavs-soloveiciks,slavia-karlovy-vary,181,Right,68000 EUR
+879509,andrey-anisimov,volgar-astrakhan,182,Both,195000 EUR
+996965,vadim-simutenkov,,,,
+1001955,kirill-kravtsov,fc-sochi,187,Right,1200000 EUR
+983551,igor-vorobjev,,,,
+941731,ruslan-kazakov,leningradets,,, 
+941730,dmitriy-sergeev,kairat-almaty,183,Right,265000 EUR
+1001703,nikita-koldunov,,,,
+996983,daniil-knyazev,,,,
+980179,ivan-andreev,no-team,174,Right,165000 EUR
+1393139,nikita-miroshnichenko,ska-khabarovsk,178,Right,185000 EUR
+,yuriy-pershin,,,,
+963114,daniil-shamkin,torpedo-moscow,186,Right,335000 EUR
+849729,maksim-levin,leningradets,177,Right,195000 EUR
+,aleksey-smirnov,,,,
+,nikita-simdyankin,,,,
+,artem-dyakonov,,,,
+996981,roman-nogtev,,,,
+1415480,ilya-gritsak,no-team,174,Right,165000 EUR
+941733,maksim-bachinskiy,leningradets,182,Right,230000 EUR
+1394328,beka-dzhanelidze,mfk-dubnica,,, 
+887096,aleksandr-nekrasov,no-team,180,Right,24000 EUR
+1027671,ilya-grishchenko,fc-sevastopol,179,Right,185000 EUR
+1147547,nikita-sudarikov,no-team,178,Right, 
+,vasiliy-yatskov,,,,
+,aleksey-kenyaykin,,,,
+1136004,dmitriy-landakov,,,,
+,ilya-uchkin,,,,
+956840,daniil-krivoruchko,no-team,188,Right,115000 EUR
+,danil-khoroshkov,,,,
+,kirill-artemjev,,,,
+1390401,timur-nikolaev,,,,
+,roman-lobov,,,,
+,tamaz-makhatadze,,,,
+956847,valentin-prilepin,no-team,171,Both, 
+,egor-egorov,,,,
+,sergey-kovalev,,,,
+,sergey-pikalov,,,,
+,lev-belousov,,,,
+,nikita-bodnaryuk,,,,
+,daniyar-duysengazin,,,,
+,yuriy-popov,,,,
+956843,evgeniy-bolotov,,,,
+,aleksandr-belousov,,,,
+,artem-privalov,,,,
+1430361,ilya-anokhin,zorkiy-2-krasnogorsk,171,, 
+1591148,vladislav-kalinin,khimik-avgust-vurnari,,, 
+978009,david-bidlovskiy,,,,
+,vildan-amerkhanov,,,,
+1084254,aleksandr-loparev,orenburg-2,180,,73000 EUR
+,denis-fedenko,,,,
+,anton-antonenko,,,,
+,andrey-kireev,,,,
+,vladimir-badyukevich,,,,
+910350,artem-apalkin,dinamo-barnaul,,, 
+,artem-galadzhan,,,,
+,artur-shabikeev,,,,
+,aleksandr-matveychuk,,,,
+1382680,ivan-zinaliev,fc-fshm-moscow,,, 
+960303,denis-streltsov,cska-moscow-u19,,, 
+,egor-karev,,,,
+,mikhail-kukushkin,,,,
+1188548,aleksandr-mironov,no-team,187,Right,24000 EUR
+,denis-mukhin,,,,
+1128397,daniil-barinov,spartak-kostroma,191,Right,120000 EUR
+1382754,vitaliy-ushakov,fc-rim,,, 
+1388687,nikita-melnikov,slavia-mozyr,195,Right,290000 EUR
+,ilya-klementjev,,,,
+,aleksandr-krikunenko,,,,
+,aleksey-rodinkov,,,,
+1507831,konstantin-markin,fc-mashinostroitel-tula,,, 
+,timofey-prokopenko,,,,
+956766,daniil-khlusevich,,,,
+,ilya-ivanov,,,,
+,ilya-bykovskiy,,,,
+1398039,arseniy-levshuk,fc-amkal-moskau,179,Left, 
+825985,artem-sokol,rodina-moscow,180,Right,380000 EUR
+,artem-mingazov,,,,
+,aleksandr-osipov,,,,
+1479331,timur-lobanov,fc-sokol-kazan,170,Right,82000 EUR
+,yuriy-evdokimov,,,,
+1175839,georgiy-sulakvelidze,,,,
+1466508,aleksandr-grebenshchikov,arsenal-2-tula,182,Right,91000 EUR
+,artur-nikolaev,,,,
+,yuriy-petrovskiy,,,,
+1387836,igor-veprikov,fc-aerozol-novomoskovsk,,, 
+1144700,timur-farrakhov,no-team,180,Right,48000 EUR
+989689,vladislav-tyurin,fc-novosibirsk,175,Left,180000 EUR
+,vladimir-laptev,,,,
+,denis-patsev,,,,
+910109,kirill-orekhov,,,,
+,egor-prilepskiy,,,,
+,luchano-bobrov,,,,
+,sergey-iljin,,,,
+,dzhamshed-maksumov,,,,
+1188528,nikita-eremenko,no-team,171,Both,79000 EUR
+,artem-maksimenko,,,,
+,yaroslav-ivakin,,,,
+,stanislav-krokhin,,,,
+954073,ruslan-kul,kamaz-naberezhnye-chelny,186,Right,340000 EUR
+798126,guram-adzhoev,no-team,185,Right,97000 EUR
+,nikita-prikhodnoy,,,,
+1128795,daniil-pavlov,arsenal-2-tula,176,Right,110000 EUR
+927882,aleksandr-sheplyakov,no-team,200,Right,77000 EUR
+1147148,akhmed-bunkhoev,kf-oriku,,, 
+,rasul-umaev,,,,
+,ramzan-mutuskhanov,,,,
+891596,imran-alsultanov,no-team,183,Right, 
+,nikita-karmaev,,,,
+1215526,georgiy-chetvergov,zorkiy-2-krasnogorsk,191,Right,68000 EUR
+,abdul-malik-dzhakuev,,,,
+1128663,mursalin-denilkhanov,veles-moscow,171,Left,97000 EUR
+800896,kerim-magamaev,,,,
+,adam-osmaev,,,,
+,chingiz-magomadov,,,,
+,arsen-adamov,,,,
+,israpil-asadov,,,,
+,ayub-batsuev,,,,
+,adam-abdurakhmanov,,,,
+1018758,magomed-eli-khakiev,no-team,179,, 
+1474831,minkail-matsuev,,,,
+,ilya-moseychuk,,,,
+,lechi-sadulaev,,,,
+,askhab-chunchurov,,,,
+,said-akhmed-tsatiev,,,,
+996967,vladimir-khubulov,,,,
+,adam-katsaev,,,,
+,idris-umaev,,,,
+1050788,timur-osmolovskiy,no-team,189,Right, 
+,taymaz-khizriev,,,,
+1085365,islam-alsultanov,,,,
+,abubakar-kadyrov,,,,
+960479,yannic-lenze,vfb-03-hilden,185,Left,0 EUR
+,lukas-lingk,,,,
+1066726,erdem-canpolat,pendikspor,194,Right,600000 EUR
+989853,gorkem-can,no-team,186,Left,52000 EUR
+1050332,nick-munch,holzwickeder-sc,185,Both, 
+1014566,sava-arangel-cestic,heracles-almelo,192,Right,440000 EUR
+1014286,malick-thiaw,milan,194,Right,27000000 EUR
+,jan-eric-hempel,,,,
+1085938,levent-mercan,,,,
+,jonathan-riemer,,,,
+998755,ayoub-asrihi,no-team,176,Left, 
+,jan-bachmann,,,,
+,bradley-cross,,,,
+965860,andriko-smolinski,,,,
+980632,mehmet-aydin,trabzonspor,180,Right,1800000 EUR
+,gino-humpert,,,,
+989788,lukas-ahrend,ssv-ulm-1846,183,Right,160000 EUR
+1066812,jimmy-kaparos,fc-schalke-04-ii,187,Right,120000 EUR
+882309,marius-heck,,,,
+1394325,yannick-debrah,,,,
+,bjarne-seturski,,,,
+1006822,mick-gudra,tsv-steinbach-haiger,180,Left,160000 EUR
+,brian-wolff,,,,
+,umut-yildiz,,,,
+,zyen-jones,,,,
+906049,ahmed-kutucu,eyupspor,181,Right,900000 EUR
+,rene-biskup,,,,
+1100555,joselpho-barnes,sint-truidense-vv,185,Right,260000 EUR
+960012,felix-thienel,borussia-monchengladbach-ii,,, 
+972510,jan-olschowsky,borussia-mgladbach,182,Right,825000 EUR
+943410,fernando-nissen,borussia-monchengladbach-ii,,, 
+1111011,maximilian-brull,borussia-monchengladbach-ii,186,Right,73000 EUR
+927175,jordan-beyer,burnley,187,Right,15300000 EUR
+,mehmet-bayrakli,,,,
+1136227,tom-gaal,ssv-ulm-1846,193,Both,160000 EUR
+,yannick-ebert,,,,
+,louis-hiepen,,,,
+930280,jordi-bongard,no-team,196,Both,27000 EUR
+,michael-wentzel,,,,
+991128,noah-holtschoppen,borussia-monchengladbach-ii,,, 
+876781,berk-cetin,oc-charleroi,185,Left,49000 EUR
+918417,noah-eyawo,,,,
+1063370,sander-christiansen,sarpsborg-08,185,Right,465000 EUR
+929627,kaan-kurt,tsv-1860-munchen,174,Both,185000 EUR
+,luca-esposito,,,,
+,julius-schoner,,,,
+,furkan-cakmak,,,,
+959456,behadil-sabani,tus-koblenz,178,Both,165000 EUR
+1066042,julian-niehues,1-fc-kaiserslautern,195,Right,1600000 EUR
+,cihan-caliskan,,,,
+993134,alper-arslan,borussia-monchengladbach-ii,180,Right, 
+930274,jonas-pfalz,germany-u17,,, 
+1391920,marcello-romano,preussen-munster-ii,176,Right, 
+1023056,famana-quizera,academico-viseu-fc,172,Right,525000 EUR
+,conor-noss,,,,
+1069249,ryan-adigo,,,,
+,kevin-rubaszewski,,,,
+1095515,nils-friebe,borussia-monchengladbach-ii,182,Right, 
+991127,mawerick-dressen,no-team,184,, 
+,mohamed-el-bakali,,,,
+988989,paul-grave,wuppertaler-sv,193,Right,93000 EUR
+991734,joshua-wehking,,,,
+,lucas-goy,,,,
+,julian-jaworek,,,,
+1019319,tjark-ernst,hertha-bsc,193,Right,2400000 EUR
+976025,armel-bella-kotchap,psv-eindhoven,190,Right,17200000 EUR
+987512,maxwell-gyamfi,vfl-osnabruck,185,Right,930000 EUR
+,ibrahim-sori-kaba,,,,
+980443,stelios-kokovas,mfk-karvina,186,Left,26000 EUR
+963974,moritz-romling,vfl-bochum-1848,186,Left,145000 EUR
+,oguzhan-ayhan,,,,
+1182045,julian-franke,,,,
+988984,jan-wellers,1-fc-bocholt,179,Left,77000 EUR
+991865,furkan-sagman,24-erzincanspor,178,Right,115000 EUR
+,lars-holtkamp,,,,
+1104242,michael-martin,sc-paderborn-07,180,,310000 EUR
+,simon-hendel,,,,
+986084,gentrit-limani,kf-llapi,184,Left,140000 EUR
+,xavier-bwangombo,,,,
+,julian-schmidt,,,,
+,okan-yilmaz,,,,
+,phillip-aboagye,,,,
+1387483,florian-puschel,luner-sv,,Right, 
+,julian-hollen,,,,
+,ozkan-terzioglu,,,,
+965327,omer-uzun,rot-weiss-ahlen,185,Left,26000 EUR
+1112606,dzenan-mucic,no-team,193,Right,24000 EUR
+,darius-stawski,,,,
+929652,enes-bilgin,turkey-u17,,, 
+1064084,luis-hartwig,kv-oostende,180,,380000 EUR
+980605,tolga-ozdemir,turkey-u17,,, 
+906277,marian-prinz,,,,
+814859,tom-breuers,,,,
+,gianni-honsel,,,,
+,mathis-schrick,,,,
+,mick-nabrotzki,,,,
+1134930,ali-merhi,,,,
+,til-busemann,,,,
+,alexander-stummer,,,,
+1082633,lukas-frenkert,1-fc-bocholt,190,Right,97000 EUR
+951835,max-michalak,,,,
+1130820,johannes-siregar,,,,
+1195161,nico-holtmann,,,,
+1152342,jano-ter-horst,preussen-munster,,Right,130000 EUR
+,mohammed-el-gourari,,,,
+,tobias-heering,,,,
+,jari-luca-polm,,,,
+1596989,can-pohl,preussen-munster-ii,,, 
+,carl-olbrich,,,,
+1064305,nicolai-remberg,holstein-kiel,187,Right,560000 EUR
+,florian-rausch,,,,
+,bajrush-osmani,,,,
+,kevin-husha,,,,
+,cebrail-demir,,,,
+,finn-wortmann,,,,
+924069,cyrill-akono,,,,
+992494,jonas-schneck,,,,
+,robin-flechsig,,,,
+,louis-elias-martin,,,,
+997113,marcel-lotka,borussia-dortmund-ii,190,Right,1600000 EUR
+1146868,maximilian-ueing,,,,
+,elias-eichhorn,,,,
+1116211,jan-boller,,,,
+986148,marc-lamti,,,,
+,ismail-deveci,,,,
+997114,fabian-ruth,rot-weiss-essen,185,Left,70000 EUR
+,marius-samoura,,,,
+997116,kevin-bukusu,wolfsberger-ac,188,Left,160000 EUR
+,stefano-fragapane,,,,
+,leon-gaedicke,,,,
+990210,ayman-azhil,borussia-dortmund-ii,170,Right,360000 EUR
+966816,adrian-stanilewicz,,,,
+991090,cebrail-makreckis,ferencvaros-tc,180,Right,360000 EUR
+1198237,max-schneider,saint-louis-city-sc-2,191,Right, 
+997117,hans-anapak,1-fc-schweinfurt-05,178,Right,52000 EUR
+997115,marco-wolf,hallescher-fc,179,Left,120000 EUR
+906804,yannick-schaus,,,,
+,omer-tokac,,,,
+966815,herdi-bukusu,,,,
+,kio-yamada,,,,
+,tim-luis-giersiefer,,,,
+1001844,abdul-fesenmeyer,,,,
+1019438,leon-klussmann,ksv-hessen-kassel,187,Right,48000 EUR
+,lucien-hawryluk,,,,
+997000,dominik-schonnenbeck,no-team,188,Both, 
+,luca-unbehaun,,,,
+1001977,albin-thaqi,tus-bovinghausen-04,185,Right,71000 EUR
+998873,niclas-knoop,no-team,185,Right,27000 EUR
+,julius-schell,,,,
+934294,ramzi-ferjani,erzgebirge-aue,191,Right,70000 EUR
+,nico-lubke,,,,
+914754,tobias-missner,,,,
+997004,mert-gockan,wuppertaler-sv,185,Left,105000 EUR
+995667,emir-terzi,menemen-fk,178,Right,95000 EUR
+,marius-von-cysewski,,,,
+997019,felix-schlusselburg,fsv-zwickau,187,Right,69000 EUR
+966567,rilind-hetemi,,,,
+914755,patrick-osterhage,,,,
+904840,tobias-raschl,,,,
+1001978,malte-wengerowski,blau-weiss-lohne,185,Right, 
+,florian-rausch,,,,
+989056,giovanni-reyna,borussia-dortmund,185,Right,21000000 EUR
+989203,immanuel-pherai,hamburger-sv,175,Right,3000000 EUR
+995666,alaa-bakir,msv-duisburg,179,Right,195000 EUR
+995671,reda-khadra,stade-de-reims,175,Right,1900000 EUR
+914756,enrique-pena-zauner,roda-jc-kerkrade,177,Both,260000 EUR
+,tashreeq-matthews,,,,
+904842,yassin-ibrahim,,,,
+,samuel-ors,,,,
+877839,robin-kehr,no-team,189,Left, 
+,paul-philipp-besong,,,,
+912945,emre-aydinel,,,,
+987469,vincent-muller,msv-duisburg,190,Right,470000 EUR
+963499,julian-roloff,1-fc-koln,192,Right, 
+1120621,daniel-adamczyk,vfl-osnabruck,188,Right,140000 EUR
+,vincent-friedsam,,,,
+877833,dominik-becker,1-fc-saarbrucken,188,Left,195000 EUR
+993070,elias-oubella,fsv-frankfurt,187,Right,52000 EUR
+997540,robert-voloder,sporting-kansas-city,185,Left,1600000 EUR
+930271,noah-katterbach,1-fc-koln,178,Left,845000 EUR
+1006386,erkan-akalp,no-team,,,27000 EUR
+,philipp-hoffler,,,,
+1481771,luca-schlax,fsv-frankfurt,,Right,52000 EUR
+,farid-bacevac,,,,
+,georg-strauch,,,,
+,dustin-berndt,,,,
+,dennis-oduro,,,,
+1085939,eladan-islamovic,1-fc-koln-ii,,, 
+934249,can-bozdogan,fc-utrecht,175,Left,5200000 EUR
+871701,tomas-ostrak,stlouis-city,176,Right,1600000 EUR
+1063817,anil-aydin,no-team,172,Both, 
+994910,bogdans-samoilovs,,,,
+,carlos-de-la-cruz,,,,
+1091980,henri-matter,sc-fortuna-koln,177,Right,155000 EUR
+991063,oliver-schmitt,,,,
+876345,darko-churlinov,burnley,180,Right,2100000 EUR
+1006390,sebastian-muller,spvgg-greuther-furth-ii,180,Right,215000 EUR
+,maximilian-moller,,,,
+,luis-muller,,,,
+,elmin-heric,,,,
+1014290,tim-lemperle,spvgg-greuther-furth,186,Right,1800000 EUR
+,marvin-gomoluch,,,,
+,marco-wichert,,,,
+949161,simon-werner,sv-heimstetten,,, 
+978049,vincent-gembalies,,,,
+,hannes-goring,,,,
+,can-nazikkol,,,,
+,lukas-steinrotter,,,,
+,alexander-nwokolo,,,,
+,maik-marquardt,,,,
+,lennard-blits,,,,
+939858,migel-max-schmeling,tus-bovinghausen-04,180,Left,77000 EUR
+,cihan-ulusoy,,,,
+,jason-prodanovic,,,,
+,shpetim-hasani,,,,
+,leonardo-marino,,,,
+1425105,kilian-schaar,,,,
+,yavuzhan-ozun,,,,
+,tobias-wieschhaus,,,,
+1001340,darius-ghindovean,preussen-munster,184,Both,115000 EUR
+1391920,marcello-romano,preussen-munster-ii,176,Right, 
+,oussama-anhari,,,,
+,luis-gizinski,,,,
+,pascal-lieto,,,,
+1066811,diamant-berisha,fc-teutonia-05-ottensen,178,Both,78000 EUR
+,bilal-can-ozkara,,,,
+,ensar-selmanaj,,,,
+976024,jan-niklas-pia,no-team,187,Right,52000 EUR
+,cem-sabanci,,,,
+,julius-benz,,,,
+,ivan-prebanic,,,,
+1510567,julian-geitz,sv-drochtersenassel,,Both, 
+899340,beytullah-aslan,,,,
+,noel-brieden,,,,
+951531,jonas-kersken,,,,
+,torge-witteborg,,,,
+,maximilian-dagott,,,,
+,michael-marvin-west,,,,
+1466930,duc-anh-nguyen-nhu,no-team,184,Right,54000 EUR
+,caspar-biebersdorf,,,,
+,bunyamin-serbetcioglu,,,,
+,eljvir-ahmet,,,,
+,furkan-can-artar,,,,
+,ayoub-boulila,,,,
+,leon-eschen,,,,
+791323,seong-sun-you,,,,
+,berkan-arik,,,,
+1064856,clinton-asare,vfb-homberg,,, 
+,joel-hauser,,,,
+,giannis-orkas,,,,
+1394325,yannick-debrah,,,,
+941217,qlirim-gashi,rot-weiss-essen,178,Left, 
+937420,niklas-nett,,,,
+,alkan-talas,,,,
+,mervan-aydin,,,,
+,luis-bukvasevic,,,,
+929652,enes-bilgin,turkey-u17,,, 
+,velibor-geroschus,,,,
+,hazar-turku,,,,
+,damian-lubak,,,,
+,valentin-manzenreiter,,,,
+987437,ben-voll,fc-viktoria-koln,195,Both,315000 EUR
+,kaan-gokcesin,,,,
+,benoit-lambrechts,,,,
+,soufian-zarhouni,,,,
+,mehmet-bayrakli,,,,
+1123344,tim-brdaric,sc-fortuna-koln,195,Both,48000 EUR
+,maik-marquardt,,,,
+,nils-schutte,,,,
+,hagen-blohm,,,,
+,jonas-beckers,,,,
+,niklas-mohr,,,,
+987442,frederic-baum,alemannia-aachen,185,Left,77000 EUR
+,tom-geerkens,,,,
+,kai-beckschulte,,,,
+,christian-schroder,,,,
+,eray-can-karaoglu,,,,
+,pascal-leon-von-matthey,,,,
+848726,lucas-marso,,,,
+1432815,henrik-artz,,,,
+830716,sinan-ak,,,,
+987461,muja-arifi,no-team,176,Right,26000 EUR
+,terence-okoeguale,,,,
+1066030,tim-kother,msv-duisburg,177,Left,190000 EUR
+987468,semih-kayan,pazarspor,186,Right,26000 EUR
+1128905,patrick-ince,,,,
+,dogukan-tasli,,,,
+,fabian-niessen,,,,
+966002,florent-sylaj,,,,
+,aristote-lufuankenda,,,,
+,nick-kruckels,,,,
+,rayan-el-amraoui,,,,
+935539,mario-zelic,no-team,195,Right, 
+962035,justin-mollering,fortuna-dusseldorf-ii,,, 
+,benedikt-schmitz,,,,
+,dennis-gorka,,,,
+1094519,luca-christian-fenzl,ratingen-0419,183,Right, 
+,constantin-wermann,,,,
+,dominik-cikac,,,,
+,maurice-kouendijn,,,,
+1049699,nikell-touglo,viktoria-berlin,186,Both,92000 EUR
+,jamie-percevski,,,,
+1014287,jamil-siebert,fortuna-dusseldorf,193,Right,2400000 EUR
+,connor-klossek,,,,
+1512322,edward-ayertey,fc-wegberg-beeck,,, 
+,amed-oncel,,,,
+,adrian-asani,,,,
+,yannick-babo,,,,
+,jonas-buchte,,,,
+,cedric-bergmann,,,,
+,timur-enes,,,,
+,janos-kommerling,,,,
+,oskar-greven,,,,
+980923,enrique-lofolomo,hallescher-fc,185,Both,130000 EUR
+1489304,noel-caliskan,,,,
+1145969,alexandros-kyriakidis,,,,
+,niklas-harth,,,,
+,shinta-appelkamp,,,,
+,daniel-kyerewaa,,,,
+,georgios-touloupis,,,,
+,tim-potzler,,,,
+980469,timo-bornemann,,,,
+,melva-luzalunga,,,,
+,burak-yesilay,,,,
+,joel-frenzel,,,,
+932070,justin-heekeren,fc-schalke-04,194,Both,245000 EUR
+,marco-wichert,,,,
+,haakon-johannes-pomorin,,,,
+1493260,jona-scholz,,,,
+,emre-mustafa-kucuk,,,,
+1133714,nico-gereke,vfl-oldenburg,,, 
+,henry-haferkorn,,,,
+,durim-berisha,,,,
+,pablo-overfeld,,,,
+,orhan-celik,,,,
+,joey-justin-gabriel,,,,
+,ouassim-el-abdouni,,,,
+,kerem-sengun,,,,
+,lennart-uedickoven,,,,
+,luis-forster,,,,
+,mehmet-dalyanoglu,,,,
+,pascal-gurk,,,,
+1602181,chong-johnny-lu,,,,
+,leon-bachmann,,,,
+,leonardo-muratore,,,,
+,nathnael-scheffler,,,,
+,endrit-gojnovci,,,,
+,muhammed-alkan-celik,,,,
+,juliano-ismanovski,,,,
+,berkan-gursoy,,,,
+,nico-moors,,,,
+,ahmet-efe-aris,,,,
+,yasin-cemal-kaya,,,,
+901308,max-fleer,,,,
+,georgios-velikoudis,,,,
+,erick-surmanski,,,,
+,luis-bukvasevic,,,,
+,jannis-herbstsommer,,,,
+,bekem-saglam,,,,
+,fynn-muller,,,,
+1185700,hannes-kramp,,,,
+,moritz-schunke,,,,
+,luis-hillemeier,,,,
+1066075,michele-cordi,schwarz-weiss-essen,191,Both,26000 EUR
+,kenric-nitzsche,,,,
+1128561,justus-henke,sc-paderborn-07,189,,49000 EUR
+1182578,dacain-baraza,,,,
+,maximilian-urban,,,,
+,justin-reineke,,,,
+1185716,daniel-grgic,,,,
+1607201,ken-robin-czok,,,,
+,sven-nartikoev,,,,
+1150204,florian-wendt,,,,
+230266,yasin-sensu,,,,
+,reto-ben-bechtel,,,,
+,lukas-gockel,,,,
+,jonathan-kyeremateng,,,,
+1069540,aram-kahraman,no-team,,,23000 EUR
+1527023,martin-ens,,,,
+1409718,mustafa-muharemovic,sc-dornach,,, 
+,haris-ljatifi,,,,
+,jesse-edem-tugbenyo,,,,
+177219,kevin-hubert,,,,
+1064860,phil-beckhoff,wuppertaler-sv,173,,110000 EUR
+,guven-kaplan,,,,
+,maik-reimer,,,,
+1387938,wladimir-wagner,sv-lippstadt-08,182,Right,48000 EUR
+,ivan-paradzik,,,,
+,furkan-baser,,,,
+,luis-ortmann,,,,
+,johannes-schubert,,,,
+,florian-petschulat,,,,
+,jan-dehl,,,,
+,henrik-gunther,,,,
+,julian-burkhardt,,,,
+,tim-robin-rinne,,,,
+,henrik-winkelmann,,,,
+,arian-berisha,,,,
+,leandro-ribeiro,,,,
+,william-gianluca-homburg,,,,
+,kadir-yagci,,,,
+,falk-landwehrmeyer,,,,
+,jan-marten-rittmann,,,,
+,jarno-kassebaum,,,,
+,finn-gustenberg,,,,
+,janis-katenbrink,,,,
+,adrian-wanner,,,,
+1131147,simon-wollesen,no-team,,Left, 
+,paul-ludwig,,,,
+,julio-cesar-yugar-koelle,,,,
+,ramin-elahi,,,,
+1016493,dogukan-demiray,,,,
+,melvin-sander,,,,
+,johannes-marz,,,,
+1516795,markus-esko,,,,
+,kilian-tschope,,,,
+,david-wutzke,,,,
+,max-rimkus,,,,
+,leroy-best,,,,
+914756,enrique-pena-zauner,roda-jc-kerkrade,177,Both,260000 EUR
+904840,tobias-raschl,,,,
+,paul-philipp-besong,,,,
+930277,leon-dajaku,hnk-hajduk-split,180,Right,740000 EUR
+989203,immanuel-pherai,hamburger-sv,175,Right,3000000 EUR
+883497,luis-klatte,sv-babelsberg-03,186,Right,120000 EUR
+976253,florian-palmowski,fsv-luckenwalde,187,Right,23000 EUR
+,marius-sussmann,,,,
+,jeff-keil,,,,
+976251,omar-rekik,wigan-athletic,186,Right,620000 EUR
+1129366,marlon-morgenstern,hertha-bsc-ii,184,Right,52000 EUR
+,paul-kruger,,,,
+976252,maximilian-gurschke,hertha-berlin-u19,,, 
+,sonny-ziemer,,,,
+,sebastian-mach,,,,
+941118,mateo-kastrati,sv-babelsberg-03,178,Left,47000 EUR
+976256,elias-tamim,hertha-zehlendorf,180,Right,52000 EUR
+928414,luca-naumann,no-team,172,Left, 
+,jonas-michelbrink,,,,
+976254,miralem-ramic,hertha-berlin-u19,172,, 
+928415,max-marius-nerlich,hertha-bsc-ii,,, 
+960453,julian-albrecht,,,,
+932831,steve-braun,berliner-fc-dynamo,185,, 
+1017906,jan-shcherbakovski,,,,
+1618353,ali-gundogdu,belediye-derincespor,175,Right,23000 EUR
+1392735,tarik-gozusirin,,,,
+1154477,dennis-chung,no-team,166,, 
+877841,dennis-jastrzembski,fortuna-dusseldorf,177,Left,705000 EUR
+994691,justin-weber,hertha-bsc-ii,179,Right, 
+1012235,ransford-konigsdorffer,,,,
+906276,jessic-ngankam,,,,
+,kevin-kunzer,,,,
+929623,ruwen-werthmuller,hertha-bsc-ii,179,Right,105000 EUR
+944100,julian-krahl,1-fc-kaiserslautern,194,Right,720000 EUR
+,tom-koster,,,,
+,jan-eyrich,,,,
+997027,moritz-schulze,,,,
+,niclas-muller,,,,
+987479,frederik-jakel,sv-07-elversberg,193,Right,1300000 EUR
+,nico-bohmer,,,,
+997011,malik-talabidi,,,,
+,mike-grimm,,,,
+990387,marcel-hoppe,fc-carl-zeiss-jena,178,Left,105000 EUR
+912951,niclas-stierlin,,,,
+877836,erik-majetschak,erzgebirge-aue,180,Both,205000 EUR
+,naod-mekonnen,,,,
+997028,anton-rucker,,,,
+,victor-stenz,,,,
+918429,mads-bidstrup,red-bull-salzburg,175,Right,8700000 EUR
+930272,tom-krauss,1-fsv-mainz-05,182,Right,5700000 EUR
 1034268,mateusz-mackowiak,skra-czestochowa,175,Left,195000 EUR
-,jakub-paprzycki,,,,
-864926,sebastian-kowalczyk,houston-dynamo,169,Right,1200000 EUR
-846675,gracjan-jaroch,no-team,172,,27000 EUR
-971478,blazej-starzycki,pogon-szczecin-ii,179,,55000 EUR
-1020582,bartosz-boniecki,no-team,170,Right, 
-,mikolaj-midzio,,,,
-,michal-gorzynski,,,,
-990257,oskar-furst,wigry-suwalki,,, 
-843318,hubert-gostomski,mlks-wissa-szczuczyn,191,Right,105000 EUR
-827472,luka-gugeshashvili,qarabag,196,Left,560000 EUR
-,robert-nowacki,,,,
-,karol-gres,,,,
-,wiktor-kwiatkowski,,,,
-,jakub-tomar,,,,
-,maciej-korecki,,,,
-,damian-glebocki,,,,
-796993,kamil-pajnowski,stal-mielec,186,Left,240000 EUR
-576226,mateusz-maliszewski,no-team,188,Right,52000 EUR
-,michal-kozlik,,,,
-,rafal-kiczuk,,,,
-580228,dominik-prusaczyk,no-team,174,Right,0 EUR
-1524881,tomasz-panek,grom-nowy-staw,,, 
-,jan-zysik,,,,
-840334,pawel-olszewski,jagiellonia-bialystok,178,Right,155000 EUR
-,bartosz-ciborowski,,,,
-,bartosz-golaszewski,,,,
-798682,patryk-niemczynowicz,no-team,184,,53000 EUR
-798680,dawid-polkowski,no-team,185,Left,26000 EUR
-798681,patryk-koncewicz,mlks-wissa-szczuczyn,182,,0 EUR
-,mateusz-ostaszewski,,,,
-,tomasz-zareba,,,,
-,artur-renkowski,,,,
-,mateusz-oksienczuk,,,,
-,mateusz-mikolajczyk,,,,
-,bartosz-borowik,,,,
-,erwin-grzybiak,,,,
-941393,mikolaj-nawrocki,no-team,178,Both,49000 EUR
-,jakub-tabor,,,,
-,kamil-huczko,,,,
-,kacper-glowicki,,,,
-971376,marcin-pigiel,podlasie-ii-biala-podlaska,182,Left,0 EUR
-559970,przemyslaw-mystkowski,gks-tychy,178,Left,120000 EUR
-798677,michal-domanski,ruch-wysokie-mazowieckie,172,,48000 EUR
-576230,pawel-kaczmarczyk,no-team,171,,47000 EUR
-1020550,jakub-romanowicz,olimpia-zambrow,181,Left,48000 EUR
-851350,patryk-klimala,hapoel-beer-sheva,183,Right,2600000 EUR
-,damian-toczydlowski,,,,
-,jakub-konon,,,,
-,maksymilian-fryczkowski,,,,
-1144387,piotr-zabielski,mks-piast-zmigrod,177,, 
-,adrian-mynarski,,,,
-1435747,mateusz-sobczak,orlen-akademia-koszykowki-bm-stal,,, 
-,krystian-paszkowski,,,,
-,piotr-szermach,,,,
-,wiktor-malinowski,,,,
-1148121,daniel-golus,no-team,172,, 
-,dawid-matuszewski,,,,
-,bartosz-mroz,,,,
-,piotr-jasinski,,,,
-,radoslaw-ryl,,,,
-,damian-was,,,,
-887691,konrad-poprawa,slask-wroclaw,185,Right,290000 EUR
-1384799,sebastian-golak,mks-chojniczanka-chojnice,190,,24000 EUR
-1594589,lukasz-sztylka,stal-brzeg,179,Left, 
-,jakub-kierkiewicz,,,,
-,milosz-taranek,,,,
-,kacper-izydorczyk,,,,
-984806,bartosz-borun,gks-jastrzebie,181,Right,91000 EUR
-1594603,michal-kuriata,stal-brzeg,,, 
-923499,mateusz-palach,ruch-zdzieszowice,,, 
-,mateusz-fiks,,,,
-,adrian-puchala,,,,
-,thomas-radon,,,,
-,kacper-korkosz,,,,
-798075,maciej-palaszewski,olimpia-grudziadz,175,Right,140000 EUR
-,patryk-ostrowski,,,,
-,mateusz-plociennik,,,,
-842341,adrian-lyszczarz,resovia-rzeszow,176,Right,310000 EUR
-1148145,grzegorz-kotowicz,no-team,184,Right, 
-,mateusz-czerwinski,,,,
-,szymon-kusnierz,,,,
-,jakub-karykowski,,,,
-,mateusz-gladysz,,,,
-849114,radoslaw-majecki,as-monaco,191,Right,2100000 EUR
-915851,tomasz-wroblewski,south-carolina-united-fc,187,Right,73000 EUR
-,michal-golunski,,,,
-850295,maciej-babel,spartakus-daleszyce,189,,0 EUR
-971382,jozef-burta,oks-odra-opole,195,,23000 EUR
-857909,maciej-ostrowski,zabkovia-zabki,180,, 
-851245,mateusz-zyro,widzew-lodz,187,Right,485000 EUR
-886243,sebastian-walukiewicz,empoli,188,Right,2800000 EUR
-1186200,kacper-pietrzyk,gks-katowice,,Right,23000 EUR
-,karol-potrzebowski,,,,
-851242,adrian-malachowski,lks-lodz,183,Right,160000 EUR
-957971,eryk-agnyziak,drukarz-warszawa,,, 
-801263,jakub-kaminski,vfl-wolfsburg,178,Right,10900000 EUR
-831324,wiktor-sobczyk,no-team,185,,0 EUR
-903954,bartosz-zychowicz,ruch-zdzieszowice,,, 
-1148114,bartosz-rymek,wisla-pulawy,177,, 
-851252,aleksander-waniek,legia-ii-warszawa,171,Left,0 EUR
-851251,bartlomiej-urbanski,no-team,174,Left,105000 EUR
-,patryk-baran,,,,
-,oskar-wojtysiak,,,,
-851247,piotr-cichocki,siarka-tarnobrzeg,179,Both,0 EUR
-,dawid-szalas,,,,
-571314,konrad-handzlik,no-team,168,Right,105000 EUR
-851244,milosz-szczepanski,piast-gliwice,166,Right,440000 EUR
-857910,kamil-orlik,siarka-tarnobrzeg,179,Both, 
-907506,michal-krol,motor-lublin,173,Right,46000 EUR
-971480,mikolaj-napora,pilica-bialobrzegi,180,Right,0 EUR
-905047,kacper-welniak,motor-lublin,185,Both,54000 EUR
-801362,daniel-karczewski,no-team,189,,0 EUR
-1489523,krystian-krupa,gzs-tluchowia-tluchowo,,, 
-,michal-andrzejkiewicz,,,,
-,oskar-kasperek,,,,
-,alan-rakowski,,,,
-,marcin-czajka,,,,
-,dorian-goliszewski,,,,
-,sebastian-pyda,,,,
-,bartlomiej-tkaczuk,,,,
-,jakub-wankiewicz,,,,
-,patryk-mitura,,,,
-,daniel-mostowiec,,,,
-,michal-chachula,,,,
-,daniel-brzozowski,,,,
-,karol-ordyniec,,,,
-,piotr-chodziutko,,,,
-,mateusz-chyla,,,,
-1148019,maksymilian-cichocki,polonia-bytom,185,Right, 
-,bartlomiej-kozlowski,,,,
-1592600,piotr-kozuchowski,start-1944-krasnystaw,,, 
-,szymon-kaminski,,,,
-,rafal-dobrzynski,,,,
-,przemyslaw-ilczuk,,,,
-1149267,michal-matys,zaglebie-lubin,189,,23000 EUR
-,norbert-pios,,,,
-,kacper-waniowski,,,,
-1521783,maciej-welman,mlks-krysztal-werbkowice,,, 
-,krzysztof-jaskiewicz,,,,
-1521809,jakub-buczek,mlks-krysztal-werbkowice,,, 
-,szymon-kobialka,,,,
-,piotr-waszczynski,,,,
-,krzysztof-rybak,,,,
-845049,przemyslaw-koszel,chelmianka-chelm,175,, 
-1521460,mikolaj-grzeda,gryf-gmina-zamosc,,, 
-920656,olaf-martynek,legionovia-legionowo,184,, 
-831930,patryk-szysz,basaksehir-fk,177,Left,1100000 EUR
-,piotr-lecki,,,,
-,rafal-al-swaiti,,,,
-252977,adrian-zielinski,gornik-walbrzych,172,, 
-,aleksander-flis,,,,
-,kacper-persona,,,,
-,adam-mazurek,,,,
-,kamil-wachala,,,,
-,klaudiusz-szymura,,,,
-,bartlomiej-switala,,,,
-,mikolaj-michna,,,,
-891482,kacper-czajkowski,no-team,183,Right,0 EUR
-891481,dominik-malkowski,no-team,185,Left,0 EUR
-1148008,szymon-gorecki,no-team,184,,23000 EUR
-843322,bartosz-gesior,kks-1925-kalisz,184,Right,47000 EUR
-,tomasz-holos,,,,
-,dominik-szol,,,,
-,sergiusz-hanel,,,,
-891486,patryk-sikora,ruch-chorzow,185,Left,380000 EUR
-,mateusz-lajblich,,,,
-,stanislaw-sarwicki,,,,
-,dawid-piekarski,,,,
+944101,max-winter,vfc-plauen,175,Right,45000 EUR
+997018,kossivi-amededjisso,,,,
+1084766,nicolas-fontaine,cs-chenois,,,53000 EUR
+997030,jacob-ruhner,,,,
+942944,fabrice-hartmann,,,,
+943139,oliver-bias,persija-jakarta,164,Both,52000 EUR
+,lorenz-ender,,,,
+912948,lukas-kruger,no-team,190,Right,70000 EUR
+,daniel-bottcher,,,,
+944208,noah-jean-holm,,,,
+,niklas-wienhold,,,,
+1005830,philipp-schulze,,,,
+,antonio-brandt,,,,
+1397428,sebastian-mellack,no-team,198,Left,24000 EUR
+988251,lino-kasten,vsg-altglienicke,188,Right,130000 EUR
+,lukas-julius-denecke,,,,
+988252,tim-siersleben,1-fc-heidenheim,187,Left,2600000 EUR
+1128788,fynn-kleeschatzky,fc-carl-zeiss-jena,191,Left,73000 EUR
+1530951,michael-edwards,,,,
+1049627,nico-mai,1-fc-magdeburg,182,Left, 
+985182,tom-kinitz,,,,
+980617,jannis-lang,hansa-rostock-ii,187,Right,120000 EUR
+934296,robin-kolle,vfb-lubeck,174,Right,155000 EUR
+,maximilian-janke,,,,
+1195302,leon-sommer,,,,
+,tim-mertens,,,,
+1006392,tom-berger,,,,
+1006270,ivan-sarcevic,twl-elektra,188,Right,82000 EUR
+,luis-saul,,,,
+930273,ole-pohlmann,borussia-dortmund,184,Right,470000 EUR
+1006391,soufiane-messeguem,academico-viseu-fc,180,Right,440000 EUR
+991733,dominik-marx,goslarer-sc,178,Both,105000 EUR
+930275,max-brandt,ssv-ulm-1846,180,Right,160000 EUR
+879802,john-yeboah,rakow-czestochowa,170,Left,1600000 EUR
+958901,muhammed-cham,,,,
+,sidnei-balde-djalo,,,,
+870120,amir-abdijanovic,sc-rheindorf-altach,180,Both,290000 EUR
+877846,jesaja-herrmann,,,,
+993557,phillip-konig,msv-duisburg,188,Both,130000 EUR
+1006388,lenn-jastremski,ssv-ulm-1846,190,Both,270000 EUR
+,kilian-neufeld,,,,
+,thomas-kuballa,,,,
+,robin-soeradhiningrat,,,,
+962642,julian-klar,no-team,185,Right,93000 EUR
+1108436,nico-fritsch,,,,
+962680,luca-beckenbauer,no-team,181,Both,54000 EUR
+937568,seth-anson,,,,
+,chris-gloster,,,,
+964450,emre-aytun,tsv-havelse,183,Left,49000 EUR
+,bo-borge-drath,,,,
+,rene-ruther,,,,
+,sami-van-den-berg,,,,
+,nhan-vo-thanh,,,,
+997383,tim-walbrecht,no-team,188,Right,140000 EUR
+,frederik-trumner,,,,
+995406,julian-rufidis,tsv-havelse,182,Left,52000 EUR
+1064034,max-kummer,tsv-havelse,,, 
+,huseyin-deliduman,,,,
+1486816,marko-tomic,,,,
+1006822,mick-gudra,tsv-steinbach-haiger,180,Left,160000 EUR
+1483318,elias-beck,,,,
+906997,max-schwitalla,,,,
+990751,leon-damer,chemnitzer-fc,178,Right,165000 EUR
+850661,semih-yilmaz,,,,
+1407370,abdullah-dzafo,podrinje,,, 
+,sebastian-soto,,,,
+,jean-luca-van-eupen,,,,
+1006823,simon-stehle,1-fc-saarbrucken,182,Right,190000 EUR
+964451,justin-neiss,no-team,181,Left,46000 EUR
+,philip-koppitz,,,,
+1530203,kevin-harr,,,,
+1513331,gavin-didzilatis,vfb-lubeck,,, 
+943922,elian-clasen,no-team,,Left,23000 EUR
+,fynn-hegerfeldt,,,,
+930408,jonas-david,fc-hansa-rostock,190,Right,730000 EUR
+1005919,valon-zumberi,hamburger-sv,188,Right,160000 EUR
+,saibo-ibraimo,,,,
+,nicklas-lund,,,,
+988336,erjanik-ghubasaryan,fc-noah,185,Right,96000 EUR
+,tom-muhlack,,,,
+1066808,brooklyn-ezeh,hannover-96,188,Left,720000 EUR
+1001108,bryan-hein,ssv-jahn-regensburg,182,Left,190000 EUR
+943921,tobias-knost,sc-verl,178,Right,190000 EUR
+930227,lenny-borges,holstein-kiel-ii,181,Right,71000 EUR
+,daniel-owusu,,,,
+990105,lukas-pinckert,,,,
+,izzet-isler,,,,
+,valentin-brandis,,,,
+,michel-amorin,,,,
+1014528,jonah-fabisch,1-fc-magdeburg,180,Left,260000 EUR
+941553,anssi-suhonen,hamburger-sv,175,Both,640000 EUR
+990104,ogechika-heil,preussen-munster,168,Right,320000 EUR
+1001020,erolind-krasniqi,no-team,180,Left,105000 EUR
+,valentin-zalli,,,,
+994197,faride-alidou,,,,
+1069014,peter-beke,paksi-fc,181,Right,240000 EUR
+941609,tobias-fagerstrom,eif,,,26000 EUR
+1391810,ole-wohlers,fc-teutonia-05-ottensen,182,Right,68000 EUR
+911749,leon-schmidt,no-team,184,Right,92000 EUR
+900721,jesper-heim,sc-weiche-flensburg-08,191,Right,71000 EUR
+1606663,viktor-weber,,,,
+,leon-henk,,,,
+,friedrich-petrelli,,,,
+,tom-neumann,,,,
+,hugo-teixeira,,,,
+981435,marvin-senger,msv-duisburg,193,Left,240000 EUR
+964714,moritz-frahm,,,,
+,franklin-weber,,,,
+1134783,sascha-voelcke,rot-weiss-essen,180,Left,105000 EUR
+1150225,gustavo-melo,vfb-lubeck-ii,178,Right, 
+990097,moritz-seiffert,fc-ingolstadt-04,180,Left,195000 EUR
+,michel-oelkers,,,,
+933832,mert-kuyucu,manisa-fk,185,Left,52000 EUR
+1064643,moritz-grosche,fc-altona-93,,,24000 EUR
+984880,jannes-wieckhoff,heracles-almelo,188,Right,480000 EUR
+,marc-pichelmann,,,,
+1064640,luca-gunther,fc-st-pauli,175,Right,105000 EUR
+882006,jakob-munzner,no-team,178,Right,70000 EUR
+1516959,bamo-karim,,,,
+1127115,franz-roggow,borussia-dortmund-ii,186,Both,180000 EUR
+964715,oskar-lenz,,,,
+979821,finn-ole-becker,,,,
+,leon-flach,,,,
+952259,niclas-nadj,,,,
+959636,armel-gohoua,,,,
+988188,aurel-loubongo,,,,
+,umut-ataykaya,,,,
+,tarik-pannholzer,,,,
+952260,tom-protzek,,,,
+990389,serkan-dursun,,,,
+,lasse-sortehaug,,,,
+,hajo-kurth,,,,
+,maximilian-gundelach,,,,
+,timo-ahrens,,,,
+1185699,felix-buer,sc-fortuna-koln,188,Both,23000 EUR
+962259,philipp-jorganovic,austria-u17,193,Right, 
+984183,maik-nawrocki,celtic,190,Both,3700000 EUR
+943381,luke-dettki,sv-werder-bremen-ii,190,Right, 
+1130076,marc-schroder,vfb-oldenburg,186,Right,145000 EUR
+,moritz-dittmann,,,,
+877832,pascal-hackethal,vfb-germania-halberstadt,165,Left,48000 EUR
+,thomas-linkov,,,,
+990207,henry-rorig,vfl-osnabruck,182,Both,185000 EUR
+,laurens-hammermeister,,,,
+911679,ilia-gruev,leeds-united,185,Right,4099999 EUR
+990209,yannik-engelhardt,fortuna-dusseldorf,184,Right,2300000 EUR
+,fabian-straudi,,,,
+,keanu-schneider,,,,
+,corvin-schroder,,,,
+964736,david-philipp,fc-viktoria-koln,180,Left,280000 EUR
+,jorik-wulff,,,,
+,niklas-nannt,,,,
+1064081,abdenego-nankishi,heracles-almelo,178,Right,480000 EUR
+1067120,eren-dinkci,1-fc-heidenheim,188,Right,5400000 EUR
+,caram-carneiro-alves,,,,
+980623,nick-woltemade,sv-werder-bremen,198,Right,2100000 EUR
+,franz-jobst,,,,
+987428,luc-ihorst,eintracht-braunschweig,188,Both,325000 EUR
+,fred-mensah,,,,
+,malik-memisevic,,,,
+1007874,lukas-bohm,,,,
+1178379,benjamin-bose,,,,
+,noah-fakhro,,,,
+,karl-donath,,,,
+,mika-schneider,,,,
+1034248,stefan-kiefer,,,,
+1014486,maximilian-grosser,arminia-bielefeld,189,,130000 EUR
+1005015,paul-fromm,,,,
+973430,kevin-ehlers,sg-dynamo-dresden,186,Right,320000 EUR
+,rudolf-sanin,,,,
+,fabian-kiessetz,,,,
+,maximilian-lebedev,,,,
+,justin-jacob,,,,
+,nick-konig,,,,
+,niclas-kubitz,,,,
+,alec-nathe,,,,
+1171135,christoph-schurz,no-team,,Both, 
+,panagiotis-mitsopoulos,,,,
+980487,jonas-bruck,,,,
+,eun-sa-jeong,,,,
+944198,max-kulke,no-team,177,Both,170000 EUR
+,vasilios-kapouranis,,,,
+,luca-shubitidze,,,,
+,jonas-baum,,,,
+876947,vasil-kusej,mlada-boleslav,168,,580000 EUR
+899393,abdullah-kucuk,,,,
+,tom-keil,,,,
+,christopher-gebhardt,,,,
+,corvin-michelsen,,,,
+,nick-huenig,,,,
+951538,tim-kips,erzgebirge-aue,188,Left,82000 EUR
+,bleron-berisha,,,,
+,julian-mussigbrodt,,,,
+,oliver-pollmann,,,,
+,jakob-lehmann,,,,
+990125,luca-menke,no-team,189,Right,105000 EUR
+,marlon-schweda,,,,
+,malte-zentrich,,,,
+989065,pascal-schmedemann,greifswalder-fc,188,Left,52000 EUR
+,marc-andre-jurgen,,,,
+,tony-hempel,,,,
+1014196,julian-weigel,1-fc-lokomotive-leipzig,189,Right,46000 EUR
+991487,maximilian-farwig,fc-einheit-wernigerode,,,26000 EUR
+,max-dittwe,,,,
+,anton-kanther,,,,
+1139136,marcel-hommel,,,,
+1131183,shalva-ogbaidze,,,,
+,marlon-kyek,,,,
+989061,marvin-temp,no-team,177,Right,46000 EUR
+,fatih-salihoglu,,,,
+,theo-ogbidi,,,,
+,bruno-schiemann,,,,
+,marc-plewa,,,,
+,hannes-ruckert,,,,
+943015,laurenz-beckemeyer,sportfreunde-lotte,182,Right,26000 EUR
+,malte-eversmann,,,,
+,marlon-gorny,,,,
+885985,maximilian-voltz,,,,
+,finn-philipp-popescu,,,,
+,philip-wolfing,,,,
+1105174,luis-sprekelmeyer,,,,
+,tom-bovenschulte,,,,
+1131083,sven-ruschenschmidt-sickmann,no-team,185,Right, 
+,fynn-onken,,,,
+1465821,mattes-hehr,,,,
+1019064,jakob-duhme,,,,
+,bo-borge-drath,,,,
+1140368,elario-ghassan,ssv-jeddeloh,,Right,45000 EUR
+,henry-thoke-uchtmann,,,,
+,christopher-klaas,,,,
+1127578,gianluca-przondziono,blau-weiss-lohne,,, 
+,firat-gurbuz,,,,
+,di-mateo-lovric,,,,
+,mick-schuttpelz,,,,
+1131579,oliver-derlin,,,,
+1048388,marc-auge,no-team,178,Both, 
+,justin-mittmann,,,,
+1048090,hakim-traore,sv-lippstadt-08,182,Right,49000 EUR
+,henrik-berentzen,,,,
+,silas-burke,,,,
+,tom-bertelsmann,,,,
+1178585,georges-baya-baya,,,,
+,emro-curic,,,,
+835826,tim-klemm,,,,
+,nikolai-kemlein,,,,
+,tillmann-theurich,,,,
+995669,leo-oppermann,arminia-bielefeld,191,Right,160000 EUR
+,luis-ludosan,,,,
+,jan-riecke,,,,
+,lucas-lindemann,,,,
+934635,stefan-rankic,belgium-u17,189,Right, 
+,mattis-koch,,,,
+1009167,berkan-alimler,hertha-bsc-ii,172,Left,47000 EUR
+,william-kuhnigk,,,,
+,florian-sander,,,,
+990552,berk-inaler,viktoria-berlin,178,Right,130000 EUR
+,maurice-opfermann-arcones,,,,
+,henrik-markhoff,,,,
+,batikan-cetin,,,,
+1064993,emir-can-gencel,sv-babelsberg-03,196,Right,72000 EUR
+987536,laurenz-dehl,1-fc-union-berlin,179,Right,205000 EUR
+,kledian-vladi,,,,
+,yasar-cinar,,,,
+,ensar-aksakal,,,,
+,leon-sitz,,,,
+1391928,samir-werbelow,sv-babelsberg-03,181,Right,24000 EUR
+,joris-moller,,,,
+1065175,tim-maciejewski,sv-sandhausen,184,Left,370000 EUR
+,daniel-eidtner,,,,
+,jannes-werner,,,,
+,paul-petermann,,,,
+,till-muschkowski,,,,
+,nathanael-sallah,,,,
+,feliciano-konig,,,,
+,michel-weber,,,,
+,henry-weigand,,,,
+,anil-karabey,,,,
+,marc-oliver-timm,,,,
+,jeff-mensah,,,,
+,alex-hartmann,,,,
+,hendrik-muller,,,,
+,paolo-rieckmann,,,,
+,justin-jaeger,,,,
+,adrian-apau,,,,
+1138027,arian-khodabakhshian,,,,
+,belal-ahmadi,,,,
+,peer-mahncke,,,,
+,bubacar-jalo,,,,
+1035858,mohamed-cherif,fk-jezero,186,,79000 EUR
+,oguzhan-masalci,,,,
+,finn-reinoss,,,,
+1433371,ahmed-ak,,,,
+,sulieman-omar,,,,
+,alpay-altuntas,,,,
+,nemo-philipp,,,,
+1502146,alexandros-tourgaidis,almyros-gaziou,,, 
+,jephtah-asare,,,,
+,igor-tsarkov,,,,
+1137963,abdul-gafar,lsk-hansa-luneburg,,, 
+1064036,noel-denis,eintracht-norderstedt,,, 
+,maximilian-zoch,,,,
+,mert-akkus,,,,
+965865,lars-holm,tsv-havelse,,, 
+,justin-griep,,,,
+,bilal-mukul,,,,
+,nikola-butigan,,,,
+,luis-figula,,,,
+,nils-nickel,,,,
+,clemens-grage,,,,
+,samet-gulle,,,,
+,robin-benecke,,,,
+,lion-di-marco,,,,
+,michael-trautmann,,,,
+,ferhat-akbas,,,,
+1447911,luca-althausen,,,,
+,valmir-avdulli,,,,
+,luca-ehrhardt,,,,
+,valentin-kurz,,,,
+1065057,serhat-yazgan,no-team,177,Right,23000 EUR
+,louis-kirmeier,,,,
+,ali-elibol,,,,
+,ozan-ozdemir,,,,
+1619029,mert-samast,,,,
+1064030,jannis-neugebauer,no-team,,, 
+,adrian-thaqi,,,,
+,marcus-kreckel,,,,
+,marvin-hahn,,,,
+,andre-ndiaye,,,,
+1064029,ilir-qela,sv-babelsberg-03,182,Both,46000 EUR
+,gianluca-faseta,,,,
+1385302,phil-sarrasch,blau-weiss-lohne,,, 
+841876,cem-teifel,,,,
+996662,fynn-lakenmacher,tsv-1860-munchen,188,Right,265000 EUR
+,jean-luca-van-eupen,,,,
+,simon-reithmeir,,,,
+,nils-ellenfeld,,,,
+,alexios-dedidis,,,,
+1064031,robert-winkler,fc-carl-zeiss-jena,180,Both, 
+,philipp-schmitz,,,,
+1138841,pascal-kohler,,,,
+,julius-jurke,,,,
+,levin-tietze,,,,
+,jago-heublein,,,,
+,jonas-scherf,,,,
+,david-schirner,,,,
+987067,eric-voufack,rot-weiss-essen,182,Right,160000 EUR
+1004159,max-gottwald,no-team,190,Both, 
+,moritz-leibelt,,,,
+,dominik-lehmpfuhl,,,,
+,rick-fleischer,,,,
+1121899,zak-paulo-piplica,1-fc-lokomotive-leipzig,179,Right,97000 EUR
+1521901,nico-boog,,,,
+,clemens-berg,,,,
+,finn-modler,,,,
+826663,john-scheibe,,,,
+989629,niklas-jahn,no-team,176,Left,45000 EUR
+,kodjo-amesse,,,,
+1560032,david-brahler,,,,
+1128018,patrick-scheder,spvgg-bayreuth,184,Right,23000 EUR
+1031600,vasilios-dedidis,,,,
+,luan-ferizi,,,,
+904840,tobias-raschl,,,,
+,paul-philipp-besong,,,,
+914756,enrique-pena-zauner,roda-jc-kerkrade,177,Both,260000 EUR
+930277,leon-dajaku,hnk-hajduk-split,180,Right,740000 EUR
+989203,immanuel-pherai,hamburger-sv,175,Right,3000000 EUR
+904526,lorenzo-bruzzi,no-team,,,46000 EUR
+998525,thomas-fantoni,no-team,,,26000 EUR
+1012591,leonardo-maniglio,no-team,194,Right,47000 EUR
+,manuele-garoia,,,,
+1083555,alessandro-bizzini,progresso,,,97000 EUR
+,marco-molla,,,,
+,alessandro-marconi,,,,
+,francesco-castaldi,,,,
+876242,gabriele-corbo,cf-montreal,186,Right,550000 EUR
+867735,alessandro-bianconi,lecco,193,Right,140000 EUR
+929759,francesco-busi,progresso,185,Right,26000 EUR
+929762,roberto-saputo,sasso-marconi-zola,187,Right,24000 EUR
+,manuel-mazia,,,,
+972974,davide-dama,no-team,182,Right,53000 EUR
+982208,denis-portanova,gubbio,184,Right,320000 EUR
+998523,omar-khailoti,novara,185,Left,110000 EUR
+867734,gianluca-frabotta,bari,187,Left,1400000 EUR
+916571,francesco-piccardi,este,,,70000 EUR
+,gabriel-padovan,,,,
+1000290,alessandro-tosi,no-team,,Left, 
+1012272,matteo-montebugnoli,,,,
+,lirim-kastrati,,,,
+929775,tommaso-cassandro,como,185,Right,735000 EUR
+1009344,riccardo-lunghi,us-sestese-calcio,,Right,47000 EUR
+929767,luca-mantovani,no-team,182,Right,26000 EUR
+998527,tommaso-barnaba,ancona,178,Right,73000 EUR
+929770,leonardo-mazza,dolomiti-bellunesi,170,Left,160000 EUR
+929769,nicola-ghini,no-team,176,Right,46000 EUR
+,francesco-soldani,,,,
+,daniele-beltrame,,,,
+368418,godfred-donsah,sanliurfaspor,175,Right,375000 EUR
+869895,juan-valencia,,,,
+826193,alessio-militari,no-team,185,Right,54000 EUR
+916497,andrea-mutti,no-team,,,27000 EUR
+932856,andri-fannar-baldursson,if-elfsborg,187,Right,1500000 EUR
+994973,paolo-pinto,no-team,181,Right,10000 EUR
+964810,ilias-koutsoupias,bari,181,Right,1400000 EUR
+998524,dion-ruffo-luci,no-team,180,Left,105000 EUR
+,zeno-pilastro,,,,
+865643,elia-visconti,lucchese,175,Both,190000 EUR
+998530,nicola-farinelli,no-team,178,Right,52000 EUR
+915489,alex-cossalter,dolomiti-bellunesi,176,Right,52000 EUR
+929778,emiliano-pattarello,arezzo,178,Left,48000 EUR
+972328,pablo-negri,sasso-marconi-zola,175,Right,11000 EUR
+929779,leonardo-stanzani,aurora-pro-patria,176,Right,285000 EUR
+972341,federico-sala,,,,
+929784,james-uhunamure,no-team,183,Right,52000 EUR
+827050,kaloyan-krastev,lokomotiv-sofia,190,Right,155000 EUR
+865650,rilind-nivokazi,team-ticino-u21,184,Left,81000 EUR
+,lorenzo-pirreca,,,,
+,simone-rabbi,,,,
+1012047,davide-rosso,adriese,193,Left,78000 EUR
+,simone-benincasa,,,,
+356160,vanja-milinkovic-savic,torino,202,Right,5600000 EUR
+,demba-thiam,,,,
+892923,marco-meneghetti,spal,188,Right,48000 EUR
+909617,luca-seri,no-team,181,Right,11000 EUR
+,giacomo-roncarati,,,,
+,thomas-campi,,,,
+1012886,mattia-fallani,renate,192,Right,110000 EUR
+,damian-maksymowicz,,,,
+1064293,cesare-galeotti,lumezzane,192,Right,97000 EUR
+1012370,mattia-pessot,acd-portomansue,188,Right,52000 EUR
+1064297,francesco-milani,no-team,187,Right,49000 EUR
+850031,matteo-salvi,,,,
+,ricardo-farcas,,,,
+1049788,paolo-cannistra,vado,176,Right,23000 EUR
+1012271,andrea-aguiari,no-team,,Right,79000 EUR
+,lorenzo-valesani,,,,
+1013450,andrea-allegretto,az-picerno,196,Right,105000 EUR
+1083425,filippo-fabbri,olbia,185,Right,97000 EUR
+945618,thomas-coulange,no-team,185,,0 EUR
+992015,alessandro-martina,ancona,174,Left,185000 EUR
+1012310,francesco-marzocchi,no-team,,Left,10000 EUR
+1012108,mattia-biolcati,no-team,,Left,27000 EUR
+1402446,riccardo-alessio,san-donato-tavarnelle,,Right, 
+967505,riccardo-spaltro,crotone,185,Right,145000 EUR
+862782,lazar-nikolic,fk-crvena-zvezda,176,Right,545000 EUR
+1046788,jakub-iskra,no-team,182,Right,52000 EUR
+,salvatore-esposito,,,,
+973235,gaetano-maranzino,no-team,,Left,53000 EUR
+875932,karolis-uzela,fk-kauno-zalgiris,187,Right,210000 EUR
+1011845,alessio-beu,no-team,,, 
+,aziz-sare,,,,
+,edoardo-mazzoni,,,,
+,francesco-tagliaferri,,,,
+945234,filippo-artioli,piacenza,181,Left,97000 EUR
+865641,andrea-rizzo-pinna,lucchese,180,Right,160000 EUR
+928751,mattia-samotti,no-team,,,0 EUR
+,biagio-de-angelis,,,,
+844498,georgi-tunjov,,,,
+,mikael-egill-ellertsson,,,,
+,demetrio-ielo,,,,
+,simone-cantelli,,,,
+917945,christian-notaristefano,,,,
+940836,aron-katuma,bastia,173,Right,27000 EUR
+,bogdan-ardelean,,,,
+,alex-artioli,,,,
+957146,marco-zamuner,fontanafredda,173,Left, 
+1009387,jaume-cuellar,barcelona-atletic,181,Both,660000 EUR
+928810,gabriele-gibilterra,ghiviborgo,171,Right,46000 EUR
+975133,marco-spina,gubbio,181,Left,270000 EUR
+1012248,demba-seck,torino,190,Left,2800000 EUR
+879824,leonardo-ubaldi,rimini,188,Right,110000 EUR
+925956,lorenzo-babbi,forli,192,Right,26000 EUR
+,mohammed-amine-chakir,,,,
+1066117,logan-clement,sc-bruhl-sg,190,Right,73000 EUR
+,michael-siviero,,,,
+1411146,elios-minaj,oltrepovoghera,183,Right,23000 EUR
+,roberto-barlocco,,,,
+,bruno-bertinato,,,,
+947860,manuel-enzo,,,,
+991457,matteo-bonato,sandona-1922,,, 
+993818,matteo-daffre,albignasego-calcio,,,23000 EUR
+,tommaso-spigariol,,,,
+971537,kevin-gaba,,,,
+,marco-ros,,,,
+892917,emanuele-cigagna,cjarlins-muzane,,Right,105000 EUR
+,renato-imbrea,,,,
+1137804,tommaso-cavalli,mantova,187,Left,110000 EUR
+993821,simone-mazzoletti,no-team,185,Right,54000 EUR
+1141919,riccardo-peresin,asd-citta-di-caorle-la-salute,,, 
+1012122,piero-masi,no-team,190,Right, 
+970332,giuseppe-ripanto,matera,188,Left, 
+1117266,davide-vecchiato,gsd-real-martellago,,, 
+910421,simone-tagliapietra,fcd-dolo-1909-pianiga,180,Left,53000 EUR
+,edoardo-soldati,,,,
+915721,marco-zender,no-team,,Right, 
+1530571,nicola-faggian,asd-favaro-1948,,, 
+986045,lorenzo-caradonna,novara,,Right,71000 EUR
+849064,roberto-strechie,no-team,174,Left,47000 EUR
+,fabio-morello,,,,
+1124000,simone-cammozzo,calvi-noale,,, 
+949778,riccardo-cataldi,lr-vicenza,169,Left,110000 EUR
+,davide-cipolato,,,,
+,giovanni-de-bortoli,,,,
+936166,mattia-zennaro,,,,
+1012187,diego-basso,no-team,,,52000 EUR
+,pietro-luigi-castagna,,,,
+972066,stefano-piovesan,,,,
+1528935,nicolo-stalla,calvi-noale,,, 
+991471,tarik-candic,nd-primorje,186,Right,79000 EUR
+1100382,samuel-marchesan,no-team,,,27000 EUR
+1124009,giorgio-bagarotto,calvi-noale,,, 
+,alessandro-fossati,,,,
+,harvey-st-clair,,,,
+981228,alex-pimenta,,,,
+892666,nicolo-simeoni,bassano,190,Left,23000 EUR
+,kader-amara-kone,,,,
+1150554,abdul-abubakar,cattolica-san-marino,,Both,27000 EUR
+926138,domenico-rossi,,,,
+,mattia-tagliapietra,,,,
+951930,nicolo-buso,lecco,176,Right,300000 EUR
+972088,alessio-mortati,,,,
+1142985,riccardo-pasqualato,union-pro,,, 
+,jonas-schmalbach,,,,
+977072,enrico-pozzebon,acd-robeganese-fulgor-salzano,185,Right,24000 EUR
+,riccardo-cuzzi,,,,
+1177588,cesare-pasqual,asd-citta-di-caorle-la-salute,,, 
+,nicolo-ervaz,,,,
+,pietro-costanzo,,,,
+888659,federico-adorni,imolese,188,Right,26000 EUR
+945414,fabrizio-bagheria,no-team,185,Right,54000 EUR
+,emanuele-alborghetti,,,,
+990411,edoardo-corvi,parma,183,Right,310000 EUR
+,leonardo-buzzi,,,,
+1002428,filippo-rinaldi,olbia,188,Right,155000 EUR
+1083122,qenan-bukova,no-team,187,Right, 
+972762,vincenzo-de-meio,mezzolara,188,Right,26000 EUR
+945413,andrea-di-maggio,no-team,,Right, 
+,angelo-rallo,,,,
+1025677,benjamin-hiekkanen,no-team,,, 
+,alex-bisagni,,,,
+,francesco-mossini,,,,
+1083107,abdoul-hate-bane,pro-palazzolo,,Right,120000 EUR
+1085943,matteo-lucarelli,tsarsko-selo-sofia,,, 
+1083106,cristian-casarini,no-team,,,45000 EUR
+972843,niccolo-monti,brindisi,182,Left,46000 EUR
+1138325,lorenzo-vecchi,potenza,,, 
+970690,nicholas-oberrauch,no-team,186,Left,23000 EUR
+895920,nicolo-canalicchio,no-team,182,Left, 
+,lorenzo-botturi,,,,
+972844,simone-dodi,no-team,181,Right,53000 EUR
+1012348,gabriel-rocchi,asd-piccardo-traversetolo,,, 
+1012021,mamadou-togola,no-team,179,Right,47000 EUR
+963364,kevin-fransson,,,,
+,federico-lugli,,,,
+,marco-daloia,,,,
+800370,abdou-diakhate,,,,
+913070,gabriele-carannante,grosseto,184,Right,53000 EUR
+916173,mattia-tardivo,dolomiti-bellunesi,,Right,69000 EUR
+,simone-madonna,,,,
+864121,moussa-kone,nk-izola,175,Left,27000 EUR
+973139,simone-buffa,,,,
+,lorenzo-palmieri,,,,
+958167,drissa-camara,parma,179,Right,1200000 EUR
+896336,martin-montipo,lentigione,193,Right,24000 EUR
+,lamin-colley,,,,
+1011554,matteo-panati,no-team,,Both,45000 EUR
+1068052,leonardo-trezza,lecce-u19,,, 
+,robin-pregliasco,,,,
+1011970,alessandro-patacchini,no-team,,,26000 EUR
+947062,federico-pelle,no-team,,Left,23000 EUR
+896574,alessandro-davitti,modena,,, 
+931366,gianluigi-chiacchio,sapri,193,Right,10000 EUR
+974478,carl-davordzie,cs-gloria-2018-bistrita-nasaud,,Both,24000 EUR
+994419,fabio-alagna,citta-di-santagata,190,Right,47000 EUR
+,raffaele-martino,,,,
+1083109,jakub-stefancin,partizan-bardejov,,,26000 EUR
+1009516,gabriele-artistico,virtus-francavilla,177,Right,69000 EUR
+981271,redi-kasa,,,,
+916322,mattia-chiesa,hellas-verona,190,Right,94000 EUR
+1017646,luca-fontana,no-team,,, 
+1011495,dorian-ciezkowski,no-team,190,Left,23000 EUR
+995341,simone-tota,,,,
+893642,marash-kumbulla,roma,191,Right,7400000 EUR
+929749,manuel-peretti,recanatese,188,Right,81000 EUR
+929740,riccardo-perazzolo,no-team,188,, 
+929742,giacomo-righetti,vigasio,,Right,47000 EUR
+929741,jody-maistrello,scardovari,,,9000 EUR
+1012467,mateusz-hudzik,no-team,190,Right, 
+1012113,daniel-plaka,ao-chalkis,187,Left, 
+1017644,elia-dal-cortivo,no-team,188,,24000 EUR
+1011488,bernardo-calabrese,padova,184,Left,185000 EUR
+929743,fabio-corradini,no-team,,Left,10000 EUR
+1020372,darrel-agbugui,,,,
+928818,riccardo-meneghini,vigasio,174,Right,23000 EUR
+929745,davide-galazzini,trento,181,Right,130000 EUR
+916274,gianmaria-bagarolo,no-team,187,Right,10000 EUR
+1011496,diego-bernardinello,no-team,,,52000 EUR
+1011487,andrea-gresele,no-team,178,Right,55000 EUR
+1125294,niko-lucaj,no-team,,, 
+893993,andrea-danzi,cittadella,175,Right,410000 EUR
+944624,jakub-sinior,pogon-siedlce,184,Right,105000 EUR
+,rocco-de-zotti,,,,
+1143198,matias-martinez,panachaiki-fc,190,Right,49000 EUR
+929752,lucas-felippe,crotone,178,Left,190000 EUR
+875006,aleksejs-saveljevs,fk-auda,184,Right,270000 EUR
+929750,michele-valente,no-team,,,0 EUR
+1012238,vincenzo-lisi,vastogirardi,174,Right,73000 EUR
+1012142,federico-nardi,team-santa-lucia-golosine,,,26000 EUR
+1011490,nunzio-brandi,imolese,189,Right,52000 EUR
+929747,alessandro-cherubin,caldiero-terme,175,Right,24000 EUR
+929753,alberto-fiumicetti,no-team,,Right,24000 EUR
+851600,abdoulaye-traore,no-team,,Right,26000 EUR
+929754,precious-amayah,no-team,177,Right,26000 EUR
+1106647,adam-jemal,afc-eskilstuna,,, 
+929756,adama-sane,gzira-united-fc,178,Right,110000 EUR
+928808,vittorio-vigolo,no-team,182,Right,52000 EUR
+888536,joel-mumbongo,hamilton-academical,187,Right,145000 EUR
+929757,joseph-ekuban,monterosi-tuscia,185,Right,52000 EUR
+1012152,andrea-rudella,no-team,,, 
+1136976,giammarco-caon,vastogirardi,188,Right,26000 EUR
+1187063,philip-yeboah,lucchese,180,Right,185000 EUR
+877541,simone-festa,,,,
+916051,paolo-bastianello,,,,
+,juli-ndoj,,,,
+,nicola-luna,,,,
+,alessandro-coppola,,,,
+,diego-abbrandini,,,,
+1012285,federico-botti,pro-sesto,,,120000 EUR
+,fabio-pilotti,,,,
+,stefano-filigheddu,,,,
+,paolo-prandini,,,,
+994650,marco-carminati,sangiuliano-city,192,Right,27000 EUR
+914936,andrea-gentili,ciliverghe,178,Right,24000 EUR
+,paul-ashieku-antah,,,,
+1023080,andrea-papetti,brescia,186,Right,1900000 EUR
+1111377,mattia-carta,lanciano-calcio-1920,,, 
+949793,alessandro-milesi,club-atletico-grau,185,Left,190000 EUR
+,giulio-magri,,,,
+1065137,mattia-capoferri,pergolettese,187,Left,190000 EUR
+865798,alessandro-semprini,desenzano,182,Right,130000 EUR
+972307,lorenzo-treccani,,,,
+915544,angelo-cazzago,,,,
+914942,giorgio-licini,no-team,182,Right,52000 EUR
+,karim-chair,,,,
+1012351,luca-firetto,no-team,,Right, 
+930360,mattia-viviani,cosenza,183,Right,970000 EUR
+928794,nicola-torchio,no-team,,,27000 EUR
+,luca-frassine,,,,
+,giorgio-lancini,,,,
+1012352,lorenzo-andreoli,pergolettese,182,Right,170000 EUR
+1012300,tommaso-venturelli,vobarno,,Right,23000 EUR
+971675,simone-barezzani,no-team,,Right, 
+1525475,samuel-zimta,scm-zalau,,, 
+,andrea-lussignoli,,,,
+,lorenzo-marazzi,,,,
+1012350,filippo-guerini,no-team,,Left,45000 EUR
+1012281,daniele-pellegrini,no-team,,Right,26000 EUR
+1012354,davide-zambelli,no-team,,,49000 EUR
+971677,lorenzo-faini,no-team,177,Right,27000 EUR
+971619,matteo-signorelli,,,,
+972312,daniele-colosio,,,,
+,fode-mamoudou-doumbouya,,,,
+,andrea-ghezzi,,,,
+,matteo-cortesi,,,,
+,riccardo-canciani,,,,
+,francesco-ruocco,,,,
+962364,lorenzo-lucca,udinese,201,Right,5400000 EUR
+928920,mouhamed-belkheir,fortuna-sittard,185,Left,375000 EUR
+,raul-torregrossa,,,,
+,lorenzo-pesenti,,,,
+928860,brijan-ibrahimi,no-team,193,Both,24000 EUR
+,riccardo-sensibile,,,,
+918004,antonio-russo,,,,
+895768,bruno-capasso,no-team,186,Right,23000 EUR
+,emanuele-marino,,,,
+1020159,gianmarco-leggiero,,,,
+,vincenzo-scognamiglio,,,,
+1020251,jacopo-de-matteis,messina,186,,23000 EUR
+,luigi-tozzi,,,,
+993172,antonio-granata,padova,190,Both,46000 EUR
+945633,gioacchino-galeotafiore,paganese,182,Left,135000 EUR
+,pietro-vitale,,,,
+,antonio-fucci,,,,
+,francesco-di-micco,,,,
+,ugo-dellorfanello,,,,
+993173,filippo-sette,no-team,183,Right,23000 EUR
+1013614,piergiorgio-falivene,pro-sangiorgese,,Left,27000 EUR
+,gaetano-gambardella,,,,
+1011810,jacopo-de-foglio,no-team,174,Right,24000 EUR
+933402,mattia-novella,,,,
+1013616,walter-galiano,faiano-1965,,Right,10000 EUR
+,cristian-volpe,,,,
+,francesco-panico,,,,
+,andrea-vignes,,,,
+,francesco-buonaiuto,,,,
+,matias-di-battista,,,,
+864827,francesco-proto,costa-damalfi,,,27000 EUR
+1012509,matteo-iurato,no-team,,Right,45000 EUR
+1013370,gabriele-esposito,no-team,,, 
+973303,michael-fibiano,no-team,,,24000 EUR
+,francesco-pezzo,,,,
+,andrea-marino,,,,
+,leonardo-rossi,,,,
+1136997,antonio-fois,no-team,,Right,26000 EUR
+,nunzio-crispini,,,,
+947171,andre-anderson,lazio,180,Right,1000000 EUR
+,tommaso-rossi,,,,
+993175,alessio-bartolotta,no-team,171,Right, 
+,valerio-baldassi,,,,
+,francesco-orlando,,,,
+896666,nicolas-pezone,no-team,170,Right,23000 EUR
+,alessandro-totaro,,,,
+993174,agostino-del-regno,no-team,184,Right,27000 EUR
+,pier-luca-ramazzotti,,,,
+936157,pasquale-de-sarlo,,,,
+1013385,luigi-magliulo,no-team,,, 
+1013519,raffaele-busce,no-team,,, 
+1013452,carmine-iannone,paganese,178,Both,24000 EUR
+,vincenzo-raiola,,,,
+,lorenzo-cannavale,,,,
+1009785,angelo-guida,turris,184,Right,46000 EUR
+,axel-desjardins,,,,
+881258,simone-barone,cavese,184,,24000 EUR
+910423,francesco-mazzini,no-team,,Right,26000 EUR
+,marco-angeletti,,,,
+1013257,matteo-marinari,no-team,188,Right,71000 EUR
+,tommaso-mannucci,,,,
+,luca-bertacca,,,,
+1136975,vito-lacassia,barletta,183,Right,120000 EUR
+1013356,alessandro-del-gaudio,no-team,,Left,27000 EUR
+1011677,alessio-di-vittorio,no-team,182,Left,26000 EUR
+1011701,marco-castagnaro,no-team,,Right,52000 EUR
+1069036,cristian-cerretti,pontedera,189,Right,77000 EUR
+,luca-franzoni,,,,
+928852,manlio-di-masi,ligorna,176,Right,120000 EUR
+,filippo-dellamico,,,,
+1011732,gianmarco-bonfiglioli,no-team,,Right, 
+,alessio-felice,,,,
+,niccolo-conti,,,,
+,lorenzo-bellotti,,,,
+,giuseppe-mastinu,,,,
 839344,przemyslaw-bargiel,wieczysta-krakow,179,Right,180000 EUR
-891483,dominik-lewandowski,gornik-leczna,170,, 
-,marcin-milota,,,,
-921217,aleksander-sobczak,gks-belchatow,191,, 
-,szymon-pajkert,,,,
-,dominik-teda,,,,
-,krystian-wojtczyk,,,,
-,dominik-bieniek,,,,
-,damian-pedziwiatr,,,,
-171085,damian-augustyniak,sokol-kleczew,182,, 
-,marcin-skawinski,,,,
-,maciej-weglewski,,,,
-,mateusz-wiewiorowski,,,,
-,piotr-zerka,,,,
-,michal-klimczak,,,,
-,albert-jasitczak,,,,
-,artur-cholerzynski,,,,
-,mikolaj-kotowski,,,,
-841409,damian-michalski,spvgg-greuther-furth,191,Right,1200000 EUR
-,bartlomiej-ozga,,,,
-921225,daniel-chwalowski,no-team,,Right,54000 EUR
-,maciej-walczak,,,,
-921226,bartlomiej-zielinski,gks-belchatow,179,, 
-,jakub-szaniec,,,,
-920655,mateusz-ciesielski,garbarnia-krakow,183,, 
-,michal-dymek,,,,
-,marcin-lewicki,,,,
-,rafal-marynowski,,,,
-,oskar-mazerant,,,,
-1432899,mikolaj-nowak,sms-pzkosz-wladyslawowo,,, 
-,kacper-podedworny,,,,
-,rafal-trzmiel,,,,
-,marcel-grot,,,,
-889649,marcin-ryszka,staal-jorpeland,174,,49000 EUR
-,kacper-szafranski,,,,
-,aleksander-michalski,,,,
-39442,sebastian-janik,no-team,171,Left,0 EUR
-,damian-siewiera,,,,
-971431,damian-michalak,gks-belchatow,,,23000 EUR
-,kornel-stankiewicz,,,,
-,marcel-ogrodowczyk,,,,
-,mieszko-spiewak,,,,
-,wojciech-byszewski,,,,
-,kamil-kopec,,,,
-971412,kordian-gorka,lechia-tomaszow-mazowiecki,168,Both,0 EUR
-921229,hubert-berlowski,no-team,183,, 
-,michal-kutyba,,,,
-,filip-przybylski,,,,
-,krzysztof-ruszkiewicz,,,,
-,kacper-wojtczyk,,,,
-956479,mateusz-stolarczyk,no-team,180,,45000 EUR
-921228,przemyslaw-zdybowicz,gks-belchatow,184,Right,82000 EUR
-,mateusz-szyszkowski,,,,
+,michael-deramo,,,,
+906595,matteo-figoli,pergolettese,180,Right,120000 EUR
+1011743,matteo-cerchi,no-team,183,Left,26000 EUR
+993157,adamu-haruna,,,,
+1099981,andrea-marianelli,san-donato-tavarnelle,,Right,78000 EUR
+928820,gregorio-morachioli,bari,172,Right,520000 EUR
+,lorenzo-lepri,,,,
+,thomas-riviera,,,,
+,diego-ciccarelli,,,,
+865649,luca-scarlino,fezzanese,165,Both,23000 EUR
+862467,suleiman-abdullahi,,,,
+917882,vincenzo-pisani,aurora-alto-casertano,183,Right,53000 EUR
+962363,adugna-bachini,no-team,,,0 EUR
+1009292,augustinas-klimavicius,,,,
+1011757,eric-tivegna,no-team,,,23000 EUR
+947961,edoardo-colombo,,,,
+,matteo-rossi,,,,
+1011552,filippo-pizzonia,no-team,,, 
+1012591,leonardo-maniglio,no-team,194,Right,47000 EUR
+,alessandro-mascolo,,,,
+1534565,nicola-mascolo,,,,
+,mattia-di-gennaro,,,,
+226818,max-barnofsky,no-team,191,Both,9000 EUR
+916208,fabio-varoli,,,,
+826928,reno-wilmots,,,,
+1013142,christian-bonacchi,no-team,186,Right,140000 EUR
+916355,michael-venturi,cosenza,180,Right,390000 EUR
+970939,denis-dembacaj,castelvetro,,,54000 EUR
+1012345,andrea-ferrari,castelvetro,,, 
+,manuel-mazia,,,,
+1012252,enrico-galli,no-team,,,23000 EUR
+,lorenzo-giovane,,,,
+,matteo-lorenzi,,,,
+,matteo-orpelli,,,,
+970725,antonio-gerace,no-team,,Left, 
+,marco-lillaz,,,,
+1012346,alessio-ferrari,asd-cittadella-vis-modena,,, 
+,giulio-davoli,,,,
+,matteo-caramaschi,,,,
+1065310,federico-danovaro,no-team,172,Right,160000 EUR
+1112295,nicolo-pepe,,,,
+,matteo-scacchetti,,,,
+,giuseppe-lombardo,,,,
+,james-gazzara,,,,
+,alessio-esposito,,,,
+826570,giovanni-crociata,,,,
+1012223,diego-ricciotti,sp-tre-penne,,, 
+,exauce-nsingi,,,,
+992608,alberto-maroni,no-team,175,Right,27000 EUR
+,rafael-iacovelli,,,,
+914341,mattia-agazzi,no-team,174,Both, 
+1146428,gianluca-mastromonaco,taranto,170,Right,140000 EUR
+1011737,giacomo-cecon,no-team,,,23000 EUR
+1011634,romeo-giovannini,modena,172,Right,270000 EUR
+1116854,nouhan-toure,citta-di-teramo-1913,,, 
+971696,akashdeep-singh,no-team,,, 
+,adama-diarrassouba,,,,
+1065311,pietro-simone,no-team,,Right, 
+954038,mattia-saporetti,us-russi,185,Right,27000 EUR
+1089523,emir-bokri,nk-rovinj-cc-rovigno,189,Right, 
+1013240,manlio-mangione,no-team,186,Right, 
+,sonny-contri,,,,
+,pietro-biancheri,,,,
+,emanuele-borriello,,,,
+848244,andrea-rossi,no-team,185,Right, 
+973939,nicolo-radaelli,,,,
+1017534,matteo-scarduzio,no-team,,,10000 EUR
+993544,emanuele-de-bono,citta-di-santagata,,, 
+965929,alessandro-fiore,no-team,,,0 EUR
+848245,filippo-forni,no-team,192,Left,26000 EUR
+949791,davide-missaglia,no-team,,Right,23000 EUR
+930441,riccardo-bignami,pergolettese,,Right,80000 EUR
+936161,andrea-gallina,,,,
+991462,omar-hoxha,fc-collina-doro,188,Right,23000 EUR
+962365,stefano-cella,ancona,185,Right,270000 EUR
+967542,federico-bertolotti,no-team,,Left,26000 EUR
+1017533,alessandro-besozzi,no-team,,Left,27000 EUR
+1017532,nicolas-perotta,lucchese,180,Left,52000 EUR
+1012255,federico-palla,no-team,,Right,53000 EUR
+1001746,federico-cerri,crema,180,Right,54000 EUR
+,andrea-alpoli,,,,
+1015172,leonardo-bia,,,,
+1011967,simone-brignoli,no-team,,,23000 EUR
+1012258,tommaso-guindani,no-team,,Left,23000 EUR
+,manuel-poledri,,,,
+928887,marco-amadio,renate,177,Right,215000 EUR
+1017528,lorenzo-rossi,no-team,,, 
+1012280,alessio-del-monaco,no-team,,, 
+1017525,daouda-sow,no-team,,, 
+1017524,ireno-crivella,no-team,,,23000 EUR
+1017522,matteo-ghisolfi,audace-cerignola,190,Right,94000 EUR
+962366,stefano-girelli,sampdoria,177,Right,255000 EUR
+930440,tommaso-spaviero,desenzano,183,Right,94000 EUR
+917100,davide-rovido,,,,
+1017523,alessandro-salami,no-team,,, 
+1017520,marco-jose-bingo,no-team,,Left,24000 EUR
+1017518,andrea-bertazzoli,no-team,,Right,52000 EUR
+928861,marco-pedroni,vigasio,187,Right,26000 EUR
+1017519,konan-junior-kadjo,no-team,,, 
+927634,thomas-vettorel,,,,
+945948,alberto-rosteghin,gsd-real-martellago,180,Left,26000 EUR
+,daniele-bigaj,,,,
+,gabriele-plechero,,,,
+1147031,alberto-securo,asd-campigo,,, 
+1101485,alberto-milan,gelbison,,,24000 EUR
+1012251,filippo-farinon,virtus-cornedo,,, 
+864835,gabriele-dalla-bernardina,montecchio-maggiore,187,Right,52000 EUR
+924139,daniele-addolori,no-team,,Left,68000 EUR
+,giorgio-bozzato,,,,
+,pietro-scalco,,,,
+1125295,petro-memushi,no-team,186,Right, 
+,fabricio-nogueira-lucchini,,,,
+1013258,tommaso-gentile,adriese,186,Right,45000 EUR
+992716,niccolo-varotto,no-team,182,Left, 
+992627,sebastiano-rosa,no-team,185,,47000 EUR
+1013202,gennaro-cervasio,us-arcella,175,Left, 
+,riccardo-zarpellon,,,,
+,gregorio-zanella,,,,
+1012135,galliano-venturini,no-team,183,Right,24000 EUR
+967591,kevin-guerra,no-team,176,Right,24000 EUR
+1141852,davide-fior,san-giorgio-in-bosco,,, 
+,matteo-marini,,,,
+,antonio-cuomo,,,,
+993547,lorenzo-ghion,godigese,,, 
+,cristian-zacchia,,,,
+1104683,andrea-tomasi,este,,,52000 EUR
+893922,andrea-bussaglia,pro-sesto,172,Right,105000 EUR
+928196,fabio-corigliano,,,,
+922771,riccardo-menon,no-team,175,Right,0 EUR
+,gianmarco-pizzinato,,,,
+,nicholas-bariol,,,,
+1141825,matteo-volpato,united-borgoricco-campetra,,, 
+1190950,nicholas-saggionetto,cittadella,184,Left,52000 EUR
+,tennyson-omoregie,,,,
+1115080,alessandro-pezzuti,levico-terme,,, 
+848130,luca-maniero,adriese,176,Right,130000 EUR
+1528946,gabriel-stefani,calvi-noale,,, 
+1012116,angelo-rosa,pozzonovo,,, 
+1422847,corrado-sguotti,no-team,,, 
+363872,giuseppe-panico,carrarese,178,Right,320000 EUR
+1147026,riccardo-pasinato,,,,
+991464,patrick-pasha,calvi-noale,,,24000 EUR
+1012101,matteo-pasinato,no-team,,,24000 EUR
+1012134,anthony-cordiale-mccutchen,no-team,,,27000 EUR
+1069047,salvatore-costagliola,paganese,,, 
+,christopher-borgo,,,,
+973387,placido-castaldo,no-team,187,Right,10000 EUR
+927630,gregorio-delle-monache,no-team,,,55000 EUR
+,riccardo-gavagnin,,,,
+1017255,filippo-bacchin,no-team,,,79000 EUR
+1168811,enrico-lunardi,asd-limena,,, 
+982601,matteo-lovato,,,,
+984049,marco-ruggero,,,,
+1012046,matteo-gemini,no-team,188,Right,45000 EUR
+1005347,matei-ilie,,,,
+,samuele-rroga,,,,
+,lorenzo-stefani,,,,
+1012041,tommaso-calgaro,este,,,26000 EUR
+1210857,zygimantas-baltrunas,fk-suduva-marijampole,179,Left,230000 EUR
+1000581,andres-dumitrescu,slavia-praha,,Left,695000 EUR
+,luca-carletti,,,,
+,lorenzo-contessa,,,,
+,nicola-boscolo-bisto,,,,
+1012006,alberto-brigati,mestre,,Right,52000 EUR
+,mateusz-antonowicz,,,,
+852482,matteo-scevola,albignasego-calcio,,Right,52000 EUR
+962870,antonio-illuminato,no-team,174,Left,26000 EUR
+,filippo-borin,,,,
+,manuel-ivastanin,,,,
+,rafael-iacovelli,,,,
+,mattia-de-santi,,,,
+,denis-timpanaro,,,,
+1012110,christian-duse,no-team,,Left,26000 EUR
+1116840,edoardo-lovato,us-arcella-padova,,, 
+,lorenzo-schievano,,,,
+984047,cherif-karamoko,,,,
+1140550,paul-chukwuebuka-nnodim,,,,
+,marco-polazzon,,,,
+,giorgos-naoum,,,,
+949781,david-lordkipanidze,no-team,178,Left,68000 EUR
+,vincenzo-rizzelli,,,,
+1012118,francesco-gerthoux,levico-terme,181,,23000 EUR
+932755,drilon-sadiku,no-team,187,Left,52000 EUR
+,amine-bnou-rida,,,,
+,piero-violato,,,,
+,agapios-vrikkis,,,,
+,jacopo-finessi,,,,
+1012048,nicolo-telesi,asd-citta-di-caorle-la-salute,,Right,45000 EUR
+1012047,davide-rosso,adriese,193,Left,78000 EUR
+,antonio-sattin,,,,
+1422962,alessio-menato,,,,
+949780,luca-moro,spezia,189,Right,2900000 EUR
+985375,alessandro-cerbara,no-team,179,Right,24000 EUR
+899079,giacomo-lezzi,fasano,,Right,52000 EUR
+975133,marco-spina,gubbio,181,Left,270000 EUR
+1005890,szymon-czyz,gornik-zabrze,176,Right,390000 EUR
+,nermin-karic,,,,
+,vangelis-syllektis,,,,
+947167,christos-talichmanidis,paok,185,Right,185000 EUR
+947160,konstantinos-balomenos,paok-b,187,Right,115000 EUR
+947163,symeon-papadopoulos,volos-nfc,190,Right,160000 EUR
+,michail-libertini,,,,
+947165,angelos-moutzouris,episkopi-fc,192,Left,52000 EUR
+,giannis-michailidis,,,,
+947162,apostolos-diamantis,fcu-1948-craiova,187,Right,640000 EUR
+930192,konstantinos-balogiannis,,,,
+947155,marios-tsaousis,pas-giannina,175,Left,555000 EUR
+1005960,giannis-karakoutis,olympiacos-b,182,Left,73000 EUR
+850774,lefteris-lyratzis,paok,172,Right,1900000 EUR
+999217,petros-kaloutsikidis,ae-larisa,175,Left,185000 EUR
+,stathis-tachatos,,,,
+882082,kyriakos-giaxis,paok-b,184,Right,210000 EUR
+947159,serafim-maniotis,,,,
+1134573,christos-voutsas,panathinaikos-b,178,,205000 EUR
+999221,dimitrios-theodoridis,,,,
+,spyros-atmatzidis,,,,
+947158,theocharis-tsingaras,paok,173,Right,1200000 EUR
+976279,achilleas-salamouras,,,,
+947164,anastasios-meletidis,makedonikos,172,Left,130000 EUR
+,georgios-noukaris,,,,
+947153,zisis-chatzistravos,panserraikos,168,Right,310000 EUR
+947157,georgios-doumtsis,pae-rodos-fc,180,Right,90000 EUR
+1002007,giannis-konstantelias,,,,
+885137,georgios-tzovaras,atromitos-athens,184,Left,265000 EUR
+947161,antonis-gaitanidis,,,,
+947166,theodoros-pournaras,no-team,173,Right,23000 EUR
+,kimon-koreas,,,,
+,dimitrios-xifilinos,,,,
+849188,alexandros-gargalatzidis,no-team,181,Right,120000 EUR
+1163044,dimitrios-panidis,,,,
+947190,panagiotis-ginis,aek-athens,190,Right,155000 EUR
+1050809,angelo-tafas,fk-kukesi,184,Both,180000 EUR
+1082352,georgios-theocharis,aek-athens,188,Right,110000 EUR
+,nikolaos-kaloudis,,,,
+,efthymios-bakolas,,,,
+1148957,manolis-arvanitis,no-team,183,Right,80000 EUR
+,konstantinos-karavidas,,,,
+1116493,giannis-tsivelekidis,nomme-kalju,187,Left,215000 EUR
+1148959,athanasios-kotsios,ao-rethymniakos,183,Right,26000 EUR
+,michalis-bousis,,,,
+,alexandros-malissovas,,,,
+1141094,stefanos-katsikas,,,,
+,konstantinos-stamoulis,,,,
+,paris-bampis,,,,
+1123338,donald-bogdani,no-team,183,Right,27000 EUR
+,georgios-petousis,,,,
+1445529,leonidas-pozatzidis,no-team,184,Left,26000 EUR
+,ilias-avgeris,,,,
+,georgios-tabas,,,,
+,giannis-fivos-botos,,,,
+962316,giannis-sardelis,panathinaikos-b,171,Both,330000 EUR
+,michalis-tselios,,,,
+1461308,ilias-lazaridis,,,,
+1442225,konstantinos-ikonomikos,,,,
+,giannis-kopitsis,,,,
+1149017,giannis-koromilas,aek-b,175,Left,90000 EUR
+901718,christos-giousis,sc-telstar,176,Right,520000 EUR
+1018760,efthymios-christopoulos,panachaiki-fc,181,Right,275000 EUR
+,theodosis-macheras,,,,
+,marios-markou,,,,
+,savvas-tzouanakis,,,,
+,georgios-stamatis,,,,
+1100185,themistoklis-patrinos,panachaiki-fc,182,Both,120000 EUR
+,manolis-bakiris,,,,
+,konstantinos-bilikaidis,,,,
+1101775,michalis-kosidis,,,,
+850769,antonis-tsiftsis,rakow-czestochowa,191,Both,540000 EUR
+850767,vasilios-tsimopoulos,,,,
+,dimitrios-paraskevas-petrou,,,,
+979571,vangelis-karachalios,,,,
+,antonis-manousiadis,,,,
+,panagiotis-kolostoumpis,,,,
+947322,panagiotis-diamantopoulos,paniliakos,,Left,0 EUR
+947321,grigoris-fotopoulos,ao-diavolitsiou,,,0 EUR
+,antonis-douros,,,,
+,panagiotis-alimisis,,,,
+922198,giannis-christopoulos,,,,
+,pavlos-papadopoulos,,,,
+,konstantinos-zorbas,,,,
+947318,nikolaos-michelis,osasuna-b,191,Left,310000 EUR
+981577,oluwatobiloba-alagbe,,,,
+,panagiotis-alemis,,,,
+1005957,ilias-christopoulos,,,,
+982639,alexandros-kardaris,,,,
+,athanasios-daniel-gousetis,,,,
+947320,manolis-dine,panarkadikos-ao,,,26000 EUR
+885140,kyriakos-glezos,no-team,176,Right,53000 EUR
+,nikola-tanushaj,,,,
+,konstantinos-askotiris,,,,
+,panagiotis-papaioannou,,,,
+,christos-tzioumis,,,,
+,pantelis-adamopoulos,,,,
+1140364,georgios-kanellopoulos,hjk,173,Right,385000 EUR
+,orestis-ademaj,,,,
+1046229,athanasios-michopoulos,,,,
+889048,robert-kumadey,no-team,175,Left,82000 EUR
+947317,panagiotis-tzimas,pas-giannina,174,Right,480000 EUR
+,anastasios-marios-bonios,,,,
+,christos-almpanis,,,,
+,georgios-kalogerakis,,,,
+,michalis-berkis,,,,
+,angelos-kotsopoulos,,,,
+947319,alexandros-tereziou,pas-lamia-1964,181,Right,91000 EUR
+,giannis-blatsos,,,,
+,georgios-rodopoulos,,,,
+1034293,sudais-ali-baba,,,,
+1590748,christos-kalantzis,ao-piliou,,, 
+,alexandros-stamatis,,,,
+,michalis-pardalos,,,,
+1397602,vangelis-kontogiannis,,,,
+,dimitrios-dovas,,,,
+,vasilios-thodis,,,,
+,vasilios-grigoriadis,,,,
+,giannis-biniaros,,,,
+,panagiotis-kotofolis,,,,
+,dimitrios-giakos,,,,
+946884,dimitrios-gianniotis,,,,
+1033264,apostolos-konstantopoulos,,,,
+,vasilios-skiadas,,,,
+1014090,gerasimos-bakadimas,,,,
+,stathis-meliadis,,,,
+,georgios-kounavas,,,,
+,dimitrios-panagiotidis,,,,
+946908,angelos-tsingaras,panetolikos,173,,310000 EUR
+,panagiotis-theotokatos,,,,
+,athanasios-tsiantis,,,,
+,anestis-mantzanas,,,,
+,thomas-raptis,,,,
+,sotiris-fragoulis,,,,
+,charilaos-doulias,,,,
+,dimitrios-mouratidis,,,,
+912795,dimitrios-dalakouras,,,,
+1616613,sokratis-patilas,apollon-smyrnis,186,Right, 
+993290,dimitrios-fytopoulos,,,,
+,orfeas-frantzeskos,,,,
+,nikolaos-digozis,,,,
+1390227,vangelis-nikolaou,,,,
+980992,frederico-duarte,,,,
+1046233,christos-belevonis,,,,
+1590746,christos-al-obisat,ao-piliou,175,Right, 
+1086593,spyros-skondras,,,,
+993291,alexandros-kavvadias,,,,
+,nikolaos-vasilakas,,,,
+,vasilios-pantazis,,,,
+,stacy-edis-gyan-boatey,,,,
+823848,georgios-tzelepis,tilikratis-lefkadas,186,Right,105000 EUR
+1099335,dimitrios-garas,no-team,192,Both,52000 EUR
+,charalampos-tasidis,,,,
+,dimitrios-kotsakis,,,,
+,ismail-kara,,,,
+,alexandros-tsompanidis,,,,
+,nikolaos-triantafyllou,,,,
+1567071,eleftherios-tsiengelidis,mgs-orestis-orestiadas,,, 
+1445565,athanasios-giannarakis,ae-larisa,186,Right,140000 EUR
+1050704,dimosthenis-tenekes,,,,
+,berkant-niazifoglu,,,,
+,giannis-leontsakos,,,,
+,filimon-frosynis,,,,
+,filippos-dimitriadis,,,,
+983054,georgios-manisoglou,panthrakikos,,Right,49000 EUR
+,angelos-gatzogias,,,,
+,georgios-podaras,,,,
+,ilias-tsitsekidis,,,,
+923046,konstantinos-thymianis,,,,
+936149,giannis-angelopoulos,no-team,175,Right,0 EUR
+,konstantinos-doulgeris,,,,
+,efthymios-tsaparis,,,,
+,ismet-ismetoglou,,,,
+,dimitrios-moysidis,,,,
+,labros-kostarelis,,,,
+,dimitrios-bazoidis,,,,
+,vasilios-molonis,,,,
+,vyacheslav-alexanian,,,,
+,stratos-gravas,,,,
+885138,okan-suleiman,nestos-chrisoupolis,173,Left,96000 EUR
+,christos-pachoumis,,,,
+1050705,georgios-tsilingiris,,,,
+,christos-spyridonidis,,,,
+983050,nektarios-kotopoulos,aris-avatou,181,Right,26000 EUR
+947312,giannis-fakkis,,,,
+,dimitrios-kakoulidis,,,,
+,angelos-kioupis,,,,
+,vache-markosyan,,,,
+,petros-gasimpagiazidis,,,,
+,iordanis-akritidis,,,,
+,dimitrios-tsipouras,,,,
+877865,theodoros-venetikidis,,,,
+,georgios-patsiouras,,,,
+,petros-vakalopoulos,,,,
+,michalis-ladias,,,,
+,diamantis-koukoularis,,,,
+1100356,fotis-pseftis,fc-lugano,190,Right,97000 EUR
+,christos-georgoulas,,,,
+1155803,nikolaos-melingiotis,no-team,,, 
+,giannis-nanos,,,,
+,romeo-zota,,,,
+,andreas-tzortzis,,,,
+,spyros-koulouris,,,,
+,alexandros-pervanas,,,,
+,giannis-peponis,,,,
+,georgios-gogos,,,,
+,spyros-vasilakis,,,,
+,faik-kaja,,,,
+1493227,petros-dodis,,,,
+974076,stavros-pilios,aek-athens,175,Left,545000 EUR
+1440999,dimitrios-tatsis,,,,
+,michalis-pogias,,,,
+,angelos-liasos,,,,
+1155798,konstantinos-tsounis,no-team,,, 
+,georgios-kostamenas,,,,
+1155780,dimitrios-sakkas,anagennisi-artas,,, 
+,ilias-panagiotidis,,,,
+,georgios-pappas,,,,
+,georgios-platias,,,,
+,alexandros-theocharis,,,,
+,konstantinos-papadopoulos,,,,
+1155813,vangelis-karampoikis,,,,
+,konstantinos-boumpas,,,,
+983037,pavlos-grosdanis,eordaikos-2007,188,Right,52000 EUR
+842502,enes-dolovac,fk-tutin,176,,27000 EUR
+1004231,alexandros-lolis,pas-giannina,180,Left,275000 EUR
+951906,vladyslav-naumets,lnz-cherkasy,170,Left,410000 EUR
+1155802,nikolaos-emvraizoglou,no-team,,Right, 
+,georgios-liappis,,,,
+,lazaros-lekkas,,,,
+,konstantinos-giotakis,,,,
+,fotis-lolis,,,,
+,georgios-domatas,,,,
+,vangelis-pappas,,,,
+,athanasios-kanoutas,,,,
+,napoleon-tasioulas,,,,
+946878,giannis-zografos,gas-svoronos,188,Right,0 EUR
+,panagiotis-konstantinopoulos,,,,
+,georgios-kosmas-protopapas,,,,
+,panagiotis-alevras,,,,
+,athanasios-theodoropoulos,,,,
+,mikelanxhelo-latollari,,,,
+,paris-macotaj,,,,
+,odysseas-poulos,,,,
+,christos-kolimatsis,,,,
+,stamatis-nikolaou,,,,
+,dimitrios-sachinis,,,,
+,vangelis-moles,,,,
+,panagiotis-dimou,,,,
+947313,panagiotis-liagas,levadiakos,189,Right,370000 EUR
+,jorgo-saliaj,,,,
+946879,marios-vichos,levadiakos,180,Left,275000 EUR
+,triantafyllos-tsapras,,,,
+,konstantinos-argyriou,,,,
+1567057,konstantinos-panagiotopoulos,mgs-orestis-orestiadas,,, 
+1407672,gerasimos-kyriazis,panelefsiniakos,,, 
+,paraskevas-spyrakis,,,,
+,apostolos-kakos,,,,
+,athanasios-vangelov,,,,
+,christos-stoupas,,,,
+,thomas-motsias,,,,
+1539363,stelios-mytakis,ao-agia-paraskevi,,, 
+,nikolaos-lyberis,,,,
+,christoforos-lechouritis,,,,
+,christos-ghenes-lambiris,,,,
+,georgios-nikas,,,,
+1561396,tilemachos-karampas,,,,
+,panagiotis-pantiskos,,,,
+1009967,harrison-de-nicolo,gottne-if,183,Right, 
+,andreas-papandreou,,,,
+,alexandros-spiri,,,,
+,lampros-tsiolis,,,,
+,giannis-dimos,,,,
+,vangelis-makris,,,,
+,antonis-kotrogiannis,,,,
+,panagiotis-letis,,,,
+,dimitrios-papathanasiou,,,,
+1021785,ilias-karargyris,,,,
+953414,konstantinos-tzolakis,olympiacos,193,Right,1400000 EUR
+997132,dimitrios-stournaras,olympiacos-b,190,Right,145000 EUR
+,konstantinos-iliadis,,,,
+1150221,athanasios-papadoudis,olympiacos,192,Right,290000 EUR
+,dimitrios-tzorvas,,,,
+997095,nikolaos-gotzamanidis,panserraikos,189,Right,235000 EUR
+1001852,anastasios-boskouidis,,,,
+1535894,iason-glynos,ao-ypatou,,, 
+,giannis-galoupis,,,,
+1035588,apostolos-martinis,,,,
+997099,nikitas-nikolis,gs-diagoras-rodou,176,Left,52000 EUR
+998783,vangelis-keramidas,,,,
+1005998,fotis-kitsos,,,,
+1020612,rezart-rama,forge-fc,184,Right,205000 EUR
+,paraskevas-doumanis,,,,
+,christos-konstantinidis,,,,
+983031,angelos-tsavos,gs-diagoras-rodou,181,Right,190000 EUR
+,charalampos-pastras,,,,
+1008252,nikolaos-freris,no-team,174,Right, 
+963987,georgios-neofytidis,no-team,183,Right,180000 EUR
+987433,nikolaos-peios,ae-kifisia-fc,184,Both,320000 EUR
+,stathis-dimos,,,,
+1536808,ilias-georgakopoulos,olympiacos-u19,,, 
+,georgios-xenitidis,,,,
+1539356,panagiotis-tserkonis,aris-petroupolis,,Left, 
+983032,vasilios-sourlis,asteras-tripolis,182,Right,465000 EUR
+1006046,renild-kasemi,levadiakos,181,Right,24000 EUR
+1491904,christos-katsoukis,,,,
+956512,georgios-fekkas,gs-diagoras-rodou,178,Both,47000 EUR
+997102,polykarpos-katsavakis,pierikos,187,Left, 
+1008257,vasilios-dotis,episkopi-fc,175,Left,73000 EUR
+,athanasios-kostanasios,,,,
+,georgios-marinos,,,,
+983046,dimitrios-arsenidis,paniliakos,180,Right,27000 EUR
+912990,alexandros-voilis,,,,
+986139,emiljano-bullari,,,,
+,alexandros-georgantis,,,,
+1150222,georgios-stamoulis,aek-b,183,Right,26000 EUR
+1009498,nikolaos-sfyrlas,aiolikos,,, 
+,petros-didilas,,,,
+1050709,chrysostomos-stagos,,,,
+,panagiotis-stathis,,,,
+,angelos-gioka,,,,
+,christos-kanelakis,,,,
+,giannis-papakonstantinou,,,,
+,georgios-tasias,,,,
+,giannis-veloutsos,,,,
+,athanasios-palanis,,,,
+,filippos-pelekis,,,,
+,dimitrios-tsoupros,,,,
+,stamatis-lykoudis,,,,
+,eduard-dakaj,,,,
+,nikolaos-petras,,,,
+,alexandros-bakullati,,,,
+,dimitrios-stavropoulos,,,,
+1171130,christos-mitsis,po-xylotymbou-2006,193,Right, 
+947347,leonidas-rossi,athens-kallithea-fc,183,Left,205000 EUR
+1617673,konstantinos-dionellis,panionios,176,Left, 
+1050708,georgios-rodis,,,,
+947348,giannis-kontogiannopoulos,ao-karava-peiraios,175,,54000 EUR
+,markos-touroukis,,,,
+,giannis-tsoukas,,,,
+,vasilios-kofinis,,,,
+,marios-serves,,,,
+1541784,alexios-keramas,kentavros-fc-vrilissia,,Right, 
+1006159,konstantinos-roukounakis,,,,
+,stergios-iliopoulos,,,,
+,konstantinos-zacharos,,,,
+,andreas-drosos,,,,
+,konstantinos-karagiannis,,,,
+1539480,alexandros-tsepele,ao-diavolitsiou,,, 
+,paolo-mataj,,,,
+,kevin-broci,,,,
+,dimitrios-papadopoulos,,,,
+,mohamed-mohamed,,,,
+,sarantos-fraros,,,,
+,giannis-makrynikolas,,,,
+,aleksander-llambi,,,,
+1539329,vladimiros-karimpidis,fostiras,,, 
+,giannis-kastoris,,,,
+1440631,dimitrios-tsiavos,,,,
+,michalis-farkonas,,,,
+913762,christos-mandas,lazio,189,Right,1000000 EUR
+,dimitrios-kokolesis,,,,
+1120426,giannis-saltas,,,,
+,dimitrios-ioannidis,,,,
+,nikolaos-leopoulos,,,,
+1539485,nikolas-mema,ao-diavolitsiou,,, 
+,apostolos-rousopoulos,,,,
+975767,georgios-lolos,panerythraikos-fc,187,Left, 
+1539378,georgios-andriopoulos,proodeftiki,,, 
+1100187,konstantinos-tsirigotis,ionikos,,,155000 EUR
+,alexandros-vasilakis,,,,
+1163931,giannis-rizos,,,,
+1100204,nikolaos-athanasiou,,,,
+,emilios-daoulias,,,,
+1499004,vasilios-politis,,,,
+1457580,adrian-imeri,apollon-agiou-ioanni-chanion,,, 
+930193,georgios-vitaliotis,no-team,175,, 
+,grigoris-pietris,,,,
+1539375,vasilios-xenopanagos,proodeftiki,,, 
+,aristidis-sassalos,,,,
+,giannis-chatzovasilakis,,,,
+1484766,konstantinos-christopoulos,ilisiakos-fc,,, 
+1607751,giannis-chochlastos,as-apollon-kalithion,,, 
+1467286,konstantinos-nitsakis,,,,
+1172289,marios-zounis,,,,
+1014354,georgios-petsitis,,,,
+1064485,antonis-trimmatis,atromitos-athens,,, 
+,athanasios-daktylidis,,,,
+1539354,giannis-tsakiris,aris-petroupolis,,, 
+972558,ronaldo-shani,,,,
+,andreas-rounis,,,,
+,georgios-koliniatis,,,,
+,panagiotis-kyrifidis,,,,
+,giannis-vangelis,,,,
+964811,nikolaos-christogeorgos,ofi-crete,193,Right,205000 EUR
+,georgios-christodoulis,,,,
+,giannis-botsaris,,,,
+,nikolaos-gardounis,,,,
+,manolis-ikonomakis,,,,
+,konstantinos-liakopoulos,,,,
+885135,christos-zervopoulos,no-team,191,Right,49000 EUR
+,dimitrios-karagiannis,,,,
+1000275,aleksandro-sadikaj,no-team,186,Right,24000 EUR
+1445520,vasilios-spinos,,,,
+1131207,alexandros-robi,panathinaikos-b,184,Right,235000 EUR
+,epaminondas-manidakis,,,,
+1535168,panagiotis-zografakis,ethnikos-piraeus,,Left, 
+,panagiotis-paraskevopoulos,,,,
+,vasilios-zagaritis,,,,
+,georgios-vagiannidis,,,,
+1474628,georgios-papathanasiou,atromitos-peiraios,,, 
+,ilias-palaskonis,,,,
+1064424,dionysis-samaras,ifestos-peristeriou,178,Right, 
+1150245,georgios-tourkochoritis,panathinaikos-b,174,Right,155000 EUR
+,pavlos-mavroudis,,,,
+947480,dimitrios-serpezis,ionikos,182,Right,120000 EUR
+,ilias-iliadis,,,,
+,alexandros-dimostheniadis,,,,
+1492714,adriano-skenderaj,,,,
+947477,sotiris-alexandropoulos,olympiacos,186,Right,2800000 EUR
+,leonidas-kalomiris,,,,
+981578,andreas-athanasakopoulos,,,,
+,giannis-kostas,,,,
+947476,spyros-tzavidas,no-team,181,Right, 
+947473,kristo-shehu,ao-neas-artakis,189,Right,180000 EUR
+,lefteris-papadopoulos,,,,
+1087593,giannis-niarchos,,,,
+,georgios-stamoulis,,,,
+,orgesi-sulce,,,,
+947459,dimitrios-nikas,apollon-smyrnis,194,Both,79000 EUR
+,vangelis-tzinas,,,,
+,panagiotis-tzortzis,,,,
+,stratos-pasalimaniotis,,,,
+,dimitrios-flabouris,,,,
+,konstantinos-angelis,,,,
+,christos-anastasiou,,,,
+,georgios-ioannidis,,,,
+,dimitrios-tsouroulas,,,,
+947460,antonio-mico,ionikos,175,Left,93000 EUR
+1539351,antonis-semertzakis,ilisiakos-fc,,, 
+,kristjan-bushaj,,,,
+,chrysanthos-vasilopoulos,,,,
+,christos-triantis,,,,
+,michalis-valioutis,,,,
+,konstantinos-lampsias,,,,
+,thoukydidis-ikonomou,,,,
+1500314,paraskevas-nomikos,,,,
+,sotiris-filon,,,,
+,dimitrios-zotos,,,,
+1006159,konstantinos-roukounakis,,,,
+,dimosthenis-efthymiadis,,,,
+,athanasios-tzanetis,,,,
+,nikolaos-kalantzis,,,,
+,stefanos-angeli,,,,
+1010881,christos-retsos,,,,
+1617672,rakip-bregu,panionios,180,Right, 
+,anastasios-koutsakis,,,,
+1394101,manolis-pavlis,no-team,176,Both, 
+994208,frixos-grivas,,,,
+,arines-baculi,,,,
+,leonidas-mountrichas,,,,
+,filippos-tseregof,,,,
+947452,orestis-sousonis,no-team,173,Both,0 EUR
+1539346,alexandros-doulos,ilisiakos-fc,,, 
+,nikolaos-davidis,,,,
+,konstantinos-bilikaidis,,,,
+,panagiotis-nomikos,,,,
+,argyris-dougenis,,,,
+1440631,dimitrios-tsiavos,,,,
+,christoforos-anastopoulos,,,,
+932417,stefanos-souloukos,,,,
+1176701,stratos-misyrlis,no-team,188,,26000 EUR
+,giannis-nikolakoulis,,,,
+,erion-bekteshi,,,,
+,theodoros-platanas,,,,
+,dimitrios-kyrmitsis,,,,
+,theodosis-masouras,,,,
+,vaios-malakos,,,,
+,georgios-bouzoukis,,,,
+,konstantinos-telios,,,,
+,leandro-cacellari,,,,
+,charilaos-fourkiotis,,,,
+,konstantinos-tartas,,,,
+,ernesto-malushi,,,,
+1535878,dimitrios-dimitrakoudis,episkopi-fc,,, 
+947411,lefteris-bamis,no-team,178,,49000 EUR
+,manolis-digozis,,,,
+,konstantinos-prapas,,,,
+,tilemachos-stavros,,,,
+,dimitrios-tamposis,,,,
+,prodromos-koutsoukis,,,,
+,christos-vafiadis,,,,
+,konstantinos-kaberis,,,,
+,dimitrios-subashi,,,,
+1092725,georgios-daktylas,,,,
+,bajram-qerimi,,,,
+,dimitrios-ziakas,,,,
+947412,alexandros-chalatsis,pas-korinthos,189,Right,49000 EUR
+1093233,apostolos-kotsianoulis,,,,
+1176694,dimitrios-miltiadis,,,,
+904546,mitchell-whalley,,,,
+1065536,georgios-zacharakis,,,,
+,theodoros-motsios,,,,
+947409,dimitrios-pinakas,,,,
+,giannis-mouxios,,,,
+,marios-fourkiotis,,,,
+,michalis-tsoumanis,,,,
+1626019,alen-zotaj,pao-rouf,,, 
+909490,panagiotis-katsikas,panserraikos,189,Right,185000 EUR
+,nikolaos-somoglou,,,,
+,ilias-arvanitis,,,,
+,vangelis-mavradas,,,,
+,giannis-pitsonis,,,,
+,simos-tsitziras,,,,
+1477633,chrysostomos-chrysafopoulos,no-team,,, 
+,nikolaos-mitsopoulos,,,,
+,panagiotis-tagalakis,,,,
+,konstantinos-statharas,,,,
+,dimitrios-ditsas,,,,
+,konstantinos-karakostas,,,,
+,thomas-stefanis,,,,
+,nikolaos-koudounas,,,,
+,spyros-alexiadis,,,,
+,nikolaos-mattheou,,,,
+1009497,christoforos-karagiannis,panachaiki-fc,175,Right,140000 EUR
+,anastasios-gountounas,,,,
+,giannis-karvelis,,,,
+,panagiotis-kasapas,,,,
+,athanasios-maglaras,,,,
+,georgios-psorogiannis,,,,
+,dimitrios-altanis,,,,
+,dimitrios-zangogiannis,,,,
+,stergios-pliatsikas,,,,
+,theofylaktos-christopoulos,,,,
+,aleksandro-shakaj,,,,
+,georgios-dimitriou,,,,
+,achilleas-kavalaris,,,,
+,pantelis-dzios,,,,
+,ilias-giannakakos,,,,
+,dimitrios-spathoulas,,,,
+,fatjon-pacani,,,,
+1014474,konstantinos-nikolopoulos,,,,
+947425,vasilios-kostika,,,,
+,ilias-karagiannis,,,,
+,georgios-labropoulos,,,,
+1003005,anestis-vlachomitros,,,,
+,dimitrios-karabotsis,,,,
+,chrysostomos-vlachakis,,,,
+,panagiotis-fousekis,,,,
+,konstantinos-panou,,,,
+,athanasios-batalamas,,,,
+,konstantinos-sevastidis,,,,
+,vangelis-babouris,,,,
+,konstantinos-parisis,,,,
+,giannis-bagalianis,,,,
+,dimitrios-tsapikounis,,,,
+947471,petros-bagalianis,olympiacos-b,185,Right,275000 EUR
+947470,paraskevas-kallidis,posidonas-n-michanionas,,,0 EUR
+,christos-mouratidis,,,,
+,stefanos-vasilopoulos,,,,
+,christos-sioutas,,,,
+1006169,elird-mero,no-team,173,, 
+1034674,panagiotis-tsagalidis,,,,
+,dimitrios-delizanos,,,,
+1065515,panagiotis-sengergis,,,,
+,nikolaos-seibert,,,,
+1429812,vasilios-katsoulidis,olympiacos-b,182,Right,97000 EUR
+,christos-marmaridis,,,,
+,orestis-kotrotsos,,,,
+,georgios-papageorgiou,,,,
+,panagiotis-axiniaris,,,,
+,dimokritos-psomatakis,,,,
+,stathis-kagelidis,,,,
+,nikolaos-trakas,,,,
+,lazaros-kantartzis,,,,
+,konstantinos-koutsoukis,,,,
+,konstantinos-kritsis,,,,
+,vangelis-papanikos,,,,
+1579958,christos-pagos,posidonas-n-michanionas,,, 
+1127153,georgios-krimitzas,aiolikos,,,105000 EUR
+,georgios-grammenos,,,,
+1008005,petros-bakoutsis,,,,
+,dimitrios-vavliakis,,,,
+,georgios-kalaitzis,,,,
+,borce-laskov,,,,
+1065514,konstantinos-chatzipirpiridis,,,,
+,odysseas-kontopoulis,,,,
+,michalis-baliktsis,,,,
+,giannis-sioutas,,,,
+,georgios-pappas,,,,
+,efthymios-zisopoulos,,,,
+,christos-neokosmidis,,,,
+,manolis-angelakis,,,,
+1046329,vasilios-sifakis,,,,
+,antonis-makatounakis,,,,
+,michalis-kokologiannis,,,,
+,athanasios-tzortzakis,,,,
+,vangelis-zervakis,,,,
+,charalampos-kougioumtzis,,,,
+,manolis-papantonakis,,,,
+,stefanos-pylios,,,,
+,vasilios-deligiannidis,,,,
+989666,manolis-perdikis,,,,
+1175215,chris-xenoktistakis,almyros-gaziou,,Left, 
+,konstantinos-lagoudakis,,,,
+1613006,minas-avgoustakis,ermis-zonianon,,, 
+1440632,georgios-makrydakis,,,,
+1461825,panagiotis-papiomitoglou,poseidon-geraniou,,, 
+,antonis-kourinos,,,,
+1501898,stavros-gaitanis,,,,
+1462732,giannis-dolapsakis,agios-nikolaos,,, 
+,konstantinos-psarras,,,,
+1159002,ilias-vrettos,ao-rethymniakos,182,Right,26000 EUR
+,giannis-fasarakis,,,,
+947475,vangelis-xepapadakis,ao-rethymniakos,172,Right,0 EUR
+989665,georgios-sournakis,,,,
+956184,konstantinos-kalaitzakis,ermis-atsaleniou,166,Right,55000 EUR
+1101386,michalis-marinakis,agios-nikolaos,183,Right,73000 EUR
+,vangelis-nikokyrakis,,,,
+,manolis-stavrakakis,,,,
+1175218,giannis-kourakis,no-team,,Right, 
+1009726,nektarios-azizi,episkopi-fc,177,Right, 
+,dimitrios-beladakis,,,,
+1563013,ivan-pavela,kk-alkar-sinj,,, 
+1540214,josip-bresic,lokomotiva-zagreb-u19,,, 
+1486386,marko-vlahovski,lokomotiva-zagreb-u19,,, 
+1157903,viktor-damjanic,lokomotiva-zagreb-u19,197,,315000 EUR
+1163371,matej-matic,nk-lokomotiva-zagreb,,Left,52000 EUR
+1540261,noa-godec,lokomotiva-zagreb-u19,,, 
+1423484,ante-utrobicic,nk-lokomotiva-u18,192,Left, 
+1152931,filip-markanovic,nk-lokomotiva-u18,,, 
+1163358,karlo-ivancin,lokomotiva-zagreb-u19,,Right, 
+1175150,ivan-canjuga,,,,
+1540236,marko-crnjak,lokomotiva-zagreb-u19,,, 
+1486390,daniel-ropar,nk-lokomotiva-u18,180,Right, 
+1423485,antonio-bazdaric,lokomotiva-zagreb-u19,,, 
+1493492,leon-ivancic,lokomotiva-zagreb-u19,,, 
+1561308,ante-matic,lokomotiva-zagreb-u19,,, 
+1540197,borna-pernar,lokomotiva-zagreb-u19,,, 
+1508136,feta-fetai,,,,
+,mihajlo-katanic,,,,
+1488285,bartol-kardum,nk-lokomotiva-u18,190,Left, 
+,petar-brajkovic,,,,
+1540195,borna-kahlina,lokomotiva-zagreb-u19,,Right, 
+1486380,boris-baskarad,,,,
+1540210,fran-knezevic,lokomotiva-zagreb-u19,,, 
+1423496,mihael-letica,nk-slaven-belupo-u19,,,53000 EUR
+1539406,fabijan-sasek,nk-slaven-belupo-u19,,, 
+1539432,jakov-krstanovic,nk-slaven-belupo-u19,,, 
+,marko-bilkic,,,,
+1402872,zvonimir-katalinic,nk-slaven-belupo-u19,,, 
+1484306,filip-kruselj,nk-mladost-zdralovi,182,Right,105000 EUR
+,erik-ridjan,,,,
+1539424,luka-curkovic,nk-slaven-belupo-u19,177,Right, 
+1490033,leon-bosnjak,nk-slaven-belupo-u19,,,52000 EUR
+1539399,antonio-skvorc,nk-slaven-belupo-u19,,, 
+1428601,patrik-mrkela,nk-slaven-belupo-u19,,, 
+1539396,domagoj-medved,nk-slaven-belupo-u19,,, 
+1539429,marko-petrovic,nk-slaven-belupo-u19,,, 
+1539430,ivan-matejas,nk-slaven-belupo-u19,,, 
+1539402,ante-maric,nk-slaven-belupo-u19,,, 
+1539405,fran-begic,nk-slaven-belupo-u19,,, 
+1495717,adriano-jagusic,nk-slaven-belupo-u19,174,Left, 
+1495805,karlo-herceg,nk-slaven-belupo-u19,178,Right,53000 EUR
+1472976,frano-vlasic,nk-slaven-belupo-u19,181,Right,46000 EUR
+1165972,uros-mrdakovic,nk-slaven-belupo,189,Right,53000 EUR
+1465616,lovro-gal,nk-slaven-belupo-u19,,, 
+1539419,mauro-blazekovic,nk-koprivnica,,, 
+1465624,dorian-piskor,nk-slaven-belupo-u19,,, 
+1539437,leon-kaurin,nk-slaven-belupo-u19,,, 
+1163541,ivan-filip-sabatti,nk-istra-1961-u19,189,Right, 
+,frano-dropuljic,,,,
+,marko-jursic,,,,
+1546845,mateo-bozac,nk-istra-1961-u19,,, 
+,marko-druzetic,,,,
+1540094,filip-posavec,nk-istra-1961-u19,,Right, 
+995161,erik-udovicic,,,,
+1540091,luka-nerlovic,nk-istra-1961-u19,,, 
+1471385,franco-corelli,nk-istra-1961-u19,186,Right, 
+1163538,jure-glavas,nk-istra-1961-u19,,, 
+1163533,martin-vincent-maric,nk-istra-1961-u19,,, 
+1494873,mateo-lovric,nk-istra-1961-u19,,, 
+1494880,taj-krupic,nk-istra-1961-u19,,, 
+,jovan-ivanisevic,,,,
+1495026,noel-kocijancic,nk-istra-1961-u19,,, 
+1540092,luka-djuranovic,nk-istra-1961-u19,,, 
+,arian-moslavac,,,,
+1540090,rafael-sinozic,nk-istra-1961-u19,,, 
+1540096,elvis-krasniqi,nk-istra-1961-u19,,, 
+,israel-isaac-ayuma,,,,
+1390822,marko-cukon,nk-istra-1961-u19,178,Right, 
+1390823,lorenzo-travaglia,nk-jadran-porec,174,Right,260000 EUR
+,ali-mahmud,,,,
+1540098,deni-radovcic,nk-istra-1961-u19,,, 
+1540097,dominik-celija,nk-istra-1961-u19,,, 
+1540100,aldin-delimehic,nk-istra-1961-u19,,, 
+1494878,lovro-duzdevic,nk-istra-1961-u19,180,Left, 
+1493235,karlo-matejcic,hnk-gorica-u19,,,46000 EUR
+1163372,matej-vidic,hnk-gorica-u19,,, 
+,ivan-fran-dragas,,,,
+1540118,ivan-paradzik,hnk-gorica-u19,,, 
+1540120,bruno-knezevic,hnk-gorica-u19,,, 
+1540117,josip-alic,hnk-gorica-u19,,, 
+1540119,ignacije-darojkovic,hnk-gorica-u19,,, 
+1540113,luka-dora,hnk-gorica-u19,,, 
+1469647,zvonimir-josic,hnk-gorica-u19,,,49000 EUR
+,lovro-cundekovic,,,,
+1540116,josip-markov,hnk-gorica-u19,,, 
+1540106,vito-simic,hnk-gorica-u19,186,Left, 
+1152939,djuro-giulio-djekic,hnk-gorica-u19,,, 
+1540110,matej-sop,hnk-gorica-u19,,, 
+1488895,mateo-simic,hnk-gorica,,, 
+1494815,fran-krilic,hnk-gorica-u19,,, 
+1540111,luka-sajfar,hnk-gorica-u19,,, 
+,niko-tkalcevic,,,,
+1540107,vito-ferina,hnk-gorica-u19,,, 
+1540108,patrik-djurasic,,,,
+1534421,leon-agatic,hnk-gorica-u19,,Both, 
+1540112,luka-kahlina,hnk-gorica-u19,187,Right, 
+1163513,luka-brlek,hnk-gorica-u19,,,46000 EUR
+1613780,sekou-matar-sagna,hnk-gorica-u19,171,Right, 
+1152921,lovro-nezirovic,hnk-gorica-u19,,Right,49000 EUR
+1625402,arona-fall,hnk-gorica-u19,175,, 
+,georgi-stoyanov,,,,
+1540115,juraj-josip-radocaj,hnk-gorica-u19,,, 
+1150820,aleksa-todorovic,hnk-rijeka-u19,190,Right,165000 EUR
+1083216,antonio-frigan,hnk-rijeka-u19,186,,46000 EUR
+1535193,lovro-miskovic,nk-lokomotiva-rijeka,,Right, 
+1486000,karlo-bliznac,hnk-rijeka-u18,,Right, 
+1486005,niko-vucetic,hnk-rijeka-u18,,, 
+1489227,mihael-buzic,hnk-rijeka-u19,,, 
+1485999,marko-gardijan,hnk-rijeka-u18,,, 
+1523956,moris-sficco,hnk-rijeka-u19,,, 
+1485996,dorian-anusic,hnk-rijeka-u18,,, 
+1540121,andrija-belina,hnk-rijeka-u19,,, 
+1486001,roko-valincic,hnk-rijeka-u18,,Both, 
+1485998,sean-suke,hnk-rijeka-u18,,, 
+1423499,rajan-zlibanovic,hnk-rijeka-u18,180,Right, 
+1486004,david-zubovic,hnk-rijeka-u18,,, 
+1485993,sven-blecic,hnk-rijeka-u18,181,Right, 
+1540122,filip-salkovic,hnk-rijeka-u19,,, 
+1218114,strahinja-tesovic,hnk-rijeka-u19,179,Right, 
+1485990,boris-miklos,hnk-rijeka-u18,174,Left, 
+1523952,noel-jakac,hnk-rijeka-u19,185,, 
+1149079,david-camber,hnk-rijeka-u19,180,Right, 
+1513752,nikola-medojevic,hnk-rijeka-u19,,, 
+1486003,matej-momcilovski,hnk-rijeka-u18,,, 
+1485992,jakov-bilajac,hnk-rijeka-u18,178,Right, 
+1490704,leon-lovric,hnk-cibalia-vinkovci-u19,186,Right, 
+,luka-marijanovic,,,,
+1539436,karlo-vrljic,hnk-cibalia-vinkovci-u19,,, 
+1539420,mihael-pudic,hnk-cibalia-vinkovci-u19,,, 
+1486423,mateo-markovic,nk-osijek-u18,,, 
+1539407,emir-delic,hnk-cibalia-vinkovci-u19,,Right, 
+1539434,josip-buhinjak,hnk-cibalia-vinkovci-u19,,, 
+1539425,luka-cvjetkovic,hnk-cibalia-vinkovci-u19,,, 
+1216077,antoni-bosnjak,hnk-cibalia-vinkovci-u19,184,Left, 
+,david-bosak,,,,
+1487363,mario-maric,nk-osijek-u18,,, 
+1539404,ivan-malovan,hnk-cibalia-vinkovci-u19,,, 
+1539418,marko-vukelic,hnk-cibalia-vinkovci-u19,,, 
+1539398,bruno-horvat,hnk-cibalia-vinkovci-u19,,, 
+1539435,karlo-bogdan,hnk-cibalia-vinkovci-u19,,, 
+1470625,samer-h-spahic,,,,
+1539397,marin-kurtes,hnk-cibalia-vinkovci-u19,,, 
+1217023,luka-andricevic,hnk-cibalia-vinkovci-u19,,, 
+1539410,stjepan-djordic,hnk-cibalia-vinkovci-u19,,Left, 
+1482905,matej-lugaric,hnk-cibalia-vinkovci-u19,,Left, 
+1539403,andrej-svrzlic,hnk-cibalia-vinkovci-u19,,Right, 
+1585931,leandro-caimanque,,,,
+1423491,jan-hlapcic,nk-osijek-u19,,Left, 
+1410468,filip-maric,nk-osijek-u18,,, 
+1486425,adriano-ugresic,nk-osijek-u18,,, 
+1152916,marin-prekodravac,nk-osijek-u18,,, 
+1482906,kresimir-vrbanac,nk-osijek-u18,,, 
+1486420,dorian-herceg,nk-osijek-u18,182,Left, 
+1486424,antonio-peric,nk-osijek-u18,,, 
+1497355,elmir-besirovic,nk-osijek-u19,180,Left, 
+1152898,roko-perkovic,nk-osijek-u18,,, 
+1486421,luka-baric,nk-osijek-u19,176,, 
+1486306,ante-barisic,nk-osijek-u18,177,Right, 
+1480088,petar-ivancan,nk-osijek-u18,,, 
+1482904,fran-svraka,nk-osijek-u18,,, 
+1497356,marko-trbojevic,nk-osijek-u19,,, 
+1540440,luka-nemet,nk-osijek-u19,,, 
+1540249,ivan-curkovic,nk-osijek-u19,182,, 
+,fran-pecek,,,,
+1486392,ivan-ivic,nk-osijek-u18,,, 
+1149087,amar-zahirovic,nk-osijek-u19,,Right, 
+,antun-damjanovic,,,,
+1423486,dominik-babic,nk-osijek-ii,,Right, 
+1152930,filip-mazar,nk-osijek-u18,,, 
+1540248,josip-dabic,nk-osijek-u19,,, 
+1481195,anton-matkovic,nk-osijek-u19,191,Left, 
+1497358,milos-jovicic,nk-osijek-u19,,, 
+1069782,karlo-benat,hnk-sibenik-ii,188,Right, 
+1487833,ivan-goreta,hnk-sibenik-u19,194,Right, 
+1490032,josip-baturina,hnk-sibenik-u19,,,91000 EUR
+1540199,leon-juric,hnk-sibenik-u19,,, 
+1540180,franko-cinotti,hnk-mihovil,186,Right, 
+1189285,ivan-bikic,hnk-sibenik-u19,,,52000 EUR
+1492843,luka-tustonja,hnk-sibenik-u19,187,Left, 
+1540193,ivan-mucic,hnk-sibenik-u19,,, 
+991628,luka-music,hnk-sibenik-u19,179,, 
+1163440,stipe-crljen,hnk-sibenik-u19,185,Right, 
+1163434,jure-pesic,hnk-sibenik-u19,,, 
+1522887,karlo-karaula,hnk-sibenik-u19,,, 
+1069781,franko-dzaja,hnk-sibenik-u19,,, 
+1487829,valentino-baus,hnk-sibenik-u19,,, 
+1486387,luka-loncar,nk-lokomotiva-u18,,, 
+1424263,marko-novosel,hnk-sibenik-u19,,Right, 
+1487821,lovre-kulusic,hnk-sibenik-u18,,, 
+1487813,marko-salic,hnk-sibenik-ii,,, 
+1522885,ante-grbelja,hnk-sibenik-ii,,, 
+1500683,ante-nakic-alfirevic,hnk-sibenik-ii,,Right, 
+1149086,ante-prusina,hnk-sibenik-ii,,Right, 
+1487822,diego-sekulic,hnk-sibenik-u19,185,Right, 
+1487826,jere-sikic,hnk-sibenik-u19,,, 
+1487830,domagoj-mihaljevic,hnk-sibenik-u19,,, 
+1487825,josip-supe,hnk-sibenik-u19,,Right, 
+1522888,luka-moric,hnk-sibenik-u19,,, 
+1402725,ivo-radosevic,gnk-dinamo-zagreb-u19,,, 
+1540247,ivan-kovacic,gnk-dinamo-zagreb-u19,,, 
+1152938,dorian-klarin,gnk-dinamo-zagreb-u19,184,Right, 
+,mihael-bodetic,,,,
+1489144,fran-pavlek,gnk-dinamo-zagreb-u19,,Right, 
+1489212,niko-cindric,gnk-dinamo-zagreb-u19,,, 
+1402722,ivan-cvetko,gnk-dinamo-zagreb-u19,,Left, 
+1152912,matija-ruskovacki,gnk-dinamo-zagreb-u19,182,Right, 
+1467715,niko-sepic,gnk-dinamo-zagreb-u19,184,Left, 
+1489150,borna-graonic,gnk-dinamo-zagreb-u19,,, 
+1423483,ante-susak,gnk-dinamo-zagreb-u19,181,Left, 
+1563524,tin-bozuric,gnk-dinamo-zagreb-u19,,, 
+1402695,dominik-ban,gnk-dinamo-zagreb-u19,189,Right, 
+1402863,vito-caic,gnk-dinamo-zagreb-u19,186,Right, 
+1493479,branko-pavic,gnk-dinamo-zagreb-u19,,, 
+1152917,luka-vrbancic,,,,
+1152940,dino-kegalj,gnk-dinamo-zagreb-u19,190,Right, 
+1424621,antonio-kujundzic,gnk-dinamo-zagreb-u19,,, 
+1481109,tin-miljak,gnk-dinamo-zagreb-u19,190,Left, 
+1402857,vilim-gec,gnk-dinamo-zagreb-u19,178,Left, 
+1423502,toni-majic,gnk-dinamo-zagreb-u19,194,Right,46000 EUR
+1402745,luka-dudukovic,gnk-dinamo-zagreb-u19,174,, 
+1522891,lukas-zahora,gnk-dinamo-zagreb-u19,,, 
+,roko-peros,,,,
+1152895,zlatan-koscevic,gnk-dinamo-zagreb-u19,,Right, 
+1402750,luka-vracar,gnk-dinamo-zagreb-u19,183,Right, 
+1423492,leo-rimac,gnk-dinamo-zagreb-u19,,Both, 
+1146480,davyd-fesyuk,hnk-hajduk-split-u19,185,Right,47000 EUR
+1540102,raul-bezeljak,hnk-hajduk-split-u19,,, 
+1159598,stepan-lysenko,hnk-hajduk-split-u18,,Right, 
+1149175,alpi-shahini,hnk-hajduk-split-u18,,, 
+1405221,niko-pavic,hnk-hajduk-split-u18,195,Right, 
+1468768,domagoj-begonja,hnk-hajduk-split-u18,,Left, 
+1414928,tomislav-arkovic,hnk-hajduk-split-u19,,Right,46000 EUR
+1486400,duje-hrgovic,hnk-hajduk-split-u18,178,, 
+1423497,niko-fridl,hnk-hajduk-split-u19,,, 
+1540105,luka-hodak,hnk-hajduk-split-u19,,, 
+1146490,vjeko-semiga,hnk-hajduk-split-u19,,Right, 
+1486395,marin-carev,hnk-hajduk-split-u18,182,, 
+1423494,marin-calusic,hnk-hajduk-split-u19,,, 
+1213554,luka-jurak,hnk-hajduk-split-u18,178,, 
+1423487,duje-reic,hnk-hajduk-split-u19,173,Right, 
+1468758,ante-kavelj,hnk-hajduk-split-u19,186,Right, 
+1423498,noa-skoko,hnk-hajduk-split-u19,175,Right, 
+1414929,lovre-loncar,hnk-hajduk-split-u19,178,Left, 
+1424658,marino-zeravica,hnk-hajduk-split-u19,186,Right, 
+1156251,karlo-antunovic,hnk-hajduk-split-u19,181,, 
+1540103,patrik-prodanovic,hnk-hajduk-split-u19,,, 
+1405214,nino-duic,hnk-hajduk-split-u19,178,Left, 
+1540104,mateo-bacic,hnk-hajduk-split-u19,193,Right, 
+,frane-bobanovic,,,,
+,karlo-surbek,,,,
+1539423,luka-bozinovic,nk-kustosija-u19,187,Left, 
+1539421,noah-popovic,nk-kustosija-u19,165,Right, 
+1161689,leonardo-cosic,nk-precko,179,Right, 
+1470858,hugo-ravlic,nk-kustosija,,Right, 
+1487353,leon-brlek,nk-varazdin-u18,,, 
+,viktor-simic,,,,
+1500202,andro-osrecki,nk-kustosija,,Right, 
+1201903,frane-runjic,nk-kustosija,192,Right, 
+1402759,matteo-tonon,nk-kustosija-u19,,Right, 
+1539422,noa-vranesic,nk-kustosija-u19,,, 
+1539433,jakov-skarec,nk-kustosija-u19,,, 
+,paolo-bulic,,,,
+1486384,branimir-glasnovic,nk-kustosija-u19,,Right, 
+1539408,edvin-lukacevic,nk-kustosija-u19,,, 
+,vito-cilic,,,,
+1539415,marin-curman,nk-kustosija-u19,,, 
+1616883,vito-dicic,mnk-otavice,,, 
+1539426,luka-jelenic,nk-kustosija-u19,,, 
+1539414,vito-skrinjaric,nk-kustosija-u19,,, 
+1486376,mislav-bacurin,nk-lokomotiva-u18,190,Right, 
+,eugen-koret,,,,
+1539431,ivor-zakic,nk-kustosija-u19,,, 
+1486379,karlo-kovacic,nk-kustosija,,Left, 
+1539428,luka-mrakuzic,nk-kustosija-u19,,, 
+1540209,domagoj-mamic,nk-varazdin-u19,,, 
+1487361,sven-brlek,nk-varazdin-u19,186,Right, 
+1540203,lukas-mikolaj,nk-varazdin-u19,,, 
+1540201,martin-plavec-markovic,nk-varazdin-u19,,, 
+1540202,martin-korpar-japek,nk-varazdin-u19,,, 
+,vito-tezak,,,,
+1163451,karlo-lukman,nk-varazdin-u19,,, 
+1540205,luka-baca,nk-varazdin-u19,,, 
+1540186,teo-sanjkovic,nk-varazdin-u19,,, 
+1487356,vito-crleni,nk-varazdin-u18,,, 
+1399860,slavko-stolnik,nk-varazdin-u18,,, 
+,luka-rodek,,,,
+1540194,sven-lesjak,nk-varazdin-u19,,, 
+1496066,dominik-drcec,nk-varazdin-u19,,, 
+1541870,tin-levanic,nk-varazdin,170,Right, 
+1540211,borna-sabolcec,nk-varazdin-u19,,, 
+1540200,nikola-obadic,nk-varazdin-u19,,, 
+1540206,filip-hrzenjak,nk-varazdin-u19,,, 
+1487352,roko-domjanic,nk-varazdin-u18,,, 
+1540212,adam-lusic,nk-varazdin-u19,183,Left, 
+1418197,eugen-ciban,nk-rudes-u19,,,23000 EUR
+1540150,lukas-djodj,nk-rudes-u19,,, 
+1402682,bernard-zrilic,nk-rudes-u19,,, 
+1540158,mathias-giovinazzo,nk-rudes-u19,,, 
+1540161,noel-kulic-mravak,nk-rudes-u19,,, 
+1540154,marko-susnjara,nk-rudes-u19,,, 
+1540139,bruno-pavlovic,nk-rudes-u19,,, 
+1540146,leopold-busic,nk-rudes-u19,,, 
+1540168,vigo-vujanic,nk-rudes-u19,192,Right, 
+1540143,filip-sostar,nk-rudes-u19,189,, 
+1423489,gabriel-juresko,nk-rudes-u19,,Right, 
+1540160,nikica-peranovic,nk-rudes-u19,,, 
+1540153,marko-dzalto,nk-rudes-u19,,, 
+,benedikt-kostan,,,,
+1540144,fran-puh,nk-rudes-u19,,, 
+1540152,marin-kuzmanic,nk-rudes-u19,,, 
+1531849,luka-popovic,,,,
+1540140,damjan-markulin,nk-rudes-u19,,, 
+1417953,donat-senkic,nk-rudes-u19,188,, 
+1540164,rino-grubisic,nk-rudes-u19,190,Right, 
+,david-veric-krasnic,,,,
+1540136,bartol-kunert,nk-rudes-u19,179,Right, 
+1163382,borna-ivanus,nk-rudes-u19,181,Right, 
+,vito-vuskovic,,,,
+1540148,lovro-luka-ukalovic,nk-rudes-u19,182,, 
+1540163,patrik-turkovic,nk-rudes-u19,,, 
+1540166,sabur-ali,nk-rudes-u19,,, 
+1540145,josip-perkovic,nk-rudes-u19,,, 
+1485989,duje-korac,nk-rudes-u19,,, 
+1498766,antonio-mihanovic,nk-dugopolje-u19,,, 
+1540125,roko-perica,nk-dugopolje-u19,,, 
+1112812,luka-basic,nk-solin,182,Left, 
+1163424,ante-zivalj,hnk-slaven-trogir,,, 
+1163425,roko-milisic,nk-dugopolje-u19,,, 
+1163496,ante-kedzo,nk-dugopolje-u19,,, 
+1190687,domagoj-goreta,nk-dugopolje-u19,179,, 
+1540127,roko-bilicic,nk-dugopolje-u19,,, 
+1540123,toni-miljevic,nk-dugopolje-u19,,, 
+,andrija-basic,,,,
+1540135,ivan-domikulic,nk-dugopolje-u19,,Right, 
+1540126,roko-matijasevic,nk-dugopolje-u19,,Right, 
+1540124,stanislav-karlo-plazibat,nk-dugopolje-u19,,, 
+,mateo-smodlaka,,,,
+,kristijan-kero,,,,
+1490312,ivan-munivrana,nk-dugopolje-u19,195,Left, 
+,borna-ivanda,,,,
+1537423,ivan-katic,nk-dugopolje-u19,,, 
+1500862,ivan-zebic,cb-patriot,,, 
+1486399,roko-roic,hnk-hajduk-split-u18,189,, 
+1540130,matej-basic,nk-dugopolje-u19,,, 
+,niko-zamic,,,,
+1540131,marko-kapovic,nk-dugopolje-u19,188,, 
+1469436,drago-saric,nk-dugopolje-u19,,,26000 EUR
+1163486,bruno-bilic,nk-dugopolje-u19,,, 
+1540128,noa-polic,nk-dugopolje-u19,,, 
+1540137,dominik-plazibat,nk-dugopolje-u19,,, 
+1540138,bepo-basic,nk-dugopolje-u19,,, 
+1402357,domagoj-trescec,no-team,,, 
+,josip-orlovic,,,,
+1540175,ivan-vukelic,nk-mladost-zdralovi-u19,,, 
+1540170,karlo-pintar,nk-mladost-zdralovi-u19,,, 
+1491643,lukas-zubovic,nk-mladost-zdralovi,,, 
+1540260,stjepan-zulj,nk-mladost-zdralovi-u19,,, 
+1540176,ivan-milanovic,nk-mladost-zdralovi-u19,,, 
+1487408,david-skukan,hnk-zadar-u18,191,Right, 
+1540179,andrija-mihalj,nk-mladost-zdralovi-u19,,Right, 
+1163495,borna-kovac,nk-mladost-zdralovi,,, 
+1540174,jan-sabolovic,nk-mladost-zdralovi-u19,,, 
+1540155,pedro-godinho-fernandes,nk-mladost-zdralovi-u19,,, 
+1474404,stipe-stanojevic,nk-mladost-zdralovi-u19,174,Right, 
+1540171,karlo-antic,nk-mladost-zdralovi-u19,,, 
+,marin-kresic,,,,
+1540162,marko-sabic,nk-mladost-zdralovi-u19,,, 
+1587675,mihael-selj,mnk-bjelovar,,, 
+1540167,luka-resetar,nk-mladost-zdralovi-u19,,, 
+1540169,lovro-bruneta,nk-mladost-zdralovi-u19,,, 
+1540159,matej-peric,nk-mladost-zdralovi-u19,,, 
+1525126,marko-beljan,nk-mladost-zdralovi-u19,,, 
+1163508,ivano-tomic,nk-mladost-zdralovi-u19,,, 
+,sander-kalaj,,,,
+1540173,josip-mundjer,nk-mladost-zdralovi-u19,,, 
+1154908,orsi-ageja,nk-mladost-zdralovi-u19,,Right, 
+1523912,matej-jurki,nk-sesvete-u19,,, 
+1522890,ivan-omazic,nk-sesvete-u19,,, 
+,bryan-wai-hon-lau,,,,
+1521975,borna-cik,nk-sesvete-u19,197,Right, 
+,dominik-hegedus,,,,
+,davin-randall,,,,
+1163457,ivan-bjelivuk,nk-sesvete,189,Right, 
+,marko-barkic,,,,
+,mihael-srsen,,,,
+1489701,filip-djevelekaj,nk-sesvete-u19,,, 
+1539412,tin-culo,nk-sesvete-u19,,, 
+1539411,tarik-lotinac,nk-mala-mlaka,,, 
+1486377,david-dosen,nk-lokomotiva-u18,,, 
+1539401,ante-popovic,nk-sesvete-u19,181,Left, 
+1521976,damir-halilovic,nk-sesvete-u19,,, 
+1566488,bruno-smircic,mnk-zadranka,,, 
+,vito-zgela,,,,
+,antonio-sinkovic,,,,
+1521981,domagoj-regetas,nk-sesvete-u19,,, 
+1521985,roko-blazevic,nk-sesvete-u19,,, 
+,petar-rados,,,,
+1486002,ivano-gojsilovic,hnk-rijeka-u18,,, 
+1537476,josip-zadric,nk-sesvetski-kraljevec,,, 
+1486383,petar-antolkovic,nk-lokomotiva-u18,,, 
+,roko-jurekic,,,,
+,leon-caculovic,,,,
+,josip-gugic,,,,
+1521983,lovro-lazar,nk-sesvete-u19,,, 
+,fabijan-janekovic,,,,
+1172262,tilen-gasper-stiftar,,,,
+,anze-locnikar,,,,
+842325,luka-jelic,no-team,,, 
+,val-brvar,,,,
+,sergej-stojanov,,,,
+1604434,diego-georgiev,,,,
+,petar-bacic,,,,
+,maj-kmetic,,,,
+,fran-janusic,,,,
+,david-scira,,,,
+1596899,denis-solakovic,kalcer-radomlje,,Right,49000 EUR
+,luka-purkart,,,,
+,leo-peranovic,,,,
+,hanan-durakovic,,,,
+,teodor-zganec,,,,
+,nemanja-milojevic,,,,
+1146356,lan-lekse,kalcer-radomlje,,Right, 
+1139105,rok-storman,kalcer-radomlje,185,Right,49000 EUR
+1596898,filip-andjelic,kalcer-radomlje,,Right,52000 EUR
+,stjepan-davidovic,,,,
+1197736,matej-malensek,nk-radomlje-u19,179,Right, 
+1381582,nermin-bijelonja,,,,
+,alen-muminovic,,,,
+,maksim-vid-beljkas,,,,
+,roko-mavra,,,,
+,uros-stojnic,,,,
+1494074,urban-trobec,no-team,185,Right, 
+,jaka-zrnec,,,,
+,sergej-lazarevic,,,,
+1148970,andraz-miklic,no-team,,Right, 
+,miha-piskur,,,,
+,liam-strnad,,,,
+1432433,mark-tomsic,no-team,,Left, 
+,miha-mehle,,,,
+,tevz-kusar,,,,
+,val-mocnik,,,,
+,zak-grabljevec,,,,
+,anel-islamagic,,,,
+1470009,david-vitamvas,no-team,,Right, 
+,din-handukic,,,,
+1494077,nik-zrnec,brinje-grosuplje,,Left, 
+,nejc-steharnik,,,,
+,aljaz-zalaznik,,,,
+,clint-anthony-francis,,,,
+1515307,aleks-stojakovic,brinje-grosuplje,,Right,105000 EUR
+1148968,aleks-ristic,no-team,,Right,54000 EUR
+,abdou-diop,,,,
+,filip-jezovita,,,,
+,tin-juric,,,,
+,nik-strmec,,,,
+,matevz-kobal,,,,
+,matic-bajc,,,,
+,ali-abdulkhaziret,,,,
+,nace-leposa,,,,
+1153495,jon-svigelj,nk-domzale-u19,,, 
+1148988,mark-stojinovic,no-team,,Right, 
+1148979,kevin-benkic,ilirija-1911,,Left,52000 EUR
+,luka-nadarevic,,,,
+1432416,gabriel-sojer,no-team,,, 
+1149002,tin-stricelj,ilirija-1911,,Right,78000 EUR
+,yzer-zyberi,,,,
+,maks-pori,,,,
+,luka-skof,,,,
+,gal-dagarin,,,,
+,tomas-puc,,,,
+,tim-pavlic,,,,
+1432431,matjaz-veber,no-team,,Right, 
+1535661,ziga-korosec,ilirija-1911,,Right,24000 EUR
+1146354,jakob-snedic,ilirija-1911,,, 
+,nik-belovic,,,,
+,filip-lukezic,,,,
+,aljosa-rugelj,,,,
+,enej-hace,,,,
+1584938,denis-videnovic,no-team,,, 
+,van-vucko,,,,
+1398910,zan-mauricio,nk-olimpija-ljubljana,,Right,47000 EUR
+,som-kumar,,,,
+1611921,val-matija-zakrajsek,nk-olimpija-ljubljana,,, 
+,ervin-palic,,,,
+,tijan-lakic,,,,
+,edmond-imeraj,,,,
+,oskar-ivanjko-vidmar,,,,
+,tim-matanovic,,,,
+1398913,marko-ristic,nk-olimpija-ljubljana,178,Right,77000 EUR
+1432438,lev-bohinc,nk-olimpija-ljubljana-u19,,, 
+,nik-pirecnik,,,,
+1148993,oskar-kvaternik,nk-olimpija-ljubljana-u19,,Right, 
+1385522,vall-jankovic,nk-olimpija-ljubljana,182,Left,49000 EUR
+,nikolaj-mihelic,,,,
+1196097,matej-dvorsak,nk-olimpija-ljubljana-u19,185,Right, 
+1500292,david-ursic,nk-olimpija-ljubljana-u19,,, 
+,nik-balon,,,,
+1432421,jasa-jelen,nk-olimpija-ljubljana-u19,,, 
+,senad-poric,,,,
+1540213,dino-kojic,nk-olimpija-ljubljana-u19,187,Right, 
+,zan-kovacevic,,,,
+,marcel-kobal,,,,
+,renato-causevic-ferhatovic,,,,
+1126636,marcel-petrov,nk-olimpija-ljubljana-u19,,, 
+,jan-cedilnik,,,,
+1432391,aldin-jakupovic,,,,
+1514921,jan-petek,,,,
+,nik-smigoc,,,,
+1593541,lan-jovanovic,,,,
+,luka-schaubach,,,,
+,enej-kramberger,,,,
+,jaka-zerjav,,,,
+893414,nikola-popovic,fk-celik-niksic,,, 
+,miha-gajsek,,,,
+,rene-skerget,,,,
+,alen-colnaric,,,,
+,jon-kosat,,,,
+,din-glodic,,,,
+1542523,aleks-repina,nk-aluminij-u19,188,Right, 
+,vito-koren,,,,
+1514920,maj-skoflek,,,,
+1514917,leo-ceh,nk-aluminij-kidricevo,,Right, 
+1514919,marko-simonic,,,,
+1550982,domen-brumec,nk-aluminij-u19,,, 
+,tino-hamler,,,,
+1542953,klemen-rahle,,,,
+,crt-vukovic,,,,
+1611461,cene-grbavec,,,,
+,anej-roman-leljak,,,,
+,anej-damjanovic,,,,
+,jakob-kobal,,,,
+,tiijan-zorko,,,,
+1128821,luka-kolar,nk-celje-u19,,, 
+,leon-bulajic,,,,
+,jakob-miklavc,,,,
+,nikola-ilincic,,,,
+1141262,luka-mladenovic,,,,
+,tai-kriznik,,,,
+,lovro-turinek,,,,
+,janin-petrak,,,,
+,florjan-jevsenak,,,,
+,sen-dzumhur,,,,
+1432436,haris-kahvedzic,nk-celje-u19,,Right, 
+,nik-arlic,,,,
+,timotej-karapandza,,,,
+1167398,miha-sitar,nk-celje,,Right,52000 EUR
+1120047,tom-kerezovic,nk-celje,177,Right,46000 EUR
+,ivano-cancar,,,,
+1150353,tian-kujovic,nk-olimpija-ljubljana,,Right, 
+,luka-mlakar,,,,
+1470281,luka-perkovic,nk-celje-u19,,, 
+,domen-justinek,,,,
+,hugo-selih,,,,
+1133225,lukas-tomazic,nk-maribor-u19,185,Right, 
+1388865,vladyslav-doroshenko,,,,
+1590987,luka-petek,nk-maribor-u19,,Right, 
+1563700,tjan-kolednik,nk-maribor-u19,,, 
+,mark-kramberger,,,,
+,luka-hunjet,,,,
+1133218,luka-poredos,nk-maribor-u19,185,Left, 
+1432429,nik-voglar,nk-maribor-u19,,Right, 
+,gal-miklus-senekovic,,,,
+,anej-fercec,,,,
+1563693,anej-lorbek,nk-maribor-u19,,, 
+,aljaz-vogrincic,,,,
+1432437,lanej-baksic,nk-maribor-u19,175,Right, 
+1469993,niko-grlic,nk-maribor-u19,,Right, 
+1440412,riad-silajdzic,nk-maribor-u19,,Right, 
+1543201,brin-horvat,,,,
+1563694,lun-grizold,nk-maribor-u19,,, 
+,anej-dukaric,,,,
+1133223,tine-cuk,nk-maribor-u19,178,Left, 
+1133357,marcos-tavares,nk-maribor,183,Right,46000 EUR
+,patrik-katic,,,,
+1590991,alex-ristic,nk-maribor-u19,,, 
+1590989,zan-antic-kurbus,nk-maribor-u19,,, 
+1148999,tim-strasberger,,,,
+,jakob-vodan,,,,
+,matija-fonda,,,,
+1434330,lukas-bucic,,,,
+,filippo-gustini,,,,
+,luka-tunanovic,,,,
+,valent-savor,,,,
+,gal-pecjak,,,,
+1530673,enej-sosic,fc-koper,,,45000 EUR
+,jakob-pecjak,,,,
+1613815,jakob-slak,,,,
+,emar-redzic,,,,
+,liam-harambasic,,,,
+1516562,luka-zavbi,,,,
+,zan-zabkar,,,,
+1425369,adriano-rizvic,no-team,,, 
+1530672,martin-ascic-pijaza,fc-koper,,,47000 EUR
+1149075,kenan-lamadzema,no-team,179,Right, 
+1613816,erik-milosevic,,,,
+1196098,rene-hrvatin,,,,
+,maj-zigart,,,,
+,erblin-krasniqi,,,,
+1584936,arman-durmisi,no-team,,, 
+,alex-martin-prodan,,,,
+,enej-sarlah,,,,
+1146431,mark-zerjal,nk-tabor-sezana,,Right, 
+,benjamin-zerak,,,,
+996175,enei-bole,,,,
+30010,lev-gorec,,,,
+,arsen-giorgi,,,,
+,naj-plavsic-vajde,,,,
+,patrik-malkoc,,,,
+,ardit-kukaj,,,,
+,filip-kompare,,,,
+1535667,marko-furlan,nk-tabor-sezana,,Right,24000 EUR
+1535671,jan-kalsek,no-team,,, 
+1535665,vid-rupnik,nk-tabor-sezana,,Right,24000 EUR
+,david-brajko,,,,
+,tilen-starc,,,,
+,matevz-vrabec,,,,
+,nemanja-djordjevic,,,,
+1581410,ros-ukmar,,,,
+1392897,rok-razman,nk-tabor-sezana,,Right, 
+1535674,rok-bozic,nk-tabor-sezana,,Right, 
+1535673,mark-vuleta,nk-tabor-sezana,,Left, 
+1536061,roan-jusufpahic,nk-tabor-sezana,,Right, 
+,mihajlo-pavlovic,,,,
+,zafirmamy-jeremia-solomon-eddy,,,,
+,matija-briscik,,,,
+,miha-morelj,,,,
+1194370,vid-sumenjak,ns-mura,190,Both, 
+,jan-lampret,,,,
+,saso-lovrec,,,,
+,jakob-nejc-ruzic,,,,
+,leon-uranek,,,,
+1485072,zan-crnko,ns-mura,183,Right, 
+1494429,tian-rantasa,,,,
+1196099,niko-graj,ns-mura-u19,182,Right, 
+1584933,alin-kumer,ns-mura-u19,,Left, 
+,mateo-tomasic,,,,
+,nenad-ignjic,,,,
+1469999,jan-krajnc,ns-mura-u19,,Right, 
+1434394,luka-mociler,ns-mura-u19,,, 
+831962,bine-anzelj,,,,
+1146352,luka-turudija,,,,
+,mark-antonij-intihar,,,,
+1133224,luka-bas,nk-maribor-u19,,Right, 
+1122487,jaka-domjan,,,,
+1507436,tomaz-brdik,ns-mura-u19,180,Right, 
+1522272,timotej-brkic,ns-mura-u19,181,Right, 
+,nal-lan-koren,,,,
+,anej-jelovica,,,,
+,ziga-ozbetic,,,,
+,nejc-nedeljko,,,,
+953643,nejc-seckar,,,,
+1494065,dejan-panic,no-team,190,, 
+,toni-hlebec,,,,
+,jasa-hribar,,,,
+1535595,sergej-bozic,nk-krka-u19,,, 
+1608338,tian-mitic,nk-krka-u19,,, 
+,luka-hudomalj,,,,
+,jakob-secen,,,,
+,luka-krzan,,,,
+,lan-milanovic,,,,
+,niko-miocic,,,,
+,ziga-kolmanic,,,,
+1616160,nik-pirc,sd-krka,,, 
+1547443,enej-jarkovic,no-team,,, 
+,tai-meze,,,,
+,mark-gliha,,,,
+1494059,gregor-medle,nk-krka,,,24000 EUR
+1142871,niki-radovic,nk-krka,,, 
+1148997,tilen-kovacic,nk-krka,178,Left, 
+,matic-sotlar,,,,
+,tilen-tomac,,,,
+,jakob-barboric,,,,
+1418893,jan-farkas,,,,
+1536039,nik-fras,nk-nafta-lendava-1903-u19,192,Right, 
+,benjamin-kovacic,,,,
+1386074,santino-nikolic,nk-nafta-lendava-1903,,, 
+,nino-peulic,,,,
+,tilen-grlec,,,,
+,lovro-novak,,,,
+,blaz-sintic,,,,
+,jan-oto,,,,
+,lan-marinic,,,,
+,jaka-bukovec,,,,
+,leon-jurovic,,,,
+1386069,marko-cucek-bezjak,nk-nafta-lendava-1903,174,Left, 
+1494069,luka-casar,nk-nafta-lendava-1903,,, 
+,dominik-biro,,,,
+,dino-horvat,,,,
+,kimi-lavrencic,,,,
+,david-vidmajer,,,,
+1440951,matej-bacinger,nk-medjimurje-cakovec,,, 
+,ziga-gonza,,,,
+,rene-leopold,,,,
+1494070,maj-plej,nk-nafta-lendava-1903,,, 
+1154590,ivan-verhas,nk-osijek-ii,,,55000 EUR
+,niko-zamuda,,,,
+1133220,jan-rajh,nk-nafta-lendava-1903,,Right, 
+1410393,kaj-plej,nk-nafta-lendava-1903,,, 
+1147945,andras-murar,no-team,,, 
+,anej-horvat,,,,
+,angelo-macanovic,,,,
+,sasa-kocet,,,,
+,matija-taradi,,,,
+,david-farkas,,,,
+1533730,lucas-erjavsek,,,,
+1405695,benjamin-maticic,nk-domzale-u19,195,Right, 
+1405698,jost-remic,nk-domzale-u19,,, 
+1405686,hamza-salesevic,nk-domzale-u19,,, 
+1405690,tilen-rajter-krebs,nk-domzale-u19,,, 
+,vid-marinkovic,,,,
+1146348,jon-ficko,nk-domzale-u19,,, 
+1495415,lukas-hempt,nk-domzale-u19,192,Right, 
+,danylo-tkachuk,,,,
+1405697,nik-guberac,nk-domzale-u19,191,Right, 
+1148976,jost-zajc,nk-domzale-u19,,, 
+,gal-javoric,,,,
+,lan-mesaric,,,,
+,denis-nikic,,,,
+,aljaz-zabukovnik,,,,
+1405685,gal-kranjcic,nk-domzale-u19,180,Left, 
+1149005,vid-stefanec,,,,
+1501701,said-duranovic,nk-domzale-u19,,Right, 
+1148985,mark-serbec,nk-domzale-u19,,Right, 
+1405688,luka-dovzan-karahodzic,nk-domzale-u19,188,Left, 
+1149190,emils-evelons,nk-domzale-u19,,,23000 EUR
+,kristijan-bandur,,,,
+,denis-hamulic,,,,
+,faris-dzevahiric,,,,
+1405712,alen-bukovec,,,,
+1432439,luka-figelj,no-team,,, 
+,vid-pertovt,,,,
+,david-susmelj,,,,
+,romeo-bric,,,,
+,luka-mutavcic,,,,
+1432300,alen-korosec,nd-gorica,,, 
+,luka-malesevic,,,,
+1173629,kristjan-lascak,nd-gorica,,, 
+,filip-vrtovec,,,,
+,taj-rozic-suligoj,,,,
+,noel-lozej,,,,
+,anej-glescic,,,,
+1511054,mattia-de-bernardi,nd-gorica,,, 
+1566055,maj-blazic,nd-gorica-u19,,, 
+,maks-velickov,,,,
+,rene-humar,,,,
+1535986,denis-bjelkic,nd-gorica,,Left,27000 EUR
+1511058,zahid-ilijazi,nd-gorica,,, 
+,kristjan-kavcic,,,,
+284003,vit-felc,,,,
+,lan-kos,,,,
+,urban-brecl-ojstersek,,,,
+,tian-skornsek,,,,
+,stevo-krejic,,,,
+,klemen-nahtigal,,,,
+,tjas-svitlica,,,,
+,luka-pek,,,,
+,tino-mijosek,,,,
+,jon-zorko-kotnik,,,,
+1541771,enej-plazl,nk-rudar-velenje-u19,,, 
+1478853,zdravko-separovic,nk-osijek-ii,193,Right, 
+,ajdin-kadric,,,,
+1586763,lusiano-stitic,,,,
+,marin-galic-bosnic,,,,
+,anze-majhen,,,,
+,elmir-avdic,,,,
+,kerim-sehovic,,,,
+,luka-milosevic,,,,
+,florijan-meznar,,,,
+,tarik-abbas,,,,
+,tian-marsel,,,,
+,gasper-cugmas,,,,
+,lejl-sulejmanovic,,,,
+,ziga-kos,,,,
+1402516,luka-dakic,nk-bravo,,, 
+,bor-tavcar-zuzek,,,,
+1146350,zan-trivuncevic,no-team,,, 
+1469994,andraz-jancic,no-team,,, 
+,leo-jusic,,,,
+,nace-cencic,,,,
+,rok-kopatin,,,,
+,timotej-drobez,,,,
+1515925,tais-sabotic,no-team,,, 
+,tine-karo,,,,
+912556,naj-lulic,,,,
+1148982,lan-hribar,,,,
+858739,jure-judez,,,,
+,urban-strazisar,,,,
+,job-brecelj,,,,
+1176855,reo-mraz,,,,
+,erol-sabanaj,,,,
+,kobi-bajc,,,,
+1149003,vid-hojc,no-team,,Right, 
+1432048,luka-pucnik,no-team,,Right, 
+1515923,edi-midzan,nk-bravo,,, 
+,nik-grohar,,,,
+,jakob-raspet,,,,
+,david-stojanoski,,,,
+,jasa-krasevec,,,,
+913367,marius-liesegang,fc-teutonia-05-ottensen,186,Right,73000 EUR
+1069252,lasse-riess,1-fsv-mainz-05,191,Right,215000 EUR
+,tobias-edinger,,,,
+997640,lukas-muller,no-team,193,Right,27000 EUR
+,denis-ljuca,,,,
+1391808,nils-gans,tsv-schott-mainz,,, 
+,raul-luisi,,,,
+930283,erkan-eyibil,antalyaspor,175,Left,240000 EUR
+988139,daniel-haritonov,sv-meppen,176,Left,52000 EUR
+1128016,felix-brand,tus-mechtersheim,187,Left,52000 EUR
+,shako-onangolo,,,,
+1065453,niklas-tauer,fc-schalke-04,183,Right,560000 EUR
+1084001,luis-jakobi,no-team,177,Both,165000 EUR
+809056,marius-fuchs,hsv-hamburg,,, 
+906800,leandro-barreiro,1-fsv-mainz-05,170,Right,13600000 EUR
+883403,thomas-rekdal,,,,
+930279,merveille-papela,,,,
+,lars-oster,,,,
+,leon-peto,,,,
+1005803,remi-jonathans,no-team,,, 
+,luis-kersthold,,,,
+1006389,oscar-schonfelder,ssv-jahn-regensburg,181,Left,235000 EUR
+,marvin-jung,,,,
+351460,dominic-fuss,,,,
+,paul-nebel,,,,
+939830,jonathan-burkardt,1-fsv-mainz-05,181,Right,6800000 EUR
+,joel-mangano,,,,
+1006951,marlon-mustapha,como,185,Right,1100000 EUR
+,yannik-ischdonat,,,,
+845024,christian-fruchtl,austria-wien,193,Left,1600000 EUR
+,manuel-kainz,,,,
+,moritz-knauf,,,,
+896157,michael-wagner,no-team,187,Right,26000 EUR
+975794,jakob-mayer,fc-08-homburg,,,120000 EUR
+,lukas-schneller,,,,
+877844,lukas-mai,,,,
+983292,chris-richards,,,,
+946007,ivan-mihaljevic,sv-licht-loidl-lafnitz,191,Left,160000 EUR
+901885,flavius-daniliuc,salernitana,186,Both,8400000 EUR
+997175,lasse-gunther,sv-wehen-wiesbaden,183,Left,720000 EUR
+930276,louis-poznanski,no-team,180,Left,27000 EUR
+973307,alexander-lungwitz,sc-freiburg-ii,180,Left,180000 EUR
+930270,jonas-kehl,spvgg-bayreuth,,Right,81000 EUR
+975801,can-karatas,tsg-hoffenheim-ii,185,Right,80000 EUR
+901888,thomas-rausch,,,,
+927407,josip-stanisic,bayer-04-leverkusen,186,Right,9700000 EUR
+901887,daniel-jelisic,fc-pipinsried,178,Both,52000 EUR
+901882,angelo-stiller,,,,
+975796,dennis-waidner,,,,
+901879,marin-pudic,fv-illertissen,186,Both,54000 EUR
+997174,torben-rhein,sc-austria-lustenau,173,Both,520000 EUR
+975798,malik-tillman,psv-eindhoven,186,Right,10900000 EUR
+907685,oliver-batista-meier,,,,
+901886,jahn-herrmann,,,,
+975797,ronald-lombaya,,,,
+901884,marcel-zylla,slask-wroclaw,178,Right,97000 EUR
+907686,justin-butler,,,,
+876303,alex-timossi-andersson,if-brommapojkarna,170,Right,435000 EUR
+942298,ryan-johansson,,,,
+975799,daniels-ontuzans,rfs,173,Right,185000 EUR
+,taylor-booth,,,,
+917007,joshua-zirkzee,bologna,193,Right,13600000 EUR
+997205,david-halbich,no-team,179,,27000 EUR
+946006,marvin-cuni,frosinone,188,Right,390000 EUR
+975800,benedict-hollerbach,1-fc-union-berlin,181,Right,1700000 EUR
+944034,tobias-stirl,,,,
+,alexander-stubben,,,,
+,max-hinke,,,,
+1100376,giulio-girelli,no-team,196,Right, 
+,vladimiros-safaridis,,,,
+1047855,yannick-brugger,no-team,190,Right,140000 EUR
+,laurin-stich,,,,
+,felix-irorere,,,,
+,furkan-turksoy,,,,
+,fritz-oestreicher,,,,
+1507920,mason-judge,tsv-1860-munchen,,, 
+1010121,fynn-otto,eintracht-frankfurt-ii,192,Both,105000 EUR
+,danilo-oliveira,,,,
+1067315,jacob-engel,sc-freiburg-ii,175,Left, 
+,nils-orywol,,,,
+1127201,umar-saho,,,,
+1518888,daniel-dejanovic,,,,
+1131005,ali-loune,1-fc-nurnberg,180,,515000 EUR
+1454976,luca-uth,,,,
+987430,nils-stendera,ksv-hessen-kassel,177,,52000 EUR
+883496,sahverdi-cetin,keciorengucu,174,Right,385000 EUR
+,leandro-weingartner,,,,
+,david-siebert,,,,
+987431,patrick-finger,no-team,166,Left,160000 EUR
+1000441,younes-hida,no-team,183,Left, 
+948893,mischa-hauser,no-team,182,Left,27000 EUR
+867257,alessandro-albanese,kv-oostende,174,Right,290000 EUR
+,max-bell-bell,,,,
+944821,patrice-kabuya,fc-astoria-walldorf,178,Right,53000 EUR
+1176019,william-justin-kabuya,fsv-optik-rathenow,179,Right, 
+1086437,abdulkerim-cakar,no-team,176,Both,80000 EUR
+,florian-zorn,,,,
+,jabez-makanda,,,,
+,ruben-volkert,,,,
+1069519,sebastian-hornung,sc-freiburg-ii,182,Left,140000 EUR
+1063937,florian-schock,vfb-stuttgart,199,Right,205000 EUR
+930226,antonis-aidonis,no-team,181,Right,330000 EUR
+877834,jose-enrique-rios-alonso,rot-weiss-essen,182,Right,245000 EUR
+,alexander-kopf,,,,
+,hamza-cetinkaya,,,,
+,lucas-schuckenbohmer,,,,
+1014806,florian-kleinhansl,vfl-osnabruck,180,Left,825000 EUR
+,ahmetcan-sifayin,,,,
+1067504,manuel-reutter,chemnitzer-fc,168,Right,110000 EUR
+980053,bastian-frolich,sg-sonnenhof-grossaspach,,Right,48000 EUR
+,atmir-krasniqi,,,,
+959634,luca-mack,ujpest,186,Right,225000 EUR
+930278,per-lockl,sv-waldhof-mannheim,174,Left,190000 EUR
+,christian-mistl,,,,
+962031,maximilian-maier,vfb-stuttgart-ii,,, 
+980620,jordan-meyer,vfb-stuttgart-ii,172,Right,140000 EUR
+,maximilian-goggel,,,,
+,serdar-arslan,,,,
+876782,umut-gunes,trabzonspor,177,Left,2400000 EUR
+,ivan-cabraja,,,,
+959635,nick-batzner,sv-wehen-wiesbaden,170,Right,850000 EUR
+1007962,lilian-egloff,,,,
+1129898,leonhard-munst,vfb-stuttgart-ii,181,Right,110000 EUR
+1518658,pedro-morais,tsg-balingen,177,Right,46000 EUR
+930277,leon-dajaku,hnk-hajduk-split,180,Right,740000 EUR
+880226,eric-hottmann,,,,
+,kevin-grimm,,,,
+,david-hummel,,,,
+,jovan-djermanovic,,,,
+1104684,balint-szmola,iii-keruleti-tve,188,Right,110000 EUR
+956681,daniel-witetschek,fc-augsburg-ii,,, 
+1084007,felix-schafer,no-team,190,,52000 EUR
+1560595,marsel-lustig,,,,
+912321,david-worns,,,,
+980619,adrien-koudelka,ab,184,,54000 EUR
+,kevin-arnold,,,,
+,amer-dedic,,,,
+991754,david-deger,fc-augsburg-ii,185,Right,68000 EUR
+1083984,gino-portella,philadelphia-union-ii,194,Left,26000 EUR
+1131747,niklas-hofmann,,,,
+,dennis-ruisinger,,,,
+,nico-fundel,,,,
+,alessandro-di-rosa,,,,
+,marcel-bahm,,,,
+,simon-asta,,,,
+,selim-jungmann,,,,
+1131345,tim-greifenegger,fc-pipinsried,,, 
+,tim-heckmeier,,,,
+,jason-gaudio,,,,
+,angelo-willadt,,,,
+989957,tim-civeja,,,,
+,hardy-noack,,,,
+,gabriel-galinec,,,,
+984804,stefano-russo,,,,
+,hrvoje-culjak,,,,
+,thomas-mitsakos,,,,
+1006385,dominic-schmidt,fc-08-homburg,185,Right,110000 EUR
+1122553,julian-kudala,ssv-ulm-1846,184,Both,165000 EUR
+,denil-badzak,,,,
+960017,lukas-petkov,spvgg-greuther-furth,183,Both,840000 EUR
+989956,dorian-cevis,no-team,175,Right,130000 EUR
+,seong-hoon-cheon,,,,
+877845,maurice-malone,basel,184,Left,1900000 EUR
+1535163,giannis-dodas,ethnikos-piraeus,180,Right, 
+,robin-glockle,,,,
+,luan-kukic,,,,
+,leon-vogel,,,,
+981562,diant-ramaj,,,,
+,alexandros-mikelopoulos,,,,
+987454,kevin-ibrahim,tsv-steinbach-haiger,188,Right,130000 EUR
+,lukas-ender,,,,
+1127641,tim-seifert,tsv-essingen,183,Left,24000 EUR
+,levin-steinbrenner,,,,
+,lukas-glaser,,,,
+1391798,marian-riedinger,stuttgarter-kickers,172,Both,26000 EUR
+,ben-wagner,,,,
+,maurice-swiderski,,,,
+,nick-hellmann,,,,
+,marco-golz,,,,
+1046802,melvin-ramusovic,stuttgarter-kickers,184,,145000 EUR
+929806,kevin-sessa,,,,
+987436,andrew-owusu,no-team,182,Right,26000 EUR
+1046799,julian-stark,sc-freiburg-ii,183,,235000 EUR
+939860,gokalp-kilic,fv-illertissen,183,,97000 EUR
+,gian-piero-falcone,,,,
+,luca-piljek,,,,
+978745,jonas-brandle,fc-08-villingen,174,Left,82000 EUR
+,markus-maurer,,,,
+1102111,dragan-perosevic,no-team,179,Left,93000 EUR
+,marco-gueli,,,,
+1005749,omar-sijaric,erzgebirge-aue,173,Right,360000 EUR
+,gianni-mollo,,,,
+,kevin-renner,,,,
+,angelo-tulino,,,,
+,timo-hirschle,,,,
+,niklas-schwaar,,,,
+,alexander-steinbach,,,,
+,jannik-kraft,,,,
+,paul-harbrecht,,,,
+1427970,luca-desch,,,,
+,luca-weiser,,,,
+,robin-rehorst,,,,
+,ivan-delic,,,,
+951533,ahmed-enes-altindag,fsv-frankfurt,,, 
+947880,adrian-schulze-solano,fsv-frankfurt,185,Right, 
+,de-graft-amoah,,,,
+,hendrik-ehmann,,,,
+,robin-williams,,,,
+,kyran-chambron-pinho,,,,
+,rodrigo-tiago,,,,
+947879,luca-bazzoli,preussen-munster,188,Both,220000 EUR
+830107,muhammed-yasar,,,,
+,rayan-bouembe,,,,
+991482,ibrahim-aral,,,,
+,emir-sejdovic,,,,
+1000441,younes-hida,no-team,183,Left, 
+,marcus-weinhardt,,,,
+,kahan-kuscu,,,,
+,lauris-schneider,,,,
+,max-muller,,,,
+,daisuke-yokota,,,,
+947878,filip-pandza,fsv-frankfurt,176,Right, 
+953818,murad-mahmudov,sv-zeilsheim,178,Both, 
+,ersen-albayrak,,,,
+,kalman-koszorus,,,,
+,cherano-willefuhr,,,,
+,junior-toure,,,,
+,lukas-mai,,,,
+979317,edmond-kaiser,,,,
+1049492,paul-lohr,no-team,183,Right,24000 EUR
+,silas-keck,,,,
+,max-kias,,,,
+,noah-singelmann,,,,
+953491,eric-jansen,,,,
+,david-trivunic,,,,
+1392605,luca-braun,sv-oberachern,,, 
+1029175,marlon-dinger,,,,
+1155415,mihailo-trkulja,sgv-freiberg,190,Left,46000 EUR
+1130394,ian-hoffmann,,,,
+1049178,luca-bolay,sv-waldhof-mannheim,173,Left,110000 EUR
+989787,mario-subaric,nk-aluminij-kidricevo,185,Left,110000 EUR
+1048819,jannis-rabold,atsv-mutschelbach,172,Right,97000 EUR
+,eren-aygun,,,,
+,tim-herm,,,,
+,john-schmidtke,,,,
+859782,emre-kahriman,,,,
+,kadir-sefa-bulut,,,,
+,lukas-fischer,,,,
+,thomas-meier,,,,
+,luca-egolf,,,,
+1495899,nico-wiltz,,,,
+,yannick-frey,,,,
+987600,dominik-kother,ssv-jahn-regensburg,180,Right,360000 EUR
+990455,stephan-mensah,chemnitzer-fc,178,Left,77000 EUR
+1066802,marco-pasalic,hnk-rijeka,178,Left,385000 EUR
+946837,malik-batmaz,,,,
+,mathias-schafer,,,,
+,jannik-hoffmann,,,,
+913582,bennet-schmidt,sv-meppen,195,Right,71000 EUR
+987514,sonke-gunther,,,,
+980626,noah-atubolu,sc-freiburg,190,Right,6300000 EUR
+,marvin-mettenberger,,,,
+1391985,laurin-mack,,,,
+,jonas-fritschi,,,,
+,nicolai-placzek,,,,
+,benjamin-wiemann,,,,
+1550988,alex-tran,,,,
+1084014,nicolas-keckeisen,flyeralarm-admira,190,,185000 EUR
+,laurin-tost,,,,
+,maximilian-dietz,,,,
+1063364,kenneth-schmidt,sc-freiburg,186,Left,3100000 EUR
+1064671,kimberly-ezekwem,sc-paderborn-07,187,Left,370000 EUR
+979820,philipp-treu,,,,
+,andre-barbosa-da-silva,,,,
+877842,yannik-keitel,sc-freiburg,180,Both,3800000 EUR
+,simon-estifanos,,,,
+,claudius-buhrer,,,,
+,luca-repple,,,,
+1458369,linus-kyre,,,,
+,enzo-leopold,,,,
+1064672,sascha-risch,ssv-ulm-1846,178,Left,180000 EUR
+,nicolas-bruchmann,,,,
+,alex-mendez,,,,
+993127,matteo-di-giusto,winterthur,168,Right,1500000 EUR
+,marco-bauer,,,,
+1048820,noah-weisshaupt,sc-freiburg,181,Right,6800000 EUR
+,justin-schallock,,,,
+1065557,falko-michel,,,,
+1006387,kevin-schade,brentford,183,Both,26000000 EUR
+980627,lars-kehl,vfl-osnabruck,178,Right,390000 EUR
+,tim-heinzelmann,,,,
+991241,lucas-hermes,,,,
+,nikolai-scheurenbrand,,,,
+911445,lukas-schellenberg,fc-rot-weiss-erfurt,183,Both,47000 EUR
+1130505,markus-ponath,fc-ingolstadt-04,188,Right,96000 EUR
+,leon-musial,,,,
+1119820,silman-el-baset,,,,
+29693,christoph-blabl,,,,
+,daniel-oberhuber,,,,
+1121239,maximilian-neuberger,,,,
+1521248,luka-trslic,,,,
+1391801,paul-polauke,stuttgarter-kickers,189,, 
+,felix-bachmann,,,,
+,luca-oehler,,,,
+1006335,lukas-schroder,djk-vilzing,187,Both,48000 EUR
+,mario-gratzl,,,,
+,gianluca-ippolito,,,,
+,quirin-huber,,,,
+,tobias-schwarzmeier,,,,
+,tim-kraus,,,,
+965977,georgios-pintidis,fc-08-villingen,185,Right,48000 EUR
+240624,jordan-born,,,,
+878594,patrick-sussek,berliner-fc-dynamo,176,Right,135000 EUR
+,tim-hartel,,,,
+,dominik-ngatie,,,,
+1390795,mert-sahin,,,,
+989630,filip-bilbija,,,,
+1031523,jalen-hawkins,,,,
+,noah-mengi,,,,
+904999,philipp-herrmann,,,,
+935281,maximilian-breunig,,,,
+,tom-woiwod,,,,
+,renato-domislic,,,,
+951497,jonas-wendlinger,sv-ried,191,,145000 EUR
+989560,benedikt-willert,no-team,190,, 
+1048652,lucas-becker,kickers-offenbach,193,Both,23000 EUR
+1160847,emre-yilmaz,no-team,183,Right, 
+352166,sebastian-vogel,,,,
+,fabio-deuerlein,,,,
+,jannik-fippl,,,,
+,nikolas-white,,,,
+,seid-korac,,,,
+856316,benas-satkus,no-team,190,Both,215000 EUR
+989833,ekin-celebi,rot-weiss-essen,184,Left,185000 EUR
+989563,nils-piwernetz,1-fc-schweinfurt-05,176,Left,52000 EUR
+951499,linus-rosenlocher,erzgebirge-aue,181,Left,230000 EUR
+,david-pfeil,,,,
+1131006,jannik-hofmann,1-fc-nurnberg,176,Right,185000 EUR
+,felix-voigt,,,,
+951498,patrick-hofmann,1-fc-nurnberg-ii,170,, 
+,fabio-gross,,,,
+,josip-bajic,,,,
+,patrick-tekeser,,,,
+,giuliano-nyary,,,,
+,manfred-strobel,,,,
+,tom-kunert,,,,
+,jonas-goss,,,,
+947096,marco-zietsch,1-fc-nurnberg-ii,,, 
+989562,tim-latteier,spvgg-bayreuth,176,Right,160000 EUR
+1005802,erik-basista,no-team,177,Right,23000 EUR
+,simon-griesbeck,,,,
+,justin-kussmann,,,,
+,david-ismail,,,,
+,max-rugova,,,,
+,thomas-schmidt,,,,
+1063936,erik-shuranov,maccabi-haifa,184,Both,970000 EUR
+,ciro-maglione,,,,
+,edward-hinz,,,,
+,andre-rumpel,,,,
+930282,daniel-klein,sv-sandhausen,192,Right,260000 EUR
+943550,luca-philipp,tsg-hoffenheim,192,,280000 EUR
+,ian-werner,,,,
+1182580,lars-funk,,,,
+979132,joshua-kessler,tsg-hoffenheim-u19,,, 
+877831,alexander-nitzl,no-team,175,,24000 EUR
+865537,benjamin-wallquist,floridsdorfer-ac,187,Left,270000 EUR
+963073,max-geschwill,,,,
+,laurin-curda,,,,
+,niklas-mahler,,,,
+,midhat-bajric,,,,
+980625,marco-john,tsg-hoffenheim,180,Left,2100000 EUR
+980630,kerim-calhanoglu,spvgg-greuther-furth,180,Left,515000 EUR
+,benjamin-sejdinovic,,,,
+979133,benedikt-landwehr,sg-sonnenhof-grossaspach,178,Both, 
+944299,luis-gorlich,pec-zwolle,182,Right,210000 EUR
+1083791,luca-kolsch,,,,
+944298,samuel-lengle,no-team,181,Right,47000 EUR
+961672,melayro-bogarde,tsg-hoffenheim-ii,184,Right,565000 EUR
+923973,amadou-onana,everton,195,Both,46000000 EUR
+,thomas-selensky,,,,
+,kevin-kruger,,,,
+892084,tobias-heiland,,,,
+954308,enes-tubluk,,,,
+965230,ilay-elmkies,bnei-sakhnin,172,Right,235000 EUR
+930281,amid-khan-agha,fsv-frankfurt,170,Both,97000 EUR
+1109629,fabian-messina,fsv-frankfurt,169,Right,81000 EUR
+989057,ishmael-schubert-abubakari,no-team,171,Left,77000 EUR
+959003,filip-stojilkovic,darmstadt-98,183,Both,1800000 EUR
+,tim-linsbichler,,,,
+,lukas-schappes,,,,
+,bleart-dautaj,,,,
+,maximilian-beier,,,,
+980799,nathan-malonga,no-team,180,Right, 
+908977,jonas-weyand,ksv-hessen-kassel,190,Right,53000 EUR
+1204388,tizian-christ,,,,
+987451,lorenz-otto,ssv-ulm-1846,193,Both,52000 EUR
+1084374,elija-wohlgemuth,1-fc-kaiserslautern,184,Both, 
+,constantin-semar,,,,
+,johannes-stempel,,,,
+,soren-musel,,,,
+,david-kajinic,,,,
+,elias-ludwig,,,,
+,kevin-klein,,,,
+,leon-hotopp,,,,
+794685,tuure-mantynen,no-team,175,Left,24000 EUR
+987439,constantin-fath,no-team,178,Left,52000 EUR
+995660,dylan-kuete,,,,
+,jannis-held,,,,
+,maurice-neukirch,,,,
+,maurice-schroder,,,,
+,fritz-reisinger,,,,
+1084377,tom-fladung,1-fc-kaiserslautern,182,, 
+,anil-gozutok,,,,
+987435,anas-bakhat,1-fc-duren,180,Both,105000 EUR
+,mehmet-yildiz,,,,
+1064886,yannik-haupts,fc-hertha-wiesbach,170,Right,23000 EUR
+,pascal-rhodmann,,,,
+1404587,reda-chkifa,,,,
+,maximilian-fesser,,,,
+1524773,phinees-bonianga,,,,
+1094037,lukas-lazar,,,,
+993147,cem-barlik,,,,
+838207,daniel-blum,,,,
+,patrick-jardella,,,,
+,matthias-marques,,,,
+,mateo-drljo,,,,
+,plator-gashi,,,,
+1141500,luka-nujic,fv-illertissen,,, 
+,elton-selimi,,,,
+,emil-alawbaidy,,,,
+,laurice-ukela,,,,
+,tom-irion,,,,
+,angelos-sanozidis,,,,
+,tino-jukic,,,,
+1065049,louis-spindler,no-team,185,Both,27000 EUR
+,marlon-radel,,,,
+1090224,daniel-sanchez,,,,
+,berkant-cetinkaya,,,,
+,lazar-maric,,,,
+,niklas-benkeser,,,,
+,erman-kilic,,,,
+,auron-selimi,,,,
+,elias-nonnenmann,,,,
+,gianluca-gamuzza,,,,
+1394637,mohamed-baroudi,,,,
+,marcelo-freitas,,,,
+,amin-latifovic,,,,
+,kelecti-nkem,,,,
+1394638,lirim-hoxha,,,,
+,asmir-hajdarovic,,,,
+,tyron-profis,,,,
+1182939,noah-ganaus,ssv-jahn-regensburg,193,Right,205000 EUR
+1559382,julian-wild,,,,
+,dogukan-suzgec,,,,
+,rafael-filipovic,,,,
+992265,piotr-janczukowicz,lks-lodz,183,Both,270000 EUR
+914756,enrique-pena-zauner,roda-jc-kerkrade,177,Both,260000 EUR
+904840,tobias-raschl,,,,
+,paul-philipp-besong,,,,
+930277,leon-dajaku,hnk-hajduk-split,180,Right,740000 EUR
+989203,immanuel-pherai,hamburger-sv,175,Right,3000000 EUR
+863993,mattia-palombo,,,,
+973869,giuseppe-marciano,no-team,190,Right,54000 EUR
+1166584,pierpaolo-falzano,foligno,,, 
+,alessandro-capogna,,,,
+953942,davide-centra,no-team,,,70000 EUR
+1012471,lorenzo-angeli,prato,,,68000 EUR
+,paolo-cerroni,,,,
+973408,riccardo-pinna,torres,185,Left,68000 EUR
+,francesco-capodanno,,,,
+1069042,giuseppe-esposito,no-team,187,Right, 
+1013272,filippo-marchizza,tor-sapienza,,,23000 EUR
+901166,antonio-esposito,,,,
+973200,francesco-capogna,no-team,,Left, 
+993549,mattia-tonetto,feralpisalo,179,Left,120000 EUR
+1011568,lorenzo-coccia,arezzo,,Left,81000 EUR
+1013503,antonio-natalucci,cibao,182,Right,24000 EUR
+,amine-ghazoini,,,,
+,marco-moretti,,,,
+1013404,riccardo-rosi,anagni,,, 
+896187,valerio-mastrantonio,cittadella,180,Left,465000 EUR
+878289,andrea-errico,,,,
+901167,raul-obleac,,,,
+,andrea-dangeli,,,,
+1013371,gabriele-scorzoni,no-team,180,Right, 
+993541,angelo-de-florio,no-team,,Right,26000 EUR
+,alessio-ortenzi,,,,
+896186,francesco-verde,monterosi-tuscia,180,Right,235000 EUR
+917945,christian-notaristefano,,,,
+,samuele-venturini,,,,
+973277,gioele-origlia,no-team,,Right, 
+929773,nino-fidanza,no-team,,,0 EUR
+,giuseppe-veneruso,,,,
+,marco-simonelli,,,,
+904379,lorenzo-persichini,,,,
+,daniel-mancini,,,,
+1013308,eloy-alfonsetti,no-team,,Right, 
+993546,francesco-altobello,castelfidardo,188,Right,52000 EUR
+1017648,emanuele-merola,no-team,179,, 
+936162,cristiano-sprecace,,,,
+966138,roberto-scuccimarra,,,,
+972772,marco-fargione,no-team,187,Right,26000 EUR
+945598,francesco-galante,no-team,,,0 EUR
+,federico-dilario,,,,
+1114551,alessandro-pelusi,asd-spoltore-calcio,,, 
+991416,alessandro-sorrentino,monza,190,Right,540000 EUR
+,filippo-badioli,,,,
+874565,edgar-elizalde,independiente,183,Left,410000 EUR
+,andrea-marafini,,,,
+,federico-dangelo,,,,
+993113,davide-cipolletti,citta-di-teramo-1913,,Right,54000 EUR
+991458,matteo-paolilli,asd-il-delfino-flacco-porto-pescara,,, 
+,davide-zugaro-de-matteis,,,,
+1013229,paolo-giofre,asd-cittanova-calcio,,Left, 
+592760,giuseppe-scalera,no-team,184,Right,26000 EUR
+993798,alessandro-martella,asd-il-delfino-flacco-porto-pescara,182,Right,55000 EUR
+975739,matteo-gifford,2000-calcio-montesilvano,183,Right,0 EUR
