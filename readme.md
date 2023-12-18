@@ -54,8 +54,8 @@ This project aims to conduct a comprehensive analysis of the careers of youth fo
 
 ### Installation and Execution Instructions
 
-1. Clone the repository: `git clone https://github.com/your-username/master-project.git`
-2. Navigate to the project directory: `cd master-project`
+1. Clone the repository: `git clone https://github.com/klaudiamarciniakk/TalentFinder`
+2. Navigate to the project directory: `cd run-script-folder` -tbd
 3. Install dependencies: `pip install -r requirements.txt` - tbd
 4. Run scripts according to the instructions in each directory.
 5. tbd
@@ -124,8 +124,8 @@ Projekt ten ma na celu przeprowadzenie kompleksowej analizy kariery młodzieżow
 
 ## Instrukcje Instalacji i Uruchomienia
 
-1. Sklonuj repozytorium: `git clone https://github.com/twoj-nick/projekt-magisterski.git`
-2. Przejdź do katalogu projektu: `cd projekt-magisterski`
+1. Sklonuj repozytorium: `git clone https://github.com/klaudiamarciniakk/TalentFinder`
+2. Przejdź do katalogu projektu: `cd run-script-folder` -tbd
 3. Zainstaluj zależności: `pip install -r requirements.txt` - tbd
 4. Uruchom skrypty zgodnie z instrukcjami w poszczególnych katalogach.
 5. tbd
