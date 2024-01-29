@@ -88,6 +88,6 @@ def get_rating_from_event(rating):
 
 if __name__ == '__main__':
     players_id_src = os.path.join('..', '..', 'data', 'players', 'players_ids.csv')
-    players_rating_src = os.path.join('..', '..', 'data', 'players', 'players_ratings.json')
+    players_rating_src = os.path.join('..', '..', 'data', 'sofascore', 'players_ratings.json')
     players_rating_list = get_players_ratings(players_id_src)
     save_rating_into_json_file(players_rating_src, players_rating_list)
