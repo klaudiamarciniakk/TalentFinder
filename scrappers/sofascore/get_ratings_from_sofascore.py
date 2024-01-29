@@ -27,7 +27,7 @@ headers = {
 
 def get_event_data(event, player_id):
     tournament_id = event.get("tournament", {}).get("uniqueTournament", {}).get("id", "")
-    season_id = event.get("id", "")
+    season_id = event.get("season", {}).get("id", "")
     ratings_response = requests.get(
         f'https://api.sofascore.com/api/v1/player/{player_id}/unique-tournament/{tournament_id}/season/{season_id}/last-ratings',
         headers=headers).json()
@@ -59,6 +59,7 @@ def get_players_ratings(players_id_src):
         csv_file.seek(0)
         progress_bar = tqdm(total=row_count, desc='Processing first CSV ', unit='row', dynamic_ncols=True)
         processed_rows = 0
+        next(csv_reader)
         for row in csv_reader:
             processed_rows += 1
             progress_bar.update(1)
@@ -82,8 +83,6 @@ def save_rating_into_json_file(players_rating_src, player_rating_list):
 def get_rating_from_event(rating):
     event_rating = rating.get("rating", "")
     rating_data = {'rating': event_rating}
-    if event_rating != "":
-        print("XXXXXX")
     return rating_data
 
 
@@ -91,5 +90,4 @@ if __name__ == '__main__':
     players_id_src = os.path.join('..', '..', 'data', 'players', 'players_ids.csv')
     players_rating_src = os.path.join('..', '..', 'data', 'players', 'players_ratings.json')
     players_rating_list = get_players_ratings(players_id_src)
-    print(players_rating_list)
     save_rating_into_json_file(players_rating_src, players_rating_list)
