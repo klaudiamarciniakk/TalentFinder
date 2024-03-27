@@ -172,7 +172,7 @@ def transfers(id):
         for transfer in json_result.get('transfers', {}):
             market_value = transfer.get("marketValue", "")
             market_value = market_value.replace(" €", "").replace("-", "0").replace(" tys.", "000").replace(" mln",
-                                                                                                              "0000").replace(
+                                                                                                              "000000").replace(
                 ",", "").replace(" ","")
             fee = transfer.get("fee", {})
             print(fee)
@@ -185,7 +185,7 @@ def transfers(id):
                 fee = "0"
             else:
                 transfer_type = "Transfer"
-                fee = fee.replace(" €", "").replace("-", "0").replace(" tys.", "000").replace(" mln", "0000").replace(
+                fee = fee.replace(" €", "").replace("-", "0").replace(" tys.", "000").replace(" mln", "000000").replace(
                     ",", "").replace(" ","")
             date = transfer.get("date", "")
             for month in months_dictionary:
@@ -219,7 +219,7 @@ def market_value_scrape(id):
         for element in json_result.get('list', {}):
             market_value = element.get("mw", "")
             market_value = market_value.replace(" €", "").replace("-", "0").replace(" tys.", "000").replace(" mln",
-                                                                                                              "0000").replace(
+                                                                                                              "000000").replace(
                 ",", "").replace(" ","")
             date = element.get("datum_mw", "")
             for month in months_dictionary:
