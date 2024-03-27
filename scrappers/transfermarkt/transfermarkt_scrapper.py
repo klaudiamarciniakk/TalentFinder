@@ -91,7 +91,8 @@ def scrape_player(uri, year):
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.content, 'html.parser')
     id = url.split("spieler/")[1]
-    df = pd.read_csv("players.csv")
+    players_src = os.path.join('..', '..', 'data', 'transfermarkt', 'players.csv')
+    df = pd.read_csv(players_src)
     if int(id) in df['id'].values:
         print("JEst zawodnik w wartosciach: " + id)
         return False
@@ -654,8 +655,25 @@ def scrape_my_leagues(leagues, year):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    leagues = [
 
+
+
+    leagues = [
+    {"league": "https://www.transfermarkt.pl/pko-bp-ekstraklasa/startseite/wettbewerb/PL1",
+    "league_href": "/pko-bp-ekstraklasa/startseite/wettbewerb/PL1",
+    "name": "Ekstraklasa",
+    "code": "PL1",
+    },
+    {"league": "https://www.transfermarkt.pl/fortuna-1-liga/startseite/wettbewerb/PL2",
+                "league_href": "/fortuna-1-liga/startseite/wettbewerb/PL2",
+                "name": "1 liga",
+                "code": "PL2",
+                },
+    {"league": "https://www.transfermarkt.pl/centralna-liga-juniorow/startseite/wettbewerb/PLZJ",
+                "league_href": "/centralna-liga-juniorow/startseite/wettbewerb/PLZJ",
+                "name": "CLJ",
+                "code": "PLZJ",
+                },
         {"league": "https://www.transfermarkt.pl/superliga/startseite/wettbewerb/RO1",
          "league_href": "/superliga/startseite/wettbewerb/RO1",
          "name": "SuperLiga",
@@ -672,7 +690,21 @@ if __name__ == '__main__':
          "name": "2. Liga",
          "code": "A2",
          },
-
+    {"league": "https://www.transfermarkt.pl/fortuna-liga/startseite/wettbewerb/TS1",
+                "league_href": "/fortuna-liga/startseite/wettbewerb/TS1",
+                "name": "Fortuna Liga",
+                "code": "TS1",
+                },
+    {"league": "https://www.transfermarkt.pl/fortuna-narodni-liga/startseite/wettbewerb/TS2",
+                "league_href": "/fortuna-narodni-liga/startseite/wettbewerb/TS2",
+                "name": "FNL",
+                "code": "TS2",
+                },
+    {"league": "https://www.transfermarkt.pl/1-dorostenecka-liga/startseite/wettbewerb/CZ19",
+                "league_href": "/1-dorostenecka-liga/startseite/wettbewerb/CZ19",
+                "name": "1. Dorostenecka liga",
+                "code": "CZ19",
+                },
     ]
     seasons_lis = ["2020", "2021", "2022"]  # "2018","2019", "2023"] #, "2020", "2021", "2022"
     for seasons in seasons_lis:
@@ -680,60 +712,49 @@ if __name__ == '__main__':
         # league_scrape("https://www.transfermarkt.pl/wettbewerbe/europa/wettbewerbe?plus=1&page=12", seasons)
 
     # get_season("https://www.transfermarkt.pl/jan-andrzejewski/leistungsdaten/spieler/289163","2014") #view-source:https://www.transfermarkt.pl/jan-andrzejewski/leistungsdaten/spieler/289163/saison/2014/plus/1
-'''
-    selected_keys = ['id','season','date', 'marketValue', 'fee', 'clubName1', 'clubName2']
-    with open(transfer_file_src,"a", newline="") as csv_file:
-        csv_writer = csv.DictWriter(csv_file, fieldnames=selected_keys)
-        csv_writer.writeheader()
-    selected_keys = ['id','value','date', 'club', 'age']
-    with open(player_value_file_src,"a", newline="") as csv_file:
-        csv_writer = csv.DictWriter(csv_file, fieldnames=selected_keys)
-        csv_writer.writeheader()
-    selected_keys = ['id', 'name', 'place_of_birth', 'birth_date', 'nationality', 'height', 'position']
-    with open(players_file_src, "a", newline="") as csv_file:
-        csv_writer = csv.DictWriter(csv_file, fieldnames=selected_keys)
-        csv_writer.writeheader()
-    club_scrape()
-    '''
-
+#create new files
 '''
     selected_keys = ['id', 'slug', 'name', 'place_of_birth', 'brith_date', 'nationality', 'height', 'position',
                      'manager']
-    with open("players.csv", "w", newline="") as file:
+    players_src = os.path.join('..', '..', 'data', 'transfermarkt', 'players.csv')
+    with open(players_src, "w", newline="") as file:
         writer = csv.writer(file)
         writer.writerow(selected_keys)
-    selected_keys = ['id','value','date', 'club', 'age']
-    #player_value_file_src = "player_value.csv"#os.path.join('..', '..', 'data', 'transfermarkt', 'player_value.csv')
-    with open("player_value.csv", "w", newline="") as file:
+    selected_keys = ['id', 'value', 'date', 'club', 'age']
+    player_value_file_src = os.path.join('..', '..', 'data', 'transfermarkt', 'player_value.csv')
+    with open(player_value_file_src, "w", newline="") as file:
         writer = csv.writer(file)
         writer.writerow(selected_keys)
-    selected_keys = ['id','season','date', 'marketValue', 'fee', 'clubName1', 'clubName2']
-    with open('transfers.csv', "a", newline="") as file:
+    selected_keys = ['id', 'season', 'date', 'marketValue', 'fee', 'transferType', 'clubName1', 'clubName2']
+    transfer_file_src = os.path.join('..', '..', 'data', 'transfermarkt', 'transfers.csv')
+    with open(transfer_file_src, "w", newline="") as file:
         writer = csv.writer(file)
         writer.writerow(selected_keys)
-    selected_keys_minutes = ["id", "season", "title", "league_href", "matches", "goals", "own_goal", "from_bench",
-                             "changes",
-                             "yellow_card", "two_yellow_card ", "red_card", "lose_goals", "clean_sheet",
+    selected_keys_minutes = ["id", "season", "title", "league_href", "matches", "goals", "assists", "own_goal",
+                             "from_bench", "changes",
+                             "yellow_card", "two_yellow_card ", "red_card", "penalty_goal", "minutes_per_goal",
                              "minutes", ]
     selected_keys_seasons = ["id", "season", "league", "round", "date", "home_team", "away_team", "result", "position",
                              "goals", "assists", "own_goals", "yellow_card", "two_yellow_card", "red_card",
                              "from_bench",
                              "changes", "minutes", "out", "out_reason"]
-    with open('player_seasons.csv', "a", newline="") as file:
+    player_seasons_src = os.path.join('..', '..', 'data', 'transfermarkt', 'player_seasons.csv')
+    with open(player_seasons_src, "w", newline="") as file:
         writer = csv.writer(file)
         writer.writerow(selected_keys_seasons)
-    with open('player_club_minutes.csv', "a", newline="") as file:
+    player_club_minutes_src = os.path.join('..', '..', 'data', 'transfermarkt', 'player_club_minutes.csv')
+    with open(player_club_minutes_src, "w", newline="") as file:
         writer = csv.writer(file)
-        writer.writerow(selected_keys_seasons)
+        writer.writerow(selected_keys_minutes)
     selected_keys_minutes = ["id", "season", "title", "league_href", "matches", "goals", "own_goal", "from_bench",
                              "changes",
                              "yellow_card", "two_yellow_card ", "red_card", "lose_goals", "clean_sheet",
                              "minutes", ]
-    with open('player_goalkeeper_club_minutes.csv', "a", newline="") as file:
+    player_goalkeeper_club_minutes_src = os.path.join('..', '..', 'data', 'transfermarkt',
+                                                      'player_goalkeeper_club_minutes.csv')
+    with open(player_goalkeeper_club_minutes_src, "w", newline="") as file:
         writer = csv.writer(file)
         writer.writerow(selected_keys_seasons)
-
-    df = pd.read_csv("players.csv")
 '''
 
 '''

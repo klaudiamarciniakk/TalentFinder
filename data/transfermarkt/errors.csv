@@ -1,0 +1,1156 @@
+get_seasons/get_season,2020,/adam-ryczkowski/profil/spieler/264297,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 271, in club_players_scrape
+    get_seasons(player_href, get_season)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 291, in get_seasons
+    func(url, year)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 544, in get_season
+    with open(player_seasons_src, ""a"", newline="""") as csv_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\..\\data\\transfermarkt\\player_seasons.csv'
+"
+get_seasons/get_season,2020,/rafal-janicki/profil/spieler/153638,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 271, in club_players_scrape
+    get_seasons(player_href, get_season)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 291, in get_seasons
+    func(url, year)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 544, in get_season
+    with open(player_seasons_src, ""a"", newline="""") as csv_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\..\\data\\transfermarkt\\player_seasons.csv'
+"
+get_seasons/get_season_goalkeeper,2020,/dusan-kuciak/profil/spieler/31886,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 276, in club_players_scrape
+    get_seasons(player_href, get_season_goalkeeper)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 291, in get_seasons
+    func(url, year)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 379, in get_season_goalkeeper
+    with open(player_seasons_src, ""a"", newline="""") as csv_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\..\\data\\transfermarkt\\player_seasons.csv'
+"
+get_seasons/get_season,2020,/maciej-gajos/profil/spieler/236891,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 271, in club_players_scrape
+    get_seasons(player_href, get_season)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 291, in get_seasons
+    func(url, year)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 544, in get_season
+    with open(player_seasons_src, ""a"", newline="""") as csv_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\..\\data\\transfermarkt\\player_seasons.csv'
+"
+get_seasons/get_season,2020,/piotr-malarczyk/profil/spieler/120892,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 271, in club_players_scrape
+    get_seasons(player_href, get_season)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 291, in get_seasons
+    func(url, year)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 492, in get_season
+    with open(player_club_minutes_src, ""a"", newline="""") as csv_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\..\\data\\transfermarkt\\player_club_minutes.csv'
+"
+get_seasons/get_season,2020,/tiago-alves/profil/spieler/451857,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 271, in club_players_scrape
+    get_seasons(player_href, get_season)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 291, in get_seasons
+    func(url, year)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 544, in get_season
+    with open(player_seasons_src, ""a"", newline="""") as csv_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\..\\data\\transfermarkt\\player_seasons.csv'
+"
+get_seasons/get_season,2020,/dominik-steczyk/profil/spieler/344415,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 271, in club_players_scrape
+    get_seasons(player_href, get_season)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 291, in get_seasons
+    func(url, year)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 544, in get_season
+    with open(player_seasons_src, ""a"", newline="""") as csv_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\..\\data\\transfermarkt\\player_seasons.csv'
+"
+get_seasons/get_season,2020,/bartlomiej-sielewski/profil/spieler/64463,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 271, in club_players_scrape
+    get_seasons(player_href, get_season)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 291, in get_seasons
+    func(url, year)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 544, in get_season
+    with open(player_seasons_src, ""a"", newline="""") as csv_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\..\\data\\transfermarkt\\player_seasons.csv'
+"
+get_seasons/get_season,2020,/marcin-szpakowski/profil/spieler/605748,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 271, in club_players_scrape
+    get_seasons(player_href, get_season)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 291, in get_seasons
+    func(url, year)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 544, in get_season
+    with open(player_seasons_src, ""a"", newline="""") as csv_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\..\\data\\transfermarkt\\player_seasons.csv'
+"
+get_seasons/get_season,2020,/michal-kopczynski/profil/spieler/235977,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 271, in club_players_scrape
+    get_seasons(player_href, get_season)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 291, in get_seasons
+    func(url, year)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 544, in get_season
+    with open(player_seasons_src, ""a"", newline="""") as csv_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\..\\data\\transfermarkt\\player_seasons.csv'
+"
+scrape_player,2020,/bartlomiej-burman/profil/spieler/407080,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 642, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 782, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\ssl_.py"", line 470, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\ssl_.py"", line 514, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\ssl.py"", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\ssl.py"", line 1046, in _create
+    self.do_handshake()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\ssl.py"", line 1317, in do_handshake
+    self._sslobj.do_handshake()
+TimeoutError: [WinError 10060] Proba polaczenia nie powiodla sie, poniewaz polaczona strona nie odpowiedziala poprawnie po ustalonym okresie czasu lub utworzone polaczenie nie powiodlo sie, poniewaz polaczony host nie odpowiedzial
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 470, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\util.py"", line 39, in reraise
+    raise value
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 469, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 370, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Read timed out. (read timeout=None)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 532, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Read timed out. (read timeout=None)
+"
+scrape_player,2020,/jakub-kielb/profil/spieler/181119,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E5A1A8A0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /jakub-kielb/profil/spieler/181119 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A1A8A0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /jakub-kielb/profil/spieler/181119 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A1A8A0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
+scrape_player,2020,/michal-jakobowski/profil/spieler/224176,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E5A19130>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /michal-jakobowski/profil/spieler/224176 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A19130>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /michal-jakobowski/profil/spieler/224176 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A19130>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
+scrape_player,2020,/robert-janicki/profil/spieler/366229,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E5A18290>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /robert-janicki/profil/spieler/366229 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A18290>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /robert-janicki/profil/spieler/366229 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A18290>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
+scrape_player,2020,/gracjan-jaroch/profil/spieler/297217,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E58AC110>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /gracjan-jaroch/profil/spieler/297217 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E58AC110>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /gracjan-jaroch/profil/spieler/297217 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E58AC110>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
+scrape_player,2020,/konrad-handzlik/profil/spieler/297216,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E5A1A0F0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /konrad-handzlik/profil/spieler/297216 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A1A0F0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /konrad-handzlik/profil/spieler/297216 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A1A0F0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
+scrape_player,2020,/mariusz-rybicki/profil/spieler/215124,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E5A192B0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /mariusz-rybicki/profil/spieler/215124 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A192B0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /mariusz-rybicki/profil/spieler/215124 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A192B0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
+scrape_player,2020,/mateusz-sopocko/profil/spieler/432044,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E5A1A2A0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /mateusz-sopocko/profil/spieler/432044 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A1A2A0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /mateusz-sopocko/profil/spieler/432044 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A1A2A0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
+scrape_player,2020,/kajetan-szmyt/profil/spieler/658730,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E61F6750>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /kajetan-szmyt/profil/spieler/658730 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E61F6750>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /kajetan-szmyt/profil/spieler/658730 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E61F6750>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
+scrape_player,2020,/makana-baku/profil/spieler/336974,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E61F4E60>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /makana-baku/profil/spieler/336974 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E61F4E60>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /makana-baku/profil/spieler/336974 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E61F4E60>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
+scrape_player,2020,/mateusz-czyzycki/profil/spieler/385479,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E5A19FA0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /mateusz-czyzycki/profil/spieler/385479 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A19FA0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /mateusz-czyzycki/profil/spieler/385479 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A19FA0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
+scrape_player,2020,/mario-rodriguez/profil/spieler/251888,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E5A1A5A0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /mario-rodriguez/profil/spieler/251888 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A1A5A0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /mario-rodriguez/profil/spieler/251888 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A1A5A0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
+scrape_player,2020,/dominik-smykowski/profil/spieler/781660,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E5A190A0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /dominik-smykowski/profil/spieler/781660 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A190A0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /dominik-smykowski/profil/spieler/781660 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5A190A0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
+scrape_player,2020,/mateusz-kuzimski/profil/spieler/381891,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E5B297C0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /mateusz-kuzimski/profil/spieler/381891 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5B297C0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /mateusz-kuzimski/profil/spieler/381891 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E5B297C0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
+scrape_player,2020,/adam-zrelak/profil/spieler/261155,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py"", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\socket.py"", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 491, in _make_request
+    raise new_e
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 467, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 1096, in _validate_conn
+    conn.connect()
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py"", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000226E61F7EF0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py"", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py"", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /adam-zrelak/profil/spieler/261155 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E61F7EF0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 91, in scrape_player
+    response = requests.get(url, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 73, in get
+    return request(""get"", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py"", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /adam-zrelak/profil/spieler/261155 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E61F7EF0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
+"
