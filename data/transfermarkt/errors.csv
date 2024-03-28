@@ -1154,3 +1154,76 @@ Traceback (most recent call last):
     raise ConnectionError(e, request=request)
 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.transfermarkt.pl', port=443): Max retries exceeded with url: /adam-zrelak/profil/spieler/261155 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000226E61F7EF0>: Failed to resolve 'www.transfermarkt.pl' ([Errno 11001] getaddrinfo failed)""))
 "
+scrape_player,2020,/aleksander-ciesielski/profil/spieler/821354,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 159, in scrape_player
+    transfers(id)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 200, in transfers
+    ""season"": unidecode(transfer.get(""season"", """")),
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\unidecode\__init__.py"", line 60, in unidecode_expect_ascii
+    bytestring = string.encode('ASCII')
+                 ^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+"
+scrape_player,2020,/david-kecskes/profil/spieler/874873,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 159, in scrape_player
+    transfers(id)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 179, in transfers
+    print(""Wypozyczenie"" in fee)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'int' is not iterable
+"
+scrape_player,2020,/adelin-voinescu/profil/spieler/805627,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 159, in scrape_player
+    transfers(id)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 200, in transfers
+    ""season"": unidecode(transfer.get(""season"", """")),
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\unidecode\__init__.py"", line 60, in unidecode_expect_ascii
+    bytestring = string.encode('ASCII')
+                 ^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+"
+scrape_player,2020,/daniel-serbanica/profil/spieler/529149,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 265, in club_players_scrape
+    position = scrape_player(player_href, year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 159, in scrape_player
+    transfers(id)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 200, in transfers
+    ""season"": unidecode(transfer.get(""season"", """")),
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\JaSzw\AppData\Local\Programs\Python\Python312\Lib\site-packages\unidecode\__init__.py"", line 60, in unidecode_expect_ascii
+    bytestring = string.encode('ASCII')
+                 ^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+"
+get_seasons/get_season,2020,/ionut-serban/profil/spieler/212764,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 271, in club_players_scrape
+    get_seasons(player_href, get_season)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 291, in get_seasons
+    func(url, year)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 544, in get_season
+    with open(player_seasons_src, ""a"", newline="""") as csv_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\..\\data\\transfermarkt\\player_seasons.csv'
+"
+get_seasons/get_season,2020,/alin-popa/profil/spieler/209115,"Traceback (most recent call last):
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 271, in club_players_scrape
+    get_seasons(player_href, get_season)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 291, in get_seasons
+    func(url, year)
+  File ""C:\Users\JaSzw\OneDrive\Dokumenty\GitHub\TalentFinder\scrappers\transfermarkt\transfermarkt_scrapper.py"", line 544, in get_season
+    with open(player_seasons_src, ""a"", newline="""") as csv_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\..\\data\\transfermarkt\\player_seasons.csv'
+"
