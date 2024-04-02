@@ -1,4 +1,4 @@
-id,season,league,round,date,home_team,away_team,result,position,goals,assists,own_goals,yellow_card,two_yellow_card,red_card,from_bench,changes,minutes,out,out_reason
+id,season,title,league_href,matches,goals,own_goal,from_bench,changes,yellow_card,two_yellow_card,red_card,lose_goals,clean_sheet,minutes
 155158,2023/2024,UECL Kwalifikacje,/uefa-europa-conference-league-qualifikation/startseite/pokalwettbewerb/ECLQ,3,0,0,0,0,0,0,0,5,0,270
 155158,2023/2024,Ekstraklasa,/pko-ekstraklasa/startseite/wettbewerb/PL1,3,0,0,0,0,1,0,0,2,1,270
 155158,2023/2024,Fortuna Puchar Polski,/fortuna-polnischer-pokal/startseite/pokalwettbewerb/POPU,3,0,0,0,0,0,0,0,1,2,300

@@ -27,7 +27,9 @@ headers = {
 
 def get_event_data(event, player_id):
     tournament_id = event.get("tournament", {}).get("uniqueTournament", {}).get("id", "")
+    tournament = event.get("tournament", {}).get("name", "")
     season_id = event.get("season", {}).get("id", "")
+    season = event.get("season", {}).get("year", "")
     ratings_response = requests.get(
         f'https://api.sofascore.com/api/v1/player/{player_id}/unique-tournament/{tournament_id}/season/{season_id}/last-ratings',
         headers=headers).json()
@@ -35,7 +37,8 @@ def get_event_data(event, player_id):
     rating_list = []
     for rating in ratings:
         rating_list.append(get_rating_from_event(rating))
-    event_data = {'tournament_id': tournament_id, "season_id": season_id, "ratings": rating_list}
+    event_data = {'tournament_id': tournament_id, " tournamentName": tournament, "season_id": season_id,
+                  "season": season, "ratings": rating_list}
     return event_data
 
 
@@ -57,7 +60,7 @@ def get_players_ratings(players_id_src):
         csv_reader = csv.DictReader(csv_file)
         row_count = sum(1 for _ in csv_reader)
         csv_file.seek(0)
-        progress_bar = tqdm(total=row_count, desc='Processing first CSV ', unit='row', dynamic_ncols=True)
+        progress_bar = tqdm(total=row_count, desc='Downloading players ratings ', unit='row', dynamic_ncols=True)
         processed_rows = 0
         next(csv_reader)
         for row in csv_reader:
@@ -86,8 +89,30 @@ def get_rating_from_event(rating):
     return rating_data
 
 
+def json_to_csv(json_file, csv_file):
+    j = json.loads(open(json_file).read())
+
+    list = []
+
+    for player in j:
+        for event in player['events_rating']:
+            for rating in event['ratings']:
+                list.append((player['sofascore_id'], player['transfermarkt_id'], event['tournament_id'],
+                             event['tournamentName'], event['season_id'], event['season'], rating['rating']))
+
+    with open(csv_file, 'w', newline='') as out:
+        csv_out = csv.writer(out)
+        csv_out.writerow(
+            ['sofascore_id', 'transfermarkt_id', 'tournament_id', 'tournament_name', 'season_id', 'season_name',
+             'rating'])
+        for row in list:
+            csv_out.writerow(row)
+
+
 if __name__ == '__main__':
     players_id_src = os.path.join('..', '..', 'data', 'players', 'players_ids.csv')
     players_rating_src = os.path.join('..', '..', 'data', 'sofascore', 'players_ratings.json')
+    players_rating_csv = os.path.join('..', '..', 'data', 'sofascore', 'players_ratings.csv')
     players_rating_list = get_players_ratings(players_id_src)
     save_rating_into_json_file(players_rating_src, players_rating_list)
+    json_to_csv(players_rating_src, players_rating_csv)

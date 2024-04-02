@@ -1,8 +1,9 @@
 import csv
-from datetime import datetime
-from tqdm import tqdm
-import requests
 import os
+from datetime import datetime
+
+import requests
+from tqdm import tqdm
 
 headers = {
     'authority': 'api.sofascore.com',
@@ -35,6 +36,7 @@ def timestamp_to_date(timestamp):
         print(f"Invalid timestamp: {timestamp}")
         return None
 
+
 def format_date(input_date):
     try:
         parsed_date = datetime.strptime(input_date, '%d.%m.%Y')
@@ -51,7 +53,7 @@ def get_players_list(players_id_file_src):
         rest = list(csv_reader)
         row_count = sum(1 for _ in rest)
         csv_file.seek(0)
-        progress_bar = tqdm(total=row_count, desc='Processing CSV', unit='row', dynamic_ncols=True)
+        progress_bar = tqdm(total=row_count, desc='Downloading players ids ', unit='row', dynamic_ncols=True)
         processed_rows = 0
         players_list = []
         for row in rest:

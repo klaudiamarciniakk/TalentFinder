@@ -1,8 +1,9 @@
 import csv
+import os
+
 import requests
 from tqdm import tqdm
 from unidecode import unidecode
-import os
 
 headers = {
     'authority': 'api.sofascore.com',
@@ -23,6 +24,7 @@ headers = {
 
 }
 
+
 def get_players(players_ids_src):
     players_list = []
     with open(players_ids_src, "r") as csv_file:
@@ -34,7 +36,6 @@ def get_players(players_ids_src):
         processed_rows = 0
 
         for row in csv_reader:
-
             processed_rows += 1
             progress_bar.update(1)
 
@@ -51,11 +52,12 @@ def get_players_details(players_list, players_details_csv_file_path, selected_ke
         csv_writer.writeheader()
 
         row_count = sum(1 for _ in players_list)
-        progress_bar = tqdm(total=row_count, desc='Processing second CSV ', unit='row', dynamic_ncols=True)
+        progress_bar = tqdm(total=row_count, desc='Downloading players details ', unit='row', dynamic_ncols=True)
         processed_rows = 0
 
         for player in players_list:
-
+            if player["id_sofascore"] == 'id_sofascore':
+                continue
             processed_rows += 1
             progress_bar.update(1)
 
@@ -74,15 +76,14 @@ def get_players_details(players_list, players_details_csv_file_path, selected_ke
                 player_response = response.json()
                 player_data = player_response.get("player", {})
                 if player["slug"] == player_data.get('slug', ""):
-                    marketValue = [str(player_data.get("proposedMarketValueRaw", {}).get("value", "")),
-                                   player_data.get("proposedMarketValueRaw", {}).get("currency", "")]
+                    marketValue = str(player_data.get("proposedMarketValueRaw", {}).get("value", ""))
                     selected_data = {
                         "id": player_data.get("id", ""),
                         "slug": unidecode(player_data.get("slug", "")),
                         "team": unidecode(player_data.get("team", {}).get("slug", "")),
                         "height": player_data.get("height", ""),
                         "preferredFoot": player_data.get("preferredFoot", ""),
-                        "marketValue": " ".join(marketValue)
+                        "marketValue": marketValue
                     }
                 else:
                     selected_data = {
