@@ -3,7 +3,12 @@ import pandas as pd
 import os
 import pyodbc
 import json
- 
+
+server = 'mssql-2017.labs.wmi.amu.edu.pl'
+database = 'db_football_players'
+username = 'db_football_players'
+password = 'Lh4M466Ww7'
+
 connection_string = f"mssql+pyodbc://{username}:{password}@{server}/{database}?driver=ODBC+Driver+17+for+SQL+Server"
 engine = create_engine(connection_string)
 def load_data():
@@ -138,9 +143,11 @@ def generate_flags(flag_list, df_player_seasons, df_player_values):
                 data = json.load(f)
                 df_player_seasons = pd.read_json(data, orient='records')
             result = merge_flags(df_player_seasons, final_data)
+            result = result.drop_duplicates(subset=['id', 'season', 'team'])
             result = result.to_json(orient='records')
         else:
-            result = final_data.to_json(orient='records')
+            result = final_data.drop_duplicates(subset=['id', 'season', 'team'])
+            result = result.to_json(orient='records')
         with open('flags_result.json', 'w') as f:
             json.dump(result, f)
 
