@@ -11,21 +11,21 @@ This project aims to conduct a comprehensive analysis of the careers of youth fo
 
 1. **Analysis of Player Careers:** Examining the career trajectories of youth players, including their achievements, number of appearances, and participation in significant football events.
 
-2. **Success Factors:** Identifying key factors influencing player success, such as technical, physical, and psychological skills, as well as teamwork.
+2. **Success Factors:** Identifying key factors influencing player success, such as technical and physical skills.
 
 3. **Success Prediction Model:** Using the collected data to create a machine learning model that can predict the success potential of a young player.
 
 ### Project Stages
 
-1. **Data Collection:** Gathering data on the careers of youth players, including match statistics, training data, and information about their participation in various tournaments.
+1. **Data Collection:** Gathering data on the careers of youth players, including match statistics and information about their participation in various tournaments.
 
 2. **Statistical Analysis:** Conducting a detailed statistical analysis to identify significant patterns and correlations between different variables.
 
-3. **Artificial Intelligence Modeling:** Implementing a machine learning model capable of predicting success based on collected data. Using algorithms such as logistic regression, decision trees, and neural networks.
+3. **Artificial Intelligence Modeling:** Implementing a machine learning model capable of predicting success based on collected data. Using algorithms such as logistic regression and decision trees.
 
 4. **Model Evaluation:** Assessing the effectiveness of the created model based on a test set and adjusting model parameters to achieve optimal results.
 
-5. **Report and Conclusions:** Developing a final report presenting the results of the player career analysis and the effectiveness of the created model. Drawing conclusions about key factors influencing the success of football players.
+5. **Report and Conclusions:** Developing a final report.
 
 ### Tools and Technologies
 
@@ -86,21 +86,21 @@ Projekt ten ma na celu przeprowadzenie kompleksowej analizy kariery młodzieżow
 
 1. **Analiza Kariery Zawodników:** Badanie trajektorii kariery młodzieżowców, w tym ich osiągnięć, liczby występów, oraz udziału w ważnych wydarzeniach piłkarskich.
 
-2. **Czynniki Sukcesu:** Identyfikacja kluczowych czynników wpływających na sukces zawodników, takich jak umiejętności techniczne, fizyczne, psychiczne, oraz współpraca z zespołem.
+2. **Czynniki Sukcesu:** Identyfikacja kluczowych czynników wpływających na sukces zawodników, takich jak umiejętności techniczne i fizyczne.
 
 3. **Model Przewidywania Sukcesu:** Wykorzystanie zgromadzonych danych do stworzenia modelu opartego na sztucznej inteligencji, który będzie w stanie przewidzieć potencjał sukcesu młodego zawodnika.
 
 ## Etapy Projektu
 
-1. **Zbieranie Danych:** Gromadzenie danych dotyczących kariery młodzieżowców, takich jak statystyki meczowe, dane treningowe, oraz informacje o ich uczestnictwie w różnych turniejach.
+1. **Zbieranie Danych:** Gromadzenie danych dotyczących kariery młodzieżowców, takich jak statystyki meczowe, oraz informacje o ich uczestnictwie w różnych turniejach.
 
 2. **Analiza Statystyczna:** Przeprowadzenie szczegółowej analizy statystycznej w celu zidentyfikowania istotnych wzorców i korelacji pomiędzy różnymi zmiennymi.
 
-3. **Modelowanie Sztucznej Inteligencji:** Implementacja modelu uczenia maszynowego, który będzie w stanie przewidzieć potencjał sukcesu na podstawie zebranych danych. Wykorzystanie algorytmów takich jak regresja logistyczna, drzewa decyzyjne czy sieci neuronowe.
+3. **Modelowanie Sztucznej Inteligencji:** Implementacja modelu uczenia maszynowego, który będzie w stanie przewidzieć potencjał sukcesu na podstawie zebranych danych. Wykorzystanie algorytmów takich jak regresja logistyczna czy drzewa decyzyjne.
 
 4. **Ewaluacja Modelu:** Ocena skuteczności stworzonego modelu na podstawie zestawu testowego, oraz dostosowywanie parametrów modelu w celu uzyskania jak najlepszych wyników.
 
-5. **Raport i Wnioski:** Opracowanie raportu końcowego, prezentującego wyniki analizy kariery zawodników, oraz skuteczność stworzonego modelu. Wyciągnięcie wniosków dotyczących kluczowych czynników wpływających na sukces zawodników piłkarskich.
+5. **Raport i Wnioski:** Opracowanie raportu końcowego.
 
 ## Narzędzia i Technologie
 
