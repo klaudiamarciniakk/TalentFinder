@@ -56,13 +56,13 @@ This project aims to conduct a comprehensive analysis of the careers of youth fo
 ### System Requirements
 
 - Python 3.7+
-- Libraries listed in the `requirements.txt` file -tbd
+- Libraries listed in the `requirements.txt` file
 
 ### Installation and Execution Instructions
 
 1. Clone the repository: `git clone https://github.com/klaudiamarciniakk/TalentFinder`
-2. Navigate to the project directory: `cd TalentFinder` -tbd
-3. Install dependencies: `pip install -r requirements.txt` - tbd
+2. Navigate to the project directory: `cd TalentFinder`
+3. Install dependencies: `pip install -r requirements.txt`
 4. Run scripts according to the instructions in documentation.
 
 ### Contact
@@ -131,13 +131,13 @@ Projekt ten ma na celu przeprowadzenie kompleksowej analizy kariery młodzieżow
 ## Wymagania Systemowe
 
 - Python 3.7+
-- Biblioteki wymienione w pliku `requirements.txt` -tbd
+- Biblioteki wymienione w pliku `requirements.txt`
 
 ## Instrukcje Instalacji i Uruchomienia
 
 1. Sklonuj repozytorium: `git clone https://github.com/klaudiamarciniakk/TalentFinder`
-2. Przejdź do katalogu projektu: `cd TalentFinder` -tbd
-3. Zainstaluj zależności: `pip install -r requirements.txt` - tbd
+2. Przejdź do katalogu projektu: `cd TalentFinder`
+3. Zainstaluj zależności: `pip install -r requirements.txt`
 4. Uruchom skrypty zgodnie z instrukcjami w dokumentacji.
 
 ## Kontakt
