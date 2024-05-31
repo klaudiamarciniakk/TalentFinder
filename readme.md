@@ -30,22 +30,28 @@ This project aims to conduct a comprehensive analysis of the careers of youth fo
 ### Tools and Technologies
 
 - **Programming Language:** Python
-- **ML Libraries:** tbd
+- **ML Libraries:** gym, scikit-learn, stable-baselines3, torch
 - **Statistical Analysis:** pandas, numpy, matplotlib
 - **Development Environment:** Jupyter Notebook
-- **Graphical Interface:** tbd
 
 ### Project Organization
 
 - **data/:** Data directory
+  - **flags/:** Flags generated based on collected data
   - **players/:** Data about players for both sides with data
   - **sofascore/:** Scraped data from Sofascore
   - **transfermarkt/:** Scraped data from Transfermarkt
 - **scrappers/:** Data scraping scripts
-  - **sofascore/:** Data scraper handling Sofascore website
+  - **sofascore/:** Data scrapers handling Sofascore website
   - **transfermarkt/:** Data scraper handling Transfermarkt website
-- **reports/:** Reports and analysis results - tbd
-- **documents/:** Documents directory
+- **documention/:** Documentation directory
+- **editdata/:** Scripts processing data into flags
+- **ml/:** Machine learning scripts
+  - **clasification/:** Random Forest classification script
+  - **random_forest/:** Random Forest regression script
+  - **regresion/:** Regression script
+- **readme.md:** Project user manual
+- **requirements.txt:** Project dependencies file
 
 ### System Requirements
 
@@ -55,10 +61,9 @@ This project aims to conduct a comprehensive analysis of the careers of youth fo
 ### Installation and Execution Instructions
 
 1. Clone the repository: `git clone https://github.com/klaudiamarciniakk/TalentFinder`
-2. Navigate to the project directory: `cd run-script-folder` -tbd
+2. Navigate to the project directory: `cd TalentFinder` -tbd
 3. Install dependencies: `pip install -r requirements.txt` - tbd
-4. Run scripts according to the instructions in each directory.
-5. tbd
+4. Run scripts according to the instructions in documentation.
 
 ### Contact
 
@@ -100,22 +105,28 @@ Projekt ten ma na celu przeprowadzenie kompleksowej analizy kariery młodzieżow
 ## Narzędzia i Technologie
 
 - **Język Programowania:** Python
-- **Biblioteki ML:** tbd
+- **Biblioteki ML:** gym, scikit-learn, stable-baselines3, torch
 - **Analiza Statystyczna:** pandas, numpy, matplotlib
 - **Środowisko Programistyczne:** Jupyter Notebook
-- **Interfejs Graficzny:** tbd
 
 ## Organizacja Projektu
 
 - **data/:** Katalog danych
+  - **flags/:** Flagi wygenrowane w oparciu o zebrane dane
   - **players/:** Dane o zawodnikach do obu stron z danymi
   - **sofascore/:** Dane zescrappowane z Sofascore
   - **transfermarkt/:** Dane zescrappowane z Transfermarkt
 - **scrappers/:** Skrypty zbierajace dane
-  - **sofascore/:** Scrapper danych obsługujący stronę Sofascore
+  - **sofascore/:** Scrappery danych obsługujący stronę Sofascore
   - **transfermarkt/:** Scrapper danych obsługujący stronę Transfermarkt
-- **reports/:** Raporty i wyniki analiz - tbd
-- **documents/:** Katalog z dokumentami
+- **documentation/:** Katalog z dokumentacją
+- **editdata/:** Skrypty przetwarzające dane na flagi
+- **ml/:** Skrypty uczenia maszynowego
+  - **clasification/:** Skrypt do klasyfikacji Random Forest
+  - **random_forest/:** Skrypt do regresji Random Forest
+  - **regresion/:** Skrypt do regresji
+- **readme.md:** Plik z instrukcją obsługi projektu
+- **requirements.txt:** Plik z zależnościami projektu
 
 ## Wymagania Systemowe
 
@@ -125,10 +136,9 @@ Projekt ten ma na celu przeprowadzenie kompleksowej analizy kariery młodzieżow
 ## Instrukcje Instalacji i Uruchomienia
 
 1. Sklonuj repozytorium: `git clone https://github.com/klaudiamarciniakk/TalentFinder`
-2. Przejdź do katalogu projektu: `cd run-script-folder` -tbd
+2. Przejdź do katalogu projektu: `cd TalentFinder` -tbd
 3. Zainstaluj zależności: `pip install -r requirements.txt` - tbd
-4. Uruchom skrypty zgodnie z instrukcjami w poszczególnych katalogach.
-5. tbd
+4. Uruchom skrypty zgodnie z instrukcjami w dokumentacji.
 
 ## Kontakt
 
