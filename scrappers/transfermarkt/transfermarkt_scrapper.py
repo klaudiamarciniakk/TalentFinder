@@ -1,6 +1,4 @@
-# This is a sample Python script.
 import os
-
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -8,9 +6,6 @@ import csv
 from unidecode import unidecode
 import traceback
 import pandas as pd
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'
@@ -86,7 +81,6 @@ def csv_error(func, year, url, error):
 
 
 def scrape_player(uri, year):
-    # Use a breakpoint in the code line below to debug your script.
     url = "https://www.transfermarkt.pl" + uri
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -94,7 +88,6 @@ def scrape_player(uri, year):
     players_src = os.path.join('..', '..', 'data', 'transfermarkt', 'players.csv')
     df = pd.read_csv(players_src)
     if int(id) in df['id'].values:
-        print("JEst zawodnik w wartosciach: " + id)
         return False
     slug = url.split("transfermarkt.pl/")[1].split("/profil/")[0]
     header = soup.find_all('ul', {'class': 'data-header__items'})
@@ -136,8 +129,6 @@ def scrape_player(uri, year):
             manager = data.get_text().split("Menadżer:")[1].lstrip().strip()
     if date != "":
         age = int(year) - int(date.split(".")[2])
-    # if age > 23:
-    #      return False
     selected_keys = ['id', 'slug', 'name', 'place_of_birth', 'brith_date', 'nationality', 'height', 'position',
                      'manager']
     players_src = os.path.join('..', '..', 'data', 'transfermarkt', 'players.csv')
@@ -155,7 +146,6 @@ def scrape_player(uri, year):
             "manager": unidecode(manager)
         }
         csv_writer.writerow(selected_data)
-        print(selected_data)
     transfers(id)
     market_value_scrape(id)
     return position
@@ -175,11 +165,6 @@ def transfers(id):
                                                                                                               "000000").replace(
                 ",", "").replace(" ","")
             fee = transfer.get("fee", {})
-            print(fee)
-            print("Wypozyczenie" in fee)
-            print("Koniec wypozyczenia" in fee)
-            print("Bez odstępnego" in fee)
-            print("Wypozyczenie" in fee or "Koniec wypozyczenia" in fee or "Bez odstępnego" in fee)
             if "Wypozyczenie" in fee or "Koniec wypozyczenia" in fee or "Bez odstępnego" in fee:
                 transfer_type = fee
                 fee = "0"
@@ -240,13 +225,12 @@ def market_value_scrape(id):
 
 
 def club_scrape(url, year):
-    url = "https://www.transfermarkt.pl" + url  # /centralna-liga-juniorow/startseite/wettbewerb/PLZJ/plus/?saison_id=2018"
-    print(url)
+    url = "https://www.transfermarkt.pl" + url
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.content, 'html.parser')
     clubs_list = soup.find_all('td', {'class': 'zentriert no-border-rechts'})
     for club in clubs_list:
-        club_href = club.find("a")['href']  # .replace("saison_id/2018","saison_id/2016")
+        club_href = club.find("a")['href']
         club_players_scrape(club_href, year)
 
 
@@ -292,19 +276,16 @@ def get_seasons(url, func):
 
 
 def get_season_goalkeeper(url, year):
-    url = url + "/saison/" + year + "/plus/1"  # /filip-szymczak/leistungsdaten/spieler/554972/saison/2022/plus/1"
-    print(url)
+    url = url + "/saison/" + year + "/plus/1"
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.content, 'html.parser')
     leagues_divs = soup.find_all('div', {'class': 'content-box-headline'})
-    # print(leagues_divs)
     leagues = []
     for league in leagues_divs:
         if league.find('img') != None:
             leagues.append(league.find('img')['title'])
         else:
             leagues.append(league.find('a').get_text().lstrip().strip())
-    print(leagues)
     tables = soup.find_all('tbody')[1:]
     id = url.split("spieler/")[1].split("/")[0]
     selected_keys_minutes = ["id", "season", "title", "league_href", "matches", "goals", "own_goal", "from_bench",
@@ -456,7 +437,7 @@ def get_season_goalkeeper(url, year):
 
 
 def get_season(url, year):
-    url = url + "/saison/" + year + "/plus/1"  # /filip-szymczak/leistungsdaten/spieler/554972/saison/2022/plus/1"
+    url = url + "/saison/" + year + "/plus/1"
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.content, 'html.parser')
     leagues_divs = soup.find_all('div', {'class': 'content-box-headline'})
@@ -466,8 +447,6 @@ def get_season(url, year):
             leagues.append(league.find('img')['title'])
         else:
             leagues.append(league.find('a').get_text().lstrip().strip())
-    print(url)
-    print(leagues)
     tables = soup.find_all('tbody')[1:]
     id = url.split("spieler/")[1].split("/")[0]
     selected_keys_minutes = ["id", "season", "title", "league_href", "matches", "goals", "assists", "own_goal",
@@ -628,8 +607,6 @@ def check_if_image_in_tag(tag):
 
 
 def league_scrape(url, year):
-    # /centralna-liga-juniorow/startseite/wettbewerb/PLZJ/plus/?saison_id=2018"
-    # url = "https://www.transfermarkt.pl/wettbewerbe/europa/wettbewerbe?plus=1"
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.content, 'html.parser')
     leagues_type = soup.find_all("td", {"class": "extrarow bg_blau_20 hauptlink"})
@@ -649,14 +626,26 @@ def league_scrape(url, year):
 
 def scrape_my_leagues(leagues, year):
     for league in leagues:
-        print(league["league_href"])
         club_scrape(league["league_href"] + "/plus/?saison_id=" + year, year)
 
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
 
+    files_and_keys = [
+        ("players.csv", ['id', 'slug', 'name', 'place_of_birth', 'brith_date', 'nationality', 'height', 'position', 'manager']),
+        ("player_value.csv", ['id', 'value', 'date', 'club', 'age']),
+        ("transfers.csv", ['id', 'season', 'date', 'marketValue', 'fee', 'transferType', 'clubName1', 'clubName2']),
+        ("player_seasons.csv", ["id", "season", "league", "round", "date", "home_team", "away_team", "result", "position", "goals", "assists", "own_goals", "yellow_card", "two_yellow_card", "red_card", "from_bench", "changes", "minutes", "out", "out_reason"]),
+        ("player_club_minutes.csv", ["id", "season", "title", "league_href", "matches", "goals", "assists", "own_goal", "from_bench", "changes", "yellow_card", "two_yellow_card ", "red_card", "penalty_goal", "minutes_per_goal", "minutes"]),
+        ("player_goalkeeper_club_minutes.csv", ["id", "season", "title", "league_href", "matches", "goals", "own_goal", "from_bench", "changes", "yellow_card", "two_yellow_card ", "red_card", "lose_goals", "clean_sheet", "minutes"])
+    ]
+    base_path = os.path.join('..', '..', 'data', 'transfermarkt')
 
+    for file_name, selected_keys in files_and_keys:
+        file_path = os.path.join(base_path, file_name)
+        if not os.path.exists(file_path):
+            with open(file_path, "w", newline="") as file:
+                writer = csv.writer(file)
+                writer.writerow(selected_keys)
 
     leagues = [
     {"league": "https://www.transfermarkt.pl/pko-bp-ekstraklasa/startseite/wettbewerb/PL1",
@@ -706,92 +695,6 @@ if __name__ == '__main__':
                 "code": "CZ19",
                 },
     ]
-    seasons_lis = ["2020", "2021", "2022"]  # "2018","2019", "2023"] #, "2020", "2021", "2022"
+    seasons_lis = ["2018","2019", "2020", "2021", "2022"]
     for seasons in seasons_lis:
         scrape_my_leagues(leagues, seasons)
-        # league_scrape("https://www.transfermarkt.pl/wettbewerbe/europa/wettbewerbe?plus=1&page=12", seasons)
-
-    # get_season("https://www.transfermarkt.pl/jan-andrzejewski/leistungsdaten/spieler/289163","2014") #view-source:https://www.transfermarkt.pl/jan-andrzejewski/leistungsdaten/spieler/289163/saison/2014/plus/1
-#create new files
-'''
-    selected_keys = ['id', 'slug', 'name', 'place_of_birth', 'brith_date', 'nationality', 'height', 'position',
-                     'manager']
-    players_src = os.path.join('..', '..', 'data', 'transfermarkt', 'players.csv')
-    with open(players_src, "w", newline="") as file:
-        writer = csv.writer(file)
-        writer.writerow(selected_keys)
-    selected_keys = ['id', 'value', 'date', 'club', 'age']
-    player_value_file_src = os.path.join('..', '..', 'data', 'transfermarkt', 'player_value.csv')
-    with open(player_value_file_src, "w", newline="") as file:
-        writer = csv.writer(file)
-        writer.writerow(selected_keys)
-    selected_keys = ['id', 'season', 'date', 'marketValue', 'fee', 'transferType', 'clubName1', 'clubName2']
-    transfer_file_src = os.path.join('..', '..', 'data', 'transfermarkt', 'transfers.csv')
-    with open(transfer_file_src, "w", newline="") as file:
-        writer = csv.writer(file)
-        writer.writerow(selected_keys)
-    selected_keys_minutes = ["id", "season", "title", "league_href", "matches", "goals", "assists", "own_goal",
-                             "from_bench", "changes",
-                             "yellow_card", "two_yellow_card ", "red_card", "penalty_goal", "minutes_per_goal",
-                             "minutes", ]
-    selected_keys_seasons = ["id", "season", "league", "round", "date", "home_team", "away_team", "result", "position",
-                             "goals", "assists", "own_goals", "yellow_card", "two_yellow_card", "red_card",
-                             "from_bench",
-                             "changes", "minutes", "out", "out_reason"]
-    player_seasons_src = os.path.join('..', '..', 'data', 'transfermarkt', 'player_seasons.csv')
-    with open(player_seasons_src, "w", newline="") as file:
-        writer = csv.writer(file)
-        writer.writerow(selected_keys_seasons)
-    player_club_minutes_src = os.path.join('..', '..', 'data', 'transfermarkt', 'player_club_minutes.csv')
-    with open(player_club_minutes_src, "w", newline="") as file:
-        writer = csv.writer(file)
-        writer.writerow(selected_keys_minutes)
-    selected_keys_minutes = ["id", "season", "title", "league_href", "matches", "goals", "own_goal", "from_bench",
-                             "changes",
-                             "yellow_card", "two_yellow_card ", "red_card", "lose_goals", "clean_sheet",
-                             "minutes", ]
-    player_goalkeeper_club_minutes_src = os.path.join('..', '..', 'data', 'transfermarkt',
-                                                      'player_goalkeeper_club_minutes.csv')
-    with open(player_goalkeeper_club_minutes_src, "w", newline="") as file:
-        writer = csv.writer(file)
-        writer.writerow(selected_keys_seasons)
-'''
-
-'''
-    {"league": "https://www.transfermarkt.pl/pko-bp-ekstraklasa/startseite/wettbewerb/PL1",
-    "league_href": "/pko-bp-ekstraklasa/startseite/wettbewerb/PL1",
-    "name": "Ekstraklasa",
-    "code": "PL1",
-    },
-    {"league": "https://www.transfermarkt.pl/fortuna-1-liga/startseite/wettbewerb/PL2",
-                "league_href": "/fortuna-1-liga/startseite/wettbewerb/PL2",
-                "name": "1 liga",
-                "code": "PL2",
-                },
-    {"league": "https://www.transfermarkt.pl/centralna-liga-juniorow/startseite/wettbewerb/PLZJ",
-                "league_href": "/centralna-liga-juniorow/startseite/wettbewerb/PLZJ",
-                "name": "CLJ",
-                "code": "PLZJ",
-                },
-    {"league": "https://www.transfermarkt.pl/a-lyga/startseite/wettbewerb/LI1",
-                "league_href": "/a-lyga/startseite/wettbewerb/LI1",
-                "name": "A Lyga",
-                "code": "LI1",
-                },
-    {"league": "https://www.transfermarkt.pl/fortuna-liga/startseite/wettbewerb/TS1",
-                "league_href": "/fortuna-liga/startseite/wettbewerb/TS1",
-                "name": "Fortuna Liga",
-                "code": "TS1",
-                },
-    {"league": "https://www.transfermarkt.pl/fortuna-narodni-liga/startseite/wettbewerb/TS2",
-                "league_href": "/fortuna-narodni-liga/startseite/wettbewerb/TS2",
-                "name": "FNL",
-                "code": "TS2",
-                },
-    {"league": "https://www.transfermarkt.pl/1-dorostenecka-liga/startseite/wettbewerb/CZ19",
-                "league_href": "/1-dorostenecka-liga/startseite/wettbewerb/CZ19",
-                "name": "1. Dorostenecka liga",
-                "code": "CZ19",
-                },
-'''
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
